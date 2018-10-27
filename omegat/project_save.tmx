@@ -1301,6 +1301,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;s3&gt;Editor&lt;/s3&gt; pane, you can close the &lt;s4&gt;Project Files&lt;/s4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215420Z">
+        <seg>Quandu tutti i schedarii d'urigine sò caricati in u pannellu di l'&lt;s3&gt;Editore&lt;/s3&gt;, pudete chjode u dialogu &lt;s4&gt;Schedarii di Prughjettu&lt;/s4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T172407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172407Z">
@@ -1321,6 +1329,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T175017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175017Z">
         <seg>Dopu à avè traduttu ogni segmentu, appughjà nant'à &lt;k0&gt;Ctrl+U&lt;/k0&gt; per move ver di u prossimu segmentu micca traduttu (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; per move ver di u prossimu segmentu traduttu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;s0&gt;&lt;s1&gt;Ctrl+U&lt;/s1&gt;&lt;/s0&gt; to move to the next untranslated segment (or &lt;s2&gt;&lt;s3&gt;Ctrl+Shift+U&lt;/s3&gt;&lt;/s2&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215503Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215503Z">
+        <seg>Dopu à avè traduttu ogni segmentu, appughjà nant'à &lt;s0&gt;&lt;s1&gt;Ctrl+U&lt;/s1&gt;&lt;/s0&gt; per move ver di u prossimu segmentu micca traduttu (o &lt;s2&gt;&lt;s3&gt;Ctrl+Shift+U&lt;/s3&gt;&lt;/s2&gt; per move ver di u prossimu segmentu traduttu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1953,6 +1969,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T174122Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174122Z">
         <seg>Cliccu nant'à &lt;g1&gt;Cupià Schedarii ver di u Cartulare d'Urigine......&lt;/g1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click on &lt;s1&gt;Copy Files to Source Folder...&lt;/s1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215347Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215347Z">
+        <seg>Cliccu nant'à &lt;s1&gt;Cupià Schedarii ver di u Cartulare d'Urigine......&lt;/s1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2723,6 +2747,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T180038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T180038Z">
         <seg>Durante a traduzzione, impiegate i listini &lt;g4&gt;Mudificà&lt;/g4&gt; è &lt;g5&gt;Viaghjà&lt;/g5&gt; per eseguisce funzioni diversi ghjuvevule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During translation, use the &lt;s7&gt;Edit&lt;/s7&gt; and &lt;s8&gt;Go To&lt;/s8&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215602Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215602Z">
+        <seg>Durante a traduzzione, impiegate i listini &lt;s7&gt;Mudificà&lt;/s7&gt; è &lt;s8&gt;Viaghjà&lt;/s8&gt; per eseguisce funzioni diversi ghjuvevule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4583,6 +4615,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next, the &lt;s0&gt;Project Files&lt;/s0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215338Z">
+        <seg>Dopu, u dialogu &lt;s0&gt;Schedarii di Prughjettu&lt;/s0&gt; s'apre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T193447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193447Z">
@@ -4845,6 +4885,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171204T195805Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T141837Z">
         <seg>OmegaT vi prisenterà un segmentu dopu à l'altru è toccu à voi di traducellu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;c2&gt;/source/&lt;/c2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215358Z">
+        <seg>Tandu OmegaT cupierà i schedarii selezziunati ver di u sottucartulare &lt;c2&gt;/source/&lt;/c2&gt; di u vostru prughjettu creatu pocu fà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7367,6 +7415,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T175625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175625Z">
         <seg>Quandu vulete fighjà à chì s'assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant'à &lt;k2&gt;Ctrl+D&lt;/k2&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare  &lt;f3&gt;/target/&lt;/f3&gt; di u vostru cartulare di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;s4&gt;&lt;s5&gt;Ctrl+D&lt;/s5&gt;&lt;/s4&gt; to generate the translated documents, which will be created in the &lt;c6&gt;/target/&lt;/c6&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215539Z">
+        <seg>Quandu vulete fighjà à chì s'assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant'à &lt;s4&gt;&lt;s5&gt;Ctrl+D&lt;/s5&gt;&lt;/s4&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare  &lt;c6&gt;/target/&lt;/c6&gt; di u vostru cartulare di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
