@@ -1309,6 +1309,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T175017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175017Z">
+        <seg>Dopu à avè traduttu ogni segmentu, appughjà nant'à &lt;k0&gt;Ctrl+U&lt;/k0&gt; per move ver di u prossimu segmentu micca traduttu (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; per move ver di u prossimu segmentu traduttu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Alex Buloichik (lead developer)</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121459Z">
