@@ -4793,6 +4793,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T174351Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174351Z">
+        <seg>Tandu OmegaT cupierà i schedarii selezziunati ver di u sottucartulare &lt;f2&gt;/source/&lt;/f2&gt; di u vostru prughjettu creatu pocu fà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T142504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142418Z">
