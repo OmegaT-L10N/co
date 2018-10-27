@@ -1429,6 +1429,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173407Z">
+        <seg>Insù di stu dialogu, selezziunà a lingua di i schedarii d'urigine, quella di i schedarii di traduzzione, è cliccà &lt;g1&gt;Vai&lt;/g1&gt; per cuntinuà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162927Z">
