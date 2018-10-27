@@ -1293,6 +1293,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T174650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174650Z">
+        <seg>Quandu tutti i schedarii d'urigine sò caricati in u pannellu di l'&lt;g3&gt;Editore&lt;/g3&gt;, pudete chjode u dialogu &lt;g4&gt;Schedarii di Prughjettu&lt;/g4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T172407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172407Z">
