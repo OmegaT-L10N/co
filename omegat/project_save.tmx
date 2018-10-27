@@ -7323,6 +7323,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T175625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175625Z">
+        <seg>Quandu vulete fighjà à chì s'assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant'à &lt;k2&gt;Ctrl+D&lt;/k2&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare  &lt;f3&gt;/target/&lt;/f3&gt; di u vostru cartulare di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Whitespace - leading</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191659Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191659Z">
