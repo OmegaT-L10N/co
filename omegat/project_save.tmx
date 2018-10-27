@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153437Z">
+        <seg>Statistiche di &amp;Currispundenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Modification Info</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T190458Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190458Z">
@@ -1319,16 +1327,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>An error occurred</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T182051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182051Z">
-        <seg>Un sbagliu s'hè accadatu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153123Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182051Z">
+        <seg>Un sbagliu hè accadutu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>An error occurred when loading the script: {0}</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T182131Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182131Z">
-        <seg>Un sbagliu s'hè accadatu carichendu u scrittu : {0}</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153123Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182131Z">
+        <seg>Un sbagliu hè accadutu carichendu u scrittu : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1343,8 +1351,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T151812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151812Z">
-        <seg>Un sbagliu s'hè accadatu durante u scaricamentu u dizziunariu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151812Z">
+        <seg>Un sbagliu hè accadutu durante u scaricamentu di u dizziunariu.</seg>
       </tuv>
     </tu>
     <tu>
