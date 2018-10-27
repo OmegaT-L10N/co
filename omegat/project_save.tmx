@@ -2193,8 +2193,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Create New Project</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T154549Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154549Z">
-        <seg>Creà un Novu Prughjettu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T172420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154549Z">
+        <seg>Creà un Prughjettu Novu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6693,6 +6693,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T163118Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T163118Z">
         <seg>Per esse sicuru chì alcuna traduzzione ùn sia micca persa, ci vole à :
 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T172817Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172817Z">
+        <seg>Per principià à impiegà OmegaT, create primu un prughjettu chì cuntenerà tutti i vostri schedarii, cum'è quellu d'urigine, e memorie di traduzzione, i glossarii, è in fine di contu, u schedariu traduttu.</seg>
       </tuv>
     </tu>
     <tu>
