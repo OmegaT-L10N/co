@@ -4209,8 +4209,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153457Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153457Z">
-        <seg>Statistiche di Currispundenza da &amp;Schedariu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T154142Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153457Z">
+        <seg>Statistiche di C&amp;urrispundenza da &amp;Schedariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5825,6 +5825,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162006Z">
         <seg>&amp;Lingua di Scrittu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T154130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T154130Z">
+        <seg>Scri&amp;ttura</seg>
       </tuv>
     </tu>
     <tu>
