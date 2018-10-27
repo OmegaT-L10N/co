@@ -1309,6 +1309,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After you give your project a name, the &lt;s0&gt;Create New Project&lt;/s0&gt; dialog will open.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215235Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215235Z">
+        <seg>Dopu à avè datu un nome à u vostru prughjettu, u dialogu &lt;s0&gt;Creà un Prughjettu Novu&lt;/s0&gt; s'aprerà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T175017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175017Z">
@@ -1449,6 +1457,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173407Z">
         <seg>Insù di stu dialogu, selezziunà a lingua di i schedarii d'urigine, quella di i schedarii di traduzzione, è cliccà &lt;g1&gt;Vai&lt;/g1&gt; per cuntinuà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;s1&gt;OK&lt;/s1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215249Z">
+        <seg>Insù di stu dialogu, selezziunà a lingua di i schedarii d'urigine, quella di i schedarii di traduzzione, è cliccà &lt;s1&gt;Vai&lt;/s1&gt; per cuntinuà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3555,6 +3571,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173650Z">
         <seg>S'è vò site interessatu(a) cù d'altre preferenze di stu dialogu, pudete rivenecci quand'ella vi pare appughjendu &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;s0&gt;&lt;s1&gt;Ctrl+E.&lt;/s1&gt;&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215325Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215325Z">
+        <seg>S'è vò site interessatu(a) cù d'altre preferenze di stu dialogu, pudete rivenecci quand'ella vi pare appughjendu &lt;s0&gt;&lt;s1&gt;Ctrl+E.&lt;/s1&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
