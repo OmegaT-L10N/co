@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153611Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153611Z">
+        <seg>&amp;Alineà i Schedarii...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T153945Z" creationid="Patriccollu" creationdate="20170209T153945Z">
@@ -1673,6 +1681,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184553Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184553Z">
         <seg>Caratteri (senza spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153724Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153724Z">
+        <seg>Cuntrollà i Prublemi per u &amp;Ducumentu Attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -4179,6 +4195,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185756Z">
         <seg>Statistiche di Currispundenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153457Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153457Z">
+        <seg>Statistiche di Currispundenza da &amp;Schedariu</seg>
       </tuv>
     </tu>
     <tu>
