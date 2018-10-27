@@ -4963,6 +4963,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T150235Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150235Z">
+        <seg>Ci vole à verificalla torna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T144834Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144755Z">
@@ -6513,8 +6521,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T150141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150141Z">
-        <seg>Stu URL pare inaccettevule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T150247Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150141Z">
+        <seg>St'URL pare inaccettevule.</seg>
       </tuv>
     </tu>
     <tu>
