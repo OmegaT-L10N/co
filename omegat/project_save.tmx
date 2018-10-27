@@ -3567,6 +3567,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T181039Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T181039Z">
+        <seg>S'è i vostri schedarii d'urigine sò furmatati, per indettu Microsoft Word, LibreOffice Writer o HTML, OmegaT cunvertiscerà tutte e marche di furmatu in etichette chì accircunda u testu chì vò traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Ignore</seg>
       </tuv>
       <tuv lang="CO">
@@ -4691,6 +4699,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T132941Z" creationid="Patriccollu" creationdate="20170213T132941Z">
         <seg>&amp;Ozzioni...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T181124Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T181124Z">
+        <seg>Aspessu</seg>
       </tuv>
     </tu>
     <tu>
