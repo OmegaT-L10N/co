@@ -3991,6 +3991,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local translation not synchronized with remote repository.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T152606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T152606Z">
+        <seg>A traduzzione lucale ùn hè micca sincrunizata cù u dipositu alluntanatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="CO">
