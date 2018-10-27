@@ -3519,6 +3519,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173650Z">
+        <seg>S'è vò site interessatu(a) cù d'altre preferenze di stu dialogu, pudete rivenecci quand'ella vi pare appughjendu &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145524Z" creationid="Patriccollu" creationdate="20170209T145524Z">
