@@ -1069,6 +1069,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T152443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T152443Z">
+        <seg>&lt;html&gt;URL di Dipositu o di Schedariu&lt;br&gt;di Prughjettu (omegat.project) :&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162305Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162305Z">
