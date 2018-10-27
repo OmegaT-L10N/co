@@ -1917,6 +1917,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T174122Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174122Z">
+        <seg>Cliccu nant'à &lt;g1&gt;Cupià Schedarii ver di u Cartulare d'Urigine......&lt;/g1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Clo&amp;se</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145847Z" creationid="Patriccollu" creationdate="20170210T145847Z">
