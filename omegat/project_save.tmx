@@ -6511,6 +6511,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145954Z">
+        <seg>Quessu hè un dipositu Git.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T132227Z" creationid="Patriccollu" creationdate="20170213T132227Z">
