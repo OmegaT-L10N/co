@@ -1325,6 +1325,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145254Z">
+        <seg>Un sbagliu hè accadatu pruvendu d'identificà u schedariu di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while downloading the dictionary.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T151812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151812Z">
@@ -5155,6 +5163,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project file should be on http protocol.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145120Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145120Z">
+        <seg>U schedariu deveria esse di protocollu http.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145719Z" creationid="Patriccollu" creationdate="20170210T145719Z">
@@ -5175,6 +5191,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T174954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T174954Z">
         <seg>Prughjettu arregistratu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project will not be updated.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145026Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145026Z">
+        <seg>U prughjettu ùn serà micca mudificatu.</seg>
       </tuv>
     </tu>
     <tu>
