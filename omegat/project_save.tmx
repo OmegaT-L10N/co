@@ -3559,6 +3559,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T171632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T171632Z">
+        <seg>In u listinu &lt;s0&gt;Prughjettu&lt;/s0&gt;, selezziunate &lt;s1&gt;Novu...&lt;/s1&gt; è entrite u nome per u vostru prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;s0&gt;Project&lt;/s0&gt; menu, select &lt;s1&gt;New...&lt;/s1&gt; and type a name for your project.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171204T201053Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171204T201053Z">
