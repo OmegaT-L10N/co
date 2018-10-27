@@ -6391,6 +6391,38 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Team synchronization</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T144826Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144826Z">
+        <seg>Sincrunizazione di squadra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T144841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144841Z">
+        <seg>Sincrunizazione di squadra in corsu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Saving translation in {0} s</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T144809Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144809Z">
+        <seg>Sincrunizazione di squadra : Arregistramentu di a traduzzione in {0} s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T144955Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144955Z">
+        <seg>Sincrunizazione di squadra : In attesa chì stu segmentu sia finitu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20150517T112701Z">
