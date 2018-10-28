@@ -3961,8 +3961,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Information about OmegaT</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120059Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120059Z">
-        <seg>Infurmazione apprupositu di OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T181916Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120059Z">
+        <seg>Infurmazione apprupositu d'OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -5089,8 +5089,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>OmegaT 4.0, Read Me file</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120040Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120040Z">
-        <seg>OmegaT 4.0, schedariu Leghjite Mi</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T181909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120040Z">
+        <seg>OmegaT 4.0, schedariu Read Me</seg>
       </tuv>
     </tu>
     <tu>
@@ -7167,6 +7167,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The most current info about OmegaT can be found at</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T182009Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182009Z">
+        <seg>L'infurmazione a più ricente apprupositu d'OmegaT si trova à</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172606Z">
@@ -7321,8 +7329,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>This translation is the work of [insert your name], copyright� [insert year].</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T115954Z" creationid="Patriccollu" creationdate="20170209T164928Z">
-        <seg>Sta traduzzione hè u travagliu di Patriccollu di Santa Maria è Sichè, diritti di copia� [2017].</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T181850Z" creationid="Patriccollu" creationdate="20170209T164928Z">
+        <seg>Sta traduzzione hè u travagliu di Patriccollu di Santa Maria è Sichè, diritti di copia © [2018].</seg>
       </tuv>
     </tu>
     <tu>
@@ -8289,6 +8297,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T141553Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T141553Z">
         <seg>http://tech.groups.yahoo.com/group/OmegaT/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>http://www.omegat.org/</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T182015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182015Z">
+        <seg>http://www.omegat.org/</seg>
       </tuv>
     </tu>
     <tu>
