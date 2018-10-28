@@ -1485,6 +1485,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Are you sure you want to reset the master password?</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172257Z">
+        <seg>Site sicuru di vulè viutà a parolla d'entrata principale ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Arno Peters</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122106Z">
@@ -2977,8 +2985,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Error decoding user and password.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181655Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181655Z">
-        <seg>Sbagliu di discudificazione di u nome d'utilizatore è parolla d'intrata.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181655Z">
+        <seg>Sbagliu di discudificazione di u nome d'utilizatore è parolla d'entrata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4767,6 +4775,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Not Set</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172057Z">
+        <seg>Micca Definitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Not a local repository</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T144224Z" creationid="Patriccollu" creationdate="20170209T144224Z">
@@ -5229,8 +5245,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
-      <tuv lang="CO">
-        <seg>Parolla d'intrata :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172310Z">
+        <seg>Parolla d'entrata :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5557,8 +5573,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T134505Z" creationid="Patriccollu" creationdate="20170213T134505Z">
-        <seg>Nome d'Utilizatore è Parolla d'Intrata di u Proxy</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172259Z" creationid="Patriccollu" creationdate="20170213T134505Z">
+        <seg>Nome d'Utilizatore è Parolla d'Entrata di u Proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -5949,6 +5965,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Reset Master Password</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
+        <seg>Viutà a Parolla d'Entrata Principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="CO" changeid="Patrick" changedate="20161004T221734Z" creationid="Patrick" creationdate="20161004T221734Z">
@@ -6319,8 +6343,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Set</seg>
       </tuv>
-      <tuv lang="CO">
-        <seg>Definisce</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172049Z">
+        <seg>Definitu</seg>
       </tuv>
     </tu>
     <tu>
