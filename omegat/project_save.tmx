@@ -6913,6 +6913,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164332Z">
+        <seg>Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu &lt;g1&gt;Schedarii di Prughjettu&lt;/g1&gt;, appughjendu nant'à &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T172817Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172817Z">
