@@ -1,9 +1,10 @@
-Sta traduzzione hè u travagliu di Patriccollu di Santa Maria è Sichè, diritti di copia� [2017].
+Sta traduzzione hè u travagliu di Patriccollu di Santa Maria è Sichè, diritti
+di copia © [2018].
 
 ==============================================================================
-  OmegaT 4.0, schedariu Leghjite Mi
+  OmegaT 4.0, schedariu Read Me
 
-  1.  Infurmazione apprupositu di OmegaT
+  1.  Infurmazione apprupositu d'OmegaT
   2.  Cosa hè OmegaT ?
   3.  Installazione d'OmegaT
   4.  Cuntribuzioni à OmegaT
@@ -11,10 +12,10 @@ Sta traduzzione hè u travagliu di Patriccollu di Santa Maria è Sichè, diritti
   6.  Detaglii di a versione
 
 ==============================================================================
-  1.  Infurmazione apprupositu di OmegaT
+  1.  Infurmazione apprupositu d'OmegaT
 
 
-The most current info about OmegaT can be found at
+L'infurmazione a più ricente apprupositu d'OmegaT si trova à
       http://www.omegat.org/
 
 User support, at the Yahoo user group (multilingual), where the archives are
@@ -25,23 +26,24 @@ Requests for Enhancements (in English), at the SourceForge site:
      https://sourceforge.net/p/omegat/feature-requests/
 
 Bug reports (in English), at the SourceForge site:
-     https://sourceforge.net/p/omegat/bugs/
+     https://sourceforge.net/p/omegat/feature-requests/
 
 ==============================================================================
   2.  Cosa hè OmegaT ?
 
-OmegaT is a computer-assisted translation (CAT) tool. It is free, that is you 
-don't have to pay anything to be able to use it, even for professional use, 
-and you are free to modify it and/or re-distribute it as long as you respect 
-the user license.
+OmegaT hè un attrezzu di traduzzione assistita da l'urdinatore (TAO in
+francese è CAT in inglese). Hè di rigalu, vole si dì chì vò ùn avete nunda à
+pagà per impiegallu, ancu per un adopru prufessiunale, è chì vò site liberu
+di mudificallu è/o di ridistribuiscellu tantu chì vò rispettate a licenza
+d'utilizatore.
 
-OmegaT's main features are:
-  - ability to run on any operating system supporting Java
-  - use of any valid TMX file as a translation reference
-  - flexible sentence segmenting (using an SRX-like method)
-  - searches in the project and the reference translation memories
-  - searches of files in supported formats in any folder 
-  - fuzzy matching
+E funzioni principale d'OmegaT sò :
+  - a pussibilità di funziunà nant'à qualsisia sistema d'operazione chì accetta Java
+  - l'impiegu di parechji schedarii TMX accettevule cum'è referenza di traduzzione
+  - una segmentazione di frasa ghjunchevule (impieghendu un metoda di tipu SRX)
+  - ricerche in u prughjettu è in e memorie di traduzzione di referenza
+  - ricerche di schedarii in furmati accettati in qualsisia cartulare 
+  - a ricerca di currispundenza simile
   - smart handling of projects including complex folder hierarchies
   - support for glossaries (terminology checks) 
   - support for OpenSource on-the-fly spell checkers
@@ -374,7 +376,7 @@ To browse the archives of the user group, go to:
      http://tech.groups.yahoo.com/group/OmegaT/
 
 To browse the bug report page and file a new bug report if necessary, go to:
-     https://sourceforge.net/p/omegat/bugs/
+     https://sourceforge.net/p/omegat/feature-requests/
 
 To keep track of what is happening to your bug report you may want to register
 as a Source Forge user.
