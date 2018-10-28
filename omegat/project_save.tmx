@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Undo Changes</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172859Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172841Z">
+        <seg>&amp;Disfà i Cambiamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T154555Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T154555Z">
@@ -1161,6 +1169,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T173105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T173105Z">
         <seg>Una nota hè solu un cummentu assuciatu à stu coppiu di testu d'urigine è di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A restart is required in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173032Z">
+        <seg>Una rilancia hè richiesta per piglià sti cambiamenti in contu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5339,6 +5355,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please double-check.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172744Z">
+        <seg>Ci vole à verificà torna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T144834Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144755Z">
@@ -5439,6 +5463,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20150517T112701Z">
         <seg>Preferenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Preferences - {0}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172758Z">
+        <seg>Preferenze - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6005,6 +6037,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Restore &amp;Defaults</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172857Z">
+        <seg>&amp;Risturà e Predefinizioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Restore De&amp;faults</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145516Z" creationid="Patriccollu" creationdate="20170210T145516Z">
@@ -6353,6 +6393,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T155304Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155304Z">
         <seg>Selezziunà a Currispundenza #&amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select a Category</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172820Z">
+        <seg>Selezziunà una Categuria</seg>
       </tuv>
     </tu>
     <tu>
@@ -6931,6 +6979,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172606Z">
         <seg>A parolla d'entrata ùn pò micca esse viota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The passwords don't match.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172730Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172730Z">
+        <seg>E parolle d'entrata sò sfarente.</seg>
       </tuv>
     </tu>
     <tu>
