@@ -1,3 +1,5 @@
 repository	dipositu, rimessa
 format	furmatu
 introduction	intruduzzione
+flexible	ghjunchevule
+spelling	ortugrafia
