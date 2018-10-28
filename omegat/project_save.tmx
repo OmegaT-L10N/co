@@ -7771,6 +7771,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171408Z">
+        <seg>Si pò aghjunghje un vucabulu novu ver di u glossariu appughjendu nant'à &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o cupià glossarii esistente ver di u sottucartulare &lt;f1&gt;/glossary/&lt;/f1&gt; di u vostru cartulare di prughjettu, è OmegaT circherà ci autumaticamente e parolle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T163719Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163719Z">
