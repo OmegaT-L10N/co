@@ -4823,6 +4823,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171641Z">
+        <seg>Numeru di segmenti chì currispundenu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183439Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183439Z">
@@ -6101,6 +6109,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Se&amp;t</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171715Z">
+        <seg>&amp;Definisce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20161231T141155Z">
@@ -6795,6 +6811,22 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20150517T112701Z">
         <seg>Testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171524Z">
+        <seg>Rimpiazzamentu di Testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171514Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171514Z">
+        <seg>Ricerca di Testu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7759,6 +7791,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T180554Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T180415Z">
         <seg>Yandex Translate - Alcuna Chjave API ùn hè Specificata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171605Z">
+        <seg>Site prontu(a) à mudificà {0} segmenti.</seg>
       </tuv>
     </tu>
     <tu>
