@@ -902,6 +902,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>- ability to run on any operating system supporting Java</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T183917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183917Z">
+        <seg>- a pussibilità di funziunà nant'à qualsisia sistema d'operazione chì accetta Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192342Z">
@@ -5236,6 +5244,14 @@ francese è CAT in inglese).</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T174351Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174351Z">
         <seg>Tandu OmegaT cupierà i schedarii selezziunati ver di u sottucartulare &lt;f2&gt;/source/&lt;/f2&gt; di u vostru prughjettu creatu pocu fà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT's main features are:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T183724Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183724Z">
+        <seg>E funzioni principale d'OmegaT sò :</seg>
       </tuv>
     </tu>
     <tu>
