@@ -4079,6 +4079,17 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>It is free, that is you 
+don't have to pay anything to be able to use it, even for professional use, 
+and you are free to modify it and/or re-distribute it as long as you respect 
+the user license.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T183221Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183221Z">
+        <seg>Hè di rigalu, vole si dì chì vò ùn avete nunda à pagà per impiegalu, ancu per un adopru prufessiunale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175101Z">
@@ -5123,6 +5134,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T150622Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
         <seg>OmegaT hà sceltu l'ozzione "Iè" autumaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T182841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182841Z">
+        <seg>OmegaT hè un attrezzu di traduzzione assistita da l'urdinatore (TAO in francese è CAT in inglese).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8314,6 +8333,22 @@ di copia © [2018].</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T141549Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T141549Z">
         <seg>http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T182720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182720Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T182712Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182712Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
     </tu>
     <tu>
