@@ -6905,6 +6905,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164035Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164035Z">
+        <seg>Per arricurdassi di e preferenze iniziale di u prughjettu, apre u dialogu di e pruprietà di prughjettu, appughjendu nant'à &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T172817Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172817Z">
