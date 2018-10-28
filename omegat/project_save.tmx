@@ -1999,16 +1999,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T174122Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174122Z">
-        <seg>Cliccu nant'à &lt;g1&gt;Cupià Schedarii ver di u Cartulare d'Urigine......&lt;/g1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174122Z">
+        <seg>Cliccu nant'à &lt;g1&gt;Cupià Schedarii ver di u Cartulare d'Urigine...&lt;/g1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click on &lt;s1&gt;Copy Files to Source Folder...&lt;/s1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215347Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215347Z">
-        <seg>Cliccu nant'à &lt;s1&gt;Cupià Schedarii ver di u Cartulare d'Urigine......&lt;/s1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165739Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215347Z">
+        <seg>Cliccu nant'à &lt;s1&gt;Cupià Schedarii ver di u Cartulare d'Urigine...&lt;/s1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6791,10 +6791,26 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;c3&gt;level1&lt;/c3&gt; and &lt;c4&gt;level2&lt;/c4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165638Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165638Z">
+        <seg>E memorie &lt;c3&gt;level1&lt;/c3&gt; è &lt;c4&gt;level2&lt;/c4&gt; ponu esse sparte cù l'utilizatori d'altri prugrammi di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164732Z">
         <seg>E memorie &lt;f3&gt;level1&lt;/f3&gt; è &lt;f4&gt;level2&lt;/f4&gt; ponu esse sparte cù l'utilizatori d'altri prugrammi di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The memory named &lt;c5&gt;omegat&lt;/c5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165659Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165659Z">
+        <seg>A memoria chjamata &lt;c5&gt;omegat&lt;/c5&gt; pò esse impiegata da OmegaT stessu, per d'altri prughjetti futuri creati dapervoi.</seg>
       </tuv>
     </tu>
     <tu>
