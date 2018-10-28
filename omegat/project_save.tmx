@@ -3679,6 +3679,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T170842Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T170842Z">
+        <seg>S'è vò piazzate quessi schedarii di memoria di traduzzione in u sottucartulare &lt;f6&gt;/tm/&lt;/f6&gt; d'un prughjettu, OmegaT circherà ci autumaticamente segmenti simile, chjamati "currispundenze simile".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145524Z" creationid="Patriccollu" creationdate="20170209T145524Z">
