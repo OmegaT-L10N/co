@@ -1397,6 +1397,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All preferences protected by the master password will be reset.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
+        <seg>Tutte e preferenze prutette da a parolla d'entrata principale seranu rimesse d'urigine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T172919Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172919Z">
@@ -2169,6 +2177,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T150805Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150805Z">
         <seg>Cunfirmà a disinstallazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172541Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172541Z">
+        <seg>Cunfirmà :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5347,6 +5363,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172706Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172706Z">
+        <seg>Ci vole à scrive torna a vostra parolla d'entrata per cunfirmà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T161658Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T160742Z">
@@ -6899,6 +6923,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164936Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164936Z">
         <seg>A memoria chjamata &lt;f5&gt;omegat&lt;/f5&gt; pò esse impiegata da OmegaT stessu, per d'altri prughjetti futuri creati dapervoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password cannot be empty.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172606Z">
+        <seg>A parolla d'entrata ùn pò micca esse viota.</seg>
       </tuv>
     </tu>
     <tu>
