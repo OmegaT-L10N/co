@@ -6743,6 +6743,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164732Z">
+        <seg>E memorie &lt;f3&gt;level1&lt;/f3&gt; è &lt;f4&gt;level2&lt;/f4&gt; ponu esse sparte cù l'utilizatori d'altri prugrammi di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162204Z">
