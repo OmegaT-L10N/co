@@ -1151,8 +1151,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>A source sentence might look like:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T142028Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142028Z">
-        <seg>Una frasa d'urigine s'assumiglia à què :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142028Z">
+        <seg>Una frasa d'urigine pò assumigliassi à què :</seg>
       </tuv>
     </tu>
     <tu>
@@ -4915,8 +4915,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T142504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142418Z">
-        <seg>Eppuru, OmegaT, vi prisenterà sta frasa di sta manera :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144139Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142418Z">
+        <seg>Eppuru, OmegaT vi prisenterà sta frasa di sta manera :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6739,6 +6739,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T181438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T181438Z">
         <seg>A dimensione di u testu eccede u massima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144517Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144517Z">
+        <seg>Sò prutette, è cusì ùn si pò micca mudificà u so cuntenutu, ma si pò caccialle, scrivelle dapervoi o movelle ver di a frasa di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
