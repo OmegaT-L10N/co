@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172004Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172004Z">
+        <seg>Riguarà &amp;autumaticamente e traduzzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20150811T150610Z" creationid="Patriccollu" creationdate="20150811T150610Z">
@@ -2059,24 +2067,24 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Command</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133911Z" creationid="Patriccollu" creationdate="20170213T133911Z">
-        <seg>Cummanda</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171822Z" creationid="Patriccollu" creationdate="20170213T133911Z">
+        <seg>Cumanda</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Command:</seg>
       </tuv>
-      <tuv lang="CO">
-        <seg>Cummanda :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171822Z">
+        <seg>Cumanda :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Commands</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133824Z" creationid="Patriccollu" creationdate="20170213T133824Z">
-        <seg>Cummande</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171822Z" creationid="Patriccollu" creationdate="20170213T133824Z">
+        <seg>Cumande</seg>
       </tuv>
     </tu>
     <tu>
@@ -2121,6 +2129,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T173146Z">
         <seg>Cummenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Con&amp;figure</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171925Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171925Z">
+        <seg>Cun&amp;figurà</seg>
       </tuv>
     </tu>
     <tu>
@@ -7469,6 +7485,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T184349Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T184349Z">
         <seg>Segmentu micca traduttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Untranslated segments &amp;only</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172024Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172024Z">
+        <seg>Solu segmenti &amp;micca tradutti</seg>
       </tuv>
     </tu>
     <tu>
