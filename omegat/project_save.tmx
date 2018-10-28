@@ -6751,6 +6751,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162433Z">
+        <seg>Ghjè perchè, appughjà nant'à &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; nanzu d'ingenerà i vostri schedarii di traduzzion, cuntrollerà chì e vostre etichette sò currette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144517Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144517Z">
