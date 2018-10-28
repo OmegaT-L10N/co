@@ -3615,6 +3615,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T163157Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163157Z">
+        <seg>S'è un schedariu ùn si caricheghja micca in u pannellu &lt;g0&gt;Editore&lt;/g0&gt;, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173650Z">
@@ -6085,6 +6093,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T163456Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163456Z">
+        <seg>Fighjà &lt;l1&gt;Filtri di Schedariu&lt;/l1&gt; per ottene una lista di i furmati di schedariu ch'OmegaT pò trattà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T150134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150134Z">
@@ -7461,8 +7477,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T175625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175625Z">
-        <seg>Quandu vulete fighjà à chì s'assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant'à &lt;k2&gt;Ctrl+D&lt;/k2&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare  &lt;f3&gt;/target/&lt;/f3&gt; di u vostru cartulare di prughjettu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175625Z">
+        <seg>Quandu vulete fighjà à chì s'assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant'à &lt;k2&gt;Ctrl+D&lt;/k2&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare &lt;f3&gt;/target/&lt;/f3&gt; di u vostru cartulare di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
