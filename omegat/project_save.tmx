@@ -3359,6 +3359,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162459Z">
+        <seg>Ingenerà u schedariu di traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>German</seg>
       </tuv>
       <tuv lang="CO">
@@ -4925,6 +4933,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144139Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142418Z">
         <seg>Eppuru, OmegaT vi prisenterà sta frasa di sta manera :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162910Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162910Z">
+        <seg>Quandu site sicuru(a) chì ùn ci hè micca di sbagliu d'etichetta in a vostra traduzzione, appughjà nant'à &lt;k0&gt;Ctrl+D&lt;/k0&gt; per ingenerà i schedarii di destinazione, chì seranu creati in u sottucartulare &lt;f1&gt;/target/&lt;/f1&gt; di u vostru cartulare di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6753,8 +6769,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162433Z">
-        <seg>Ghjè perchè, appughjà nant'à &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; nanzu d'ingenerà i vostri schedarii di traduzzion, cuntrollerà chì e vostre etichette sò currette.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162433Z">
+        <seg>Ghjè perchè, appughjà nant'à &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; nanzu d'ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</seg>
       </tuv>
     </tu>
     <tu>
