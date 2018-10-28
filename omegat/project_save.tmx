@@ -1469,6 +1469,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164546Z">
+        <seg>À a fine di a vostra traduzzione, OmegaT crea trè memorie di traduzzione chjamate &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; è &lt;f2&gt;omegat&lt;/f2&gt; in u vostru cartulare di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173407Z">
