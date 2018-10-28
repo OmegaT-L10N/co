@@ -1445,6 +1445,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when loading the source files.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173951Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173951Z">
+        <seg>Un sbagliu hè accadutu carichendu i schedarii d'urigine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145254Z">
@@ -2237,6 +2245,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173552Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173552Z">
+        <seg>Cuntinuà quantunque ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Continue?</seg>
       </tuv>
       <tuv lang="CO">
@@ -2891,6 +2907,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T154440Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154440Z">
         <seg>Mudificà u Prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173603Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173603Z">
+        <seg>Mudificà u Testu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8297,6 +8321,38 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165338Z">
         <seg>← Precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▲</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173617Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173617Z">
+        <seg>▲</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>▼</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173623Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173623Z">
+        <seg>▼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>⚠ The file "{0}" is not supported.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173722Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173722Z">
+        <seg>⚠ U schedariu "{0}" ùn hè micca accettatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>⚠ The specified files are not supported.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173757Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173757Z">
+        <seg>⚠ I schedariispecificati ùn sò micca accettati.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
