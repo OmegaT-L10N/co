@@ -4463,6 +4463,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173354Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173354Z">
+        <seg>Parolla d'Entrata Principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185756Z">
@@ -4755,6 +4763,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215338Z">
         <seg>Dopu, u dialogu &lt;s0&gt;Schedarii di Prughjettu&lt;/s0&gt; s'apre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173522Z">
+        <seg>Alcunu Penseru Trovu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6763,6 +6779,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO">
         <seg>Etichetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173420Z">
+        <seg>Penseri d'Etichetta</seg>
       </tuv>
     </tu>
     <tu>
