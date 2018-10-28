@@ -1175,8 +1175,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173032Z">
-        <seg>Una rilancia hè richiesta per piglià sti cambiamenti in contu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173132Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173032Z">
+        <seg>Una rilancia hè richiesta per piglià in contu sti cambiamenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,6 +3667,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T161954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T161954Z">
         <seg>Fate casu chì, s'è vò fate qualchì sbagliu quandu scrivete l'etichette di furmatu, i vostri schedarii di traduzzione puderianu ùn micca apressi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I Understand; Do It Anyway</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173303Z">
+        <seg>Capiscu. Fatellu Quantunque</seg>
       </tuv>
     </tu>
     <tu>
@@ -6955,6 +6963,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164732Z">
         <seg>E memorie &lt;f3&gt;level1&lt;/f3&gt; è &lt;f4&gt;level2&lt;/f4&gt; ponu esse sparte cù l'utilizatori d'altri prugrammi di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The current project must be reloaded in order to apply these changes</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173125Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173125Z">
+        <seg>U prughjettu attuale deve esse ricaricatu per piglià in contu sti cambiamenti</seg>
       </tuv>
     </tu>
     <tu>
