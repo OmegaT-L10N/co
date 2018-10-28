@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T190018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190018Z">
+        <seg>&amp;Saltà à u Segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Language Checker</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T192137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T192137Z">
@@ -726,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T190033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190033Z">
+        <seg>&amp;Affissà Tuttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145543Z">
@@ -906,6 +922,46 @@
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T183917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183917Z">
         <seg>- a pussibilità di funziunà nant'à qualsisia sistema d'operazione chì accetta Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T184331Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184331Z">
+        <seg>- una segmentazione di frasa ghjunchevule (impieghendu un metoda di tipu SRX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- fuzzy matching</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T184725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184725Z">
+        <seg>- a ricerca di currispundenza simile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- searches in the project and the reference translation memories</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T184516Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184516Z">
+        <seg>- ricerche in u prughjettu è in e memorie di traduzzione di referenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- searches of files in supported formats in any folder</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T184633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184633Z">
+        <seg>- ricerche di schedarii in furmati accettati in qualsisia cartulare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>- use of any valid TMX file as a translation reference</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T184105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184105Z">
+        <seg>- l'impiegu di parechji schedarii TMX accettevule cum'è referenza di traduzzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1121,6 +1177,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171204T195644Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171204T195644Z">
         <seg>&lt;e0&gt;&lt;s1&gt;Nota :&lt;/s1&gt;&lt;/e0&gt; Cù un Apple Mac, impiegate u tastu &lt;s2&gt;&lt;s3&gt;Command&lt;/s3&gt;&lt;/s2&gt; in piazza di u tastu &lt;s4&gt;&lt;s5&gt;Control&lt;/s5&gt;&lt;/s4&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185929Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185929Z">
+        <seg>&lt;html&gt;&lt;center&gt;Caricamentu in corsu...&lt;br&gt;&lt;br&gt;Minichichja : Attivà/disattivà e caselle quand'ella vi piace da u listinu Ozzioni.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2815,6 +2879,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Don't ask before checking issues</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185433Z">
+        <seg>Ùn dumandà più nanzu di cuntrollà i penseri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Done</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170103T150201Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170103T150201Z">
@@ -3807,6 +3879,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185340Z">
+        <seg>S'è u cuntrollu di penseru và pianu, pruvate di disattivà qualchì casella ozzionale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173650Z">
@@ -4083,6 +4163,38 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO">
         <seg>Prublemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185623Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185623Z">
+        <seg>Penseri ({0} di {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185552Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185552Z">
+        <seg>Penseri ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185700Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185700Z">
+        <seg>Penseri per {0} ({1} di {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185605Z">
+        <seg>Penseri per {0} ({1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -6556,6 +6668,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Issue Types</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185115Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185115Z">
+        <seg>Selezziunà i Tipi di Penseru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T155149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155149Z">
@@ -6608,6 +6728,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172820Z">
         <seg>Selezziunà una Categuria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select issue types to check.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185144Z">
+        <seg>Selezziunà i tipi di penseru à cuntrollà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6800,6 +6928,22 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T152152Z" creationid="Patriccollu" creationdate="20170209T152152Z">
         <seg>Cuntrollu d'ortugrafia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T190148Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190148Z">
+        <seg>Ortugrafia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T190229Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190229Z">
+        <seg>Penseri d'Ortugrafia</seg>
       </tuv>
     </tu>
     <tu>
@@ -8079,6 +8223,14 @@ di copia © [2018].</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121537Z">
         <seg>Wildrich Fourie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T190040Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190040Z">
+        <seg>Parolla</seg>
       </tuv>
     </tu>
     <tu>
