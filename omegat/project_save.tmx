@@ -6751,6 +6751,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164936Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164936Z">
+        <seg>A memoria chjamata &lt;f5&gt;omegat&lt;/f5&gt; pò esse impiegata da OmegaT stessu, per d'altri prughjetti futuri creati dapervoi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162204Z">
