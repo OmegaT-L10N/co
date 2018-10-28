@@ -2021,6 +2021,22 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Choose Source File</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T174008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174008Z">
+        <seg>Sceglie u Schedariu d'Urigine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Choose Target File</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T174027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174027Z">
+        <seg>Sceglie u Schedariu di Destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cleanup done!!</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T144142Z" creationid="Patriccollu" creationdate="20170209T144142Z">
@@ -4107,6 +4123,22 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO">
         <seg>Cunservà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep All</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T174124Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174124Z">
+        <seg>Cunservà Tuttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep None</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T174148Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174148Z">
+        <seg>Cunservà Nunda</seg>
       </tuv>
     </tu>
     <tu>
@@ -6221,6 +6253,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save TMX...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T174102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174102Z">
+        <seg>Arregistrà TMX...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T174937Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T174937Z">
@@ -6747,6 +6787,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T130910Z" creationid="Patriccollu" creationdate="20170213T130910Z">
         <seg>SuperTMXMerge (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Supported Files</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T174050Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174050Z">
+        <seg>Schedarii Accettati</seg>
       </tuv>
     </tu>
     <tu>
