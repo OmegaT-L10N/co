@@ -608,8 +608,8 @@
       <tuv lang="EN">
         <seg>&amp;Remove Filter</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145617Z" creationid="Patriccollu" creationdate="20170210T145617Z">
-        <seg>&amp;Caccià u Filtru</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173837Z" creationid="Patriccollu" creationdate="20170210T145617Z">
+        <seg>&amp;Caccià u filtru</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,8 +672,8 @@
       <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T130523Z" creationid="Patriccollu" creationdate="20170210T145641Z">
-        <seg>&amp;Arregistrà cù u Nome...</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173841Z" creationid="Patriccollu" creationdate="20170210T145641Z">
+        <seg>&amp;Arregistrà cù u nome...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8169,6 +8169,14 @@ di copia © [2018].</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T163758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T163758Z">
         <seg>AVERTIMENTU : Tutti i dati micca arregistrati seranu persi
 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173809Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173809Z">
+        <seg>Warn : Un raportu serà creatu indè stdout cù l'etichette inaccettevule.</seg>
       </tuv>
     </tu>
     <tu>
