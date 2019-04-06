@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T190018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190018Z">
-        <seg>&amp;Saltà à u Segmentu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190018Z">
+        <seg>&amp;Saltà à u segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +768,8 @@
       <tuv lang="EN">
         <seg>&amp;Show All</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T190033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190033Z">
-        <seg>&amp;Affissà Tuttu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190033Z">
+        <seg>&amp;Affissà tuttu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1255,8 +1255,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185929Z">
-        <seg>&lt;html&gt;&lt;center&gt;Caricamentu in corsu…&lt;br&gt;&lt;br&gt;Minichichja : Attivà/disattivà e caselle quand’ella vi piace da u listinu Ozzioni.&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185929Z">
+        <seg>&lt;html&gt;&lt;center&gt;Caricamentu…&lt;br&gt;&lt;br&gt;Minichichja : Attivà/disattivà e caselle quand’ella vi piace da u listinu Ozzioni.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2205,6 +2205,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212241Z">
+        <seg>Cuntrollu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Checking out the project...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
@@ -3041,8 +3049,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Don’t Ask What to Check First</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212337Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Ùn dumandà micca cosa cuntrollà in primu locu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3209,8 +3217,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Edit Text</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173603Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173603Z">
-        <seg>Mudificà u Testu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212026Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173603Z">
+        <seg>Mudificà u testu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4545,8 +4553,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Issues</seg>
       </tuv>
-      <tuv lang="CO">
-        <seg>Prublemi</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212131Z">
+        <seg>Penseri</seg>
       </tuv>
     </tu>
     <tu>
@@ -5459,8 +5467,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173522Z">
-        <seg>Alcunu Penseru Trovu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173522Z">
+        <seg>Alcunu penseru trovu</seg>
       </tuv>
     </tu>
     <tu>
