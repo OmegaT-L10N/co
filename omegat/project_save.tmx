@@ -3327,6 +3327,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Enter your master password.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212758Z">
+        <seg>Scrivite a vostra parolla d'entrata principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164458Z">
@@ -5705,14 +5713,6 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>OmegaT can generate and store a master password so you don’t have to enter it each time, but this is much less secure.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
@@ -7428,6 +7428,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set My Own Password</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212945Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212945Z">
+        <seg>Definisce a mo parolla d’intrata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set Scripts Folder...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162621Z">
@@ -8074,6 +8082,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172606Z">
         <seg>A parolla d’entrata ùn pò micca esse viota.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The password you entered did not match.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212841Z">
+        <seg>A parolla d’entrata pruvista ùn currispunde micca.</seg>
       </tuv>
     </tu>
     <tu>
