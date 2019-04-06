@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211318Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211318Z">
+        <seg>Terminolugia TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="CO">
@@ -1791,8 +1799,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Background</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20150517T143615Z">
-        <seg>Arci pianu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211356Z">
+        <seg>Fondu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2635,6 +2643,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T132403Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T125256Z">
         <seg>Impiegu attuale di a memoria da a VM : {0}Mo ; ma sempre libera : {1}Mo ; è massima dispunibule: {2}Mo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211343Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211343Z">
+        <seg>Culori persunalizati</seg>
       </tuv>
     </tu>
     <tu>
@@ -3897,8 +3913,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Get API Key</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T140708Z" creationid="Patriccollu" creationdate="20170213T140708Z">
-        <seg>Ottene a Chjave API</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211229Z" creationid="Patriccollu" creationdate="20170213T140708Z">
+        <seg>Ottene a chjave API</seg>
       </tuv>
     </tu>
     <tu>
@@ -7726,6 +7742,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211314Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211314Z">
+        <seg>Terminolugia TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20160914T162532Z">
@@ -8963,6 +8987,14 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205257Z" creationid="Patriccollu" creationdate="20170213T135828Z">
         <seg>Schedariu di glossariu induve si pò scrive :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211201Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211201Z">
+        <seg>Furmatu gattivu di risposta da u serviziu TaaS</seg>
       </tuv>
     </tu>
     <tu>
