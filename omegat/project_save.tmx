@@ -704,8 +704,8 @@
       <tuv lang="EN">
         <seg>&amp;Segment Number...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T170604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170604Z">
-        <seg>&amp;Numeru di Segmentu...</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170604Z">
+        <seg>&amp;Numeru di segmentu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2705,8 +2705,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T174616Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174616Z">
-        <seg>Affissà i Segmenti d'&amp;Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174616Z">
+        <seg>Affissà i segmenti d'&amp;Urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -2729,8 +2729,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T190632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190632Z">
-        <seg>Affissà per &amp;Tutti i Segmenti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190632Z">
+        <seg>Affissà per &amp;Tutti i segmenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4655,8 +4655,8 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T195726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190220Z">
-        <seg>Marcà i Segmenti Riempiuti &amp;Autumaticamente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190220Z">
+        <seg>Marcà i segmenti Riempiuti &amp;Autumaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -4679,8 +4679,8 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T174417Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174417Z">
-        <seg>Marcà i Segmenti &amp;Tradutti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174417Z">
+        <seg>Marcà i segmenti &amp;Tradutti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4695,16 +4695,16 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T191859Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185155Z">
-        <seg>Marcà i Segmenti &amp;Micca Unichi</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185155Z">
+        <seg>Marcà i segmenti &amp;Micca Unichi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T185258Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185258Z">
-        <seg>Marcà i Segmenti cù &amp;Note</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185258Z">
+        <seg>Marcà i segmenti cù &amp;Note</seg>
       </tuv>
     </tu>
     <tu>
@@ -7627,8 +7627,8 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>Total Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T193346Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193314Z">
-        <seg>Tutale di Segmenti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193314Z">
+        <seg>Tutale di segmenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -8005,6 +8005,14 @@ di copia © [2018].</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165908Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165908Z">
         <seg>Mudificatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173330Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173330Z">
+        <seg>Sintassa : java -jar OmegaT.jar [&lt;ozzioni&gt;]  [&lt;chjassu di prughjettu&gt;]</seg>
       </tuv>
     </tu>
     <tu>
