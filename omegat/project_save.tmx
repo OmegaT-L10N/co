@@ -2825,8 +2825,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Display Font</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192650Z">
-        <seg>Affissà a Grafia</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180839Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192650Z">
+        <seg>Affissà a grafia</seg>
       </tuv>
     </tu>
     <tu>
@@ -3929,8 +3929,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192214Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192214Z">
-        <seg>Andà à u Segmentu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180827Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192214Z">
+        <seg>Andà à u segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,16 +5179,16 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Down</seg>
       </tuv>
-      <tuv lang="CO">
-        <seg>Move In&amp;ghjò</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180921Z">
+        <seg>Move in&amp;ghjò</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Move &amp;First</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T175424Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T175424Z">
-        <seg>Move in &amp;Primu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180912Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T175424Z">
+        <seg>Move in &amp;primu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5203,8 +5203,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Up</seg>
       </tuv>
-      <tuv lang="CO">
-        <seg>Move In&amp;sù</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180916Z">
+        <seg>Move in&amp;sù</seg>
       </tuv>
     </tu>
     <tu>
@@ -6244,16 +6244,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project Files ({0} of {1})</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192935Z">
-        <seg>Schedarii di Prughjettu ({0} di {1})</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180859Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192935Z">
+        <seg>Schedarii di prughjettu ({0} di {1})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Project Files ({0})</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192918Z">
-        <seg>Schedarii di Prughjettu ({0})</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192918Z">
+        <seg>Schedarii di prughjettu ({0})</seg>
       </tuv>
     </tu>
     <tu>
