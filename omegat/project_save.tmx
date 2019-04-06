@@ -104,8 +104,8 @@
       <tuv lang="EN">
         <seg>&amp;Align Files...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153611Z">
-        <seg>&amp;Alineà i Schedarii…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180132Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153611Z">
+        <seg>&amp;Alineà i schedarii…</seg>
       </tuv>
     </tu>
     <tu>
@@ -448,8 +448,8 @@
       <tuv lang="EN">
         <seg>&amp;Match Statistics</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153437Z">
-        <seg>Statistiche di &amp;Currispundenza</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153437Z">
+        <seg>Statistiche di &amp;currispundenza</seg>
       </tuv>
     </tu>
     <tu>
@@ -1999,16 +1999,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Check &amp;Issues...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153822Z">
-        <seg>Verificà i &amp;Penseri…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180042Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153822Z">
+        <seg>Verificà i &amp;penseri…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153836Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153724Z">
-        <seg>Verificà i Penseri per u &amp;Ducumentu Attuale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180055Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153724Z">
+        <seg>Verificà i penseri per u &amp;ducumentu attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -4063,6 +4063,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180425Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T180425Z">
+        <seg>Cumpiimentu di crunulogia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T161954Z">
@@ -4883,8 +4891,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Mac&amp;hine Translate</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T135143Z" creationid="Patriccollu" creationdate="20170213T135143Z">
-        <seg>Traduce da a &amp;Mascina</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180212Z" creationid="Patriccollu" creationdate="20170213T135143Z">
+        <seg>Traduce da a &amp;mascina</seg>
       </tuv>
     </tu>
     <tu>
@@ -4971,16 +4979,16 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Translated Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174417Z">
-        <seg>Marcà i segmenti &amp;Tradutti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174417Z">
+        <seg>Marcà i segmenti &amp;tradutti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark &amp;Untranslated Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T185432Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174428Z">
-        <seg>Marcà i &amp;Segmenti Micca Tradutti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180207Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174428Z">
+        <seg>Marcà i &amp;segmenti micca tradutti</seg>
       </tuv>
     </tu>
     <tu>
@@ -5043,8 +5051,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Match Statistics per &amp;File</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T154142Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153457Z">
-        <seg>Statistiche di C&amp;urrispundenza da &amp;Schedariu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180127Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153457Z">
+        <seg>Statistiche di c&amp;urrispundenza à u &amp;schedariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5307,8 +5315,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Next Uni&amp;que Segment</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T170836Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170836Z">
-        <seg>Segmentu &amp;Unicu Seguente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170836Z">
+        <seg>Segmentu seguente &amp;unicu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8535,8 +8543,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T162840Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T162840Z">
-        <seg>Impiegà TAB per Avanzà</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T162840Z">
+        <seg>Impiegà TAB per avanzà</seg>
       </tuv>
     </tu>
     <tu>
