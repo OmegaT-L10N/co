@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205516Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T205516Z">
+        <seg>Prupagazione &amp;autumatica di e traduzzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T175554Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175554Z">
@@ -784,16 +792,16 @@
       <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154939Z">
-        <seg>Lingua di i Schedarii d’Urigine :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154939Z">
+        <seg>Lingua di i schedarii d’urigine :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155142Z">
-        <seg>Tokenizer di Lingua d’Urigine :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155142Z">
+        <seg>Tokenizer di lingua d’origine :</seg>
       </tuv>
     </tu>
     <tu>
@@ -824,8 +832,8 @@
       <tuv lang="EN">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T155152Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155152Z">
-        <seg>Tokenizer di Lingua di Traduzzione :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155152Z">
+        <seg>Tokenizer di lingua di traduzzione :</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,8 +856,8 @@
       <tuv lang="EN">
         <seg>&amp;Translated Files Language:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T155002Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155002Z">
-        <seg>Lingua di i Schedarii di Traduzzione :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205323Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155002Z">
+        <seg>Lingua di i schedarii di traduzzione :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2737,8 +2745,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Dictionary Folder:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T155211Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155211Z">
-        <seg>Cartulare di Dizziunariu :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205347Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155211Z">
+        <seg>Cartulare di dizziunariu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3201,8 +3209,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Enable them in &lt;b&gt;Options &gt; Saving and Output…&lt;/b&gt;.&lt;/html&gt;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205648Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Attivale in &lt;b&gt;Ozzioni &gt; Arregistramentu è esciuta…&lt;/b&gt;.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6588,8 +6596,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160257Z">
-        <seg>&amp;Caccià l’Etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205526Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160257Z">
+        <seg>&amp;Caccià l’etichette</seg>
       </tuv>
     </tu>
     <tu>
