@@ -3351,6 +3351,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204420Z">
+        <seg>Sbagliu à l'iniziu di a cumanda esterna : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
@@ -3473,8 +3481,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Executing external command…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Escuzione di cumanda esterna…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3505,16 +3513,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184410Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184410Z">
-        <seg>Fiascu di a creazione di u prughjettu !</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Fatal error encountered - saving project file with ’.recover’ backup extension.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204224Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184410Z">
+        <seg>Fiascu à a creazione di u prughjettu !</seg>
       </tuv>
     </tu>
     <tu>
@@ -6378,14 +6378,6 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: ’Page not found’</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190310T174709Z" creationid="Patriccollu" creationdate="20170210T145354Z">
@@ -8771,14 +8763,6 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121537Z">
         <seg>Wildrich Fourie</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Wind catches lily&lt;p&gt;Scatt’ring petals to the wind:&lt;p&gt;Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
