@@ -8,8 +8,8 @@
       <tuv lang="EN">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T145222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T145222Z">
-        <seg>"Ùn pò micca avvià à partesi d'un cartulare chì cuntene un \"/\" in u so nome.";</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T145222Z">
+        <seg>"Ùn pò micca avvià à partesi d’un cartulare chì cuntene un \"/\" in u so nome.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -24,40 +24,40 @@
       <tuv lang="EN">
         <seg>"This application requires that Java %d or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T144445Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144445Z">
-        <seg>St'appiecazione richiede chì Java %d o più recente sia installatu nant'à l'urdinatore.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144445Z">
+        <seg>St’appiecazione richiede chì Java %d o più recente sia installatu nant’à l’urdinatore.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"This application requires that a Java %d JDK or later be installed on your computer.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T144839Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144740Z">
-        <seg>St'appiecazione richiede chì u JDK per Java %d o più recente sia installatu nant'à l'urdinatore.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144740Z">
+        <seg>St’appiecazione richiede chì u JDK per Java %d o più recente sia installatu nant’à l’urdinatore.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Unable to enumerate Java directory contents.";</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T145056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T145056Z">
-        <seg>"Impussibule d'enumerà u cuntenutu di u cartulare Java.";</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T145056Z">
+        <seg>"Impussibule d’enumerà u cuntenutu di u cartulare Java.";</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T144101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144101Z">
-        <seg>"Impussibule di caricà l'ambiente Runtime di Java.";</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144101Z">
+        <seg>"Impussibule di caricà l’ambiente Runtime di Java.";</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T144324Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144324Z">
-        <seg>"Impussibule di caricà l'ambiente Runtime di Java %d.";</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144324Z">
+        <seg>"Impussibule di caricà l’ambiente Runtime di Java %d.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="EN">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T153945Z" creationid="Patriccollu" creationdate="20170209T153945Z">
-        <seg>&amp;Permette chì a traduzzione sia uguale à l'urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T153945Z">
+        <seg>&amp;Permette chì a traduzzione sia uguale à l’urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="EN">
         <seg>&amp;Current Source Document</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T153954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153707Z">
-        <seg>Ducumentu &amp;Attuale d'Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153707Z">
+        <seg>Ducumentu &amp;Attuale d’Urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,8 +584,8 @@
       <tuv lang="EN">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T154602Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T154602Z">
-        <seg>&amp;Rifà l'Ultima Azzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T154602Z">
+        <seg>&amp;Rifà l’Ultima Azzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,24 +768,24 @@
       <tuv lang="EN">
         <seg>&amp;Source Files</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T153551Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153551Z">
-        <seg>Schedarii d'&amp;Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153551Z">
+        <seg>Schedarii d’&amp;Urigine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T154939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154939Z">
-        <seg>Lingua di i Schedarii d'Urigine :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154939Z">
+        <seg>Lingua di i Schedarii d’Urigine :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>&amp;Source Language Tokenizer:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T155142Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155142Z">
-        <seg>Tokenizer di Lingua d'Urigine :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155142Z">
+        <seg>Tokenizer di Lingua d’Urigine :</seg>
       </tuv>
     </tu>
     <tu>
@@ -856,8 +856,8 @@
       <tuv lang="EN">
         <seg>&amp;Undo Last Action</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T154555Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T154555Z">
-        <seg>&amp;Disfà l'Ultima Azzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T154555Z">
+        <seg>&amp;Disfà l’Ultima Azzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -880,8 +880,8 @@
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T172648Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172648Z">
-        <seg>&amp;Manuale di l'Utilizatore</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172648Z">
+        <seg>&amp;Manuale di l’Utilizatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,10 +902,20 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>’*’ matches zero or more characters (’run*’ matches ’run’, ’runs’, and’running’, etc.)
+’?’ matches exactly one character (’run?’ matches ’runs’ and ’rung’, but not ’run’ or ’running’).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>'{0}' menu selected</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T145853Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145853Z">
-        <seg>Listinu selezziunatu '{0}'</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145853Z">
+        <seg>Listinu selezziunatu ’{0}’</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,11 +928,21 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project 
+but you don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>(If you think you have significantly contributed to the OmegaT Project 
+but you don’t see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>(In the user’s manual, see ’Files to translate’ &gt; ’File formats’ for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder… button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
     </tu>
@@ -938,8 +958,8 @@ To add files to the project, click on the Copy Files to Source Folder… button 
       <tuv lang="EN">
         <seg>- ability to run on any operating system supporting Java</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T183917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183917Z">
-        <seg>- a pussibilità di funziunà nant'à qualsisia sistema d'operazione chì accetta Java</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183917Z">
+        <seg>- a pussibilità di funziunà nant’à qualsisia sistema d’operazione chì accetta Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,8 +998,8 @@ To add files to the project, click on the Copy Files to Source Folder… button 
       <tuv lang="EN">
         <seg>- use of any valid TMX file as a translation reference</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T184105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184105Z">
-        <seg>- l'impiegu di parechji schedarii TMX accettevule cum'è referenza di traduzzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184105Z">
+        <seg>- l’impiegu di parechji schedarii TMX accettevule cum’è referenza di traduzzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,12 +1020,22 @@ To add files to the project, click on the Copy Files to Source Folder… button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project’s omegat.project file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173418Z">
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173418Z">
         <seg>-h, --help
-		Affissa l'infurmazione d'impiegu.</seg>
+		Affissa l’infurmazione d’impiegu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1028,8 +1058,8 @@ To add files to the project, click on the Copy Files to Source Folder… button 
       <tuv lang="EN">
         <seg>1) Reduce the number of source files and translate in batches;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T150403Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150403Z">
-        <seg>1) Sminuì u numeru di schedarii d'urigine è traducelli da sottu-insemi ;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150403Z">
+        <seg>1) Sminuì u numeru di schedarii d’urigine è traducelli da sottu-insemi ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1055,10 +1085,10 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T151106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150551Z">
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174404Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150551Z">
         <seg>2) Aumentà u valore di memoria dispunibule per OmegaT, cù
-"java -Xmx&lt;dimensione-in-Mo&gt;M -jar OmegaT.jar" in a
-cumanda di linea o in u scrittu di principiu d'OmegaT ;
+« java -Xmx&lt;dimensione-in-Mo&gt;M -jar OmegaT.jar » in a
+cumanda di linea o in u scrittu di principiu d’OmegaT ;
 U valore attuale hè {0}Mo ;
 </seg>
       </tuv>
@@ -1211,8 +1241,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185929Z">
-        <seg>&lt;html&gt;&lt;center&gt;Caricamentu in corsu…&lt;br&gt;&lt;br&gt;Minichichja : Attivà/disattivà e caselle quand'ella vi piace da u listinu Ozzioni.&lt;/center&gt;&lt;/html&gt;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185929Z">
+        <seg>&lt;html&gt;&lt;center&gt;Caricamentu in corsu…&lt;br&gt;&lt;br&gt;Minichichja : Attivà/disattivà e caselle quand’ella vi piace da u listinu Ozzioni.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1267,8 +1297,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T173105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T173105Z">
-        <seg>Una nota hè solu un cummentu assuciatu à stu coppiu di testu d'urigine è di traduzzione.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T173105Z">
+        <seg>Una nota hè solu un cummentu assuciatu à stu coppiu di testu d’urigine è di traduzzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1291,8 +1321,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>A source sentence might look like:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142028Z">
-        <seg>Una frasa d'urigine pò assumigliassi à què :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142028Z">
+        <seg>Una frasa d’urigine pò assumigliassi à què :</seg>
       </tuv>
     </tu>
     <tu>
@@ -1331,16 +1361,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Aaron Madlon-Kay (integration manager)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121955Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121639Z">
-        <seg>Aaron Madlon-Kay (risponsevule d'integrazione)</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121639Z">
+        <seg>Aaron Madlon-Kay (risponsevule d’integrazione)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173609Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173609Z">
-        <seg>Abort : Esce cù un sbagliu s'è l'etichette sò inaccettevule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173609Z">
+        <seg>Abort : Esce cù un sbagliu s’è l’etichette sò inaccettevule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1451,48 +1481,48 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T174650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174650Z">
-        <seg>Quandu tutti i schedarii d'urigine sò caricati in u pannellu di l'&lt;g3&gt;Editore&lt;/g3&gt;, pudete chjode u dialogu &lt;g4&gt;Schedarii di Prughjettu&lt;/g4&gt;.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174650Z">
+        <seg>Quandu tutti i schedarii d’urigine sò caricati in u pannellu di l’&lt;g3&gt;Editore&lt;/g3&gt;, pudete chjode u dialogu &lt;g4&gt;Schedarii di Prughjettu&lt;/g4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After the source files have loaded in the &lt;s3&gt;Editor&lt;/s3&gt; pane, you can close the &lt;s4&gt;Project Files&lt;/s4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215420Z">
-        <seg>Quandu tutti i schedarii d'urigine sò caricati in u pannellu di l'&lt;s3&gt;Editore&lt;/s3&gt;, pudete chjode u dialogu &lt;s4&gt;Schedarii di Prughjettu&lt;/s4&gt;.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215420Z">
+        <seg>Quandu tutti i schedarii d’urigine sò caricati in u pannellu di l’&lt;s3&gt;Editore&lt;/s3&gt;, pudete chjode u dialogu &lt;s4&gt;Schedarii di Prughjettu&lt;/s4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T172407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172407Z">
-        <seg>Dopu à avè datu un nome à u vostru prughjettu, u dialogu &lt;g0&gt;Creà un Prughjettu Novu&lt;/g0&gt; s'aprerà.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172407Z">
+        <seg>Dopu à avè datu un nome à u vostru prughjettu, u dialogu &lt;g0&gt;Creà un Prughjettu Novu&lt;/g0&gt; s’aprerà.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After you give your project a name, the &lt;s0&gt;Create New Project&lt;/s0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215235Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215235Z">
-        <seg>Dopu à avè datu un nome à u vostru prughjettu, u dialogu &lt;s0&gt;Creà un Prughjettu Novu&lt;/s0&gt; s'aprerà.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215235Z">
+        <seg>Dopu à avè datu un nome à u vostru prughjettu, u dialogu &lt;s0&gt;Creà un Prughjettu Novu&lt;/s0&gt; s’aprerà.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T175017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175017Z">
-        <seg>Dopu à avè traduttu ogni segmentu, appughjà nant'à &lt;k0&gt;Ctrl+U&lt;/k0&gt; per move ver di u prossimu segmentu micca traduttu (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; per move ver di u prossimu segmentu traduttu).</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175017Z">
+        <seg>Dopu à avè traduttu ogni segmentu, appughjà nant’à &lt;k0&gt;Ctrl+U&lt;/k0&gt; per move ver di u prossimu segmentu micca traduttu (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; per move ver di u prossimu segmentu traduttu).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>After you have translated each segment, press &lt;s0&gt;&lt;s1&gt;Ctrl+U&lt;/s1&gt;&lt;/s0&gt; to move to the next untranslated segment (or &lt;s2&gt;&lt;s3&gt;Ctrl+Shift+U&lt;/s3&gt;&lt;/s2&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215503Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215503Z">
-        <seg>Dopu à avè traduttu ogni segmentu, appughjà nant'à &lt;s0&gt;&lt;s1&gt;Ctrl+U&lt;/s1&gt;&lt;/s0&gt; per move ver di u prossimu segmentu micca traduttu (o &lt;s2&gt;&lt;s3&gt;Ctrl+Shift+U&lt;/s3&gt;&lt;/s2&gt; per move ver di u prossimu segmentu traduttu).</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215503Z">
+        <seg>Dopu à avè traduttu ogni segmentu, appughjà nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+U&lt;/s1&gt;&lt;/s0&gt; per move ver di u prossimu segmentu micca traduttu (o &lt;s2&gt;&lt;s3&gt;Ctrl+Shift+U&lt;/s3&gt;&lt;/s2&gt; per move ver di u prossimu segmentu traduttu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1531,8 +1561,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
-        <seg>Tutte e preferenze prutette da a parolla d'entrata principale seranu rimesse d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
+        <seg>Tutte e preferenze prutette da a parolla d’entrata principale seranu rimesse d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1563,16 +1593,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>An error occurred when loading the source files.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173951Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173951Z">
-        <seg>Un sbagliu hè accadutu carichendu i schedarii d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173951Z">
+        <seg>Un sbagliu hè accadutu carichendu i schedarii d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T181051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145254Z">
-        <seg>Un sbagliu hè accadutu pruvendu d'identificà u schedariu di prughjettu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145254Z">
+        <seg>Un sbagliu hè accadutu pruvendu d’identificà u schedariu di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1589,6 +1619,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
         <seg>And get a feel of what is going on in the OmegaT world…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And subscribe to the translators' list:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>And subscribe to the translators’ list:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1643,8 +1681,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Are you sure you want to reset the master password?</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172257Z">
-        <seg>Site sicuru di vulè viutà a parolla d'entrata principale ?</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172257Z">
+        <seg>Site sicuru di vulè viutà a parolla d’entrata principale ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1675,16 +1713,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173407Z">
-        <seg>Insù di stu dialogu, selezziunà a lingua di i schedarii d'urigine, quella di i schedarii di traduzzione, è cliccà &lt;g1&gt;Vai&lt;/g1&gt; per cuntinuà.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173407Z">
+        <seg>Insù di stu dialogu, selezziunà a lingua di i schedarii d’urigine, quella di i schedarii di traduzzione, è cliccà &lt;g1&gt;Vai&lt;/g1&gt; per cuntinuà.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;s1&gt;OK&lt;/s1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215249Z">
-        <seg>Insù di stu dialogu, selezziunà a lingua di i schedarii d'urigine, quella di i schedarii di traduzzione, è cliccà &lt;s1&gt;Vai&lt;/s1&gt; per cuntinuà.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215249Z">
+        <seg>Insù di stu dialogu, selezziunà a lingua di i schedarii d’urigine, quella di i schedarii di traduzzione, è cliccà &lt;s1&gt;Vai&lt;/s1&gt; per cuntinuà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1701,6 +1739,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="phenry" changedate="20150516T172859Z">
         <seg>Autenticazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Auto replace ’nplurals=INTEGER; &amp;plural=EXPRESSION;’ in header</seg>
       </tuv>
     </tu>
     <tu>
@@ -1819,8 +1865,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185701Z">
-        <seg>Cupià Tutti i Dati ver di u &amp;Preme'Papei</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185701Z">
+        <seg>Cupià Tutti i Dati ver di u &amp;Preme’Papei</seg>
       </tuv>
     </tu>
     <tu>
@@ -1851,8 +1897,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T182027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182027Z">
-        <seg>Abbandunà funziuneghja solu per i scritti chì cuntrolleghjanu l'abbandonu di manera esplicita.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182027Z">
+        <seg>Abbandunà funziuneghja solu per i scritti chì cuntrolleghjanu l’abbandonu di manera esplicita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1867,8 +1913,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Cancelled creating new team project</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T144656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144656Z">
-        <seg>Abbandonu di a creazione d'un novu prughjettu di squadra</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144656Z">
+        <seg>Abbandonu di a creazione d’un novu prughjettu di squadra</seg>
       </tuv>
     </tu>
     <tu>
@@ -2003,8 +2049,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Check for equal source &amp; target</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191207Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191207Z">
-        <seg>Cuntrollà s'è urigine è destinazione sò uguale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191207Z">
+        <seg>Cuntrollà s’è urigine è destinazione sò uguale</seg>
       </tuv>
     </tu>
     <tu>
@@ -2035,8 +2081,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Check for segments with spelling errors</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191053Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191053Z">
-        <seg>Cuntrollà i segmenti cù sbaglii d'ortugrafia</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191053Z">
+        <seg>Cuntrollà i segmenti cù sbaglii d’ortugrafia</seg>
       </tuv>
     </tu>
     <tu>
@@ -2067,32 +2113,32 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Check number of tags</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191332Z">
-        <seg>Cuntrollà u numeru d'etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191332Z">
+        <seg>Cuntrollà u numeru d’etichette</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check punctuation at segment end</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T172838Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T172838Z">
-        <seg>Cuntrollà a puntuazione à a fine d'un segmentu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T172838Z">
+        <seg>Cuntrollà a puntuazione à a fine d’un segmentu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check sequence of tags</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191504Z">
-        <seg>Cuntrollà a sequenza d'etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191504Z">
+        <seg>Cuntrollà a sequenza d’etichette</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Check spaces around tags</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191438Z">
-        <seg>Cuntrollà i spazii accantu à l'etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191438Z">
+        <seg>Cuntrollà i spazii accantu à l’etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -2155,8 +2201,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Choose Source File</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T174008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174008Z">
-        <seg>Sceglie u Schedariu d'Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174008Z">
+        <seg>Sceglie u Schedariu d’Urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -2187,24 +2233,24 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Click on '{0}' menu item</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T145804Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145804Z">
-        <seg>Cliccu nant'à l'elementu di listinu '{0}'</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145804Z">
+        <seg>Cliccu nant’à l’elementu di listinu ’{0}’</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174122Z">
-        <seg>Cliccu nant'à &lt;g1&gt;Cupià Schedarii ver di u Cartulare d'Urigine…&lt;/g1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174122Z">
+        <seg>Cliccu nant’à &lt;g1&gt;Cupià Schedarii ver di u Cartulare d’Urigine…&lt;/g1&gt; per selezziunà i vostri schedarii d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Click on &lt;s1&gt;Copy Files to Source Folder...&lt;/s1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215347Z">
-        <seg>Cliccu nant'à &lt;s1&gt;Cupià Schedarii ver di u Cartulare d'Urigine…&lt;/s1&gt; per selezziunà i vostri schedarii d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215347Z">
+        <seg>Cliccu nant’à &lt;s1&gt;Cupià Schedarii ver di u Cartulare d’Urigine…&lt;/s1&gt; per selezziunà i vostri schedarii d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2228,8 +2274,8 @@ U valore attuale hè {0}Mo ;
         <seg>Close the current OmegaT instance
 3.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T163513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T163513Z">
-        <seg>Chjode l'instanza attuale d'OmegaT
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T163513Z">
+        <seg>Chjode l’instanza attuale d’OmegaT
 3.</seg>
       </tuv>
     </tu>
@@ -2289,10 +2335,10 @@ U valore attuale hè {0}Mo ;
 	-h, --help
 		Show usage information.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T150006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150006Z">
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150006Z">
         <seg>Cumande :
 	-h, --help
-		Affissa l'infurmazione d'impiegu.</seg>
+		Affissa l’infurmazione d’impiegu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2427,8 +2473,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
-        <seg>Cupià Schedarii ver di u Cartulare d'&amp;Urigine…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
+        <seg>Cupià Schedarii ver di u Cartulare d’&amp;Urigine…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2453,16 +2499,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150954Z">
-        <seg>Cupià Schedarii ver di u Cartulare d'Urigine…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150954Z">
+        <seg>Cupià Schedarii ver di u Cartulare d’Urigine…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Copyright © 2000-2016 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T172126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172126Z">
-        <seg>Diritti di copia © 2000-2016 Keith Godfrey, Maxym Mykhalchuk è d'altri.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172126Z">
+        <seg>Diritti di copia © 2000-2016 Keith Godfrey, Maxym Mykhalchuk è d’altri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2757,16 +2803,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174616Z">
-        <seg>Affissà i segmenti d'&amp;Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174616Z">
+        <seg>Affissà i segmenti d’&amp;Urigine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Display &amp;tags</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T154004Z" creationid="Patriccollu" creationdate="20170209T154004Z">
-        <seg>Affissà l'&amp;etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T154004Z">
+        <seg>Affissà l’&amp;etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -2805,40 +2851,40 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T173446Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T173446Z">
-        <seg>Affissa i cummenti in u segmentu attivu s'elli esistenu in u schedariu d'urigine è s'è u filtru di schedariu l'accetta (i.e. filtru PO).</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T173446Z">
+        <seg>Affissa i cummenti in u segmentu attivu s’elli esistenu in u schedariu d’urigine è s’è u filtru di schedariu l’accetta (i.e. filtru PO).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T172322Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172322Z">
-        <seg>Affissa l'elementi di dizziunariu trovi in i schedarii di dizziunariu chì si trovanu in u cartulare /dictionary/ s'elli sò presenti in u segmentu d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172322Z">
+        <seg>Affissa l’elementi di dizziunariu trovi in i schedarii di dizziunariu chì si trovanu in u cartulare /dictionary/ s’elli sò presenti in u segmentu d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T164156Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164156Z">
-        <seg>Affissa l'elementi di glossariu trovi in i schedarii di glossariu chì si trovanu in u cartulare /glossary/ s'elli sò presenti in u segmentu d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164156Z">
+        <seg>Affissa l’elementi di glossariu trovi in i schedarii di glossariu chì si trovanu in u cartulare /glossary/ s’elli sò presenti in u segmentu d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T163613Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T163613Z">
-        <seg>Affissa i segmenti di memoria di traduzzione chì currispundenu à u segmentu d'urigine.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T163613Z">
+        <seg>Affissa i segmenti di memoria di traduzzione chì currispundenu à u segmentu d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Options &gt; Machine Translate, if those services are available.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T172727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172727Z">
-        <seg>Affissa a traduzzione di u segmentu d'urigine da i servizii di traduzzione da a mascina, chì voi avete selezziunati in Preferenze &gt; Traduzzione da a Mascina, s'è sti serviziii sò dispunibule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172727Z">
+        <seg>Affissa a traduzzione di u segmentu d’urigine da i servizii di traduzzione da a mascina, chì voi avete selezziunati in Preferenze &gt; Traduzzione da a Mascina, s’è sti serviziii sò dispunibule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2853,8 +2899,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Do you need help?</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120913Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120913Z">
-        <seg>Avete bisognu d'aiutu ?</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120913Z">
+        <seg>Avete bisognu d’aiutu ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2887,6 +2933,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20160909T153410Z" creationid="Patriccollu" creationdate="20160909T153410Z">
         <seg>Vulete rimpiazzallu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Do you want to replace it with the one you’re moving?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2927,6 +2981,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165845Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165845Z">
         <seg>Duminii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Don’t Ask What to Check First</seg>
       </tuv>
     </tu>
     <tu>
@@ -2989,8 +3051,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Downloading project...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183556Z">
-        <seg>Scaricamentu in corsu di u prughjettu…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183556Z">
+        <seg>Scaricamentu di u prughjettu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3109,8 +3171,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Editor Options</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T132925Z" creationid="Patriccollu" creationdate="20170213T132925Z">
-        <seg>Ozzioni d'Editore</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T132925Z">
+        <seg>Ozzioni d’Editore</seg>
       </tuv>
     </tu>
     <tu>
@@ -3181,8 +3243,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T164458Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164458Z">
-        <seg>L'elementi da u glossariu chì si pò scrive sò in grassu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164458Z">
+        <seg>L’elementi da u glossariu chì si pò scrive sò in grassu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3213,16 +3275,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Error decoding user and password.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181655Z">
-        <seg>Sbagliu di discudificazione di u nome d'utilizatore è parolla d'entrata.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181655Z">
+        <seg>Sbagliu di discudificazione di u nome d’utilizatore è parolla d’entrata.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T161228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161228Z">
-        <seg>Sbagliu d'estrazzione di u risultatu MT à partesi da MyMemory, risposta :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161228Z">
+        <seg>Sbagliu d’estrazzione di u risultatu MT à partesi da MyMemory, risposta :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3243,18 +3305,42 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Error initializing marker ’{0}’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Error load plugin from class ’{0}’: {1}: {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T174432Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174432Z">
-        <seg>Sbagliu à u principiu di l'appiecazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174432Z">
+        <seg>Sbagliu à u principiu di l’appiecazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Error saving project file!</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183755Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183755Z">
-        <seg>Sbagliu à l'arregistramentu di u schedariu di prughjettu !</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183755Z">
+        <seg>Sbagliu à l’arregistramentu di u schedariu di prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Error unload plugin from class ’{0}’: {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3293,16 +3379,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T150106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
-        <seg>Evvenimentu : fine di l'appiecazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
+        <seg>Evvenimentu : fine di l’appiecazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T150111Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150034Z">
-        <seg>Evvenimentu : principiu di l'appiecazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150034Z">
+        <seg>Evvenimentu : principiu di l’appiecazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -3411,6 +3497,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Fatal error encountered - saving project file with ’.recover’ backup extension.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Few more things to remember</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160831Z">
@@ -3515,6 +3609,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Filter ’{0}’ could not be loaded from ’{1}’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145841Z" creationid="Patriccollu" creationdate="20170210T145841Z">
@@ -3555,6 +3657,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Floating ’?’ character not tied to ’&gt;’!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Folder does not exist</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T151118Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151118Z">
@@ -3573,16 +3683,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;a0&gt;OmegaT for beginners&lt;/a0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175855Z">
-        <seg>Per avè un intruduzzione più detagliata (in inglese) fighjà &lt;a0&gt;OmegaT for beginners&lt;/a0&gt; nant'à u situ web d'OmegaT.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175855Z">
+        <seg>Per avè un intruduzzione più detagliata (in inglese) fighjà &lt;a0&gt;OmegaT for beginners&lt;/a0&gt; nant’à u situ web d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175406Z">
-        <seg>Per avè un intruduzzione più detagliata (in inglese) fighjà &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; nant'à u situ web d'OmegaT.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175406Z">
+        <seg>Per avè un intruduzzione più detagliata (in inglese) fighjà &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; nant’à u situ web d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3597,8 +3707,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T162137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T162137Z">
-        <seg>Per ottene risulti più boni, ci vole à installà i dizziunarii adattati da Preferenze &gt; Cuntrollu d'Ortugrafia.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T162137Z">
+        <seg>Per ottene risulti più boni, ci vole à installà i dizziunarii adattati da Preferenze &gt; Cuntrollu d’Ortugrafia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,6 +3825,38 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Git ’{0}’ did nothing because there were no changes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Git ’{0}’ error: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Git ’{0}’ execution finished successfully</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Git ’{0}’ execution start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Global</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T172156Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172156Z">
@@ -3725,8 +3867,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Global spell checking</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T152147Z" creationid="Patriccollu" creationdate="20170209T152147Z">
-        <seg>Cuntrollu d'ortugrafia glubale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152147Z">
+        <seg>Cuntrollu d’ortugrafia glubale</seg>
       </tuv>
     </tu>
     <tu>
@@ -3781,8 +3923,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Go To Segment Source</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T142110Z" creationid="Patriccollu" creationdate="20170213T142110Z">
-        <seg>Andà à l'Urigine di u Segmentu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T142110Z">
+        <seg>Andà à l’Urigine di u Segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3845,8 +3987,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T153613Z" creationid="Patriccollu" creationdate="20170209T153543Z">
-        <seg>HTMLParser 1.6 da Somik Raha, Derrick Oswald è d'altri (Licenza LGPL)</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T153543Z">
+        <seg>HTMLParser 1.6 da Somik Raha, Derrick Oswald è d’altri (Licenza LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3885,8 +4027,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T174355Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174355Z">
-        <seg>Piattà '{0}'</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174355Z">
+        <seg>Piattà ’{0}’</seg>
       </tuv>
     </tu>
     <tu>
@@ -3917,8 +4059,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T161954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T161954Z">
-        <seg>Fate casu chì, s'è vò fate qualchì sbagliu quandu scrivete l'etichette di furmatu, i vostri schedarii di traduzzione puderianu ùn micca apressi.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T161954Z">
+        <seg>Fate casu chì, s’è vò fate qualchì sbagliu quandu scrivete l’etichette di furmatu, i vostri schedarii di traduzzione puderianu ùn micca apressi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3965,88 +4107,88 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T163157Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163157Z">
-        <seg>S'è un schedariu ùn si caricheghja micca in u pannellu &lt;g0&gt;Editore&lt;/g0&gt;, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163157Z">
+        <seg>S’è un schedariu ùn si caricheghja micca in u pannellu &lt;g0&gt;Editore&lt;/g0&gt;, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If a file does not load into the &lt;s0&gt;Editor&lt;/s0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165515Z">
-        <seg>S'è un schedariu ùn si caricheghja micca in u pannellu &lt;s0&gt;Editore&lt;/s0&gt;, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165515Z">
+        <seg>S’è un schedariu ùn si caricheghja micca in u pannellu &lt;s0&gt;Editore&lt;/s0&gt;, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185340Z">
-        <seg>S'è u cuntrollu di penseru và pianu, pruvate di disattivà qualchì casella ozzionale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185340Z">
+        <seg>S’è u cuntrollu di penseru và pianu, pruvate di disattivà qualchì casella ozzionale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173650Z">
-        <seg>S'è vò site interessatu(a) cù d'altre preferenze di stu dialogu, pudete rivenecci quand'ella vi pare appughjendu &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173650Z">
+        <seg>S’è vò site interessatu(a) cù d’altre preferenze di stu dialogu, pudete rivenecci quand’ella vi pare appughjendu &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;s0&gt;&lt;s1&gt;Ctrl+E.&lt;/s1&gt;&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215325Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215325Z">
-        <seg>S'è vò site interessatu(a) cù d'altre preferenze di stu dialogu, pudete rivenecci quand'ella vi pare appughjendu &lt;s0&gt;&lt;s1&gt;Ctrl+E.&lt;/s1&gt;&lt;/s0&gt;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215325Z">
+        <seg>S’è vò site interessatu(a) cù d’altre preferenze di stu dialogu, pudete rivenecci quand’ella vi pare appughjendu &lt;s0&gt;&lt;s1&gt;Ctrl+E.&lt;/s1&gt;&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;a1&gt;OmegaT users group.&lt;/a1&gt;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175904Z">
-        <seg>S'è vo avete bisognu d'assistenza cù qualchì aspettu d'OmegaT, raghjunghjate puru u &lt;a1&gt;gruppu d'utilizatori d'OmegaT.&lt;/a1&gt;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175904Z">
+        <seg>S’è vo avete bisognu d’assistenza cù qualchì aspettu d’OmegaT, raghjunghjate puru u &lt;a1&gt;gruppu d’utilizatori d’OmegaT.&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175724Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175724Z">
-        <seg>S'è vo avete bisognu d'assistenza cù qualchì aspettu d'OmegaT, raghjunghjate puru u &lt;u1&gt;gruppu d'utilizatori d'OmegaT.&lt;/u1&gt;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175724Z">
+        <seg>S’è vo avete bisognu d’assistenza cù qualchì aspettu d’OmegaT, raghjunghjate puru u &lt;u1&gt;gruppu d’utilizatori d’OmegaT.&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you place such translation memory files in the &lt;c6&gt;/tm/&lt;/c6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175751Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175751Z">
-        <seg>S'è vò piazzate quessi schedarii di memoria di traduzzione in u sottucartulare &lt;c6&gt;/tm/&lt;/c6&gt; d'un prughjettu, OmegaT circherà ci autumaticamente segmenti simile, chjamati "currispundenze simile".</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175751Z">
+        <seg>S’è vò piazzate quessi schedarii di memoria di traduzzione in u sottucartulare &lt;c6&gt;/tm/&lt;/c6&gt; d’un prughjettu, OmegaT circherà ci autumaticamente segmenti simile, chjamati "currispundenze simile".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T170842Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T170842Z">
-        <seg>S'è vò piazzate quessi schedarii di memoria di traduzzione in u sottucartulare &lt;f6&gt;/tm/&lt;/f6&gt; d'un prughjettu, OmegaT circherà ci autumaticamente segmenti simile, chjamati "currispundenze simile".</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T170842Z">
+        <seg>S’è vò piazzate quessi schedarii di memoria di traduzzione in u sottucartulare &lt;f6&gt;/tm/&lt;/f6&gt; d’un prughjettu, OmegaT circherà ci autumaticamente segmenti simile, chjamati "currispundenze simile".</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If you want to use the same language in OmegaT as the one used during installation, check the box below.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145524Z" creationid="Patriccollu" creationdate="20170209T145524Z">
-        <seg>S'è vò vulete impiegà a stessa lingua in OmegaT chì quella impiegata durante l'installazione, marcate a casella inghjò.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145524Z">
+        <seg>S’è vò vulete impiegà a stessa lingua in OmegaT chì quella impiegata durante l’installazione, marcate a casella inghjò.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T181039Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T181039Z">
-        <seg>S'è i vostri schedarii d'urigine sò furmatati, per indettu Microsoft Word, LibreOffice Writer o HTML, OmegaT cunvertiscerà tutte e marche di furmatu in etichette chì accircunda u testu chì vò traducite.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T181039Z">
+        <seg>S’è i vostri schedarii d’urigine sò furmatati, per indettu Microsoft Word, LibreOffice Writer o HTML, OmegaT cunvertiscerà tutte e marche di furmatu in etichette chì accircunda u testu chì vò traducite.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4093,8 +4235,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133711Z" creationid="Patriccollu" creationdate="20170213T133711Z">
-        <seg>In l'Editore</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T133711Z">
+        <seg>In l’Editore</seg>
       </tuv>
     </tu>
     <tu>
@@ -4149,8 +4291,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Information about OmegaT</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T181916Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120059Z">
-        <seg>Infurmazione apprupositu d'OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120059Z">
+        <seg>Infurmazione apprupositu d’OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -4181,8 +4323,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T152655Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T152655Z">
-        <seg>Framette l'Etichetta {0}</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T152655Z">
+        <seg>Framette l’Etichetta {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4213,16 +4355,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Installing OmegaT</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120129Z">
-        <seg>Installazione d'OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120129Z">
+        <seg>Installazione d’OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T130632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T130632Z">
-        <seg>Installazione è Impiegu d'OmegaT" in u Manuale di l'Utilizatore.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174457Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T130632Z">
+        <seg>Installazione è Impiegu d’OmegaT » in u manuale di l’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4304,27 +4446,27 @@ don't have to pay anything to be able to use it, even for professional use,
 and you are free to modify it and/or re-distribute it as long as you respect 
 the user license.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T183651Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183221Z">
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183221Z">
         <seg>Hè di rigalu, vole si dì chì vò ùn avete nunda à
 pagà per impiegallu, ancu per un adopru prufessiunale, è chì vò site liberu
 di mudificallu è/o di ridistribuiscellu tantu chì vò rispettate a licenza
-d'utilizatore.</seg>
+d’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175101Z">
-        <seg>Quand'ellu hè ghjuvevule di circà parolle e frase in u testu d'urigine è/o in a vostra traduzzione, si pò appughjà nant'à &lt;k0&gt;Ctrl+F&lt;/k0&gt; per affissà u dialogu &lt;g1&gt;Ricerca di Testu&lt;/g1&gt; quand'ella vi piace.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175101Z">
+        <seg>Quand’ellu hè ghjuvevule di circà parolle e frase in u testu d’urigine è/o in a vostra traduzzione, si pò appughjà nant’à &lt;k0&gt;Ctrl+F&lt;/k0&gt; per affissà u dialogu &lt;g1&gt;Ricerca di Testu&lt;/g1&gt; quand’ella vi piace.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;s0&gt;&lt;s1&gt;Ctrl+F&lt;/s1&gt;&lt;/s0&gt; for the &lt;s2&gt;Text Search&lt;/s2&gt; dialog at any time.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175844Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175844Z">
-        <seg>Quand'ellu hè ghjuvevule di circà parolle e frase in u testu d'urigine è/o in a vostra traduzzione, si pò appughjà nant'à &lt;s0&gt;&lt;s1&gt;Ctrl+F&lt;/s1&gt;&lt;/s0&gt; per affissà u dialogu &lt;s2&gt;Ricerca di Testu&lt;/s2&gt; quand'ella vi piace.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175844Z">
+        <seg>Quand’ellu hè ghjuvevule di circà parolle e frase in u testu d’urigine è/o in a vostra traduzzione, si pò appughjà nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+F&lt;/s1&gt;&lt;/s0&gt; per affissà u dialogu &lt;s2&gt;Ricerca di Testu&lt;/s2&gt; quand’ella vi piace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4547,8 +4689,8 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T130850Z" creationid="Patriccollu" creationdate="20170213T130828Z">
-        <seg>LanguageTool (Licenza LGPL è d'altre)</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T130828Z">
+        <seg>LanguageTool (Licenza LGPL è d’altre)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4617,10 +4759,30 @@ d'utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Linux on PowerPC systems: 
+Users will need to download IBM's JRE, as Sun does 
+not provide a JRE for PPC systems.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Linux on PowerPC systems: 
+Users will need to download IBM’s JRE, as Sun does 
+not provide a JRE for PPC systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Load a project to configure rules for that project's languages.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Load a project to configure rules for that project’s languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Loading TMX files...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184041Z">
-        <seg>Caricamentu in corsu di schedarii TMX…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184041Z">
+        <seg>Caricamentu di schedarii TMX…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4643,8 +4805,8 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>Loading project...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183615Z">
-        <seg>Caricamentu in corsu di u prughjettu…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183615Z">
+        <seg>Caricamentu di u prughjettu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,8 +4933,8 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T190028Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190028Z">
-        <seg>Marcà i &amp;Caratteri di Cuntrollu d'Algoritimu Bidirezziunale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190028Z">
+        <seg>Marcà i &amp;Caratteri di Cuntrollu d’Algoritimu Bidirezziunale</seg>
       </tuv>
     </tu>
     <tu>
@@ -4843,8 +5005,8 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>Master Password</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173354Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173354Z">
-        <seg>Parolla d'Entrata Principale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173354Z">
+        <seg>Parolla d’Entrata Principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -4917,6 +5079,14 @@ d'utilizatore.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T160910Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T160910Z">
         <seg>Traduttore Microsoft</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Microsoft Translator's Client ID or Client Secret not available.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Microsoft Translator’s Client ID or Client Secret not available.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5131,16 +5301,16 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T173902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173902Z">
-        <seg>Dopu, u dialogu &lt;g0&gt;Schedarii di Prughjettu&lt;/g0&gt; s'apre.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173902Z">
+        <seg>Dopu, u dialogu &lt;g0&gt;Schedarii di Prughjettu&lt;/g0&gt; s’apre.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Next, the &lt;s0&gt;Project Files&lt;/s0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T215338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215338Z">
-        <seg>Dopu, u dialogu &lt;s0&gt;Schedarii di Prughjettu&lt;/s0&gt; s'apre.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215338Z">
+        <seg>Dopu, u dialogu &lt;s0&gt;Schedarii di Prughjettu&lt;/s0&gt; s’apre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5323,8 +5493,8 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144057Z">
-        <seg>Ci sò dinù ducumenti chì cuntenenu etichette chì ùn anu nunda à vede cù una marca di furmatu, ma chì sò dinù impurtante in i schedarii d'urigine (è in i schedarii di traduzzione).</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144057Z">
+        <seg>Ci sò dinù ducumenti chì cuntenenu etichette chì ùn anu nunda à vede cù una marca di furmatu, ma chì sò dinù impurtante in i schedarii d’urigine (è in i schedarii di traduzzione).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5355,32 +5525,40 @@ d'utilizatore.</seg>
       <tuv lang="EN">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145312Z" creationid="Patriccollu" creationdate="20170209T143744Z">
-        <seg>Lingua d'Interfaccia Utilizatore d'OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T143744Z">
+        <seg>Lingua d’Interfaccia Utilizatore d’OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T160505Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T160505Z">
-        <seg>OmegaT pò dinù cuntrollà e variabile di prugrammazione (variabile printf-function) cum'è '%s'.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T160505Z">
+        <seg>OmegaT pò dinù cuntrollà e variabile di prugrammazione (variabile printf-function) cum’è ’%s’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>OmegaT can generate and store a master password so you don’t have to enter it each time, but this is much less secure.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T150622Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
-        <seg>OmegaT hà sceltu l'ozzione "Iè" autumaticamente.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
+        <seg>OmegaT hà sceltu l’ozzione "Iè" autumaticamente.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT is a computer-assisted translation (CAT) tool.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T183226Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182841Z">
-        <seg>OmegaT hè un attrezzu di traduzzione assistita da l'urdinatore (TAO in
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182841Z">
+        <seg>OmegaT hè un attrezzu di traduzzione assistita da l’urdinatore (TAO in
 francese è CAT in inglese).</seg>
       </tuv>
     </tu>
@@ -5388,8 +5566,8 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T130425Z" creationid="Patriccollu" creationdate="20170213T130425Z">
-        <seg>OmegaT hè un attrezzu di Traduzzione Assistata da l'Urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma - chì cuntene funzioni cum'è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T130425Z">
+        <seg>OmegaT hè un attrezzu di Traduzzione Assistata da l’Urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma - chì cuntene funzioni cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5412,8 +5590,8 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T150014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150014Z">
-        <seg>OmegaT manca di memoria, è si fermerà quandu si preme nant'à u buttone Vai.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150014Z">
+        <seg>OmegaT manca di memoria, è si fermerà quandu si preme nant’à u buttone Vai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5454,8 +5632,8 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>OmegaT will present one segment at a time for you to translate.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171204T195805Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T141837Z">
-        <seg>OmegaT vi prisenterà un segmentu dopu à l'altru è toccu à voi di traducellu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T141837Z">
+        <seg>OmegaT vi prisenterà un segmentu dopu à l’altru è toccu à voi di traducellu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5486,8 +5664,8 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>OmegaT's main features are:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T183724Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183724Z">
-        <seg>E funzioni principale d'OmegaT sò :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183724Z">
+        <seg>E funzioni principale d’OmegaT sò :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5502,16 +5680,16 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162910Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162910Z">
-        <seg>Quandu site sicuru(a) chì ùn ci hè micca di sbagliu d'etichetta in a vostra traduzzione, appughjà nant'à &lt;k0&gt;Ctrl+D&lt;/k0&gt; per ingenerà i schedarii di destinazione, chì seranu creati in u sottucartulare &lt;f1&gt;/target/&lt;/f1&gt; di u vostru cartulare di prughjettu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162910Z">
+        <seg>Quandu site sicuru(a) chì ùn ci hè micca di sbagliu d’etichetta in a vostra traduzzione, appughjà nant’à &lt;k0&gt;Ctrl+D&lt;/k0&gt; per ingenerà i schedarii di destinazione, chì seranu creati in u sottucartulare &lt;f1&gt;/target/&lt;/f1&gt; di u vostru cartulare di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Once you have made certain that there are no tag errors in your translation, press &lt;s0&gt;&lt;s1&gt;Ctrl+D&lt;/s1&gt;&lt;/s0&gt; to generate the target files, which will be created in the &lt;c2&gt;/target/&lt;/c2&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165451Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165451Z">
-        <seg>Quandu site sicuru(a) chì ùn ci hè micca di sbagliu d'etichetta in a vostra traduzzione, appughjà nant'à &lt;s0&gt;&lt;s1&gt;Ctrl+D&lt;/s1&gt;&lt;/s0&gt; per ingenerà i schedarii di destinazione, chì seranu creati in u sottucartulare &lt;c2&gt;/target/&lt;/c2&gt; di u vostru cartulare di prughjettu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165451Z">
+        <seg>Quandu site sicuru(a) chì ùn ci hè micca di sbagliu d’etichetta in a vostra traduzzione, appughjà nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+D&lt;/s1&gt;&lt;/s0&gt; per ingenerà i schedarii di destinazione, chì seranu creati in u sottucartulare &lt;c2&gt;/target/&lt;/c2&gt; di u vostru cartulare di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,16 +5720,16 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Open Source File</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145901Z" creationid="Patriccollu" creationdate="20170210T145901Z">
-        <seg>Apre un Schedariu d'Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170210T145901Z">
+        <seg>Apre un Schedariu d’Urigine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open Source File Location</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183014Z">
-        <seg>Apre a Lucalizazione di u Schedariu d'Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183014Z">
+        <seg>Apre a Lucalizazione di u Schedariu d’Urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -5582,16 +5760,16 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145923Z" creationid="Patriccollu" creationdate="20170210T145923Z">
-        <seg>Apre {0} Schedarii d'Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170210T145923Z">
+        <seg>Apre {0} Schedarii d’Urigine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open {0} Source Files' Locations</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183104Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183104Z">
-        <seg>Apre {0} Lucalizazione(i) di Schedarii d'Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183104Z">
+        <seg>Apre {0} Lucalizazione(i) di Schedarii d’Urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -5670,26 +5848,26 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T171654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171654Z">
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171654Z">
         <seg>A versione corsa hè stata tradutta da Patriccollu di Santa-Maria è Sichè.
 
-L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
+L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Other contributions by</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122239Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122239Z">
-        <seg>D'altre cuntribuzioni da</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122239Z">
+        <seg>D’altre cuntribuzioni da</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145636Z" creationid="Patriccollu" creationdate="20170209T145636Z">
-        <seg>Osinnò, OmegaT impiegherà a ligua di u sistema d'operazione.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145636Z">
+        <seg>Osinnò, OmegaT impiegherà a ligua di u sistema d’operazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5712,8 +5890,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172310Z">
-        <seg>Parolla d'entrata :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z">
+        <seg>Parolla d’entrata :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5768,8 +5946,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T144351Z" creationid="Patriccollu" creationdate="20170209T144351Z">
-        <seg>Eseguisce una nettata di SVN nant'à u prughettu attuale o qualsisia repository SVN lucale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T144351Z">
+        <seg>Eseguisce una nettata di SVN nant’à u prughettu attuale o qualsisia repository SVN lucale</seg>
       </tuv>
     </tu>
     <tu>
@@ -5808,16 +5986,16 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Please download and install the latest Java JDK from Oracle.com and try again.";</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T144834Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144755Z">
-        <seg>Ci vole à scaricà è installà l'ultima versione di u JDK per Java à partesi da Oracle.com è pruvà torna.";</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144755Z">
+        <seg>Ci vole à scaricà è installà l’ultima versione di u JDK per Java à partesi da Oracle.com è pruvà torna.";</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Please download and install the latest version of Java from www.java.com and try again.";</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T144606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144606Z">
-        <seg>Ci vole à scaricà è installà l'ultima versione di Java à partesi da www.java.com è pruvà torna.";</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144606Z">
+        <seg>Ci vole à scaricà è installà l’ultima versione di Java à partesi da www.java.com è pruvà torna.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -5832,8 +6010,18 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Please enter your password again for confirmation.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172706Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172706Z">
-        <seg>Ci vole à scrive torna a vostra parolla d'entrata per cunfirmà.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172706Z">
+        <seg>Ci vole à scrive torna a vostra parolla d’entrata per cunfirmà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please see the file 'changes.txt' for detailed information about changes in
+this and all previous releases.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Please see the file ’changes.txt’ for detailed information about changes in
+this and all previous releases.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5848,16 +6036,16 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Please translate this plural as plural form #{0}.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T182726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182726Z">
-        <seg>Ci vole à traduce stu plurale cum'è forma plurale numeru {0}.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182726Z">
+        <seg>Ci vole à traduce stu plurale cum’è forma plurale numeru {0}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Please try again after you open a project.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145032Z" creationid="Patriccollu" creationdate="20170209T145032Z">
-        <seg>Ci vole à pruvà torna dopu à l'apertura di u prughjettu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145032Z">
+        <seg>Ci vole à pruvà torna dopu à l’apertura di u prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5872,8 +6060,16 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Please type or paste the URL of the mediawiki page</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T151143Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151143Z">
-        <seg>Ci vole à scrive o incullà l'URL di a pagina MediaWiki</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151143Z">
+        <seg>Ci vole à scrive o incullà l’URL di a pagina MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Plugin successfully loaded from class ’{0}’</seg>
       </tuv>
     </tu>
     <tu>
@@ -5928,8 +6124,26 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Preserve spaces &amp;for all tags</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133305Z" creationid="Patriccollu" creationdate="20170213T133305Z">
-        <seg>Cunservà i spazii per &amp;tutte l'etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T133305Z">
+        <seg>Cunservà i spazii per &amp;tutte l’etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Press ’Cancel’ to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press 'OK' to convert the project into a 4.0-style team project.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Press ’OK’ to convert the project into a 4.0-style team project.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6040,8 +6254,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Project load cancelled by user</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183717Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183658Z">
-        <seg>Caricamentu di u prughjettu abbandunatu da l'utilizatore</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183658Z">
+        <seg>Caricamentu di u prughjettu abbandunatu da l’utilizatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -6072,8 +6286,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172259Z" creationid="Patriccollu" creationdate="20170213T134505Z">
-        <seg>Nome d'Utilizatore è Parolla d'Entrata di u Proxy</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T134505Z">
+        <seg>Nome d’Utilizatore è Parolla d’Entrata di u Proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6106,6 +6320,14 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122124Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122124Z">
         <seg>Rashid Umarov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Rather than beep&lt;p&gt;Or a rude error message&lt;p&gt;These words: ’Page not found’</seg>
       </tuv>
     </tu>
     <tu>
@@ -6240,16 +6462,16 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Remove &amp;leading and trailing tags</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133043Z" creationid="Patriccollu" creationdate="20170213T133043Z">
-        <seg>Caccià l'&amp;etichette di principiu è di fine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T133043Z">
+        <seg>Caccià l’&amp;etichette di principiu è di fine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Remove OmegaT tags which have &lt;br&gt;lower case letter before and after it</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T143750Z" creationid="Patriccollu" creationdate="20170209T152731Z">
-        <seg>Caccià l'etichette OmegaT chì anu &lt;br&gt;una lettera minuscula nanzu è dopu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152731Z">
+        <seg>Caccià l’etichette OmegaT chì anu &lt;br&gt;una lettera minuscula nanzu è dopu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6264,8 +6486,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Remove Ta&amp;gs</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160257Z">
-        <seg>&amp;Caccià l'Etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160257Z">
+        <seg>&amp;Caccià l’Etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -6304,8 +6526,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Remove tags in the current target</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T154433Z" creationid="Patriccollu" creationdate="20170209T145137Z">
-        <seg>Caccià l'etichette in a destinazione attuale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145137Z">
+        <seg>Caccià l’etichette in a destinazione attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -6344,8 +6566,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Repetitions from other files:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185939Z">
-        <seg>Ripetizioni cù d'altri schedarii :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185939Z">
+        <seg>Ripetizioni cù d’altri schedarii :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6376,8 +6598,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Replace &amp;glossary hits when inserting source text</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T172008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172008Z">
-        <seg>Rimpiazzà l'ementi di &amp;glussariu quandu u testu d'urigine hè framessu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172008Z">
+        <seg>Rimpiazzà l’ementi di &amp;glussariu quandu u testu d’urigine hè framessu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6410,8 +6632,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Replace custom tags with space</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T152604Z" creationid="Patriccollu" creationdate="20170209T152604Z">
-        <seg>Rimpiazzà l'etichette persunalizate cù spaziu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152604Z">
+        <seg>Rimpiazzà l’etichette persunalizate cù spaziu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6426,8 +6648,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T160937Z" creationid="Patriccollu" creationdate="20170209T152015Z">
-        <seg>Rimpiazzà i spazii cù spazii micca spezzevule quand'ellu hè necessariu in Francese</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152015Z">
+        <seg>Rimpiazzà i spazii cù spazii micca spezzevule quand’ellu hè necessariu in Francese</seg>
       </tuv>
     </tu>
     <tu>
@@ -6474,8 +6696,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Reset Master Password</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
-        <seg>Viutà a Parolla d'Entrata Principale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
+        <seg>Viutà a Parolla d’Entrata Principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -6588,6 +6810,30 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150154Z" creationid="Patriccollu" creationdate="20170210T150154Z">
         <seg>Fiura SVG è Adobe Illustrator Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>SVN ’{0}’ error: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>SVN ’{0}’ execution finished successfully</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>SVN ’{0}’ execution start</seg>
       </tuv>
     </tu>
     <tu>
@@ -6754,40 +7000,40 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>See "Chapter 3.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122733Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122733Z">
-        <seg>Fighjate "Capitulu 3.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174503Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122733Z">
+        <seg>Fighjate « Capitulu 3.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>See &lt;a1&gt;File Filters&lt;/a1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165529Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165529Z">
-        <seg>Fighjà &lt;a1&gt;Filtri di Schedariu&lt;/a1&gt; per ottene una lista di i furmati di schedariu ch'OmegaT pò trattà.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165529Z">
+        <seg>Fighjà &lt;a1&gt;Filtri di Schedariu&lt;/a1&gt; per ottene una lista di i furmati di schedariu ch’OmegaT pò trattà.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T163456Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163456Z">
-        <seg>Fighjà &lt;l1&gt;Filtri di Schedariu&lt;/l1&gt; per ottene una lista di i furmati di schedariu ch'OmegaT pò trattà.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163456Z">
+        <seg>Fighjà &lt;l1&gt;Filtri di Schedariu&lt;/l1&gt; per ottene una lista di i furmati di schedariu ch’OmegaT pò trattà.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T150134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150134Z">
-        <seg>Fighjate Aiutu &gt; Manuale di l'Utilizatore per sapene di più.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150134Z">
+        <seg>Fighjate Aiutu &gt; Manuale di l’Utilizatore per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T161613Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161613Z">
-        <seg>Fighjate l'instruzzioni in u manuale OmegaT.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161613Z">
+        <seg>Fighjate l’instruzzioni in u manuale OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7034,40 +7280,40 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Source File Encoding:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T180738Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180738Z">
-        <seg>Cudificazione di Schedariu d'Urigine :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180738Z">
+        <seg>Cudificazione di Schedariu d’Urigine :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source Filename Pattern:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T180702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180702Z">
-        <seg>Mudellu di Nome di Schedariu d'Urigine :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180702Z">
+        <seg>Mudellu di Nome di Schedariu d’Urigine :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160438Z">
-        <seg>Cartulare di Schedarii d'Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160438Z">
+        <seg>Cartulare di Schedarii d’Urigine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source Files Folder:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T154800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154800Z">
-        <seg>Cartulare di Schedarii d'Urigine :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154800Z">
+        <seg>Cartulare di Schedarii d’Urigine :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183956Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183956Z">
-        <seg>Caricamentu compiu di schedariu d'urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183956Z">
+        <seg>Caricamentu compiu di schedariu d’urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -7082,8 +7328,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Source term:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181539Z">
-        <seg>Termine d'urigine :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181539Z">
+        <seg>Termine d’urigine :</seg>
       </tuv>
     </tu>
     <tu>
@@ -7098,24 +7344,24 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T152202Z" creationid="Patriccollu" creationdate="20170209T152119Z">
-        <seg>Cuntrollà l'ortugrafia</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152119Z">
+        <seg>Cuntrollà l’ortugrafia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Spellcheck - errors found:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T152227Z" creationid="Patriccollu" creationdate="20170209T152227Z">
-        <seg>Cuntrollu d'ortugrafia - sbaglii trovi :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152227Z">
+        <seg>Cuntrollu d’ortugrafia - sbaglii trovi :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Spellchecker</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T152152Z" creationid="Patriccollu" creationdate="20170209T152152Z">
-        <seg>Cuntrollu d'ortugrafia</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152152Z">
+        <seg>Cuntrollu d’ortugrafia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7130,16 +7376,16 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T190229Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190229Z">
-        <seg>Penseri d'Ortugrafia</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190229Z">
+        <seg>Penseri d’Ortugrafia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Spelling errors(s)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T190621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T190621Z">
-        <seg>Sbagliu(i) d'ortugrafia</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T190621Z">
+        <seg>Sbagliu(i) d’ortugrafia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7204,16 +7450,16 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Strip Tags</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145113Z" creationid="Patriccollu" creationdate="20170209T143752Z">
-        <seg>Caccià l'Etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T143752Z">
+        <seg>Caccià l’Etichette</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Strip tags in current segment</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145152Z" creationid="Patriccollu" creationdate="20170209T145152Z">
-        <seg>Caccià l'etichette in u segmentu attuale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145152Z">
+        <seg>Caccià l’etichette in u segmentu attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -7308,32 +7554,32 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173420Z">
-        <seg>Penseri d'Etichetta</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173420Z">
+        <seg>Penseri d’Etichetta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tag Processing</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T134536Z" creationid="Patriccollu" creationdate="20170213T134536Z">
-        <seg>Trattamentu d'Etichetta</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T134536Z">
+        <seg>Trattamentu d’Etichetta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tag Processing Options</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T134609Z" creationid="Patriccollu" creationdate="20170213T134609Z">
-        <seg>Ozzioni di Trattamentu d'Etichetta</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T134609Z">
+        <seg>Ozzioni di Trattamentu d’Etichetta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T183205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T183205Z">
-        <seg>Validazione fiasca d'etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T183205Z">
+        <seg>Validazione fiasca d’etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -7500,16 +7746,16 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>The &lt;c3&gt;level1&lt;/c3&gt; and &lt;c4&gt;level2&lt;/c4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165638Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165638Z">
-        <seg>E memorie &lt;c3&gt;level1&lt;/c3&gt; è &lt;c4&gt;level2&lt;/c4&gt; ponu esse sparte cù l'utilizatori d'altri prugrammi di traduzzione.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165638Z">
+        <seg>E memorie &lt;c3&gt;level1&lt;/c3&gt; è &lt;c4&gt;level2&lt;/c4&gt; ponu esse sparte cù l’utilizatori d’altri prugrammi di traduzzione.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164732Z">
-        <seg>E memorie &lt;f3&gt;level1&lt;/f3&gt; è &lt;f4&gt;level2&lt;/f4&gt; ponu esse sparte cù l'utilizatori d'altri prugrammi di traduzzione.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164732Z">
+        <seg>E memorie &lt;f3&gt;level1&lt;/f3&gt; è &lt;f4&gt;level2&lt;/f4&gt; ponu esse sparte cù l’utilizatori d’altri prugrammi di traduzzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7524,40 +7770,40 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>The memory named &lt;c5&gt;omegat&lt;/c5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165659Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165659Z">
-        <seg>A memoria chjamata &lt;c5&gt;omegat&lt;/c5&gt; pò esse impiegata da OmegaT stessu, per d'altri prughjetti futuri creati dapervoi.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165659Z">
+        <seg>A memoria chjamata &lt;c5&gt;omegat&lt;/c5&gt; pò esse impiegata da OmegaT stessu, per d’altri prughjetti futuri creati dapervoi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164936Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164936Z">
-        <seg>A memoria chjamata &lt;f5&gt;omegat&lt;/f5&gt; pò esse impiegata da OmegaT stessu, per d'altri prughjetti futuri creati dapervoi.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164936Z">
+        <seg>A memoria chjamata &lt;f5&gt;omegat&lt;/f5&gt; pò esse impiegata da OmegaT stessu, per d’altri prughjetti futuri creati dapervoi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The most current info about OmegaT can be found at</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T182009Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182009Z">
-        <seg>L'infurmazione a più ricente apprupositu d'OmegaT si trova à</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182009Z">
+        <seg>L’infurmazione a più ricente apprupositu d’OmegaT si trova à</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The password cannot be empty.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172606Z">
-        <seg>A parolla d'entrata ùn pò micca esse viota.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172606Z">
+        <seg>A parolla d’entrata ùn pò micca esse viota.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>The passwords don't match.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172730Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172730Z">
-        <seg>E parolle d'entrata sò sfarente.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172730Z">
+        <seg>E parolle d’entrata sò sfarente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7588,8 +7834,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T142702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142702Z">
-        <seg>L'etichette in OmegaT sò grisge, è cusì sò faciule à ricunnosce.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142702Z">
+        <seg>L’etichette in OmegaT sò grisge, è cusì sò faciule à ricunnosce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7612,16 +7858,26 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162433Z">
-        <seg>Ghjè perchè, appughjà nant'à &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; nanzu d'ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162433Z">
+        <seg>Ghjè perchè, appughjà nant’à &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; nanzu d’ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Therefore, press &lt;s0&gt;&lt;s1&gt;Ctrl+Shift+V&lt;/s1&gt;&lt;/s0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165412Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165412Z">
-        <seg>Ghjè perchè, appughjà nant'à &lt;s0&gt;&lt;s1&gt;Ctrl+Shift+V&lt;/s1&gt;&lt;/s0&gt; nanzu d'ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165412Z">
+        <seg>Ghjè perchè, appughjà nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+Shift+V&lt;/s1&gt;&lt;/s0&gt; nanzu d’ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Therefore, the location of OmegaT’s
+configuration folder cannot be reliably determined.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7644,8 +7900,8 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>This URL appears to be invalid.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T150247Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150141Z">
-        <seg>St'URL pare inaccettevule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150141Z">
+        <seg>St’URL pare inaccettevule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7676,16 +7932,16 @@ L'altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T132227Z" creationid="Patriccollu" creationdate="20170213T132227Z">
-        <seg>Stu prugramma hè distribuitu cù a sperenza d'esse ghjuvevule, ma SENZA NISUNA ASSICURANZA ; senza manc'una assicuranza di CUMMERCIALISAZIONE o di CURRISPUNDENZA À UN IMPIEGU PARTICULARE.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T132227Z">
+        <seg>Stu prugramma hè distribuitu cù a sperenza d’esse ghjuvevule, ma SENZA NISUNA ASSICURANZA ; senza manc’una assicuranza di CUMMERCIALISAZIONE o di CURRISPUNDENZA À UN IMPIEGU PARTICULARE.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T131543Z" creationid="Patriccollu" creationdate="20170213T131543Z">
-        <seg>Stu prugramma hè liberu ; pudete ridistribuiscellu è/o mudificallu dapervoi sottu à i termi di a Licenza Publica Generale GNU tale chì publicata da a Free Software Foundation ; sia a versione 3 di a licenza, o s'è voi preferite, una versione più recente.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T131543Z">
+        <seg>Stu prugramma hè liberu ; pudete ridistribuiscellu è/o mudificallu dapervoi sottu à i termi di a Licenza Publica Generale GNU tale chì publicata da a Free Software Foundation ; sia a versione 3 di a licenza, o s’è voi preferite, una versione più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7743,40 +7999,50 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164035Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164035Z">
-        <seg>Per arricurdassi di e preferenze iniziale di u prughjettu, apre u dialogu di e pruprietà di prughjettu, appughjendu nant'à &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164035Z">
+        <seg>Per arricurdassi di e preferenze iniziale di u prughjettu, apre u dialogu di e pruprietà di prughjettu, appughjendu nant’à &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;s0&gt;&lt;s1&gt;Ctrl+E&lt;/s1&gt;&lt;/s0&gt;.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165542Z">
-        <seg>Per arricurdassi di e preferenze iniziale di u prughjettu, apre u dialogu di e pruprietà di prughjettu, appughjendu nant'à &lt;s0&gt;&lt;s1&gt;Ctrl+E&lt;/s1&gt;&lt;/s0&gt;.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165542Z">
+        <seg>Per arricurdassi di e preferenze iniziale di u prughjettu, apre u dialogu di e pruprietà di prughjettu, appughjendu nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+E&lt;/s1&gt;&lt;/s0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T164332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164332Z">
-        <seg>Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu &lt;g1&gt;Schedarii di Prughjettu&lt;/g1&gt;, appughjendu nant'à &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164332Z">
+        <seg>Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu &lt;g1&gt;Schedarii di Prughjettu&lt;/g1&gt;, appughjendu nant’à &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To see a list of files in the project, open the &lt;s2&gt;Project Files&lt;/s2&gt; dialog by pressing &lt;s3&gt;&lt;s4&gt;Ctrl+L&lt;/s4&gt;&lt;/s3&gt;.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165600Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165600Z">
-        <seg>Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu &lt;s2&gt;Schedarii di Prughjettu&lt;/s2&gt;, appughjendu nant'à &lt;s3&gt;&lt;s4&gt;Ctrl+L&lt;/s4&gt;&lt;/s3&gt;.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165600Z">
+        <seg>Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu &lt;s2&gt;Schedarii di Prughjettu&lt;/s2&gt;, appughjendu nant’à &lt;s3&gt;&lt;s4&gt;Ctrl+L&lt;/s4&gt;&lt;/s3&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>To start using OmegaT, first create a project that will hold all your files, such as your source file, translation memories, glossaries, and eventually your translated file.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T172817Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172817Z">
-        <seg>Per principià à impiegà OmegaT, create primu un prughjettu chì cuntenerà tutti i vostri schedarii, cum'è quellu d'urigine, e memorie di traduzzione, i glossarii, è in fine di contu, u schedariu traduttu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T172817Z">
+        <seg>Per principià à impiegà OmegaT, create primu un prughjettu chì cuntenerà tutti i vostri schedarii, cum’è quellu d’urigine, e memorie di traduzzione, i glossarii, è in fine di contu, u schedariu traduttu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To translate OmegaT's user interface, user manual or other related documents,
+read:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>To translate OmegaT’s user interface, user manual or other related documents,
+read:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7855,16 +8121,16 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>Translate the following attributes:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150737Z" creationid="Patriccollu" creationdate="20170210T150737Z">
-        <seg>Traduce st'attributi :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170210T150737Z">
+        <seg>Traduce st’attributi :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Translate the following elements:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150543Z" creationid="Patriccollu" creationdate="20170210T150543Z">
-        <seg>Traduce st'elementi :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170210T150543Z">
+        <seg>Traduce st’elementi :</seg>
       </tuv>
     </tu>
     <tu>
@@ -8173,6 +8439,14 @@ di copia © [2018].</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Unknown plugin type ’{0}’ in ’{1}’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Untranslated segment</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T184349Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T184349Z">
@@ -8231,8 +8505,8 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T141428Z" creationid="Patriccollu" creationdate="20170213T141428Z">
-        <seg>Impiegà cum'è Traduzzione Predefinita</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T141428Z">
+        <seg>Impiegà cum’è Traduzzione Predefinita</seg>
       </tuv>
     </tu>
     <tu>
@@ -8247,16 +8521,16 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>Use the installation language in OmegaT</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145724Z" creationid="Patriccollu" creationdate="20170209T145724Z">
-        <seg>Impiegà a lingua d'installazione in OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145724Z">
+        <seg>Impiegà a lingua d’installazione in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>User interface language for OmegaT</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T145339Z" creationid="Patriccollu" creationdate="20170209T145339Z">
-        <seg>Lingua d'interfaccia utilizatore per OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145339Z">
+        <seg>Lingua d’interfaccia utilizatore per OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -8353,8 +8627,8 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173809Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173809Z">
-        <seg>Warn : Un raportu serà creatu indè stdout cù l'etichette inaccettevule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173809Z">
+        <seg>Warn : Un raportu serà creatu indè stdout cù l’etichette inaccettevule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8385,16 +8659,16 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T162927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175625Z">
-        <seg>Quandu vulete fighjà à chì s'assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant'à &lt;k2&gt;Ctrl+D&lt;/k2&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare &lt;f3&gt;/target/&lt;/f3&gt; di u vostru cartulare di prughjettu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175625Z">
+        <seg>Quandu vulete fighjà à chì s’assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant’à &lt;k2&gt;Ctrl+D&lt;/k2&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare &lt;f3&gt;/target/&lt;/f3&gt; di u vostru cartulare di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;s4&gt;&lt;s5&gt;Ctrl+D&lt;/s5&gt;&lt;/s4&gt; to generate the translated documents, which will be created in the &lt;c6&gt;/target/&lt;/c6&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215539Z">
-        <seg>Quandu vulete fighjà à chì s'assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant'à &lt;s4&gt;&lt;s5&gt;Ctrl+D&lt;/s5&gt;&lt;/s4&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare &lt;c6&gt;/target/&lt;/c6&gt; di u vostru cartulare di prughjettu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215539Z">
+        <seg>Quandu vulete fighjà à chì s’assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant’à &lt;s4&gt;&lt;s5&gt;Ctrl+D&lt;/s5&gt;&lt;/s4&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare &lt;c6&gt;/target/&lt;/c6&gt; di u vostru cartulare di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8435,6 +8709,14 @@ di copia © [2018].</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121537Z">
         <seg>Wildrich Fourie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Wind catches lily&lt;p&gt;Scatt'ring petals to the wind:&lt;p&gt;Your page is not found</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Wind catches lily&lt;p&gt;Scatt’ring petals to the wind:&lt;p&gt;Your page is not found</seg>
       </tuv>
     </tu>
     <tu>
@@ -8553,32 +8835,32 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T150727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150440Z">
-        <seg>Avete da disinstallà u dizziunariu di cuntrollu d'ortugrafia chì hè impiegatu avà da u vostru prughjettu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150440Z">
+        <seg>Avete da disinstallà u dizziunariu di cuntrollu d’ortugrafia chì hè impiegatu avà da u vostru prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171408Z">
-        <seg>Si pò aghjunghje un vucabulu novu ver di u glossariu appughjendu nant'à &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o cupià glossarii esistente ver di u sottucartulare &lt;f1&gt;/glossary/&lt;/f1&gt; di u vostru cartulare di prughjettu, è OmegaT circherà ci autumaticamente e parolle.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171408Z">
+        <seg>Si pò aghjunghje un vucabulu novu ver di u glossariu appughjendu nant’à &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o cupià glossarii esistente ver di u sottucartulare &lt;f1&gt;/glossary/&lt;/f1&gt; di u vostru cartulare di prughjettu, è OmegaT circherà ci autumaticamente e parolle.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You can add a new term to the glossary by pressing &lt;s0&gt;&lt;s1&gt;Ctrl+Shift+G&lt;/s1&gt;&lt;/s0&gt;, or copy existing glossaries to the &lt;c2&gt;/glossary/&lt;/c2&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T175817Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175817Z">
-        <seg>Si pò aghjunghje un vucabulu novu ver di u glossariu appughjendu nant'à &lt;s0&gt;&lt;s1&gt;Ctrl+Shift+G&lt;/s1&gt;&lt;/s0&gt;, o cupià glossarii esistente ver di u sottucartulare &lt;c2&gt;/glossary/&lt;/c2&gt; di u vostru cartulare di prughjettu, è OmegaT circherà ci autumaticamente e parolle.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175817Z">
+        <seg>Si pò aghjunghje un vucabulu novu ver di u glossariu appughjendu nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+Shift+G&lt;/s1&gt;&lt;/s0&gt;, o cupià glossarii esistente ver di u sottucartulare &lt;c2&gt;/glossary/&lt;/c2&gt; di u vostru cartulare di prughjettu, è OmegaT circherà ci autumaticamente e parolle.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T163719Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163719Z">
-        <seg>Si pò creà un prughjettu novu per ogni travagliu novu, è si pò aghjunghje schedarii d'urigine novi in un prughjettu quand'ella vi pare.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163719Z">
+        <seg>Si pò creà un prughjettu novu per ogni travagliu novu, è si pò aghjunghje schedarii d’urigine novi in un prughjettu quand’ella vi pare.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8617,6 +8899,14 @@ di copia © [2018].</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>You may also copy the files to your project’s ’source’ folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T150054Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150054Z">
@@ -8635,8 +8925,8 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T175017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175017Z">
-        <seg>Ci vole à cambià u vostru JDK 1.6 da l'ultima versione, o solu caccià i schedarii jaxb-*.jar in u cartulare OmegaT /lib</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175017Z">
+        <seg>Ci vole à cambià u vostru JDK 1.6 da l’ultima versione, o solu caccià i schedarii jaxb-*.jar in u cartulare OmegaT /lib</seg>
       </tuv>
     </tu>
     <tu>
@@ -8891,8 +9181,8 @@ di copia © [2018].</seg>
       <tuv lang="EN">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T145709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145709Z">
-        <seg>{1}, eseguitu da '{2}'</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145709Z">
+        <seg>{1}, eseguitu da ’{2}’</seg>
       </tuv>
     </tu>
     <tu>
