@@ -4071,6 +4071,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175408Z">
+        <seg>Framette l’urigine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ID</seg>
       </tuv>
       <tuv lang="CO">
@@ -6306,6 +6314,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175259Z">
+        <seg>Rimpiazzà cù a currispundenza o a selezzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>RELAX NG</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150057Z" creationid="Patriccollu" creationdate="20170210T150057Z">
@@ -6342,6 +6358,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190310T174701Z" creationid="Patriccollu" creationdate="20170210T145405Z">
         <seg>Rimpiazzà &amp;tuttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175524Z">
+        <seg>Rim&amp;piazzà cù l’urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -6654,8 +6678,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T134849Z" creationid="Patriccollu" creationdate="20170213T134849Z">
-        <seg>Rimpiazzà cù Traduzzione da a &amp;Mascina</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175321Z" creationid="Patriccollu" creationdate="20170213T134849Z">
+        <seg>Rimpiazzà cù a traduzzione di a &amp;mascina</seg>
       </tuv>
     </tu>
     <tu>
