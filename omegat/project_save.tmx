@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reset Master Password</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213318Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213318Z">
+        <seg>Viutà a parolla d'entrata principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153100Z">
@@ -2495,8 +2503,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Context Menu Priority:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133756Z" creationid="Patriccollu" creationdate="20170213T133756Z">
-        <seg>Priurità di Listinu Cuntestuale :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213449Z" creationid="Patriccollu" creationdate="20170213T133756Z">
+        <seg>Priurità di listinu cuntestuale :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3495,6 +3503,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Escape</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213409Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213409Z">
+        <seg>Scappamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
@@ -4393,8 +4409,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>In Editor</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T133711Z">
-        <seg>In l’Editore</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213437Z" creationid="Patriccollu" creationdate="20170213T133711Z">
+        <seg>In l’editore</seg>
       </tuv>
     </tu>
     <tu>
@@ -5193,6 +5209,14 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Master Password:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213254Z">
+        <seg>Parolla d'entrata principale :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185756Z">
@@ -5563,8 +5587,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Not Set</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172057Z">
-        <seg>Micca Definitu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172057Z">
+        <seg>Micca definitu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6910,8 +6934,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Reset Master Password</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
-        <seg>Viutà a Parolla d’Entrata Principale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213351Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
+        <seg>Viutà a parolla d'entrata principale</seg>
       </tuv>
     </tu>
     <tu>
