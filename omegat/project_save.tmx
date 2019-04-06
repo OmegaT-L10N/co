@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Browse Online</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213043Z">
+        <seg>&amp;Sfuglià inlinea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Browse TaaS Collections...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
@@ -872,8 +880,8 @@
       <tuv lang="EN">
         <seg>&amp;Undo Changes</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172859Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172841Z">
-        <seg>&amp;Disfà i Cambiamenti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172841Z">
+        <seg>&amp;Disfà i cambiamenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -4209,8 +4217,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>I Understand; Do It Anyway</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173303Z">
-        <seg>Capiscu. Fatellu Quantunque</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212953Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173303Z">
+        <seg>Capiscu. Fatellu quantunque</seg>
       </tuv>
     </tu>
     <tu>
@@ -5043,8 +5051,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Machine Translation</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T134733Z" creationid="Patriccollu" creationdate="20170213T134733Z">
-        <seg>Traduzzione da a Mascina</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213209Z" creationid="Patriccollu" creationdate="20170213T134733Z">
+        <seg>Traduzzione da a mascina</seg>
       </tuv>
     </tu>
     <tu>
@@ -6918,8 +6926,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Restore &amp;Defaults</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172857Z">
-        <seg>&amp;Risturà e Predefinizioni</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172857Z">
+        <seg>&amp;Risturà e predefinizioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -7382,8 +7390,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172820Z">
-        <seg>Selezziunà una Categuria</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172820Z">
+        <seg>Selezziunà una categuria</seg>
       </tuv>
     </tu>
     <tu>
@@ -8146,6 +8154,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T181438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T181438Z">
         <seg>A dimensione di u testu eccede u massima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are many plugins available for OmegaT online.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213145Z">
+        <seg>Ci hè parechje estensioni dispunibule inlinea per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
