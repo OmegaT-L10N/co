@@ -6862,8 +6862,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Retrieve collection list...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Retrieve collection list…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Ricuperazione di a lista di cullezzioni…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7292,14 +7292,6 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Select TaaS Terminology &amp;Lookup Domain…</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Select a Category</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172820Z">
@@ -7464,6 +7456,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154800Z">
         <seg>Cartulare di schedarii d’urigine :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Source count</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210637Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210637Z">
+        <seg>Contu d’urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -7694,6 +7694,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>TaaS Collections</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210615Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210615Z">
+        <seg>Cullezzioni TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20160914T162532Z">
@@ -7786,6 +7794,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO">
         <seg>Destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Target count</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210704Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210704Z">
+        <seg>Contu di destinazione</seg>
       </tuv>
     </tu>
     <tu>
