@@ -2521,8 +2521,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu" creationdate="20170213T135328Z">
-        <seg>Creà un Elementu di &amp;Glossariu…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175652Z" creationid="Patriccollu" creationdate="20170213T135328Z">
+        <seg>Creà un elementu di &amp;glossariu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3099,6 +3099,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160121Z">
         <seg>&amp;Esclusioni…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175545Z">
+        <seg>&amp;Espurtà a selezzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -4073,8 +4081,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>I&amp;nsert Source</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175408Z">
-        <seg>Framette l’urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175408Z">
+        <seg>Framette l’uri&amp;gine</seg>
       </tuv>
     </tu>
     <tu>
@@ -4319,6 +4327,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175622Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175609Z">
+        <seg>Framette l’etichetta {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Insert Selection</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T154204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154204Z">
@@ -4329,8 +4345,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Insert Tag {0}</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T152655Z">
-        <seg>Framette l’Etichetta {0}</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T152655Z">
+        <seg>Framette l’etichetta {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6396,8 +6412,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T135455Z" creationid="Patriccollu" creationdate="20170213T135455Z">
-        <seg>Definisce una Traduzzione Identica</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175644Z" creationid="Patriccollu" creationdate="20170213T135455Z">
+        <seg>Definisce una traduzzione identica</seg>
       </tuv>
     </tu>
     <tu>
@@ -7102,16 +7118,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select &amp;Next Match</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T155224Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155224Z">
-        <seg>Selezziunà a Currispundenza &amp;Seguente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175706Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155224Z">
+        <seg>Selezziunà a currispundenza &amp;seguente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Select &amp;Previous Match</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T155238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155238Z">
-        <seg>Selezziunà a Currispundenza &amp;Precedente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155238Z">
+        <seg>Selezziunà a currispundenza &amp;precedente</seg>
       </tuv>
     </tu>
     <tu>
@@ -7126,8 +7142,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T155149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155149Z">
-        <seg>Selezziunà a &amp;Currispundenza</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175658Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155149Z">
+        <seg>Selezziunà a &amp;currispundenza</seg>
       </tuv>
     </tu>
     <tu>
