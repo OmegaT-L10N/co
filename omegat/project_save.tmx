@@ -1629,6 +1629,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212011Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212011Z">
+        <seg>Un sbagliu hè accadutu à l'arregistramentu di u TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145254Z">
@@ -1641,6 +1649,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T153216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151812Z">
         <seg>Un sbagliu hè accadutu durante u scaricamentu di u dizziunariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211927Z">
+        <seg>Un elementu cù u nome "{0}" esiste dighjà in stu locu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3729,8 +3745,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Filters...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Filters…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211748Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Filtri…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6064,8 +6080,8 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Pattern...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Pattern…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211807Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Mudellu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6934,8 +6950,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Rules...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Rules…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211737Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Regule…</seg>
       </tuv>
     </tu>
     <tu>
