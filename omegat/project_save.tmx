@@ -5782,16 +5782,16 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Open Target File</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183133Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183133Z">
-        <seg>Apre un Schedariu di Destinazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183133Z">
+        <seg>Apre un schedariu di destinazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open Target File Location</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183230Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183230Z">
-        <seg>Apre a Lucalizazione di u Schedariu di Destinazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204024Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183230Z">
+        <seg>Apre a lucalizazione di u schedariu di destinazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5822,16 +5822,16 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Open {0} Target Files</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183159Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183159Z">
-        <seg>Apre {0} Schedarii di Destinazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183159Z">
+        <seg>Apre {0} schedarii di destinazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open {0} Target Files' Locations</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183306Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183306Z">
-        <seg>Apre {0} Lucalizazione(i) di Schedarii di Destinazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204052Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183306Z">
+        <seg>Apre {0} lucalizazione(i) di i schedarii di destinazione</seg>
       </tuv>
     </tu>
     <tu>
