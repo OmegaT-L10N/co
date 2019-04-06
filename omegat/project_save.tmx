@@ -982,6 +982,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173418Z">
+        <seg>-h, --help
+		Affissa l'infurmazione d'impiegu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165112Z">
@@ -1305,6 +1315,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121955Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121639Z">
         <seg>Aaron Madlon-Kay (risponsevule d'integrazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173609Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173609Z">
+        <seg>Abort : Esce cù un sbagliu s'è l'etichette sò inaccettevule.</seg>
       </tuv>
     </tu>
     <tu>
