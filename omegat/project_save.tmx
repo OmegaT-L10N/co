@@ -3335,6 +3335,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204822Z">
+        <seg>Sbagliu à l'appustamentu di a cumanda esterna !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174432Z">
@@ -3481,8 +3489,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Escuzione di cumanda esterna…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Escuzione di a cumanda esterna…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3513,16 +3521,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>External command completed.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204440Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204440Z">
-        <seg>Cumanda esterna compia.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204729Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204440Z">
+        <seg>A cumanda esterna hè compia.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>External command failed.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204603Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204603Z">
-        <seg>Cumanda esterna fiasca.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204742Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204603Z">
+        <seg>A cumanda esterna hè fiasca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3617,8 +3625,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>File Name</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T193249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193249Z">
-        <seg>Nome di Schedariu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204903Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193249Z">
+        <seg>Nome di schedariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4345,8 +4353,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Individual File Statistics:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184856Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184856Z">
-        <seg>Statistiche di Schedariu Individuale :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184856Z">
+        <seg>Statistiche individuale di schedariu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6308,8 +6316,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project Statistics</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184524Z">
-        <seg>Statistiche di Prughjettu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204755Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184524Z">
+        <seg>Statistiche di prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6500,24 +6508,24 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185448Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185448Z">
-        <seg>Caratteri Rimanente (senza spazii)</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185448Z">
+        <seg>Caratteri rimanente (senza spazii)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Remaining Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184917Z">
-        <seg>Segmenti Rimanente :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204914Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184917Z">
+        <seg>Segmenti rimanente :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Remaining Words</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185302Z">
-        <seg>Parolle Rimanente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204938Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185302Z">
+        <seg>Parolle rimanente</seg>
       </tuv>
     </tu>
     <tu>
@@ -8167,8 +8175,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Total Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185422Z">
-        <seg>Tutale di Caratteri (senza spazii)</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204953Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185422Z">
+        <seg>Tutale di caratteri (senza spazii)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8183,8 +8191,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Total Words</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T193404Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193404Z">
-        <seg>Tutale di Parolle</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193404Z">
+        <seg>Tutale di parolle</seg>
       </tuv>
     </tu>
     <tu>
@@ -8455,8 +8463,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185508Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185508Z">
-        <seg>Caratteri Unichi (senza spazii)</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185508Z">
+        <seg>Caratteri unichi (senza spazii)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8479,40 +8487,40 @@ read:</seg>
       <tuv lang="EN">
         <seg>Unique Remaining Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185237Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185237Z">
-        <seg>Segmenti Unichi Rimanente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204925Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185237Z">
+        <seg>Segmenti unichi rmanente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Remaining Words</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185343Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185343Z">
-        <seg>Parolle Uniche Rimanente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204949Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185343Z">
+        <seg>Parolle uniche rimanente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Remaining:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184756Z">
-        <seg>Unichi Rimanente :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204836Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184756Z">
+        <seg>Unichi rimanente :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T193355Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193355Z">
-        <seg>Segmenti Unichi</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204919Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193355Z">
+        <seg>Segmenti unichi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Unique Words</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T185330Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185330Z">
-        <seg>Parolle Uniche</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204942Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185330Z">
+        <seg>Parolle uniche</seg>
       </tuv>
     </tu>
     <tu>
