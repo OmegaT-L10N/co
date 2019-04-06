@@ -2847,6 +2847,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Disable rule “{0}”</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212501Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212501Z">
+        <seg>Disattivà a regula “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display</seg>
       </tuv>
       <tuv lang="CO">
@@ -3049,8 +3057,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Don't Ask What to Check First</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212337Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Ùn dumandà micca cosa cuntrollà in primu locu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212350Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Ùn dumandà micca cosa cuntrollà in primu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4845,6 +4853,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212427Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212427Z">
+        <seg>Penseri cù LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTools Rules</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191727Z">
@@ -5155,8 +5171,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Master Password</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173354Z">
-        <seg>Parolla d’Entrata Principale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173354Z">
+        <seg>Parolla d’entrata principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -7302,8 +7318,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Select Issue Types</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185115Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185115Z">
-        <seg>Selezziunà i Tipi di Penseru</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185115Z">
+        <seg>Selezziunà i tipi di penseru</seg>
       </tuv>
     </tu>
     <tu>
@@ -7416,6 +7432,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162621Z">
         <seg>Definisce u Cartulare di Scritti…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set a master password to protect your private data.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212723Z">
+        <seg>Definisce una parolla d’entrata principale per prutege i vostri dati privati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7606,8 +7630,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Spelling Issues</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190229Z">
-        <seg>Penseri d’Ortugrafia</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212347Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190229Z">
+        <seg>Penseri d’ortugrafia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7800,8 +7824,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tag Issues</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173420Z">
-        <seg>Penseri d’Etichetta</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212402Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173420Z">
+        <seg>Penseri d’etichetta</seg>
       </tuv>
     </tu>
     <tu>
