@@ -1991,8 +1991,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Character Table</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165001Z">
-        <seg>Tavula di Caratteru</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165001Z">
+        <seg>Tavula di caratteru</seg>
       </tuv>
     </tu>
     <tu>
@@ -3777,8 +3777,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T162137Z">
-        <seg>Per ottene risulti più boni, ci vole à installà i dizziunarii adattati da Preferenze &gt; Cuntrollu d’Ortugrafia.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T162137Z">
+        <seg>Per ottene risulti più boni, ci vole à installà i dizziunarii adattati da Preferenze &gt; Cuntrollu d’ortugrafia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6118,6 +6118,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210300Z">
+        <seg>Ci vole à currege i cunflitti scegliendu una traduzzione per ogni segmentu inghjò.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please see the file 'changes.txt' for detailed information about changes in
 this and all previous releases.</seg>
       </tuv>
@@ -7304,6 +7312,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T130512Z" creationid="Patriccollu" creationdate="20170213T130512Z">
         <seg>Sequence Library (Licenza Sequence Library)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (original)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210126Z">
+        <seg>Servitore (uriginale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Server (updated)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210145Z">
+        <seg>Servitore (mudificatu)</seg>
       </tuv>
     </tu>
     <tu>
