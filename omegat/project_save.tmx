@@ -938,16 +938,6 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
-To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>(In the user’s manual, see ’Files to translate’ &gt; ’File formats’ for a list of supported file formats.)
-To add files to the project, click on the Copy Files to Source Folder… button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>,</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T154219Z" creationid="Patriccollu" creationdate="20170209T154219Z">
@@ -2473,8 +2463,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
-        <seg>Cupià Schedarii ver di u Cartulare d’&amp;Urigine…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174737Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
+        <seg>Cupià i schedarii ver di u cartulare d’&amp;urigine…</seg>
       </tuv>
     </tu>
     <tu>
@@ -2499,8 +2489,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Copy Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150954Z">
-        <seg>Cupià Schedarii ver di u Cartulare d’Urigine…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174755Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150954Z">
+        <seg>Cupià i schedarii ver di u cartulare d’urigine…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3027,24 +3017,24 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu" creationdate="20170210T145822Z">
-        <seg>Scaricà Prughjettu di S&amp;quadra…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174708Z" creationid="Patriccollu" creationdate="20170210T145822Z">
+        <seg>Scaricà un prughjettu di s&amp;quadra…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Download Media&amp;Wiki Page...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151042Z">
-        <seg>Scaricà una Pagina Media&amp;Wiki…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174801Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151042Z">
+        <seg>Scaricà una pagina Media&amp;Wiki…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Download MediaWiki Page</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T151056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151056Z">
-        <seg>Scaricà una Pagina MediaWiki</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174806Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151056Z">
+        <seg>Scaricà una pagina MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -5549,8 +5539,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
-        <seg>OmegaT hà sceltu l’ozzione "Iè" autumaticamente.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
+        <seg>OmegaT hà sceltu l’ozzione « Iè » autumaticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5712,8 +5702,8 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Open Recent Pro&amp;ject</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T151518Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150752Z">
-        <seg>Apre un &amp;Prughjettu Recente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174721Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150752Z">
+        <seg>Apre un &amp;prughjettu recente</seg>
       </tuv>
     </tu>
     <tu>
@@ -6246,8 +6236,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Project is Empty</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145719Z" creationid="Patriccollu" creationdate="20170210T145719Z">
-        <seg>Prughjettu Viotu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174630Z" creationid="Patriccollu" creationdate="20170210T145719Z">
+        <seg>U prughjettu hè viotu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8895,14 +8885,6 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T181306Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T181306Z">
         <seg>Avete chjappu u limita oghjincu per u vulume di testu traduttu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>You may also copy the files to your project’s ’source’ folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
       </tuv>
     </tu>
     <tu>
