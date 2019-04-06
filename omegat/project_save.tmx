@@ -5195,8 +5195,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Move &amp;Last</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T175430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T175430Z">
-        <seg>Move in &amp;Fine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180946Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T175430Z">
+        <seg>Move à a &amp;fine</seg>
       </tuv>
     </tu>
     <tu>
@@ -5766,16 +5766,16 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Open Source File</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170210T145901Z">
-        <seg>Apre un Schedariu d’Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180956Z" creationid="Patriccollu" creationdate="20170210T145901Z">
+        <seg>Apre un schedariu d’urigine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Open Source File Location</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183014Z">
-        <seg>Apre a Lucalizazione di u Schedariu d’Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T181020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183014Z">
+        <seg>Apre a lucalizazione di u schedariu d’urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -5806,8 +5806,8 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>Open {0} Source Files</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170210T145923Z">
-        <seg>Apre {0} Schedarii d’Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T181004Z" creationid="Patriccollu" creationdate="20170210T145923Z">
+        <seg>Apre {0} schedarii d’urigine</seg>
       </tuv>
     </tu>
     <tu>
