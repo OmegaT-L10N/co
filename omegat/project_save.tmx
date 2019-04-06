@@ -128,8 +128,8 @@
       <tuv lang="EN">
         <seg>&amp;Always Confirm Quit</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T153030Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153030Z">
-        <seg>&amp;Sempre Cunfirmà per Esce</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153030Z">
+        <seg>&amp;Sempre cunfirmà per esce</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172351Z">
-        <seg>&amp;Ultimi Cambiamenti…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172351Z">
+        <seg>&amp;Ultimi cambiamenti…</seg>
       </tuv>
     </tu>
     <tu>
@@ -656,8 +656,8 @@
       <tuv lang="EN">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T153100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153100Z">
-        <seg>&amp;Risturà a Finestra Principale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153100Z">
+        <seg>&amp;Risturà a finestra principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,8 +888,8 @@
       <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172648Z">
-        <seg>&amp;Manuale di l’Utilizatore</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180531Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172648Z">
+        <seg>&amp;Manuale di l’utilizatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -1333,6 +1333,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180446Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T180446Z">
+        <seg>Empiimentu &amp;autumaticu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ANTLR (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T130524Z" creationid="Patriccollu" creationdate="20170213T130514Z">
@@ -1391,8 +1399,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T153155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153155Z">
-        <seg>&amp;Accede à u Cartulare di Cunfigurazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180523Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153155Z">
+        <seg>&amp;Accede à u cartulare di cunfigurazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1751,8 +1759,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Auto-Completion</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patrick" changedate="20160925T171014Z" creationid="Patriccollu" creationdate="20160422T151215Z">
-        <seg>Empiimentu Autumaticu </seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180452Z" creationid="Patriccollu" creationdate="20160422T151215Z">
+        <seg>Empiimentu autumaticu </seg>
       </tuv>
     </tu>
     <tu>
@@ -4263,6 +4271,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180754Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T180754Z">
+        <seg>Per chì i cambiamenti sianu pigliati in contu, ci vole à chjode OmegaT è apre torna u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T171632Z">
@@ -4671,8 +4687,8 @@ d’utilizatore.</seg>
       <tuv lang="EN">
         <seg>L&amp;og...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172431Z">
-        <seg>&amp;Ghjurnale di Messaghji…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180541Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172431Z">
+        <seg>&amp;Ghjurnale di messaghji…</seg>
       </tuv>
     </tu>
     <tu>
