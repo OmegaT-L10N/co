@@ -7684,6 +7684,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source/translation lengths (characters)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T163513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T163513Z">
+        <seg>Longhezza di fonte/traduzzione (caratteri)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="CO" changeid="phenry" changedate="20150315T194620Z">
