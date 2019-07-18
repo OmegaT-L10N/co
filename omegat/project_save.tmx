@@ -4223,6 +4223,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Here you may also specify custom location of project folders.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170145Z">
+        <seg>Quì pudete dinù specificà una lucalizazione persunalizata per i cartulari di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174355Z">
@@ -6268,6 +6276,14 @@ this and all previous releases.</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>Please see the file ’changes.txt’ for detailed information about changes in
 this and all previous releases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165959Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T165959Z">
+        <seg>Ci vole à selezziunà a lingua di i vostri schedarii d’urigine è quella di a destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9371,8 +9387,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T165812Z">
-        <seg>Duveriate specificà a so nova lucalizazione osinò ci vuleria à ricreallu.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T165812Z">
+        <seg>Duveriate specificà a so nova lucalizazione osinnò ci vuleria à ricreallu.</seg>
       </tuv>
     </tu>
     <tu>
