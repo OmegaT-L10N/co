@@ -9369,6 +9369,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You should specify their new location or recreate them.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T165812Z">
+        <seg>Duveriate specificà a so nova lucalizazione osinò ci vuleria à ricreallu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T124744Z" creationid="Patriccollu" creationdate="20170210T145659Z">
