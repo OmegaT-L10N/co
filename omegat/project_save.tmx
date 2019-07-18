@@ -2673,8 +2673,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Create a New Project</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160558Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160558Z">
-        <seg>Creà un Novu Prughjettu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170157Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160558Z">
+        <seg>Creà un novu prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5771,8 +5771,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>OmegaT Project Files</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160656Z">
-        <seg>Schedarii di Prughjettu OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160656Z">
+        <seg>Schedarii di prughjettu OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -8777,6 +8777,30 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184344Z">
         <seg>Impussibule di custruisce u novu schedariu TMX !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to convert project!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170307Z">
+        <seg>Impussibule di cunvertisce u prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to download team project!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170348Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170348Z">
+        <seg>Impussibule di scaricà u prughjettu di squadra !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unable to read project file!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170238Z">
+        <seg>Impussibule di leghje u schedariu di prughjettu !</seg>
       </tuv>
     </tu>
     <tu>
