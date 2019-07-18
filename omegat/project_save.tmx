@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Apply to All</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225553Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225553Z">
+        <seg>&amp;Appiecà à tutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205516Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T205516Z">
@@ -2243,14 +2251,6 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Checking out the project...</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Checking out the project…</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Chihiro Hio</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121619Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121619Z">
@@ -3041,14 +3041,6 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20160909T153410Z" creationid="Patriccollu" creationdate="20160909T153410Z">
         <seg>Vulete rimpiazzallu ?</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Do you want to replace it with the one you're moving?</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Do you want to replace it with the one you’re moving?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5073,8 +5065,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Local Project Folder:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T164511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164511Z">
-        <seg>Cartulare Lucale di Prughjettu :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225246Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164511Z">
+        <seg>Cartulare lucale di prughjettu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -8412,8 +8404,8 @@ this and all previous releases.</seg>
       <tuv lang="EN">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T150005Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150005Z">
-        <seg>Quessu hè un dipositu Subversion.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225350Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150005Z">
+        <seg>Quessu hè un dipositu di Sottuversione.</seg>
       </tuv>
     </tu>
     <tu>
