@@ -480,8 +480,8 @@
       <tuv lang="EN">
         <seg>&amp;Modification Info</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T190458Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190458Z">
-        <seg>&amp;Infurmazione di Mudificazione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224121Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190458Z">
+        <seg>&amp;Infurmazione di mudificazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -2903,16 +2903,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Display &amp;None</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T190524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190524Z">
-        <seg>Ùn Affissà &amp;Nunda</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190524Z">
+        <seg>Ùn affissà &amp;nunda</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174616Z">
-        <seg>Affissà i segmenti d’&amp;Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224103Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T174616Z">
+        <seg>Affissà i segmenti d’&amp;urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -2935,16 +2935,16 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190632Z">
-        <seg>Affissà per &amp;Tutti i segmenti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190632Z">
+        <seg>Affissà per &amp;tutti i segmenti</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T190558Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190558Z">
-        <seg>Affissà per u Segmentu &amp;Attuale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224139Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190558Z">
+        <seg>Affissà per u segmentu &amp;attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -4127,8 +4127,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Go To Segment Source</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T142110Z">
-        <seg>Andà à l’Urigine di u Segmentu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224256Z" creationid="Patriccollu" creationdate="20170213T142110Z">
+        <seg>Andà à l’urigine di u segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4543,8 +4543,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T142022Z" creationid="Patriccollu" creationdate="20170213T142022Z">
-        <seg>Framette a Currispundenza o Selezzione in a Traduzzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224309Z" creationid="Patriccollu" creationdate="20170213T142022Z">
+        <seg>Framette a currispundenza o selezzione in a traduzzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5185,8 +5185,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Mar&amp;k Whitespace</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T185803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185803Z">
-        <seg>Marcà i Spazii &amp;Bianchi</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224207Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185803Z">
+        <seg>Marcà i spazii &amp;bianchi</seg>
       </tuv>
     </tu>
     <tu>
@@ -5201,24 +5201,24 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190220Z">
-        <seg>Marcà i segmenti Riempiuti &amp;Autumaticamente</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224248Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190220Z">
+        <seg>Marcà i segmenti riempiuti &amp;autumaticamente</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark &amp;Bidirectional Algorithm Control Characters</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190028Z">
-        <seg>Marcà i &amp;Caratteri di Cuntrollu d’Algoritimu Bidirezziunale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224223Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190028Z">
+        <seg>Marcà i &amp;caratteri di cuntrollu d’algoritimu bidirezziunale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T160946Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185741Z">
-        <seg>Marcà i Spa&amp;zii Micca Spezzevule</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185741Z">
+        <seg>Marcà i spa&amp;zii micca spezzevule</seg>
       </tuv>
     </tu>
     <tu>
@@ -5241,16 +5241,16 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185155Z">
-        <seg>Marcà i segmenti &amp;Micca Unichi</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224110Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185155Z">
+        <seg>Marcà i segmenti &amp;micca unichi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T173138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185258Z">
-        <seg>Marcà i segmenti cù &amp;Note</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224116Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185258Z">
+        <seg>Marcà i segmenti cù &amp;note</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,8 +6988,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace Translation with Match or Selection</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T142027Z" creationid="Patriccollu" creationdate="20170213T141910Z">
-        <seg>Rimpiazzà a Traduzzione cù a Currispundenza o Selezzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224323Z" creationid="Patriccollu" creationdate="20170213T141910Z">
+        <seg>Rimpiazzà a traduzzione cù a currispundenza o selezzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -8038,8 +8038,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>TM Matching Options</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T175112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175112Z">
-        <seg>Ozzioni di Currispundenza di MdT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175112Z">
+        <seg>Ozzioni di currispundenza di MdT</seg>
       </tuv>
     </tu>
     <tu>
