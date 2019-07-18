@@ -3641,8 +3641,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>External Search...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>External Search…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Ricerca esterna…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6974,8 +6974,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Repository Mapping...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Repository Mapping…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165237Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Cartugrafia di u dipositu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -7624,6 +7624,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T154444Z" creationid="Patriccollu" creationdate="20170209T153000Z">
         <seg>Tralascià i segmenti induve urigine=destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165619Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T165619Z">
+        <seg>Qualchì cartulare di prughjettu pare esse statu dispiazzatu.</seg>
       </tuv>
     </tu>
     <tu>
