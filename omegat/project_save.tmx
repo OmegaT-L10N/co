@@ -1675,6 +1675,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225639Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225639Z">
+        <seg>Un sbagliu hè accadutu durante l’apertura di l’elementu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An error occurred while trying to create a new folder</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171111Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171111Z">
@@ -2039,6 +2047,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165453Z">
         <seg>Data di cambiamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changed by</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225850Z">
+        <seg>Cambiatu da</seg>
       </tuv>
     </tu>
     <tu>
@@ -4819,10 +4835,26 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Keep Mine</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225720Z">
+        <seg>Cunservà u mio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Keep None</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174148Z">
         <seg>Cunservà nunda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Keep Other</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225734Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225734Z">
+        <seg>Cunservà l’altru</seg>
       </tuv>
     </tu>
     <tu>
@@ -5003,6 +5035,14 @@ not provide a JRE for PPC systems.</seg>
         <seg>Linux on PowerPC systems: 
 Users will need to download IBM’s JRE, as Sun does 
 not provide a JRE for PPC systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225818Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225818Z">
+        <seg>Vista in lista</seg>
       </tuv>
     </tu>
     <tu>
@@ -7400,6 +7440,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Segment Properties</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225751Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225751Z">
+        <seg>Pruprietà di segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192301Z">
@@ -7982,6 +8030,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20160914T162532Z">
         <seg>Unghjetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Table View</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225813Z">
+        <seg>Vista in tavula</seg>
       </tuv>
     </tu>
     <tu>
