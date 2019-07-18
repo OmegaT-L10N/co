@@ -152,8 +152,8 @@
       <tuv lang="EN">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T175554Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175554Z">
-        <seg>Riguarà &amp;Autumaticamente e Traduzzioni</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224351Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175554Z">
+        <seg>Riguarà &amp;autumaticamente e traduzzioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,8 +432,8 @@
       <tuv lang="EN">
         <seg>&amp;Language Checker</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171202T192137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T192137Z">
-        <seg>Ispettore di &amp;Lingua</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T192137Z">
+        <seg>Ispettore di &amp;lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,8 +904,8 @@
       <tuv lang="EN">
         <seg>&amp;Untranslated Segments Only</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T175223Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175223Z">
-        <seg>Solu Segmenti &amp;Micca Tradutti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224402Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175223Z">
+        <seg>Solu segmenti &amp;micca tradutti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2623,8 +2623,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Create Alternative Translation</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T141537Z" creationid="Patriccollu" creationdate="20170213T141537Z">
-        <seg>Creà una Traduzzione Alternativa</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224559Z" creationid="Patriccollu" creationdate="20170213T141537Z">
+        <seg>Creà una traduzzione alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5481,8 +5481,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Multiple Translations</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T141400Z" creationid="Patriccollu" creationdate="20170213T141400Z">
-        <seg>Traduzzione Multiplice</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224534Z" creationid="Patriccollu" creationdate="20170213T141400Z">
+        <seg>Traduzzione multiplice</seg>
       </tuv>
     </tu>
     <tu>
@@ -5737,8 +5737,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T141631Z" creationid="Patriccollu" creationdate="20170213T141631Z">
-        <seg>Infurmammi Quandu un Segmentu hà Traduzzione Multiplice</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224644Z" creationid="Patriccollu" creationdate="20170213T141631Z">
+        <seg>Infurmammi quandu un segmentu hà traduzzione multiplice</seg>
       </tuv>
     </tu>
     <tu>
@@ -6996,8 +6996,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Replace Translation with Text</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T142052Z" creationid="Patriccollu" creationdate="20170213T141619Z">
-        <seg>Rimpiazzà a Traduzzione cù u Testu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224616Z" creationid="Patriccollu" creationdate="20170213T141619Z">
+        <seg>Rimpiazzà a traduzzione cù u testu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8380,6 +8380,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The specified translation direction is not supported</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224520Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T224520Z">
+        <seg>A direzzione di traduzzione specificata ùn hè micca accettata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142702Z">
@@ -9131,8 +9139,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Use as Default Translation</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T141428Z">
-        <seg>Impiegà cum’è Traduzzione Predefinita</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224545Z" creationid="Patriccollu" creationdate="20170213T141428Z">
+        <seg>Impiegà cum’è traduzzione predefinita</seg>
       </tuv>
     </tu>
     <tu>
@@ -9453,8 +9461,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Yandex Translate - No API Key Specified</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T180554Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T180415Z">
-        <seg>Yandex Translate - Alcuna Chjave API ùn hè Specificata</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T180415Z">
+        <seg>Yandex Translate - Alcuna chjave API ùn hè specificata</seg>
       </tuv>
     </tu>
     <tu>
