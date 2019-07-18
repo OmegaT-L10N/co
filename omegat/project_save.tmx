@@ -4143,6 +4143,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Glossary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171714Z">
+        <seg>U cartulare di i schedarii di glossariu ùn esiste micca !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180827Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192214Z">
@@ -8414,6 +8422,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The writeable glossary file must be inside the glossary folder</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171910Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171910Z">
+        <seg>U schedariu di glossariu chì si pò scrive deve truvassi in u cartulare di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213145Z">
@@ -8753,6 +8769,14 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184232Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184232Z">
         <seg>Ducumenti tradutti creati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translated files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171633Z">
+        <seg>U cartulare di i schedarii di traduzzione ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
@@ -9363,6 +9387,14 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205257Z" creationid="Patriccollu" creationdate="20170213T135828Z">
         <seg>Schedariu di glossariu induve si pò scrive :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Writeable glossary file folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171746Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171746Z">
+        <seg>U cartulare di i schedarii di glossariu chì si pò scrive ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
