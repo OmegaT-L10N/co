@@ -2855,6 +2855,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171955Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171955Z">
+        <seg>U cartulare di i schedarii di dizziunariu ùn esiste micca !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Didier Briel</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121451Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121451Z">
@@ -3627,6 +3635,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150628Z" creationid="Patriccollu" creationdate="20170210T150628Z">
         <seg>Excel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exclude Pattern</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T172053Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T172053Z">
+        <seg>Mudellu d’esclusione</seg>
       </tuv>
     </tu>
     <tu>
@@ -4519,6 +4535,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Include Pattern</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T172107Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T172107Z">
+        <seg>Mudellu d’inclusione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Inconsistent numbers</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T190845Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T190845Z">
@@ -4659,6 +4683,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133504Z" creationid="Patriccollu" creationdate="20170213T133504Z">
         <seg>Schedariu HTML inaccettevule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid repository type: {0}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T172144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T172144Z">
+        <seg>Tipu di dipositu inaccettevule : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -8833,6 +8865,14 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192552Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192552Z">
         <seg>Ultima traduzzione da {0} u {1} à {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Translation memory files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171938Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171938Z">
+        <seg>U cartulare di i schedarii di memoria di traduzzione ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
