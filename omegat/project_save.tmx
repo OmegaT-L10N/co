@@ -1461,8 +1461,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T140308Z" creationid="Patriccollu" creationdate="20170213T140308Z">
-        <seg>Aghjunghje un Elementu di Glossariu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223727Z" creationid="Patriccollu" creationdate="20170213T140308Z">
+        <seg>Aghjunghje un elementu di glossariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3975,8 +3975,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T134011Z" creationid="Patriccollu" creationdate="20170213T134011Z">
-        <seg>Currispundenze Simile</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223605Z" creationid="Patriccollu" creationdate="20170213T134011Z">
+        <seg>Currispundenze simile</seg>
       </tuv>
     </tu>
     <tu>
@@ -4559,8 +4559,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Insert Selection</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T154204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154204Z">
-        <seg>Framette a Selezzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154204Z">
+        <seg>Framette a selezzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5721,8 +5721,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T140954Z" creationid="Patriccollu" creationdate="20170213T140954Z">
-        <seg>Infurmammi Quandu un Segmentu hà Currispundenze Simile</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223637Z" creationid="Patriccollu" creationdate="20170213T140954Z">
+        <seg>Infurmammi quandu un segmentu hà currispundenze simile</seg>
       </tuv>
     </tu>
     <tu>
@@ -6626,8 +6626,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Proxy User and Password</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T134505Z">
-        <seg>Nome d’Utilizatore è Parolla d’Entrata di u Proxy</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223528Z" creationid="Patriccollu" creationdate="20170213T134505Z">
+        <seg>Nome d’utilizatore è parolla d’entrata di u proxy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8086,16 +8086,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Tag Processing</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T134536Z">
-        <seg>Trattamentu d’Etichetta</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223549Z" creationid="Patriccollu" creationdate="20170213T134536Z">
+        <seg>Trattamentu d’etichetta</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Tag Processing Options</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T134609Z">
-        <seg>Ozzioni di Trattamentu d’Etichetta</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223541Z" creationid="Patriccollu" creationdate="20170213T134609Z">
+        <seg>Ozzioni di trattamentu d’etichetta</seg>
       </tuv>
     </tu>
     <tu>
@@ -9511,8 +9511,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T164335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164335Z">
-        <seg>Pudete creà elementi di glossariu cù Creà un Elementu di Glossariu in u listinu Mudificà.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223721Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164335Z">
+        <seg>Pudete creà elementi di glossariu cù Creà un elementu di glossariu in u listinu Mudificà.</seg>
       </tuv>
     </tu>
     <tu>
