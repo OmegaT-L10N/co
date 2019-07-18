@@ -9127,8 +9127,16 @@ read:</seg>
       <tuv lang="EN">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Unknown plugin type ’{0}’ in ’{1}’</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Tipu d’estensione ’{0}’ scunnisciutu in ’{1}’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170815T141909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170815T141909Z">
+        <seg>Micca specificatu</seg>
       </tuv>
     </tu>
     <tu>
