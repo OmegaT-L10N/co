@@ -942,16 +942,6 @@
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
-'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>’*’ matches zero or more characters (’run*’ matches ’run’, ’runs’, and’running’, etc.)
-’?’ matches exactly one character (’run?’ matches ’runs’ and ’rung’, but not ’run’ or ’running’).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>'{0}' menu selected</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145853Z">
@@ -3463,22 +3453,6 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Error initializing marker '{0}'</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Error initializing marker ’{0}’</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Error load plugin from class ’{0}’: {1}: {2}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204822Z">
@@ -3875,14 +3849,6 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150210Z" creationid="Patriccollu" creationdate="20170210T150210Z">
         <seg>Flash XML Export</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Floating '?' character not tied to '&gt;'!</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Floating ’?’ character not tied to ’&gt;’!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,8 +5956,8 @@ francese è CAT in inglese).</seg>
       <tuv lang="EN">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>OmegaT will try to resegment the TMX file…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222448Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>OmegaT hà da pruvà di resegmentà u schedariu TMX…</seg>
       </tuv>
     </tu>
     <tu>
@@ -8320,16 +8286,16 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Text Replace</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171524Z">
-        <seg>Rimpiazzamentu di Testu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171524Z">
+        <seg>Rimpiazzamentu di testu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN">
         <seg>Text Search</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171514Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171514Z">
-        <seg>Ricerca di Testu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222242Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171514Z">
+        <seg>Ricerca di testu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9167,8 +9133,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Upgrading...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Upgrading…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222350Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Mudernizazione…</seg>
       </tuv>
     </tu>
     <tu>
