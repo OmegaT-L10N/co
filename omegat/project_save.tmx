@@ -7124,6 +7124,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Repository {0} is already present</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T172236Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T172236Z">
+        <seg>U dipositu {0} hè dighjà presente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository {0} unknown</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T172252Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T172252Z">
+        <seg>U dipositu {0} hè scunnisciutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Request error: {0}</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211012Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211012Z">
