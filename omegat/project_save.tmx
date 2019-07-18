@@ -1827,14 +1827,6 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Auto replace ’nplurals=INTEGER; &amp;plural=EXPRESSION;’ in header</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Auto-Completion</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180452Z" creationid="Patriccollu" creationdate="20160422T151215Z">
@@ -3485,14 +3477,6 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Error unload plugin from class '{0}': {1}</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Error unload plugin from class ’{0}’: {1}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Error updating glossary file</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T140649Z" creationid="Patriccollu" creationdate="20170213T140649Z">
@@ -3805,14 +3789,6 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Filter ’{0}’ could not be loaded from ’{1}’</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145841Z" creationid="Patriccollu" creationdate="20170210T145841Z">
@@ -3919,8 +3895,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Format:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150022Z" creationid="Patriccollu" creationdate="20170210T150022Z">
-        <seg>Forma :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222639Z" creationid="Patriccollu" creationdate="20170210T150022Z">
+        <seg>Furmatu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -4231,8 +4207,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Help &amp; Manual</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150050Z" creationid="Patriccollu" creationdate="20170210T150050Z">
-        <seg>[Aiutu &amp; Manuale</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222704Z" creationid="Patriccollu" creationdate="20170210T150050Z">
+        <seg>Aiutu è manuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -4919,6 +4895,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T143955Z" creationid="Patriccollu" creationdate="20170209T143955Z">
         <seg>AMPARATU :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>LaTeX</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222557Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T222557Z">
+        <seg>LaTeX</seg>
       </tuv>
     </tu>
     <tu>
@@ -5703,14 +5687,6 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T154053Z" creationid="Patriccollu" creationdate="20170209T154053Z">
@@ -6386,14 +6362,6 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151143Z">
         <seg>Ci vole à scrive o incullà l’URL di a pagina MediaWiki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Plugin successfully loaded from class '{0}'</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Plugin successfully loaded from class ’{0}’</seg>
       </tuv>
     </tu>
     <tu>
@@ -8749,8 +8717,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Translated Filename Pattern</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T180856Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180856Z">
-        <seg>Mudellu di Nome di Schedariu di Traduzzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222617Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180856Z">
+        <seg>Mudellu di nome di schedariu di traduzzione</seg>
       </tuv>
     </tu>
     <tu>
