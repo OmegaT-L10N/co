@@ -3231,6 +3231,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170616Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170616Z">
+        <seg>SBAGLIU : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20150517T143615Z">
@@ -5057,6 +5065,14 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local File/Folder</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170515Z">
+        <seg>Schedariu/cartulare lucale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Local Project Folder:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T164511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164511Z">
@@ -5773,6 +5789,14 @@ not provide a JRE for PPC systems.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160656Z">
         <seg>Schedarii di prughjettu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT Project Folder</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170641Z">
+        <seg>Cartulare di prughjettu OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6762,6 +6786,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Remote File/Folder</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170523Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170523Z">
+        <seg>Schedariu/cartulare alluntanatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remote Repositories</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170430Z">
+        <seg>Dipositi alluntanati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="CO" changeid="phenry" changedate="20150516T231716Z">
@@ -6984,6 +7024,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20160926T123756Z" creationid="Patriccollu" creationdate="20160926T123756Z">
         <seg>Rimpiazzà cù :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170449Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170449Z">
+        <seg>Dipositu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Repository Mapping</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170406Z">
+        <seg>Cartugrafia di u dipositu</seg>
       </tuv>
     </tu>
     <tu>
