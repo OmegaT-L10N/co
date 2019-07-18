@@ -2059,6 +2059,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Changed on</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225900Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225900Z">
+        <seg>Cambiatu u</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Changer</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165500Z">
@@ -2689,6 +2697,22 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T183641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182954Z">
         <seg>Creà un TMX di pseudo-traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225906Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225906Z">
+        <seg>Creatu da</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Created on</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225912Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225912Z">
+        <seg>Creatu u</seg>
       </tuv>
     </tu>
     <tu>
@@ -4633,6 +4657,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120830Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120830Z">
         <seg>Avete qualchì penseru cù OmegaT ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is duplicate</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225948Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225948Z">
+        <seg>hè una duplicazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -7108,6 +7140,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213351Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
         <seg>Viutà a parolla d'entrata principale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Resource name</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225924Z">
+        <seg>Nome di risorsa</seg>
       </tuv>
     </tu>
     <tu>
