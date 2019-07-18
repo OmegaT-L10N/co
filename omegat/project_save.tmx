@@ -6474,10 +6474,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140612Z">
+        <seg>Fine di u caricamentu di u prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project saved</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T174954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T174954Z">
         <seg>Prughjettu arregistratu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140546Z">
+        <seg>Fine di l’arregistramentu di u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
