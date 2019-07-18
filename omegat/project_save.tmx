@@ -1677,6 +1677,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>An error occurred while trying to create a new folder</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171111Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171111Z">
+        <seg>Un sbagliu hè accadutu pruvendu di creà un novu cartulare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>An item of the name "{0}" already exists at this location.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211927Z">
@@ -3859,6 +3867,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>Floating ’?’ character not tied to ’&gt;’!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Folder already exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170720Z">
+        <seg>U cartulare esiste dighjà è ùn hè micca viotu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6300,6 +6316,14 @@ this and all previous releases.</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>Please see the file ’changes.txt’ for detailed information about changes in
 this and all previous releases.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please select a different folder.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170800Z">
+        <seg>Ci vole à selezziunà un altru cartulare.</seg>
       </tuv>
     </tu>
     <tu>
