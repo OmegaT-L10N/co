@@ -11,28 +11,28 @@
     <para><remark>Nota :</remark> Cù un Apple Mac, impiegate u tastu <keycap>Command</keycap> in piazza di u tastu <keycap>Control</keycap>.</para>
 
       <indexterm class="singular">
-        <primary>Listinu Prughjettu</primary> <secondary>Novu...</secondary>
+        <primary>Listinu Prughjettu</primary> <secondary>Novu…</secondary>
       </indexterm>
 
-    <para>Per principià à impiegà OmegaT, create primu un prughjettu chì cuntenerà tutti i vostri schedarii, cum'è quellu d'urigine, e memorie di traduzzione, i glossarii, è in fine di contu, u schedariu traduttu. In u listinu <guimenu>Prughjettu</guimenu>, selezziunà <menuchoice><guimenuitem>Novu...</guimenuitem></menuchoice> è scrive un nome per u vostru prughjettu. Arricurdavvi induve vò create u prughjettu, perchè ci vulerà à ritruvallu dopu.</para>
+    <para>Per principià à impiegà OmegaT, create primu un prughjettu chì cuntenerà tutti i vostri schedarii, cum’è quellu d’urigine, e memorie di traduzzione, i glossarii, è in fine di contu, u schedariu traduttu. In u listinu <guimenu>Prughjettu</guimenu>, selezziunà <menuchoice><guimenuitem>Novu…</guimenuitem></menuchoice> è scrive un nome per u vostru prughjettu. Arricurdavvi induve vò create u prughjettu, perchè ci vulerà à ritruvallu dopu.</para>
 
-    <para>Dopu à avè datu un nome à u vostru prughjettu, u dialogu <guilabel>Creà un Prughjettu Novu</guilabel> s'aprerà. Insù di stu dialogu, selezziunà a lingua di i schedarii d'urigine, quella di i schedarii di traduzzione, è cliccà <guibutton>Vai</guibutton> per cuntinuà.</para>
+    <para>Dopu à avè datu un nome à u vostru prughjettu, u dialogu <guilabel>Creà un Prughjettu Novu</guilabel> s’aprerà. Insù di stu dialogu, selezziunà a lingua di i schedarii d’urigine, quella di i schedarii di traduzzione, è cliccà <guibutton>Vai</guibutton> per cuntinuà.</para>
 
-    <para>S'è vò site interessatu(a) cù d'altre preferenze di stu dialogu, pudete rivenecci quand'ella vi pare appughjendu <keycap>Ctrl+E.</keycap></para>
+    <para>S’è vò site interessatu(a) cù d’altre preferenze di stu dialogu, pudete rivenecci quand’ella vi pare appughjendu <keycap>Ctrl+E.</keycap></para>
 
-    <para>Dopu, u dialogu <guilabel>Schedarii di Prughjettu</guilabel> s'apre. Cliccu nant'à <guibutton>Cupià Schedarii ver di u Cartulare d'Urigine...</guibutton> per selezziunà i vostri schedarii d'urigine. Tandu OmegaT cupierà i schedarii selezziunati ver di u sottucartulare <filename>/source/</filename> di u vostru prughjettu creatu pocu fà. Quandu tutti i schedarii d'urigine sò caricati in u pannellu di l'<guilabel>Editore</guilabel>, pudete chjode u dialogu <guilabel>Schedarii di Prughjettu</guilabel>.</para>
+    <para>Dopu, u dialogu <guilabel>Schedarii di Prughjettu</guilabel> s’apre. Cliccu nant’à <guibutton>Cupià Schedarii ver di u Cartulare d’Urigine…</guibutton> per selezziunà i vostri schedarii d’urigine. Tandu OmegaT cupierà i schedarii selezziunati ver di u sottucartulare <filename>/source/</filename> di u vostru prughjettu creatu pocu fà. Quandu tutti i schedarii d’urigine sò caricati in u pannellu di l’<guilabel>Editore</guilabel>, pudete chjode u dialogu <guilabel>Schedarii di Prughjettu</guilabel>.</para>
   </section>
 
   <section id="translate.the.segments.one.by.one">
     <title>Traduce u schedariu</title>
 
-    <para>OmegaT vi prisenterà un segmentu dopu à l'altru è toccu à voi di traducellu. Dopu à avè traduttu ogni segmentu, appughjà nant'à <keycap>Ctrl+U</keycap> per move ver di u prossimu segmentu micca traduttu (o <keycap>Ctrl+Shift+U</keycap> per move ver di u prossimu segmentu traduttu). Quandu vulete fighjà à chì s'assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant'à <keycap>Ctrl+D</keycap> per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare <filename>/target/</filename> di u vostru cartulare di prughjettu. Durante a traduzzione, impiegate i listini <guimenu>Mudificà</guimenu> è <guimenu>Viaghjà</guimenu> per eseguisce funzioni diversi ghjuvevule.</para>
+    <para>OmegaT vi prisenterà un segmentu dopu à l’altru è toccu à voi di traducellu. Dopu à avè traduttu ogni segmentu, appughjà nant’à <keycap>Ctrl+U</keycap> per move ver di u prossimu segmentu micca traduttu (o <keycap>Ctrl+Shift+U</keycap> per move ver di u prossimu segmentu traduttu). Quandu vulete fighjà à chì s’assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant’à <keycap>Ctrl+D</keycap> per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare <filename>/target/</filename> di u vostru cartulare di prughjettu. Durante a traduzzione, impiegate i listini <guimenu>Mudificà</guimenu> è <guimenu>Viaghjà</guimenu> per eseguisce funzioni diversi ghjuvevule.</para>
   </section>
 
   <section>
     <title>Validà e vostre etichette</title>
 
-    <para>S'è i vostri schedarii d'urigine sò furmatati, per indettu Microsoft Word, LibreOffice Writer o HTML, OmegaT cunvertiscerà tutte e marche di furmatu in etichette chì accircunda u testu chì vò traducite. Ci sò dinù ducumenti chì cuntenenu etichette chì ùn anu nunda à vede cù una marca di furmatu, ma chì sò dinù impurtante in i schedarii d'urigine (è in i schedarii di traduzzione). Una frasa d'urigine pò assumigliassi à què :<mediaobject>
+    <para>S’è i vostri schedarii d’urigine sò furmatati, per indettu Microsoft Word, LibreOffice Writer o HTML, OmegaT cunvertiscerà tutte e marche di furmatu in etichette chì accircunda u testu chì vò traducite. Ci sò dinù ducumenti chì cuntenenu etichette chì ùn anu nunda à vede cù una marca di furmatu, ma chì sò dinù impurtante in i schedarii d’urigine (è in i schedarii di traduzzione). Una frasa d’urigine pò assumigliassi à què :<mediaobject>
       <imageobject role="html">
         <imagedata align="justify" fileref="images/InstantGuide_1.png"/>
       </imageobject>
@@ -52,13 +52,13 @@
     </mediaobject>
     </para>
     
-    <para>L'etichette in OmegaT sò grisge, è cusì sò faciule à ricunnosce. Sò prutette, è cusì ùn si pò micca mudificà u so cuntenutu, ma si pò caccialle, scrivelle dapervoi o movelle ver di a frasa di destinazione. Fate casu chì, s'è vò fate qualchì sbagliu quandu scrivete l'etichette di furmatu, i vostri schedarii di traduzzione puderianu ùn micca apressi. Ghjè perchè, appughjà nant'à <keycap>Ctrl+Shift+V</keycap> nanzu d'ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</para>
+    <para>L’etichette in OmegaT sò grisge, è cusì sò faciule à ricunnosce. Sò prutette, è cusì ùn si pò micca mudificà u so cuntenutu, ma si pò caccialle, scrivelle dapervoi o movelle ver di a frasa di destinazione. Fate casu chì, s’è vò fate qualchì sbagliu quandu scrivete l’etichette di furmatu, i vostri schedarii di traduzzione puderianu ùn micca apressi. Ghjè perchè, appughjà nant’à <keycap>Ctrl+Shift+V</keycap> nanzu d’ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</para>
   </section>
 
   <section>
     <title>Ingenerà u schedariu di traduzzione</title>
 
-    <para>Quandu site sicuru(a) chì ùn ci hè micca di sbagliu d'etichetta in a vostra traduzzione, appughjà nant'à <keycap>Ctrl+D</keycap> per ingenerà i schedarii di destinazione, chì seranu creati in u sottucartulare <filename>/target/</filename> di u vostru cartulare di prughjettu.</para>
+    <para>Quandu site sicuru(a) chì ùn ci hè micca di sbagliu d’etichetta in a vostra traduzzione, appughjà nant’à <keycap>Ctrl+D</keycap> per ingenerà i schedarii di destinazione, chì seranu creati in u sottucartulare <filename>/target/</filename> di u vostru cartulare di prughjettu.</para>
   </section>
 
   <section>
@@ -66,43 +66,43 @@
 
     <itemizedlist>
       <listitem>
-        <para>S'è un schedariu ùn si caricheghja micca in u pannellu <guilabel>Editore</guilabel>, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT. Fighjà <link linkend="chapter.file.filters">Filtri di Schedariu</link> per ottene una lista di i furmati di schedariu ch'OmegaT pò trattà.</para>
+        <para>S’è un schedariu ùn si caricheghja micca in u pannellu <guilabel>Editore</guilabel>, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT. Fighjà <link linkend="chapter.file.filters">Filtri di Schedariu</link> per ottene una lista di i furmati di schedariu ch’OmegaT pò trattà.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Si pò creà un prughjettu novu per ogni travagliu novu, è si pò aghjunghje schedarii d'urigine novi in un prughjettu quand'ella vi pare.</para>
+        <para>Si pò creà un prughjettu novu per ogni travagliu novu, è si pò aghjunghje schedarii d’urigine novi in un prughjettu quand’ella vi pare.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Per arricurdassi di e preferenze iniziale di u prughjettu, apre u dialogu di e pruprietà di prughjettu, appughjendu nant'à <keycap>Ctrl+E</keycap>. Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu <guilabel>Schedarii di Prughjettu</guilabel>, appughjendu nant'à <keycap>Ctrl+L</keycap>.</para>
+        <para>Per arricurdassi di e preferenze iniziale di u prughjettu, apre u dialogu di e pruprietà di prughjettu, appughjendu nant’à <keycap>Ctrl+E</keycap>. Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu <guilabel>Schedarii di Prughjettu</guilabel>, appughjendu nant’à <keycap>Ctrl+L</keycap>.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>À a fine di a vostra traduzzione, OmegaT crea trè memorie di traduzzione chjamate <filename>level1</filename>, <filename>level2</filename> è <filename>omegat</filename> in u vostru cartulare di prughjettu. E memorie <filename>level1</filename> è <filename>level2</filename> ponu esse sparte cù l'utilizatori d'altri prugrammi di traduzzione. A memoria chjamata <filename>omegat</filename> pò esse impiegata da OmegaT stessu, per d'altri prughjetti futuri creati dapervoi. S'è vò piazzate quessi schedarii di memoria di traduzzione in u sottucartulare <filename>/tm/</filename> d'un prughjettu, OmegaT circherà ci autumaticamente segmenti simile, chjamati &quot;currispundenze simile&quot;.</para>
+        <para>À a fine di a vostra traduzzione, OmegaT crea trè memorie di traduzzione chjamate <filename>level1</filename>, <filename>level2</filename> è <filename>omegat</filename> in u vostru cartulare di prughjettu. E memorie <filename>level1</filename> è <filename>level2</filename> ponu esse sparte cù l’utilizatori d’altri prugrammi di traduzzione. A memoria chjamata <filename>omegat</filename> pò esse impiegata da OmegaT stessu, per d’altri prughjetti futuri creati dapervoi. S’è vò piazzate quessi schedarii di memoria di traduzzione in u sottucartulare <filename>/tm/</filename> d’un prughjettu, OmegaT circherà ci autumaticamente segmenti simile, chjamati &quot;currispundenze simile&quot;.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Si pò aghjunghje un vucabulu novu ver di u glossariu appughjendu nant'à <keycap>Ctrl+Shift+G</keycap>, o cupià glossarii esistente ver di u sottucartulare <filename>/glossary/</filename> di u vostru cartulare di prughjettu, è OmegaT circherà ci autumaticamente e parolle.</para>
+        <para>Si pò aghjunghje un vucabulu novu ver di u glossariu appughjendu nant’à <keycap>Ctrl+Shift+G</keycap>, o cupià glossarii esistente ver di u sottucartulare <filename>/glossary/</filename> di u vostru cartulare di prughjettu, è OmegaT circherà ci autumaticamente e parolle.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Quand'ellu hè ghjuvevule di circà parolle e frase in u testu d'urigine è/o in a vostra traduzzione, si pò appughjà nant'à <keycap>Ctrl+F</keycap> per affissà u dialogu <guilabel>Ricerca di Testu</guilabel> quand'ella vi piace.</para>
+        <para>Quand’ellu hè ghjuvevule di circà parolle e frase in u testu d’urigine è/o in a vostra traduzzione, si pò appughjà nant’à <keycap>Ctrl+F</keycap> per affissà u dialogu <guilabel>Ricerca di Testu</guilabel> quand’ella vi piace.</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>Per avè un intruduzzione più detagliata (in inglese) fighjà <ulink url="http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf">OmegaT for beginners</ulink> nant'à u situ web d'OmegaT. S'è vo avete bisognu d'assistenza cù qualchì aspettu d'OmegaT, raghjunghjate puru u <ulink url="http://tech.groups.yahoo.com/group/OmegaT/">gruppu d'utilizatori d'OmegaT.</ulink></para>
+        <para>Per avè un intruduzzione più detagliata (in inglese) fighjà <ulink url="http://www.omegat.org/en/tutorial/OmegaT%20for%20Beginners.pdf">OmegaT for beginners</ulink> nant’à u situ web d’OmegaT. S’è vo avete bisognu d’assistenza cù qualchì aspettu d’OmegaT, raghjunghjate puru u <ulink url="http://tech.groups.yahoo.com/group/OmegaT/">gruppu d’utilizatori d’OmegaT.</ulink></para>
       </listitem>
     </itemizedlist>
   </section>
