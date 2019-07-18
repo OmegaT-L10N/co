@@ -488,8 +488,8 @@
       <tuv lang="EN">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181112Z">
-        <seg>Move In&amp;ghjò</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223233Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181112Z">
+        <seg>Move in&amp;ghjò</seg>
       </tuv>
     </tu>
     <tu>
@@ -2639,8 +2639,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T140238Z" creationid="Patriccollu" creationdate="20170213T140238Z">
-        <seg>Creà un Elementu di Glossariu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223333Z" creationid="Patriccollu" creationdate="20170213T140238Z">
+        <seg>Creà un elementu di glossariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3303,8 +3303,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Editor Options</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T132925Z">
-        <seg>Ozzioni d’Editore</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223300Z" creationid="Patriccollu" creationdate="20170213T132925Z">
+        <seg>Ozzioni d’editore</seg>
       </tuv>
     </tu>
     <tu>
@@ -3361,6 +3361,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121533Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121533Z">
         <seg>Enrique Estévez Fernández</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T223509Z">
+        <seg>Scrivite un termine d’urigine, di destinazione è un cummentu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -5441,8 +5449,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181058Z">
-        <seg>Move In&amp;ghjò</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223212Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181058Z">
+        <seg>Move in&amp;ghjò</seg>
       </tuv>
     </tu>
     <tu>
@@ -5457,8 +5465,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181041Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181041Z">
-        <seg>Move In&amp;sù</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181041Z">
+        <seg>Move in&amp;sù</seg>
       </tuv>
     </tu>
     <tu>
@@ -5513,8 +5521,8 @@ not provide a JRE for PPC systems.</seg>
       <tuv lang="EN">
         <seg>New Language and Country</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181134Z">
-        <seg>Nova Lingua è Paese</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181134Z">
+        <seg>Nova lingua è paese</seg>
       </tuv>
     </tu>
     <tu>
@@ -7998,8 +8006,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Swedish</seg>
       </tuv>
-      <tuv lang="CO">
-        <seg>Swedish</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223157Z">
+        <seg>Svedese</seg>
       </tuv>
     </tu>
     <tu>
@@ -8198,8 +8206,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Team Options</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181157Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181157Z">
-        <seg>Ozzioni di Squadra</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223250Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181157Z">
+        <seg>Ozzioni di squadra</seg>
       </tuv>
     </tu>
     <tu>
@@ -9213,8 +9221,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>View Options</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T134144Z" creationid="Patriccollu" creationdate="20170213T134144Z">
-        <seg>Ozzioni per Affissà</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223322Z" creationid="Patriccollu" creationdate="20170213T134144Z">
+        <seg>Ozzioni per affissà</seg>
       </tuv>
     </tu>
     <tu>
