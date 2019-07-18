@@ -4047,6 +4047,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Git</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171414Z">
+        <seg>Git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
@@ -7796,6 +7804,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Source files folder entered does not exist!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171606Z">
+        <seg>U cartulare di i schedarii d’urigine ùn esiste micca !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171001Z">
@@ -7954,6 +7970,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150327Z" creationid="Patriccollu" creationdate="20170210T150327Z">
         <seg>Sottutituli SubRip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Subversion</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171443Z">
+        <seg>Sottuversione</seg>
       </tuv>
     </tu>
     <tu>
@@ -8334,6 +8358,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The source file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171409Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171409Z">
+        <seg>A lingua di schedariu d’urigine hè inaccettevule !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The specified dictionary folder cannot be used.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T151047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151047Z">
@@ -8370,6 +8402,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T181438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T181438Z">
         <seg>A dimensione di u testu eccede u massima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The translated file language entered is invalid!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171512Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171512Z">
+        <seg>A lingua di schedariu di traduzzione hè inaccettevule !</seg>
       </tuv>
     </tu>
     <tu>
