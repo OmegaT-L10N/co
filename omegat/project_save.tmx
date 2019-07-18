@@ -5545,6 +5545,14 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140744Z">
+        <seg>Ùn hè bisognu d'arregistrà u prughjettu perchè ùn ci hè statu nisunu cambiamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-ASCII Only</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133855Z" creationid="Patriccollu" creationdate="20170213T133855Z">
@@ -6450,6 +6458,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140757Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140757Z">
+        <seg>Prughjettu chjosu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145120Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145120Z">
@@ -6478,6 +6494,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140612Z">
         <seg>Fine di u caricamentu di u prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140620Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140620Z">
+        <seg>Principiu di u caricamentu di u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
