@@ -1685,6 +1685,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Analyzing strings - {0} of {1} completed</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T164557Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T164557Z">
+        <seg>Analisa di e catene - {0} di {1} compie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>And get a feel of what is going on in the OmegaT world...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
@@ -8324,6 +8332,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T150112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150112Z">
         <seg>Quessu hè un schedariu di prughjettu accettevule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is the way text will look when displayed.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T164407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T164407Z">
+        <seg>Ghjè a manera cù quella u testu serà riprisentatu quand’ellu serà affissatu.</seg>
       </tuv>
     </tu>
     <tu>
