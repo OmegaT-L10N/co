@@ -1277,8 +1277,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T152443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T152443Z">
-        <seg>&lt;html&gt;URL di Dipositu o di Schedariu&lt;br&gt;di Prughjettu (omegat.project) :&lt;/html&gt;</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225232Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T152443Z">
+        <seg>&lt;html&gt;URL di Dipositu o di Schedariu&lt;br&gt;di prughjettu (omegat.project) :&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4021,34 +4021,10 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Git '{0}' did nothing because there were no changes</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Git ’{0}’ did nothing because there were no changes</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Git ’{0}’ error: {1}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Git '{0}' execution finished successfully</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Git ’{0}’ execution finished successfully</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Git '{0}' execution start</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Git ’{0}’ execution start</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Git ’{0}’ sbagliu : {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6430,24 +6406,6 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
-project without team functionality.</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Press ’Cancel’ to leave the project unmodified and load it as a local
-project without team functionality.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>Press 'OK' to convert the project into a 4.0-style team project.</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Press ’OK’ to convert the project into a 4.0-style team project.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Previous</seg>
       </tuv>
       <tuv lang="CO">
@@ -7230,30 +7188,6 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150154Z" creationid="Patriccollu" creationdate="20170210T150154Z">
         <seg>Fiura SVG è Adobe Illustrator Export</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>SVN '{0}' error: {1}</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>SVN ’{0}’ error: {1}</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>SVN '{0}' execution finished successfully</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>SVN ’{0}’ execution finished successfully</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
-        <seg>SVN '{0}' execution start</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>SVN ’{0}’ execution start</seg>
       </tuv>
     </tu>
     <tu>
@@ -8206,8 +8140,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Team Project</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T164426Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164426Z">
-        <seg>Prughjettu di Squadra</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225237Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164426Z">
+        <seg>Prughjettu di squadra</seg>
       </tuv>
     </tu>
     <tu>
