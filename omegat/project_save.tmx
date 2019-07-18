@@ -512,8 +512,8 @@
       <tuv lang="EN">
         <seg>&amp;New Script</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162541Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162541Z">
-        <seg>&amp;Novu Scrittu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224856Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162541Z">
+        <seg>&amp;Novu scrittu</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="EN">
         <seg>&amp;Open Script...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161950Z">
-        <seg>&amp;Apre un Scrittu…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224658Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161950Z">
+        <seg>&amp;Apre un scrittu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1437,8 +1437,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Access Scripts Folder</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162652Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162652Z">
-        <seg>Accede à u Cartulare di Scritti</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162652Z">
+        <seg>Accede à u cartulare di scritti</seg>
       </tuv>
     </tu>
     <tu>
@@ -1477,8 +1477,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Add Script</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162358Z">
-        <seg>Aghjunghje u Scrittu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224840Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162358Z">
+        <seg>Aghjunghje un scrittu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4151,8 +4151,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Goto &amp;Line...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162728Z">
-        <seg>Andà à a &amp;Linea…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224928Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162728Z">
+        <seg>Andà à a &amp;linea…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6842,8 +6842,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Remove Script</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162422Z">
-        <seg>Caccià u Scrittu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224846Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162422Z">
+        <seg>Caccià u scrittu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7306,18 +7306,10 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Save Current Set...</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Save Current Set…</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162448Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162448Z">
-        <seg>Arregistrà u Scrittu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162448Z">
+        <seg>Arregistrà u scrittu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7364,8 +7356,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Script &amp;Language</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162006Z">
-        <seg>&amp;Lingua di Scrittu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162006Z">
+        <seg>&amp;Lingua di scrittu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7652,8 +7644,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Set Scripts Folder...</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162621Z">
-        <seg>Definisce u Cartulare di Scritti…</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224908Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162621Z">
+        <seg>Definisce u cartulare di scritti…</seg>
       </tuv>
     </tu>
     <tu>
@@ -9617,6 +9609,22 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T153907Z" creationid="Patriccollu" creationdate="20170209T153907Z">
         <seg>[dubbitosu]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>canceled ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T224800Z">
+        <seg>abbandunatu ({0} ms trascorsu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>done ({0} ms elapsed)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224743Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T224743Z">
+        <seg>fattu ({0} ms trascorsu)</seg>
       </tuv>
     </tu>
     <tu>
