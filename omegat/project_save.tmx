@@ -2825,8 +2825,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160519Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160519Z">
-        <seg>Cartulare di Schedarii di Dizziunariu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160519Z">
+        <seg>Cartulare di schedarii di dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4081,8 +4081,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Glossary Files Folder</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T135937Z" creationid="Patriccollu" creationdate="20170213T135937Z">
-        <seg>Cartulare di Schedarii di Glossariu</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165028Z" creationid="Patriccollu" creationdate="20170213T135937Z">
+        <seg>Cartulare di schedarii di glossariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -7662,8 +7662,8 @@ project without team functionality.</seg>
       <tuv lang="EN">
         <seg>Source Files Folder</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160438Z">
-        <seg>Cartulare di Schedarii d’Urigine</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160438Z">
+        <seg>Cartulare di schedarii d’urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -8583,8 +8583,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160447Z">
-        <seg>Cartulare di Schedarii di Traduzzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160447Z">
+        <seg>Cartulare di schedarii di traduzzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -8639,8 +8639,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Translation Memory Files Folder</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T135956Z" creationid="Patriccollu" creationdate="20170213T135956Z">
-        <seg>Cartulare di Schedarii di Memoria di Traduzzione</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165040Z" creationid="Patriccollu" creationdate="20170213T135956Z">
+        <seg>Cartulare di schedarii di memoria di traduzzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -9185,8 +9185,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Writeable Glossary File</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170213T140020Z" creationid="Patriccollu" creationdate="20170213T140020Z">
-        <seg>Schedariu di Glossariu chì si Pò Scrive</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165132Z" creationid="Patriccollu" creationdate="20170213T140020Z">
+        <seg>Schedariu di glossariu chì si pò scrive</seg>
       </tuv>
     </tu>
     <tu>
