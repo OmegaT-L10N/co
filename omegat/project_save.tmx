@@ -3037,6 +3037,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190719T111901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190719T111901Z">
+        <seg>Distenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Dmitri Gabinski</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122245Z">
@@ -7196,6 +7204,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
         <seg>Ricuperazione di a lista di duminiu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190719T101701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190719T101701Z">
+        <seg>Linea</seg>
       </tuv>
     </tu>
     <tu>
