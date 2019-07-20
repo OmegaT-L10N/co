@@ -798,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Show in Editor context menu</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224528Z">
+        <seg>&amp;Affissà in u listinu cuntestuale di l’editore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T145543Z">
@@ -1279,6 +1287,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185929Z">
         <seg>&lt;html&gt;&lt;center&gt;Caricamentu…&lt;br&gt;&lt;br&gt;Minichichja : Attivà/disattivà e caselle quand’ella vi piace da u listinu Ozzioni.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T180311Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180311Z">
+        <seg>&lt;html&gt;Piazzà u cursore induve vò vulete frazziunà u testu.&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1767,6 +1783,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20150517T112701Z">
         <seg>Aspettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181528Z">
+        <seg>Appiecà a &amp;currezzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -3277,6 +3301,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Ed&amp;it</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224839Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224718Z">
+        <seg>Mu&amp;dificà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20150517T143615Z">
@@ -3285,10 +3317,42 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit External Search Command</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224925Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224925Z">
+        <seg>Mudificà a cumanda di ricerca esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search Item</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T222048Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T222048Z">
+        <seg>Mudificà l’elementu di ricerca esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit External Search URL</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224907Z">
+        <seg>Mudificà l’URL di ricerca esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Edit Filter</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222901Z" creationid="Patriccollu" creationdate="20170213T132248Z">
         <seg>Mudificà u filtru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T175931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T175931Z">
+        <seg>Mudificà u mudellu di messa in evidenza</seg>
       </tuv>
     </tu>
     <tu>
@@ -3677,6 +3741,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>External Search</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T221745Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221745Z">
+        <seg>Ricerca esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>External Search...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
@@ -3945,6 +4017,14 @@ U valore attuale hè {0}Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222639Z" creationid="Patriccollu" creationdate="20170210T150022Z">
         <seg>Furmatu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181342Z">
+        <seg>Nanzu-Dopu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4229,6 +4309,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181154Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181154Z">
+        <seg>Da mansa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Help &amp; Manual</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222704Z" creationid="Patriccollu" creationdate="20170210T150050Z">
@@ -4311,8 +4399,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>ID</seg>
       </tuv>
-      <tuv lang="CO">
-        <seg>ID</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181310Z">
+        <seg>Identificazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5879,6 +5967,22 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T220839Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T220839Z">
+        <seg>OmegatT pò ingenerà è allucà una parolle d'entrata principale per voi è cusì ùn averete micca bisognu di scrivelu ogni volta, ma quessu hè menu sicuru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T221305Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221305Z">
+        <seg>OmegaT cifra e parolle d'entrata è e chjave API sensibile cù una parolla d'entrata principale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
@@ -6220,6 +6324,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181210Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181210Z">
+        <seg>Da segmenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Password:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z">
@@ -6288,6 +6400,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121543Z">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T151727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T151727Z">
+        <seg>Aliniamentu precisu : selezziunà a cellula currispondente</seg>
       </tuv>
     </tu>
     <tu>
@@ -6430,6 +6550,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181347Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181347Z">
+        <seg>Poisson</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Polish</seg>
       </tuv>
       <tuv lang="CO">
@@ -6474,6 +6602,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T133305Z">
         <seg>Cunservà i spazii per &amp;tutte l’etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Press the keyboard shortcut you wish to assign, then click OK.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T221728Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221728Z">
+        <seg>Appughjate nant’à l’accurtatoghju di tastera chì voi vulete attribuisce, è cliccu Vai.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6538,6 +6674,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192918Z">
         <seg>Schedarii di prughjettu ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Specific External Search</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T221927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221927Z">
+        <seg>Ricerca esterna spicifica à u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6824,8 +6968,8 @@ this and all previous releases.</seg>
       <tuv lang="EN">
         <seg>Remo&amp;ve</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20150823T133214Z" creationid="PHENRY" creationdate="20150823T133214Z">
-        <seg>&amp;Caccià</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224833Z" creationid="PHENRY" creationdate="20150823T133214Z">
+        <seg>Cacc&amp;ià</seg>
       </tuv>
     </tu>
     <tu>
@@ -7328,6 +7472,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T175516Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T175516Z">
+        <seg>Arregistrà i risultati di l’aliniamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162448Z">
@@ -7340,6 +7492,22 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174102Z">
         <seg>Arregistrà TMX…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T180440Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180440Z">
+        <seg>Arregistrà i cambiamenti di preferenze di filtru ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T180444Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180355Z">
+        <seg>Arregistrà i cambiamenti di regule di segmentazione ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7444,6 +7612,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T154135Z" creationid="Patriccollu" creationdate="20170209T154135Z">
         <seg>Seconde :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Secure Store</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T221040Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221040Z">
+        <seg>Allucamentu sicuru</seg>
       </tuv>
     </tu>
     <tu>
@@ -7664,6 +7840,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Set &amp; Stored</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T221434Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221434Z">
+        <seg>Definitu è allucatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Set My Own Password</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212945Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212945Z">
@@ -7748,6 +7932,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T154444Z" creationid="Patriccollu" creationdate="20170209T153000Z">
         <seg>Tralascià i segmenti induve urigine=destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T180550Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180550Z">
+        <seg>Certi aliniamenti devenu ancu esse verificati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7864,6 +8056,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224428Z">
+        <seg>Specificà un mnemonicu cù « &amp; » : « &amp;Ohimè » per impiegà O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Spellcheck</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152119Z">
@@ -7916,6 +8116,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO">
         <seg>Sparte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T180021Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180021Z">
+        <seg>Frazziunà u testu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8338,6 +8546,22 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T225140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T225140Z">
+        <seg>L’URL deve cuntene « {target} » chì serà rimpiazzatu da u testu circatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The command must include "{target}", which will be replaced with the search text.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T225201Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T225201Z">
+        <seg>A cumanda deve cuntene « {target} » chì serà rimpiazzatu da u testu circatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The current project must be reloaded in order to apply these changes</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173125Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173125Z">
@@ -8583,6 +8807,14 @@ this and all previous releases.</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T182118Z" creationid="Patriccollu" creationdate="20170209T164928Z">
         <seg>Sta traduzzione hè u travagliu di Patriccollu di Santa Maria è Sichè, diritti
 di copia © [2018].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T175733Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T175733Z">
+        <seg>Quessu hà da scartà tutti i cambiamenti fatti fine avà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9287,6 +9519,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181313Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181313Z">
+        <seg>Viterbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Volker Berlin</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121448Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121448Z">
@@ -9615,6 +9855,14 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T165812Z">
         <seg>Duveriate specificà a so nova lucalizazione osinnò ci vuleria à ricreallu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181808Z">
+        <seg>Sta parolla d’entrata vi serà dumandata à ogni avviu d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
