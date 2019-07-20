@@ -7954,6 +7954,22 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T110342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T110342Z">
+        <seg>Tappa 1 : adattà i parametri d’aliniamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Step 2: Make manual corrections</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T151546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T151546Z">
+        <seg>Tappa 2 : recà currezzioni manuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Strip BiDi Marks</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T144622Z" creationid="Patriccollu" creationdate="20170209T144622Z">
