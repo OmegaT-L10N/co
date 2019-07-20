@@ -3,3 +3,7 @@ format	furmatu
 introduction	intruduzzione
 flexible	ghjunchevule
 spelling	ortugrafia
+corresponding	currispondente
+split	frazziunà
+sensitive	sensibile
+mnemonic	mnemonicu
