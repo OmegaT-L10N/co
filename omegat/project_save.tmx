@@ -1056,6 +1056,20 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T132319Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T132319Z">
+        <seg>--ITokenizer=&lt;nome di classa&gt;
+	--ITokenizerTarget=&lt;nome di classa&gt;
+		Lemmatizatore d’analisa di lingua, d’urigine o di destinazione, à 
+		impiegà (rimpiazza i parametri di prughjettu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -1072,6 +1086,36 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T125918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>--disable-project-locking
 		Ùn pruvà micca di bluccà u schedariu di prughjettu omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T130231Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T130231Z">
+        <seg>--no-team
+		Disattivà à funzione di prughjettu da squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T133631Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T133118Z">
+        <seg>--script=&lt;chjassu&gt;
+		Un scrittu à eseguisce quandu accadanu evvenimenti in u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T133402Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T133402Z">
+        <seg>--tag-validation=[abort|warn]
+		Validà l’etichette.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1439,8 +1483,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Abort: Exit with an error if tags invalid.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173609Z">
-        <seg>Abort : Esce cù un sbagliu s’è l’etichette sò inaccettevule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T133414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173609Z">
+        <seg>Abort : esce cù un sbagliu s’è l’etichette sò inaccettevule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5777,6 +5821,18 @@ not provide a JRE for PPC systems.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T132906Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T132906Z">
+        <seg>Ozzioni micca ligate à l’interfaccia utilizatore :
+	--quiet
+		Diminuisce l’esciute nant’à stdout di a linea di cumanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T161033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T161033Z">
@@ -7674,6 +7730,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T132441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T132441Z">
+        <seg>Fighjà OmegaT.jar/META-INF/MANIFEST.MF per cunnosce i valori pussibule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20161226T194643Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20161226T194643Z">
@@ -9557,8 +9621,8 @@ read:</seg>
       <tuv lang="EN">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173809Z">
-        <seg>Warn : Un raportu serà creatu indè stdout cù l’etichette inaccettevule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T133604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173809Z">
+        <seg>Warn : adittà l’etichette inaccettevule nant’à stdout.</seg>
       </tuv>
     </tu>
     <tu>
