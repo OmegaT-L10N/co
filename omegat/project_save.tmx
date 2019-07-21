@@ -1059,9 +1059,9 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T125918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>--disable-project-locking
-		Do not attempt to lock the project’s omegat.project file.</seg>
+		Ùn pruvà micca di bluccà u schedariu di prughjettu omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
