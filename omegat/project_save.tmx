@@ -1103,9 +1103,9 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T130231Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T130231Z">
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T171524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T130231Z">
         <seg>--no-team
-		Disattivà à funzione di prughjettu da squadra.</seg>
+		Disattivà à funzione di prughjettu di squadra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6390,6 +6390,22 @@ francese è CAT in inglese).</seg>
       </tuv>
       <tuv lang="CO">
         <seg>Ozzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T171701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T171701Z">
+        <seg>Ozzioni :
+	Nisuna : Lancià l’interfaccia utilizatore
+	Solu u chjassu di prughjettu : Lancià l’interfaccia utilizatore
+	è caricà u prughjettu di squadra specificatu
+		Attrezzu di creazione di prughjettu di squadra.</seg>
       </tuv>
     </tu>
     <tu>
