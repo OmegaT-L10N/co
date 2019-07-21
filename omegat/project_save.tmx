@@ -6620,6 +6620,18 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Place source files in ./source and supplemental
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T180858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T180858Z">
+        <seg>Piazzà i schedarii d’urigine in ./source è d’eventuale schedarii
+in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
+è dopu validà (commit) l’inseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please double-check it.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T150235Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150235Z">
