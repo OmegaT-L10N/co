@@ -4827,8 +4827,8 @@ U valore attuale hè {0}Mo ;
       <tuv lang="EN">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175622Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175609Z">
-        <seg>Framette l’etichetta {0}</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T182531Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175609Z">
+        <seg>Framette a prossima etichetta chì manca</seg>
       </tuv>
     </tu>
     <tu>
@@ -7116,8 +7116,8 @@ this and all previous releases.</seg>
       <tuv lang="EN">
         <seg>Register Identical Translation</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175644Z" creationid="Patriccollu" creationdate="20170213T135455Z">
-        <seg>Definisce una traduzzione identica</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T182643Z" creationid="Patriccollu" creationdate="20170213T135455Z">
+        <seg>Arregistrà una traduzzione identica à l’urigine</seg>
       </tuv>
     </tu>
     <tu>
