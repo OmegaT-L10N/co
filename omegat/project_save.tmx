@@ -5319,6 +5319,22 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Left-to-Right Embedding (LRE U+202A)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183340Z">
+        <seg>Principiu di l’incastramentu da manca à dritta (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183101Z">
+        <seg>Marca da manca à dritta (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Lev Abashkin</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121441Z">
@@ -7568,6 +7584,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
         <seg>Ricuperazione di a lista di duminiu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183127Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183127Z">
+        <seg>Marca da dritta à manca (LRM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
