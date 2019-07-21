@@ -1120,6 +1120,20 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T165625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T165625Z">
+        <seg>--resource-bundle=&lt;chjassu&gt;
+		Un schedariu Java .properties à impiegà per u testu di l’interfaccia
+	--config-dir=&lt;chjassu&gt;
+		Un cartulare per leghje è scrive i schedarii di cunfigurazione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
