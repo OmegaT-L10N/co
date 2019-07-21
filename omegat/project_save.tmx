@@ -1070,6 +1070,16 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T165253Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T165253Z">
+        <seg>--config-file=&lt;chjassu&gt;
+		Un schedariu Java .properties da duve si caricheranu e preferenze predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--disable-location-save
 		Do not remember the last directory opened in the file picker.</seg>
       </tuv>
@@ -7778,8 +7788,16 @@ this and all previous releases.</seg>
       <tuv lang="EN">
         <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T132441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T132441Z">
-        <seg>Fighjà OmegaT.jar/META-INF/MANIFEST.MF per cunnosce i valori pussibule.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164811Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T132441Z">
+        <seg>Fighjate OmegaT.jar/META-INF/MANIFEST.MF per cunnosce i valori pussibule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164908Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164908Z">
+        <seg>Fighjate inghjò per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
