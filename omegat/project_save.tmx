@@ -1100,6 +1100,16 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164215Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+		U cuntenutu à include in a pseudo-traduzzione TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
