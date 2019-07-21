@@ -6802,6 +6802,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Pop Directionnal Formatting (PDF U+202C)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183531Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183531Z">
+        <seg>Affissà u furmatu direzziunale (PDF U+202C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150649Z" creationid="Patriccollu" creationdate="20170210T150649Z">
@@ -7584,6 +7592,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
         <seg>Ricuperazione di a lista di duminiu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right-to-Left Embedding (RLE U+202B)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183418Z">
+        <seg>Principiu di l’incastramentu da dritta à manca (RLE U+202B)</seg>
       </tuv>
     </tu>
     <tu>
