@@ -2631,10 +2631,10 @@ U valore attuale hè {0}Mo ;
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164459Z">
-        <seg>Console-align mode:
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164459Z">
+        <seg>Modu console-aliniamentu :
 	--alignDir=&lt;path&gt;
-		A direc</seg>
+		Un cartulare cuntenendu i schedarii tradutti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2643,8 +2643,8 @@ U valore attuale hè {0}Mo ;
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164027Z">
-        <seg>Console-pseudotranslatetmx mode:
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164640Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164027Z">
+        <seg>Modu console-pseudotraduzzione :
 	--pseudotranslatetmx=&lt;chjassu&gt;
 		U schedariu TMX resultendu chì cuntene una pseudo-traduzzione.</seg>
       </tuv>
@@ -2655,8 +2655,8 @@ U valore attuale hè {0}Mo ;
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T143414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T143414Z">
-        <seg>Console-translate mode:
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164609Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T143414Z">
+        <seg>Modu console-traduce :
 	--source-pattern=&lt;mudellu&gt;
 		Una lista bianca in espressione regulare di i schedarii d’urigine à trattà.</seg>
       </tuv>
@@ -7762,8 +7762,8 @@ this and all previous releases.</seg>
       <tuv lang="EN">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150134Z">
-        <seg>Fighjate Aiutu &gt; Manuale di l’Utilizatore per sapene di più.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150134Z">
+        <seg>Fighjate Aiutu &gt; Manuale di l’utilizatore per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
