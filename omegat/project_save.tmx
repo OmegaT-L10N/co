@@ -4591,6 +4591,16 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>If invoked in a git working tree or svn checkout, the results
+		will be staged/added.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T173619Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T173619Z">
+        <seg>S’è a cumanda hè lanciata da un arburu di travagliu git o una copia timpuraria svn,
+		i risultati seranu messi in attesa o aghjunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185340Z">
