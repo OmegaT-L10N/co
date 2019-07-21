@@ -2617,6 +2617,30 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164027Z">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;chjassu&gt;
+		U schedariu TMX resultendu chì cuntene una pseudo-traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T143414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T143414Z">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;mudellu&gt;
+		Una lista bianca in espressione regulare di i schedarii d’urigine à trattà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213449Z" creationid="Patriccollu" creationdate="20170213T133756Z">
