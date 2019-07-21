@@ -7,3 +7,4 @@ corresponding	currispondente
 split	frazziunà
 sensitive	sensibile
 mnemonic	mnemonicu
+tokenizer	lemmatizatore
