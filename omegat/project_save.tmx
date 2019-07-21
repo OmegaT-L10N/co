@@ -1100,6 +1100,16 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T172419Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T172419Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specificà un modu altru chì predefinitu (l’interfaccia utilizatore).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
