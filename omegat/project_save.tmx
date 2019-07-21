@@ -1056,6 +1056,16 @@ but you don’t see your name on the lists, feel free to contact us.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T130120Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T130120Z">
+        <seg>--disable-location-save
+		Ùn arricurdassi micca di l’ultimu cartulare apertu in u selettore di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
