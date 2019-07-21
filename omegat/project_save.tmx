@@ -2627,6 +2627,18 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164459Z">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A direc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Console-pseudotranslatetmx mode:
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
