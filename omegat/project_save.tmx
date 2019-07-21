@@ -2677,8 +2677,8 @@ U valore attuale hè {0}Mo ;
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164459Z">
-        <seg>Modu console-aliniamentu :
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T172609Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164459Z">
+        <seg>Modu console-align :
 	--alignDir=&lt;path&gt;
 		Un cartulare cuntenendu i schedarii tradutti.</seg>
       </tuv>
@@ -2689,8 +2689,8 @@ U valore attuale hè {0}Mo ;
 	--pseudotranslatetmx=&lt;path&gt;
 		The output pseudotranslated TMX file.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164640Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164027Z">
-        <seg>Modu console-pseudotraduzzione :
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T172551Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164027Z">
+        <seg>Modu console-pseudotranslatetmx :
 	--pseudotranslatetmx=&lt;chjassu&gt;
 		U schedariu TMX resultendu chì cuntene una pseudo-traduzzione.</seg>
       </tuv>
@@ -2701,8 +2701,8 @@ U valore attuale hè {0}Mo ;
 	--source-pattern=&lt;pattern&gt;
 		A regex whitelist of source files to process.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164609Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T143414Z">
-        <seg>Modu console-traduce :
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T172525Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T143414Z">
+        <seg>Modu console-translate :
 	--source-pattern=&lt;mudellu&gt;
 		Una lista bianca in espressione regulare di i schedarii d’urigine à trattà.</seg>
       </tuv>
