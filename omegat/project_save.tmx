@@ -4873,6 +4873,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T170109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T170109Z">
+        <seg>Impiegate « team -h » per sapene di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Is OmegaT bugging you?</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120830Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120830Z">
