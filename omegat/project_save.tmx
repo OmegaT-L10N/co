@@ -2089,6 +2089,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Bug reports (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T145132Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145132Z">
+        <seg>Raporti di penseru (in inglese) à u situ SourceForge :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>C&amp;lear</seg>
       </tuv>
       <tuv lang="CO">
@@ -7564,6 +7572,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T145049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145049Z">
+        <seg>Dumande d’amendamentu (in inglese) à u situ SourceForge :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>ResX</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150033Z" creationid="Patriccollu" creationdate="20170210T150033Z">
@@ -10363,8 +10379,8 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       <tuv lang="EN">
         <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T182720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182720Z">
-        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T145157Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182720Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
       </tuv>
     </tu>
     <tu>
