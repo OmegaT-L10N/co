@@ -18,15 +18,15 @@ di copia © [2018].
 L’infurmazione a più ricente apprupositu d’OmegaT si trova à
       http://www.omegat.org/
 
-User support, at the Yahoo user group (multilingual), where the archives are
-searchable without subscription:
+Assistenza per l’utilizatore, à u gruppu d’utilizatori (multilingue) Yahoo,
+induve si pò circà in l’archivii senza sottuscrizzione :
      http://tech.groups.yahoo.com/group/OmegaT/
 
-Requests for Enhancements (in English), at the SourceForge site:
+Dumande d’amendamentu (in inglese) à u situ SourceForge :
      https://sourceforge.net/p/omegat/feature-requests/
 
-Bug reports (in English), at the SourceForge site:
-     https://sourceforge.net/p/omegat/feature-requests/
+Raporti di penseru (in inglese) à u situ SourceForge :
+     https://sourceforge.net/p/omegat/bugs/
 
 ==============================================================================
   2.  Cosa hè OmegaT ?
@@ -44,50 +44,50 @@ E funzioni principale d’OmegaT sò :
   - ricerche in u prughjettu è in e memorie di traduzzione di referenza
   - ricerche di schedarii in furmati accettati in qualsisia cartulare 
   - a ricerca di currispundenza simile
-  - smart handling of projects including complex folder hierarchies
-  - support for glossaries (terminology checks) 
-  - support for OpenSource on-the-fly spell checkers
-  - support for StarDict dictionaries
-  - support for the Google Translate machine translation services
-  - clear and comprehensive documentation and tutorial
-  - localization in a number of languages.
+  - ghjestione astuta di prughjetti includendu ierarchie cumplesse di cartulare
+  - permette l’impiegu di glossarii (cuntrollu di terminolugia) 
+  - permette l’impiegu di volu di cuntrullori d’ortugrafia OpenSource
+  - permette l’impiegu di dizziunarii StarDict
+  - accette i servizii Google di traduzzione da a mascina
+  - ducumentazione è tutoriale chjari è capicitoghji
+  - traduzzione in parechje lingue
 
-OmegaT supports the following file formats out of the box:
+OmegaT permette l’impiegu di quelli furmati di schedariu :
 
-- Plain text file formats
+- Furmati di schedariu testu in chjaru
 
-  - ASCII text (.txt, etc.)
-  - Encoded text (*.UTF8)
-  - Java resource bundles (*.properties)
-  - PO files (*.po)
-  - INI (key=value) files (*.ini)
-  - DTD files (*.DTD)
-  - DocuWiki files (*.txt)
-  - SubRip title files (*.srt)
-  - Magento CE Locale CSV (*.csv)
+  - Test ASCII (.txt, ecc.)
+  - Testu cudificatu (*.UTF8)
+  - Ballotti di risorsa Java (*.properties)
+  - Schedarii PO (*.po)
+  - Schedarii (chjave=valore) INI (*.ini)
+  - Schedarii DTD (*.DTD)
+  - Schedarii DocuWiki (*.txt)
+  - Schedarii di titulu SubRip (*.srt)
+  CSV Lucale Magento CE (*.csv)
 
-- Tagged text file formats
+- Furmati di schedariu testu etichettatu
 
   - OpenOffice.org / OpenDocument (*.odt, *.ott, *.ods, *.ots, *.odp, *.otp)
   - Microsoft Open XML (*.docx, *.xlsx, *.pptx)
   - (X)HTML (*.html, *.xhtml,*.xht)
   - HTML Help Compiler (*.hhc, *.hhk)
-  - DocBook (*.xml)
-  - monolingual XLIFF (*.xlf, *.xliff, *.sdlxliff)
+  - Schedarii DocBook (*.xml)
+  - Schedarii monolinguale XLIFF (*.xlf, *.xliff, *.sdlxliff)
   - QuarkXPress CopyFlowGold (*.tag, *.xtg)
-  - ResX files (*.resx)
-  - Android resource (*.xml)
-  - LaTex (*.tex, *.latex)
-  - Help (*.xml) and Manual (*.hmxp) files
+  - Schedarii ResX (*.resx)
+  - Risorsa Android (*.xml)
+  - Schedarii LaTex (*.tex, *.latex)
+  - Schedarii Aiutu (*.xml) è Manuale (*.hmxp)
   - Typo3 LocManager (*.xml)
-  - WiX Localization (*.wxl)
+  - Lucalisazione WiX (*.wxl)
   - Iceni Infix (*.xml)
   - Flash XML export (*.xml)
   - Wordfast TXML (*.txml)
-  - Camtasia for Windows (*.camproj)
-  - Visio (*.vxd)
+  - Camtasia per Windows (*.camproj)
+  - Schedarii Visio (*.vxd)
 
-OmegaT can be customized to support other file formats as well.
+OmegaT pò esse persunalizatu dinù per accettà d’altri furmati di schedariu.
 
 OmegaT will automatically parse even the most complex source folder
 hierarchies, to access all the supported files, and produce a target folder
@@ -156,7 +156,7 @@ install the Oracle JRE on your own.
     https://java.com/en/download/
 
 Linux on PowerPC systems: 
-Users will need to download IBM’s JRE, as Sun does 
+Users will need to download IBM's JRE, as Sun does 
 not provide a JRE for PPC systems. Download in this case from:
 
     http://www.ibm.com/developerworks/java/jdk/linux/download.html 
@@ -250,24 +250,24 @@ To participate in the development of OmegaT, get in touch with the developers at
 To get started as a programmer, see the developer documentation at:
     https://sourceforge.net/p/omegat/svn/HEAD/tree/trunk/docs_devel/
 
-To translate OmegaT’s user interface, user manual or other related documents,
-read:
+Per traduce l’interfaccia utilizatore d’OmegaT, u manuale d’utilizazione, è d’altri
+ducumenti, lighjite :
       
       http://www.omegat.org/en/howtos/localizing_omegat.php
 
-And subscribe to the translators’ list:
+È abbunassi à a lista di i traduttori :
       https://lists.sourceforge.net/lists/listinfo/omegat-l10n
 
-To contribute in other ways, subscribe first to the user group at:
+Per cuntribuisce d’altri modi, abbunatevi prima à u gruppu d’utilizatori à :
       http://tech.groups.yahoo.com/group/omegat/
 
-And get a feel of what is going on in the OmegaT world…
+È fassi un’idea di ciò chì si passa in u mondu OmegaT…
 
   OmegaT hè u travagliu uriginale di Keith Godfrey.
   Didier Briel hè u risponsevule di u prughjettu OmegaT.
 
-Previous contributors include:
-(alphabetical order)
+Precedente cuntribuenti includenu :
+(in ordine alfabeticu)
 
 Quelli chì anu cuntribuitu à u sviluppu di u codice sò
   Lev Abashkin
@@ -318,31 +318,31 @@ D’altre cuntribuzioni da
   Vincent Bidaux (risponsevule di a documentazione)
   Samuel Murray
   Marc Prior (webmaestru)
-  and many, many more very helpful people
+  è assai assai personne chì ci anu aiutatu
 
-(If you think you have significantly contributed to the OmegaT Project 
-but you don’t see your name on the lists, feel free to contact us.)
+(S’ella vi pare chì vo avete cuntribuitu bè à u prughjettu OmegaT ma
+chì u vostru nome ùn hè micca nant’à ste liste, cuntattateci puru.)
 
-OmegaT uses the following libraries:
+OmegaT impiegheghja tutte ste bibliuteche :
   HTMLParser 1.6 da Somik Raha, Derrick Oswald è d’altri (Licenza LGPL)
-  VLDocking Framework 3.0.5-SNAPSHOT (LGPL License)
-  Swing-Layout 1.0.4 (LGPL License)
-  Jmyspell 2.1.4 (LGPL License)
-  SVNKit 1.8.12 (TMate License)
+  VLDocking Framework 3.0.5-SNAPSHOT (Licenza LGPL)
+  Swing-Layout 1.0.4 (Licenza LGPL)
+  Jmyspell 2.1.4 (Licenza LGPL)
+  SVNKit 1.8.12 (Licenza TMate)
   Sequence Library (Licenza Sequence Library)
-  ANTLR 3.4 (ANTLR 3 license)
+  ANTLR 3.4 (Licenza ANTLR 3)
   SQLJet 1.1.10 (GPL v2)
   JGit (Licenza Eclipse Distribution)
   JSch (Licenza JSch)
   jsch-agent-proxy (Licenza jsch-agent-proxy)
   Diff (Licenza GPL)
-  trilead-ssh2-1.0.0-build220 (Trilead SSH license)
-  lucene-*.jar (Apache License 2.0)
-  commons-*.jar (Apache License 2.0)
-  LanguageTool (LGPL license and others)
+  trilead-ssh2-1.0.0-build220 (Licenza Trilead SSH)
+  lucene-*.jar (Licenza Apache 2.0)
+  commons-*.jar (Licenza Apache 2.0)
+  LanguageTool (Licenza LGPL è d’altre)
   PDFBox (Licenza Apache 2.0)
-  SuperTMXMerge-for_OmegaT.jar (LGPL license)
-  groovy-all-2.4.6.jar (Apache Licence 2.0)
+  SuperTMXMerge-for_OmegaT.jar (Licenza LGPL)
+  groovy-all-2.4.6.jar (Licenza Apache 2.0)
   slf4j (Licenza MIT)
   juniversalchardet-1.0.3.jar (GPL v2)
   DictZip from JDictd (GPL v2)
@@ -376,7 +376,7 @@ To browse the archives of the user group, go to:
      http://tech.groups.yahoo.com/group/OmegaT/
 
 To browse the bug report page and file a new bug report if necessary, go to:
-     https://sourceforge.net/p/omegat/feature-requests/
+     https://sourceforge.net/p/omegat/bugs/
 
 To keep track of what is happening to your bug report you may want to register
 as a Source Forge user.
@@ -384,8 +384,8 @@ as a Source Forge user.
 ==============================================================================
 6.   Detaglii di a versione
 
-Please see the file ’changes.txt’ for detailed information about changes in
-this and all previous releases.
+Fighjate u schedariu « changes.txt » per ottene infurmazioni detagliate
+apprupositu di i cambiamenti di sta versione è tutte e precedente.
 
 
 ==============================================================================
