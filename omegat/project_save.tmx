@@ -1513,6 +1513,14 @@ U valore attuale hè {0}Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ANTLR 3.4 (ANTLR 3 license)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143111Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143111Z">
+        <seg>ANTLR 3.4 (Licenza ANTLR 3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T161305Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161305Z">
@@ -5279,6 +5287,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>LanguageTool (LGPL license and others)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143330Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143330Z">
+        <seg>LanguageTool (Licenza LGPL è d’altre)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>LanguageTool Issues</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212427Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212427Z">
@@ -7700,6 +7716,14 @@ this and all previous releases.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>SQLJet 1.1.10 (GPL v2)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143117Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143117Z">
+        <seg>SQLJet 1.1.10 (GPL v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SVG Image and Adobe Illustrator Export</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170210T150154Z" creationid="Patriccollu" creationdate="20170210T150154Z">
@@ -8546,6 +8570,14 @@ this and all previous releases.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T130910Z" creationid="Patriccollu" creationdate="20170213T130910Z">
         <seg>SuperTMXMerge (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SuperTMXMerge-for_OmegaT.jar (LGPL license)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143418Z">
+        <seg>SuperTMXMerge-for_OmegaT.jar (Licenza LGPL)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10247,6 +10279,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>commons-*.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143254Z">
+        <seg>commons-*.jar (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224743Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T224743Z">
@@ -10329,6 +10369,14 @@ read:</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>lucene-*.jar (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143203Z">
+        <seg>lucene-*.jar (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>mALIGNa (MIT License)</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T131039Z" creationid="Patriccollu" creationdate="20170213T131033Z">
@@ -10365,6 +10413,14 @@ read:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T130743Z" creationid="Patriccollu" creationdate="20170213T130729Z">
         <seg>trilead-ssh2 (Licenza Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>trilead-ssh2-1.0.0-build220 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143141Z">
+        <seg>trilead-ssh2-1.0.0-build220 (Licenza Trilead SSH)</seg>
       </tuv>
     </tu>
     <tu>
