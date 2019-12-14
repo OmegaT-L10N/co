@@ -320,8 +320,8 @@
       <tuv lang="EN">
         <seg>&amp;Enable TaaS terminology lookup</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211318Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211318Z">
-        <seg>Terminolugia TaaS</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T182648Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211318Z">
+        <seg>&amp;Attivà a ricerca terminolugica TaaS</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;TaaS Terminology Lookup</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T182429Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T182429Z">
+        <seg>&amp;Ricerca terminologica TaaS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153627Z">
@@ -980,6 +988,16 @@ but you don't see your name on the lists, feel free to contact us.)</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T144159Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>(S’ella vi pare chì vo avete cuntribuitu bè à u prughjettu OmegaT ma
 chì u vostru nome ùn hè micca nant’à ste liste, cuntattateci puru.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T165437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T165437Z">
+        <seg>(In u manuale d’utilizazione, fighjate « Scheadarii à traduce » &gt; « Furmati di schedariu » per ottene a lista di i furmati di schedariu accettati.)
+Per aghjunghe schedarii à u prughjettu, cliccà nant’à u buttone « Cupià i schedarii ver di u cartulare d’urigine… » in a finestra « Schedarii di prughjettu » o chjamà st’azzione da u listunu Prughjettu è selezziunà i schedarii d’utigine chì vò vulete cupià.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1821,8 +1839,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>API Key:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T161305Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161305Z">
-        <seg>Chjave API :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T182831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161305Z">
+        <seg>Chjave d’API :</seg>
       </tuv>
     </tu>
     <tu>
@@ -3181,6 +3199,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T183641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182954Z">
         <seg>Creà un TMX di pseudo-traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T183050Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T183050Z">
+        <seg>Create a vostra chjave è entritella puru inghjò.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4595,8 +4621,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>Get API Key</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211229Z" creationid="Patriccollu" creationdate="20170213T140708Z">
-        <seg>Ottene a chjave API</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T182919Z" creationid="Patriccollu" creationdate="20170213T140708Z">
+        <seg>Ottene a chjave d’API</seg>
       </tuv>
     </tu>
     <tu>
@@ -8452,6 +8478,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select TaaS Terminology &amp;Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T182345Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T182328Z">
+        <seg>Selezziunà u &amp;duminiu di ricerca terminologica TaaS…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210845Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210845Z">
@@ -8970,6 +9004,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175112Z">
         <seg>Ozzioni di currispundenza di MdT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>TaaS API key not set.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T183155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T182947Z">
+        <seg>A chjave d’API TaaS micca definita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9588,9 +9630,9 @@ di copia © [2018].</seg>
         <seg>To translate OmegaT's user interface, user manual or other related documents,
 read:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T150303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Per traduce l’interfaccia utilizatore d’OmegaT, u manuale d’utilizazione, è d’altri
-ducumenti, lighjite :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T164525Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Per traduce l’interfaccia utilizatore d’OmegaT, u manuale d’utilizazione, è
+d’altri ducumenti, lighjite :</seg>
       </tuv>
     </tu>
     <tu>
