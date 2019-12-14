@@ -41,16 +41,16 @@ E funzioni principale d’OmegaT sò :
   - a pussibilità di funziunà nant’à qualsisia sistema d’operazione chì accetta Java
   - l’impiegu di parechji schedarii TMX accettevule cum’è referenza di traduzzione
   - una segmentazione di frasa ghjunchevule (impieghendu un metoda di tipu SRX)
-  - ricerche in u prughjettu è in e memorie di traduzzione di referenza
-  - ricerche di schedarii in furmati accettati in qualsisia cartulare 
+  - e ricerche in u prughjettu è in e memorie di traduzzione di referenza
+  - e ricerche di schedarii in furmati accettati in qualsisia cartulare 
   - a ricerca di currispundenza simile
-  - ghjestione astuta di prughjetti includendu ierarchie cumplesse di cartulare
-  - permette l’impiegu di glossarii (cuntrollu di terminolugia) 
-  - permette l’impiegu di volu di cuntrullori d’ortugrafia OpenSource
-  - permette l’impiegu di dizziunarii StarDict
-  - accette i servizii Google di traduzzione da a mascina
-  - ducumentazione è tutoriale chjari è capicitoghji
-  - traduzzione in parechje lingue
+  - una ghjestione astuta di prughjetti includendu ierarchie cumplesse di cartulare
+  - l’impiegu di glossarii (cuntrollu di terminolugia) 
+  - l’impiegu di volu di cuntrullori d’ortugrafia OpenSource
+  - l’impiegu di dizziunarii StarDict
+  - d’accettà i servizii Google di traduzzione da a mascina
+  - una ducumentazione è un tutoriale chjari è capicitoghji
+  - a so traduzzione in parechje lingue
 
 OmegaT permette l’impiegu di quelli furmati di schedariu :
 
@@ -64,7 +64,7 @@ OmegaT permette l’impiegu di quelli furmati di schedariu :
   - Schedarii DTD (*.DTD)
   - Schedarii DocuWiki (*.txt)
   - Schedarii di titulu SubRip (*.srt)
-  CSV Lucale Magento CE (*.csv)
+  - CSV Lucale Magento CE (*.csv)
 
 - Furmati di schedariu testu etichettatu
 
