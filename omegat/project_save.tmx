@@ -10822,6 +10822,16 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You can find the text of the license in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163837Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163837Z">
+        <seg>Pudete fighjà u testu di a licenza in
+/docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have reached the daily limit for requests</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T181236Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T181236Z">
