@@ -11422,6 +11422,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171900Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171900Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0}_{1}_{2}</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T164722Z" creationid="Patriccollu" creationdate="20170209T164722Z">
