@@ -6816,6 +6816,14 @@ a licenza, sia (s’è voi preferite) una versione più recente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT uses a number of librairies.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163914Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163914Z">
+        <seg>OmegaT impiegheghja bibliuteche numerose.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT uses the following libraries:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143042Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143042Z">
@@ -7422,6 +7430,16 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T161335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161335Z">
         <seg>Edizione Premium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prerequisites for installing OmegaT
+===================================</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T164307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T164307Z">
+        <seg>Prerichiesti per installà OmegaT
+================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -9508,6 +9526,16 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173125Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173125Z">
         <seg>U prughjettu attuale deve esse ricaricatu per piglià in contu sti cambiamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The license of each library is mentionned
+in /lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T164054Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T164054Z">
+        <seg>A licenza d'ogni bibliuteca hè ammentata
+in /lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
