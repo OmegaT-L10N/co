@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190201T191838Z">
+        <seg>&amp;Cuntrollà e nove versioni...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="CO">
@@ -2309,6 +2317,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Automatically check for updates</seg>
+      </tuv>
+      <tuv lang="CO">
+        <seg>Cuntrollà autumaticamente i rinnovi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T155705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155705Z">
@@ -3279,6 +3295,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO">
         <seg>Taglià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20180523T155837Z">
+        <seg>Cecusluvaccu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5675,6 +5699,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="CO">
+        <seg>Ultimu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Learn</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T143932Z" creationid="Patriccollu" creationdate="20170209T143932Z">
@@ -6475,6 +6507,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu" creationdate="20170213T132941Z">
         <seg>&amp;Ozzioni…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="CO">
+        <seg>Vai</seg>
       </tuv>
     </tu>
     <tu>
@@ -8638,6 +8678,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190525T143534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190525T143534Z">
+        <seg>Slovacu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T180550Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180550Z">
@@ -9232,6 +9280,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Test</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190427T170425Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190427T170425Z">
+        <seg>Verificà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Text</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20150517T112701Z">
@@ -9524,6 +9580,15 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T160646Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T160646Z">
         <seg>Stu prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This translation is the work of [insert your name], copyright© [insert year].</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T161031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T161031Z">
+        <seg>Sta traduzzione hè u travagliu di Patriccollu di Santa Maria è Sichè, diritti
+di copia © [2018].</seg>
       </tuv>
     </tu>
     <tu>
@@ -10113,6 +10178,14 @@ d’altri ducumenti, lighjite :</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165908Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165908Z">
         <seg>Mudificatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="CO">
+        <seg>Rinnovi</seg>
       </tuv>
     </tu>
     <tu>
