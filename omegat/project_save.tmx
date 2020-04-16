@@ -6808,6 +6808,16 @@ a licenza, sia (s’è voi preferite) una versione più recente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
+installed on your system.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T164511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T164511Z">
+        <seg>OmegaT richiede chì Java Runtime Environment (JRE) version 1.8 o più recente
+sia installata nant’à u vostru sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT supports the following file formats out of the box:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T154523Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T154523Z">
