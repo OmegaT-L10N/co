@@ -1000,6 +1000,16 @@ chì u vostru nome ùn hè micca nant’à ste liste, cuntattateci puru.)</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(If you think you have significantly contributed to the OmegaT Project but you
+(don't see your name on the lists, feel free to contact us.)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T170329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T170329Z">
+        <seg>(S’ella vi pare chì vo avete cuntribuitu assai à u prughjettu OmegaT ma
+chì u vostru nome ùn si trova micca nant’à e liste, cuntattateci puru.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
