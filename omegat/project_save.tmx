@@ -5329,6 +5329,16 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Linux)
+=========================</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165908Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165908Z">
+        <seg>Installazione d’OmegaT (Linux)
+==============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Mac)
 =======================</seg>
       </tuv>
