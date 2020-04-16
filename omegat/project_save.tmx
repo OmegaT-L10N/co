@@ -5985,6 +5985,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Local working copies cleaned up: {0}</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171548Z">
+        <seg>Copie di travagliu lucale nettate : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Location</seg>
       </tuv>
       <tuv lang="CO">
@@ -9680,6 +9688,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The script will quit now.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171459Z">
+        <seg>U  scrittu hà da finisce avà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The source file language entered is invalid!</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171409Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171409Z">
@@ -9860,6 +9876,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T160646Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T160646Z">
         <seg>Stu prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171816Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171816Z">
+        <seg>U scrittu deve funziunà cù OmegaT 3.6 è più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10900,6 +10924,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171605Z">
         <seg>Site prontu(a) à mudificà {0} segmenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are running OmegaT version {0}.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171623Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171623Z">
+        <seg>Impiegate OmegaT versione {0}.</seg>
       </tuv>
     </tu>
     <tu>
