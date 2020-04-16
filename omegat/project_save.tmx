@@ -6307,8 +6307,8 @@ d’utilizatore.</seg>
       <tuv lang="EN">
         <seg>Modified Segments:</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T143920Z" creationid="Patriccollu" creationdate="20170209T143920Z">
-        <seg>Segmenti Mudificati :</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T170840Z" creationid="Patriccollu" creationdate="20170209T143920Z">
+        <seg>Segmenti mudificati :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6753,8 +6753,8 @@ cum'è u cartulare di l’appiecazioni.</seg>
       <tuv lang="EN">
         <seg>OmegaT User Interface Language</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T143744Z">
-        <seg>Lingua d’Interfaccia Utilizatore d’OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T170548Z" creationid="Patriccollu" creationdate="20170209T143744Z">
+        <seg>Lingua d’interfaccia utilizatore d’OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -7186,8 +7186,8 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="EN">
         <seg>Otherwise, OmegaT will use the language of the operating system.</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145636Z">
-        <seg>Osinnò, OmegaT impiegherà a ligua di u sistema d’operazione.</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T170604Z" creationid="Patriccollu" creationdate="20170209T145636Z">
+        <seg>Osinnò, OmegaT impiegherà a lingua di u sistema d’operazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7732,8 +7732,8 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="EN">
         <seg>QA - Check Rules</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T153042Z" creationid="Patriccollu" creationdate="20170209T153011Z">
-        <seg>QA - Cuntrollà e Regule</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T170627Z" creationid="Patriccollu" creationdate="20170209T153011Z">
+        <seg>QA - Cuntrollà e regule</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,8 +8382,16 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="EN">
         <seg>SVN - Cleanup</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20170209T144235Z" creationid="Patriccollu" creationdate="20170209T144235Z">
-        <seg>[SVN - Nettata</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171105Z" creationid="Patriccollu" creationdate="20170209T144235Z">
+        <seg>Nettata di SVN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SVN - Cleanup (recursive)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171205Z">
+        <seg>Nettata di SVN (recursiva)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9192,8 +9200,8 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="EN">
         <seg>Strip Tags</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T143752Z">
-        <seg>Caccià l’Etichette</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T170759Z" creationid="Patriccollu" creationdate="20170209T143752Z">
+        <seg>Caccià l’etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -9748,6 +9756,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213145Z">
         <seg>Ci hè parechje estensioni dispunibule inlinea per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There are no local working copies in {0}.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171411Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171411Z">
+        <seg>Ùn ci hè micca di copia di travagliu lucale in {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11310,6 +11326,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>{0} is not a local working copy, skipping.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171330Z">
+        <seg>{0}  ùn hè micca una copia di travagliu lucale, tralasciata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} segments</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165036Z">
@@ -11354,6 +11378,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165319Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165319Z">
         <seg>{0}/{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}:	cleanup done!!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171228Z">
+        <seg>{0}:	nettata fatta !</seg>
       </tuv>
     </tu>
     <tu>
