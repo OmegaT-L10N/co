@@ -2397,6 +2397,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Briac Pilpré (webmaster)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162742Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162742Z">
+        <seg>Briac Pilpré (webmaestru)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Bro&amp;wse</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T155953Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155953Z">
@@ -2989,6 +2997,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Concepción Martin (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162707Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162707Z">
+        <seg>Concepción Martin (rispunsevule di cumunità Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="CO">
@@ -3101,6 +3117,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120220Z">
         <seg>Cuntribuzioni à OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162840Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162840Z">
+        <seg>E cuntribuzioni à u codice sò ducumentate in /docs/contributors.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5915,6 +5939,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T130755Z" creationid="Patriccollu" creationdate="20170213T130747Z">
         <seg>Lucene (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162759Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162759Z">
+        <seg>Lucie Vecerova (rispunsevule di cumunità Facebook)</seg>
       </tuv>
     </tu>
     <tu>
