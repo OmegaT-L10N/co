@@ -5329,6 +5329,16 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Windows)
+===========================</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165020Z">
+        <seg>Installazione d’OmegaT (Windows)
+================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing and running OmegaT" in the User Manual.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174457Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T130632Z">
@@ -5795,6 +5805,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="CO">
         <seg>Ultimu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Launch the installation program.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165107Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165107Z">
+        <seg>Lancià u prugramma d’installazione.</seg>
       </tuv>
     </tu>
     <tu>
