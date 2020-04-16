@@ -3105,6 +3105,16 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Contributors
+============</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162341Z">
+        <seg>Cuntribuenti
+============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174737Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
@@ -3283,6 +3293,16 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current team:
+(alphabetical order)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162411Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162411Z">
+        <seg>Squadra attuate :
+(in ordine alfabeticu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Custom Colours</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211343Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211343Z">
@@ -3439,6 +3459,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121451Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121451Z">
         <seg>Didier Briel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Didier Briel (OmegaT project manager, Twitter community manager)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162600Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162511Z">
+        <seg>Didier Briel (risponsevule di prughjettu OmegaT, rispunsevule di cumunità Twitter)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5603,6 +5631,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Kos Ivantsof (localisation manager)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162632Z">
+        <seg>Kos Ivantsof (rispunsevule di a lucalisazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Kyle Katarn</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121627Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121627Z">
@@ -5951,6 +5987,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122458Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122433Z">
         <seg>Marc Prior (webmaestru)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Marco Cevoli (Telegram community manager)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162546Z">
+        <seg>Marco Cevoli (rispunsevule di cumunità Telegram)</seg>
       </tuv>
     </tu>
     <tu>
