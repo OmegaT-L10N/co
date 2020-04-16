@@ -2197,6 +2197,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Anthony Baldwin (localisation manager)</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162249Z">
+        <seg>Anthony Baldwin (rispunsevule di a lucalisazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Antonio Vilei</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122127Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122127Z">
@@ -4853,8 +4861,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>Henry Pijffers (release manager)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T161602Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T161602Z">
-        <seg>Henry Pijffers (respunsevule di versione)</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T161602Z">
+        <seg>Henry Pijffers (rispunsevule di versione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5493,8 +5501,8 @@ d’utilizatore.</seg>
       <tuv lang="EN">
         <seg>Jean-Christophe Helary (support group owner, localisation manager)</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162204Z">
-        <seg>Jean-Christophe Helary (prupietariu di u gruppu d’assistenza, risponsevule di a lucalisazione)</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162304Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162204Z">
+        <seg>Jean-Christophe Helary (prupietariu di u gruppu d’assistenza, rispunsevule di a lucalisazione)</seg>
       </tuv>
     </tu>
     <tu>
