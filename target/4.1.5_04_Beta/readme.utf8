@@ -1,0 +1,217 @@
+Sta traduzzione hè u travagliu di Patriccollu di Santa Maria è Sichè, diritti
+di copia © 2020.
+
+
+Cosa hè OmegaT ?
+==============
+
+OmegaT hè un attrezzu di traduzzione assistata da l’urdinatore (TAO in
+francese è CAT in inglese) - liberu è di « fonte aperta » multipiattaforma -
+chì cuntene funzioni cum’è currispundenze simile, memoria di traduzzione,
+ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione
+hè più faciule.
+
+
+
+Infurmazione di licenza
+=======================
+
+OmegaT hè dispunibule sottu à i termi di a Licenza Publica Generale GNU
+tale chì publicata da a Free Software Foundation ; sia a versione 3 di
+a licenza, sia (s’è voi preferite) una versione più recente. Pudete fighjà u testu di a licenza in
+/docs/OmegaT-license.txt.
+
+OmegaT impiegheghja bibliuteche numerose. A licenza d'ogni bibliuteca hè ammentata
+in /lib/licenses/Licenses.txt.
+
+
+
+Prerichiesti per installà OmegaT
+================================
+
+OmegaT richiede chì Java Runtime Environment (JRE) version 1.8 o più recente
+sia installata nant’à u vostru sistema.
+
+Vi ricumandemu d’impiegà i pacchetti OmegaT chì cuntenenu u JRE, per
+impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.
+
+
+
+Installazione d’OmegaT (Windows)
+================================
+
+Lancià u prugramma d’installazione.
+
+
+
+Installazione d’OmegaT (Mac)
+============================
+
+Spacchittà l’archiviu .zip d’OmegaT per ottene un cartulare chì
+cuntene un schedariu di ducumentazione è l’appiecazione OmegaT. Dispiazzà u cartulare ver di una lucalizazione apprupriata
+cum'è u cartulare di l’appiecazioni.
+
+
+
+Installazione d’OmegaT (Linux)
+==============================
+
+Place the archive in any suitable folder and unpack it. OmegaT is then ready
+to be launched.
+
+You can however obtain a neater and more user-friendly installation by using
+the installation script (linux-install.sh). To use this script, open a
+terminal window (console), change folder to the folder containing OmegaT.jar
+and the linux-install.sh script, and execute the script with ./linux-
+install.sh.
+
+
+
+Installing OmegaT (Solaris, FreeBSD, ...)
+=========================================
+
+Place the archive in any suitable folder and unpack it. OmegaT is then ready
+to be launched.
+
+
+
+Using Java Web Start for installing OmegaT (all platforms)
+===========================================================
+
+If you have already Java installed on your system, one way to install OmegaT
+is to use Java Web Start.
+
+For this purpose download the following file and then execute it:
+
+   http://omegat.sourceforge.net/webstart/OmegaT.jnlp
+
+It will install the correct environment for your computer and the application
+itself on the first run. Later calls do not need to be online.
+
+
+
+Launching OmegaT (Windows)
+==========================
+
+If, during installation, you have created a shortcut on the desktop, double-
+click on that shortcut.
+
+The install program can create shortcuts for you in the start menu, on the
+desktop and in the quick launch area. You can also manually drag the file
+OmegaT.exe to the start menu, the desktop or the quick launch area to link it
+from there.
+
+If you can see the file OmegaT but not OmegaT.exe in your File Manager
+(Windows Explorer), change the settings so that file extensions are displayed.
+
+
+
+Launching OmegaT (Mac)
+======================
+
+Double-click on the OmegaT application.
+
+You may drag the OmegaT application to your dock or to the tool bar of a
+Finder window to be able to launch it from any location. You can also launch
+it from the Spotlight search field.
+
+
+
+Launching OmegaT (Linux)
+========================
+
+If you used linux-install.sh script, you should be able to launch OmegaT with:
+
+  Alt+F2
+
+and then:
+
+  omegat
+
+For a more user-friendly way of launching OmegaT, you can use the Kaptain
+script provided (omegat.kaptn). To use this script you must first install
+Kaptain. You can then launch the Kaptain launch script with:
+
+  Alt+F2
+
+and then:
+
+  omegat.kaptn
+
+
+
+Launching OmegaT from the command line (all systems)
+====================================================
+
+The command to launch OmegaT is:
+
+cd <folder where the file OmegaT.jar is located>
+
+<name and path of the Java executable file> -jar OmegaT.jar
+
+(The Java executable file is the file java on Linux and java.exe on Windows.
+If Java is installed at system level and is in the command path, the full path
+need not be entered.)
+
+
+
+Cuntribuenti
+============
+
+OmegaT hè u travagliu uriginale di Keith Godfrey.
+
+Didier Briel hè u risponsevule di u prughjettu OmegaT.
+
+Squadra attuate :
+(in ordine alfabeticu)
+
+  Vincent Bidaux (risponsevule di a documentazione)
+  Didier Briel (risponsevule di prughjettu OmegaT, rispunsevule di cumunità Twitter)
+  Marco Cevoli (rispunsevule di cumunità Telegram)
+  Kos Ivantsof (rispunsevule di a lucalisazione)
+  Aaron Madlon-Kay (risponsevule d’integrazione)
+  Concepción Martin (rispunsevule di cumunità Facebook)
+  Briac Pilpré (webmaestru)
+  Lucie Vecerova (rispunsevule di cumunità Facebook)
+
+E cuntribuzioni à u codice sò ducumentate in /docs/contributors.txt.
+
+Precedente cuntribuenti includenu :
+(in ordine alfabeticu)
+
+  Anthony Baldwin (rispunsevule di a lucalisazione)
+  Alex Buloichik (sviluppatore principale)
+  Sabine Cretella
+  Dmitri Gabinski
+  Jean-Christophe Helary (prupietariu di u gruppu d’assistenza, rispunsevule di a lucalisazione)
+  Maxym Mykhalchuk (sviluppatore principale)
+  Samuel Murray
+  Henry Pijffers (rispunsevule di versione)
+  Marc Prior (cuurdinatore di prughjettu, webmaestru)
+  Vito Smolej (risponsevule di a documentazione)
+  è assai assai personne chì ci anu aiutatu
+
+(S’ella vi pare chì vo avete cuntribuitu assai à u prughjettu OmegaT ma
+chì u vostru nome ùn si trova micca nant’à e liste, cuntattateci puru.)
+
+
+
+Leie ghjuvevule
+===============
+
+L’infurmazione a più ricente apprupositu d’OmegaT si trova à
+
+   http://www.omegat.org/
+
+Assistenza per l’utilizatore, à u gruppu d’utilizatori (multilingue) Yahoo,
+induve si pò circà in l’archivii senza sottuscrizzione :
+
+   https://groups.yahoo.com/neo/groups/OmegaT/info
+
+Dumande d’amendamentu (in inglese) à u situ SourceForge :
+
+   https://sourceforge.net/p/omegat/feature-requests/
+
+Raporti di penseru (in inglese) à u situ SourceForge :
+
+   https://sourceforge.net/p/omegat/bugs/
