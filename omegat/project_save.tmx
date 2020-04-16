@@ -2631,6 +2631,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Check &amp;automatically</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172609Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172609Z">
+        <seg>Cuntrollà &amp;autumaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180055Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153724Z">
@@ -2643,6 +2651,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191538Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191538Z">
         <seg>Cuntrollà e regule di LanguageTools</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Now</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172435Z">
+        <seg>Cuntrollà subitu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6982,6 +6998,14 @@ sia installata nant’à u vostru sistema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT {0} is now available.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172522Z">
+        <seg>OmegaT {0} hè dispunibule avà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT's main features are:</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183724Z">
@@ -10936,6 +10960,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You already have the latest version.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172502Z">
+        <seg>Impiegate dighjà l’ultima versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171605Z">
@@ -11008,6 +11040,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163837Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163837Z">
         <seg>Pudete fighjà u testu di a licenza in
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You currently have {1}.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172602Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172602Z">
+        <seg>Oghje, avete {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11224,6 +11264,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T150434Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T150434Z">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172729Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172729Z">
+        <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
     </tu>
     <tu>
