@@ -1905,8 +1905,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>About OmegaT</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T172048Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172048Z">
-        <seg>Apprupositu di OmegaT</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172258Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172048Z">
+        <seg>Apprupositu d’OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3195,6 +3195,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172126Z">
         <seg>Diritti di copia © 2000-2016 Keith Godfrey, Maxym Mykhalchuk è d’altri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172317Z">
+        <seg>Diritti di copia © 2000-2019 Keith Godfrey, Maxym Mykhalchuk è d’altri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8608,6 +8616,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174503Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122733Z">
         <seg>Fighjate « Capitulu 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172342Z">
+        <seg>Fighjate /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
