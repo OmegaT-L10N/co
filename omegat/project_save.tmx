@@ -5329,6 +5329,16 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Installing OmegaT (Mac)
+=======================</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165155Z">
+        <seg>Installazione d’OmegaT (Mac)
+============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Installing OmegaT (Windows)
 ===========================</seg>
       </tuv>
@@ -10370,6 +10380,16 @@ d’altri ducumenti, lighjite :</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>Tipu d’estensione ’{0}’ scunnisciutu in ’{1}’</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a
+documentation file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165453Z">
+        <seg>Spacchittà l’archiviu .zip d’OmegaT per ottene un cartulare chì
+cuntene un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
