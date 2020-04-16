@@ -1763,6 +1763,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>===============</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162948Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162948Z">
+        <seg>==============</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>==============================================================================</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T164933Z" creationid="Patriccollu" creationdate="20170209T164933Z">
@@ -6728,6 +6736,20 @@ d’utilizatore.</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T182841Z">
         <seg>OmegaT hè un attrezzu di traduzzione assistita da l’urdinatore (TAO in
 francese è CAT in inglese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation
+tool with fuzzy matching, translation memory, keyword search, glossaries, and
+translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163412Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163412Z">
+        <seg>OmegaT hè un attrezzu di traduzzione assistata da l’urdinatore (TAO in
+francese è CAT in inglese) - liberu è di « fonte aperta » multipiattaforma -
+chì cuntene funzioni cum’è currispundenze simile, memoria di traduzzione,
+ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione
+hè più faciule.</seg>
       </tuv>
     </tu>
     <tu>
