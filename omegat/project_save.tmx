@@ -5847,6 +5847,16 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Licensing information
+=====================</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163447Z">
+        <seg>Infurmazione di licenza
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>List View</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225818Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225818Z">
@@ -6758,6 +6768,18 @@ hè più faciule.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170213T130425Z">
         <seg>OmegaT hè un attrezzu di Traduzzione Assistata da l’Urdinatore (TAO in francese è CAT in inglese) - liberu è multipiattaforma - chì cuntene funzioni cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>OmegaT is available under the terms of the GNU General Public License as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163759Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163759Z">
+        <seg>OmegaT hè dispunibule sottu à i termi di a Licenza Publica Generale GNU
+tale chì publicata da a Free Software Foundation ; sia a versione 3 di
+a licenza, sia (s’è voi preferite) una versione più recente.</seg>
       </tuv>
     </tu>
     <tu>
