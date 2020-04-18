@@ -9766,6 +9766,16 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
+xx or xxx is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200418T193843Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200418T193843Z">
+        <seg>U codice di lingua duveria esse in u furmatu xx-YY, xxx-YY, xx_YY o xxx_YY, induve xx
+o xxx hè u codice di lingua è YY hè quellu (ozzionale) di u rughjone o di u paese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The license of each library is mentionned
 in /lib/licenses/Licenses.txt.</seg>
       </tuv>
