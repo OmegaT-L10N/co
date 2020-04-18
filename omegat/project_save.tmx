@@ -4089,14 +4089,6 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
-        <seg>Enabled</seg>
-      </tuv>
-      <tuv lang="CO" changeid="Patriccollu" changedate="20150516T232330Z">
-        <seg>Permessu</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="CO">
@@ -4517,6 +4509,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
         <seg>Filtri di schedariu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File Format</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200418T194154Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200418T194154Z">
+        <seg>Furmatu di schedariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8848,6 +8848,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225751Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225751Z">
         <seg>Pruprietà di segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200418T194140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200418T194140Z">
+        <seg>Segmentu tralasciatu.</seg>
       </tuv>
     </tu>
     <tu>
