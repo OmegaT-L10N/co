@@ -240,7 +240,7 @@
       <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20151004T110254Z" creationid="Patriccollu" creationdate="20150810T122453Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20151004T110254Z" creationid="Patriccollu" creationdate="20150810T122453Z">
         <seg>&amp;Abbandunà</seg>
       </tuv>
     </tu>
@@ -656,7 +656,7 @@
       <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20150816T163332Z" creationid="Patriccollu" creationdate="20150810T122523Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20150816T163332Z" creationid="Patriccollu" creationdate="20150810T122523Z">
         <seg>&amp;Caccià</seg>
       </tuv>
     </tu>
@@ -2329,7 +2329,7 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>Authentication</seg>
       </tuv>
-      <tuv lang="CO" changeid="phenry" changedate="20150516T172859Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20150516T172859Z">
         <seg>Autenticazione</seg>
       </tuv>
     </tu>
@@ -3009,7 +3009,7 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>Comment</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20160402T153547Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20160402T153547Z">
         <seg>Cummentu</seg>
       </tuv>
     </tu>
@@ -3191,7 +3191,7 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>Convert</seg>
       </tuv>
-      <tuv lang="CO" changeid="phenry" changedate="20150514T185032Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20150514T185032Z">
         <seg>Cunvertisce</seg>
       </tuv>
     </tu>
@@ -3459,7 +3459,7 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>Description</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20160424T003052Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20160424T003052Z">
         <seg>Discrizzione</seg>
       </tuv>
     </tu>
@@ -3731,7 +3731,7 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>Do you really want to quit?</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20160402T154937Z" creationid="PHENRY" creationdate="20160402T142107Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20160402T154937Z" creationid="Patriccollu" creationdate="20160402T142107Z">
         <seg>Site sicuru di vulè chità quantunque ?</seg>
       </tuv>
     </tu>
@@ -4075,7 +4075,7 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>Enabled</seg>
       </tuv>
-      <tuv lang="CO" changeid="phenry" changedate="20150516T232330Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20150516T232330Z">
         <seg>Permessu</seg>
       </tuv>
     </tu>
@@ -4683,7 +4683,7 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>French</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20140826T131433Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20140826T131433Z">
         <seg>Corsican</seg>
       </tuv>
     </tu>
@@ -4747,7 +4747,7 @@ U valore attuale hè {0} Mo ;
       <tuv lang="EN">
         <seg>General</seg>
       </tuv>
-      <tuv lang="CO" changeid="phenry" changedate="20150514T183617Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20150514T183617Z">
         <seg>Generale</seg>
       </tuv>
     </tu>
@@ -6597,7 +6597,7 @@ cum'è u cartulare di l’appiecazioni.</seg>
       <tuv lang="EN">
         <seg>Next</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20150511T115700Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20150511T115700Z">
         <seg>Seguente</seg>
       </tuv>
     </tu>
@@ -7576,7 +7576,7 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="EN">
         <seg>Please try again.</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20160312T163454Z" creationid="PHENRY" creationdate="20160312T163454Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20160312T163454Z" creationid="Patriccollu" creationdate="20160312T163454Z">
         <seg>Ci vole à pruvà torna.</seg>
       </tuv>
     </tu>
@@ -8044,7 +8044,7 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="EN">
         <seg>Remo&amp;ve</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224833Z" creationid="PHENRY" creationdate="20150823T133214Z">
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224833Z" creationid="Patriccollu" creationdate="20150823T133214Z">
         <seg>Cacc&amp;ià</seg>
       </tuv>
     </tu>
@@ -8068,7 +8068,7 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="EN">
         <seg>Remove</seg>
       </tuv>
-      <tuv lang="CO" changeid="phenry" changedate="20150516T231716Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20150516T231716Z">
         <seg>Caccià</seg>
       </tuv>
     </tu>
@@ -9078,7 +9078,7 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="EN">
         <seg>Skip</seg>
       </tuv>
-      <tuv lang="CO" changeid="PHENRY" changedate="20160414T183318Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20160414T183318Z">
         <seg>Ignurà</seg>
       </tuv>
     </tu>
@@ -9214,7 +9214,7 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="EN">
         <seg>Spanish</seg>
       </tuv>
-      <tuv lang="CO" changeid="phenry" changedate="20150315T194620Z">
+      <tuv lang="CO" changeid="Patriccollu" changedate="20150315T194620Z">
         <seg>Corsican</seg>
       </tuv>
     </tu>
