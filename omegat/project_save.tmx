@@ -7310,6 +7310,14 @@ hè più faciule.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T184831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184831Z">
+        <seg>OmegaT hè un appiecazione di memoria di traduzzione, di rigalu è di « fonte aperta », scitta in Java per i traduttori prufessiunali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
