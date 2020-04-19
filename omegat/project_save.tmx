@@ -4561,6 +4561,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T165601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T165601Z">
+        <seg>Fiascu per caricà a memoria di traduzzione {0} per u prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Few more things to remember</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160831Z">
@@ -10940,8 +10948,8 @@ cuntene un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
       <tuv lang="EN">
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
-      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T162840Z">
-        <seg>Impiegà TAB per avanzà</seg>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T165224Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T162840Z">
+        <seg>Impiegà a &amp;tabulazione per validà</seg>
       </tuv>
     </tu>
     <tu>
