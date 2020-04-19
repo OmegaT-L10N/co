@@ -9140,6 +9140,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Dictionaries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T183520Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T183520Z">
+        <seg>Circà in i dizziunarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search and Replace</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T143849Z" creationid="Patriccollu" creationdate="20170209T143849Z">
@@ -11206,6 +11214,14 @@ cuntene un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T145850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T145850Z">
         <seg>Sintassa : java -jar OmegaT.jar team &lt;cumanda&gt; [&lt;ozzioni&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T183937Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T183937Z">
+        <seg>Impiegà e &amp;currispundenze simile per l’entrate di dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
