@@ -2087,6 +2087,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>All DOCX files in the project</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T162030Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161954Z">
+        <seg>Tutti i schedarii DOCX di u prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>All domains</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165929Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165929Z">
@@ -2403,6 +2411,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161901Z">
         <seg>Abbellisce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Beautify resulting DOCX</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161935Z">
+        <seg>Abbellisce u DOCX risultante</seg>
       </tuv>
     </tu>
     <tu>
@@ -3367,6 +3383,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create backup files of original DOCX</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T162311Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T162311Z">
+        <seg>Creà schedarii di salvaguardia di DOCX d’urigine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create pseudo-translate TMX</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T183641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182954Z">
@@ -3435,6 +3459,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165537Z">
         <seg>Creatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Current DOCX file</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T162027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T162027Z">
+        <seg>U schedariu DOCX attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -9730,6 +9762,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T190653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T190653Z">
         <seg>Etichetta - spazii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161920Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161920Z">
+        <seg>Nettata d’etichetta</seg>
       </tuv>
     </tu>
     <tu>
