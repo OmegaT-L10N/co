@@ -6819,6 +6819,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No project loaded.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T162420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T162420Z">
+        <seg>Alcunu prughjettu carcu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Non-ASCII Only</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170213T133855Z" creationid="Patriccollu" creationdate="20170213T133855Z">
@@ -8294,6 +8302,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu" changedate="20170209T152819Z" creationid="Patriccollu" creationdate="20170209T152819Z">
         <seg>Caccià i mnemonichi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove tags from DOCX documents</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T162346Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T162346Z">
+        <seg>Caccià l’etichette da i ducumenti DOCX</seg>
       </tuv>
     </tu>
     <tu>
