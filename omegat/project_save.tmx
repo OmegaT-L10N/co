@@ -3243,6 +3243,22 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T184834Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184834Z">
+        <seg>Cuntattu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contact and Support</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T184933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184933Z">
+        <seg>Cuntattu è Assistenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213449Z" creationid="Patriccollu" creationdate="20170213T133756Z">
@@ -7728,6 +7744,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page Not Found</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T184907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184907Z">
+        <seg>A pagina ùn esiste micca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parsewise</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181210Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181210Z">
@@ -7804,6 +7828,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121543Z">
         <seg>Phillip Hall</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Philosophy</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T184954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184954Z">
+        <seg>Filosufia</seg>
       </tuv>
     </tu>
     <tu>
@@ -10274,6 +10306,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164732Z">
         <seg>E memorie &lt;f3&gt;level1&lt;/f3&gt; è &lt;f4&gt;level2&lt;/f4&gt; ponu esse sparte cù l’utilizatori d’altri prugrammi di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Project</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T184849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184849Z">
+        <seg>U prughjettu OmegaT</seg>
       </tuv>
     </tu>
     <tu>
