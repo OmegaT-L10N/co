@@ -4553,10 +4553,26 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T165820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T165820Z">
+        <seg>Fiascu per ingenerà i schedarii di u prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204224Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184410Z">
         <seg>Fiascu à a creazione di u prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T165638Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T165638Z">
+        <seg>Fiascu per caricà u prughjettu specificatu !</seg>
       </tuv>
     </tu>
     <tu>
