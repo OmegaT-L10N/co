@@ -2399,6 +2399,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Beautify</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161901Z">
+        <seg>Abbellisce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Belazar</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T160847Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T160847Z">
@@ -2883,6 +2891,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174027Z">
         <seg>Sceglie u schedariu di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cleaning entry '{0}'...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161624Z">
+        <seg>Nettata di l’elementu « {0} »…</seg>
       </tuv>
     </tu>
     <tu>
@@ -3387,6 +3403,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225912Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225912Z">
         <seg>Creatu u</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creating output file '{0}'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161540Z">
+        <seg>Apertura di u destinazione d’urigine « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -6591,6 +6615,22 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165901Z">
         <seg>Dispiazzà u cartulare ver di una lucalizazione apprupriata
 cum'è u cartulare di l’appiecazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving cleaned '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161812Z">
+        <seg>Dispiazzamentu di u nettatu « {0} » ver di « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Moving original '{0}' to '{1}'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161803Z">
+        <seg>Dispiazzamentu di l’uriginale « {0} » ver di « {0} »</seg>
       </tuv>
     </tu>
     <tu>
