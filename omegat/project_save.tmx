@@ -7334,6 +7334,14 @@ sia installata nant’à u vostru sistema.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Opening input file '{0}'</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161518Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161518Z">
+        <seg>Apertura di u schedariu d’urigine « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options</seg>
       </tuv>
       <tuv lang="CO">
