@@ -3213,6 +3213,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting all .DOCX in the project...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T160723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T160723Z">
+        <seg>Cunversione di tutti i schedarii .DOCX di u prughjettu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174737Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
@@ -9016,6 +9024,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185144Z">
         <seg>Selezziunà i tipi di penseru à cuntrollà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Selected options:</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T160543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T160543Z">
+        <seg>Ozzioni selezziunate :</seg>
       </tuv>
     </tu>
     <tu>
