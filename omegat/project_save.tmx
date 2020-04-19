@@ -3221,6 +3221,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Converting current .DOCX...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T160755Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T160755Z">
+        <seg>Cunversione di u schedariu .DOCX attuale…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174737Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
@@ -6707,6 +6715,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>No .DOCX files to clean.</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T160832Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T160832Z">
+        <seg>Alcunu schedariu .DOCX à nettà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173522Z">
@@ -9666,6 +9682,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T190653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T190653Z">
         <seg>Etichetta - spazii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tagwipe finished, reloading project...</seg>
+      </tuv>
+      <tuv lang="CO" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161223Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161223Z">
+        <seg>Nettata d’etichetta compia, ricaricamentu di u prughjettu…</seg>
       </tuv>
     </tu>
     <tu>
