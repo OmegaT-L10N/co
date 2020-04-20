@@ -5273,6 +5273,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184257Z">
+        <seg>Predizzione di crunulogia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T161954Z">
