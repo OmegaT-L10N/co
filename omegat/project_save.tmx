@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184430Z">
+        <seg>Attivà u &amp;cumpiimentu di crunulogia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="co">
@@ -4261,6 +4269,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co">
         <seg>Indirizzu elettronicu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184437Z">
+        <seg>Attivà a &amp;predizzione di crunulogia</seg>
       </tuv>
     </tu>
     <tu>
