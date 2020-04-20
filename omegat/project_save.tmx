@@ -830,10 +830,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184711Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184711Z">
+        <seg>Affissà autumaticamente e &amp;suggestioni pertinente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224528Z">
         <seg>&amp;Affissà in u listinu cuntestuale di l’editore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184721Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184721Z">
+        <seg>Affissà autumaticamente e &amp;suggestioni pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -9994,6 +10010,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T142933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T142933Z">
         <seg>Swing-Layout 1.0.4 (Licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184821Z">
+        <seg>Cambià di vista cù {0} è {1}</seg>
       </tuv>
     </tu>
     <tu>
