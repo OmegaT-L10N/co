@@ -2431,6 +2431,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Available script engines:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T185121Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T185121Z">
+        <seg>Mutori di scrittu dispunibule :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>B&amp;rowse</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T155948Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T155948Z">
@@ -3227,6 +3235,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190424T184512Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190424T184512Z">
         <seg>Cunnettassi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T191029Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T191029Z">
+        <seg>Cunnessione dispunibule, u prughjettu si trova in modu prughjettu di squadra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4469,6 +4485,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T140649Z" creationid="Patriccollu" creationdate="20170213T140649Z">
         <seg>Sbagliu durante a mudificazione di u schedariu di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T190759Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190759Z">
+        <seg>Sbagliu durante a mudificazione di u dipositu alluntanatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7035,6 +7059,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T190944Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190944Z">
+        <seg>Alcuna cunnessione dispunibule, u prughjettu si trova in modu fora di linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No match:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T193447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193447Z">
@@ -7686,6 +7718,14 @@ sia installata nant’à u vostru sistema.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T184625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184625Z">
+        <seg>Apertura di u prughjettu di squadra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options</seg>
       </tuv>
       <tuv lang="co">
@@ -8026,6 +8066,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151143Z">
         <seg>Ci vole à scrive o incullà l’URL di a pagina MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T184855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184855Z">
+        <seg>Estensione caricata bè da a classa « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -8442,6 +8490,22 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T191151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T191151Z">
+        <seg>Lettura di u schedariu TMX {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T191224Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T191224Z">
+        <seg>Lettura compia di u schedariu TMX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References:</seg>
       </tuv>
       <tuv lang="co">
@@ -8558,6 +8622,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170430Z">
         <seg>Dipositi alluntanati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T190727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190727Z">
+        <seg>Sbagliu di cumunicazione di reta di u dipositu alluntanatu : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9052,6 +9124,30 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVN '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T190300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190300Z">
+        <seg>Sbagliu di SVN « {0} » : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVN '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T190017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190017Z">
+        <seg>L’esecuzione di SVN « {0} » hè riesciuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVN '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T185934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T185934Z">
+        <seg>Principu di l’esecuzione di SVN « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVN - Cleanup</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171105Z" creationid="Patriccollu" creationdate="20170209T144235Z">
@@ -9388,6 +9484,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T191253Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T191253Z">
+        <seg>Metoda di segmentazione : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20161226T194650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20161226T194650Z">
@@ -9644,6 +9748,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T190821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190821Z">
+        <seg>Tralasciamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slovak</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190525T143534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190525T143534Z">
@@ -9792,6 +9904,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224428Z">
         <seg>Specificà un mnemonicu cù « &amp; » : « &amp;Ohimè » per impiegà O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spell checker</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T191631Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T191631Z">
+        <seg>Cuntrullore d’ortugrafia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11576,6 +11696,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T184239Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184239Z">
+        <seg>Ùn si pò truvà a pagina chì vò circate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We recommend using OmegaT packages that include the JRE, to save you the
 trouble of selecting, obtaining and installing it.</seg>
       </tuv>
@@ -11866,6 +11994,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163837Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163837Z">
         <seg>Pudete fighjà u testu di a licenza in
 /docs/OmegaT-license.txt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T184521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184521Z">
+        <seg>Pudete andà à a &lt;a0&gt;pagina d’accolta&lt;/a0&gt; è forse truvà ciò chì vò circate da quallà.</seg>
       </tuv>
     </tu>
     <tu>
