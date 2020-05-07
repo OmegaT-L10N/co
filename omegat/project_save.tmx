@@ -5793,6 +5793,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T192108Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T192108Z">
+        <seg>INS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ibai Lakunza Velasco</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121633Z">
@@ -6055,6 +6063,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T182451Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T182451Z">
         <seg>Framette l’etichette d’urigine chì mancanu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T192029Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T192029Z">
+        <seg>Modu d’inserzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -6507,6 +6523,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180541Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172431Z">
         <seg>&amp;Ghjurnale di messaghji…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T192053Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T192053Z">
+        <seg>BLU</seg>
       </tuv>
     </tu>
     <tu>
@@ -7687,6 +7711,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T192105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T192105Z">
+        <seg>RIM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144057Z">
@@ -8220,6 +8252,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T170604Z" creationid="Patriccollu" creationdate="20170209T145636Z">
         <seg>Osinnò, OmegaT impiegherà a lingua di u sistema d’operazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191937Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191937Z">
+        <seg>Modu di rimpiazzamentu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -11644,6 +11684,14 @@ d’altri ducumenti, lighjite :</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150117Z" creationid="Patriccollu" creationdate="20170210T150117Z">
         <seg>Typo3 l10nmgr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T192058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T192058Z">
+        <seg>SPA</seg>
       </tuv>
     </tu>
     <tu>
