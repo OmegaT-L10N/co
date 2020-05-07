@@ -9,3 +9,5 @@ sensitive	sensibile
 mnemonic	mnemonicu
 tokenizer	lemmatizatore
 hierarchy	ierarchia
+separately	staccatamente
+inserting	inserzione
