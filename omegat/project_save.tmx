@@ -6239,6 +6239,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T184818Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T184818Z">
+        <seg>Ùn hè micca statu pussibule di creà i ducumenti tradutti perchè certe etichette mancanu o sò alterate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="co">
@@ -8296,6 +8304,14 @@ everything.</seg>
         <seg>Piazzà i schedarii d’urigine in ./source è d’eventuale schedarii
 in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
 è dopu validà (commit) l’inseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T185217Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T185217Z">
+        <seg>Ci vole à currege sti prublemi nanzu d’impiegà torna Creà i ducumentu tradutti.</seg>
       </tuv>
     </tu>
     <tu>
