@@ -3207,6 +3207,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191639Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191639Z">
+        <seg>Inviu di i schedarii di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compatibility</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190420T153213Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190420T153213Z">
@@ -3949,6 +3957,22 @@ U valore attuale hè {0} Mo ;
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162411Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162411Z">
         <seg>Squadra attuate :
 (in ordine alfabeticu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191851Z">
+        <seg>Cursore bluccatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191920Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191920Z">
+        <seg>Cursore spalancatu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5101,6 +5125,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T165601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T165601Z">
         <seg>Fiascu per caricà a memoria di traduzzione {0} per u prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191804Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191804Z">
+        <seg>Fiascu per mudificà e prupietà di u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10746,6 +10778,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210704Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210704Z">
         <seg>Contu di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191709Z">
+        <seg>Schedarii di destinazione rimandati</seg>
       </tuv>
     </tu>
     <tu>
