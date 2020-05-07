@@ -3185,16 +3185,16 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Commit Source Files</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T163143Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T163143Z">
-        <seg>Rimette i schedarii d’urigine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T185853Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T163143Z">
+        <seg>Rimandà schedarii d’urigine</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Commit Target Files</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T163202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T163202Z">
-        <seg>Rimette i schedarii di destinazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T185856Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T163202Z">
+        <seg>Rimandà i schedarii di destinazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -5045,6 +5045,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122049Z">
         <seg>Fabián Mandelbaum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191323Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191323Z">
+        <seg>Fiascu per rimandà i schedarii d’urigine !</seg>
       </tuv>
     </tu>
     <tu>
