@@ -1150,6 +1150,30 @@ Per aghjunghe schedarii à u prughjettu, cliccà nant’à u buttone « Cupià i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T115123Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T115123Z">
+        <seg>(etichetta chjudante)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T114756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T114756Z">
+        <seg>(etichetta di cummentu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T114955Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T114955Z">
+        <seg>(etichetta viota)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>+{0} more</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113149Z">
@@ -5567,6 +5591,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150210Z" creationid="Patriccollu" creationdate="20170210T150210Z">
         <seg>Flash XML Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T114936Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T114936Z">
+        <seg>Caratteru « ? » undighjante micca liatu à « &gt; » !</seg>
       </tuv>
     </tu>
     <tu>
