@@ -1134,6 +1134,14 @@ Per aghjunghe schedarii à u prughjettu, cliccà nant’à u buttone « Cupià i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113149Z">
+        <seg>più di {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>,</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T154219Z" creationid="Patriccollu" creationdate="20170209T154219Z">
@@ -13459,6 +13467,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T154211Z" creationid="Patriccollu" creationdate="20170209T154211Z">
         <seg>{0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113305Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113305Z">
+        <seg>{0} è più di {1}</seg>
       </tuv>
     </tu>
     <tu>
