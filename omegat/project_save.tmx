@@ -13317,6 +13317,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T115153Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T115153Z">
+        <seg>attributi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>canceled ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T224800Z">
@@ -13475,6 +13483,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T144221Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T144221Z">
         <seg>juniversalchardet-1.0.3.jar (GPL v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T115140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T115140Z">
+        <seg>caricatu</seg>
       </tuv>
     </tu>
     <tu>
