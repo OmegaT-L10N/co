@@ -5487,6 +5487,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T173846Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T173846Z">
+        <seg>Sbagliu fatale à a linea {0}, culonna {1} durante l’analisa di sintassa :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Few more things to remember</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160831Z">
