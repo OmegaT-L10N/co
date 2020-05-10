@@ -2601,6 +2601,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T111526Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T111526Z">
+        <seg>Espressione regulare incurretta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Beautify</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161901Z">
@@ -4955,6 +4963,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T111718Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T111718Z">
+        <seg>Sbagliu durante u rimpiazzamentu d’un’espressione regulare :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161228Z">
@@ -5831,6 +5847,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T130928Z" creationid="Patriccollu" creationdate="20170213T130917Z">
         <seg>Groovy (Licenza Apache 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T111901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T111901Z">
+        <seg>U gruppu {0} ùn esiste micca in l’espressione di ricerca</seg>
       </tuv>
     </tu>
     <tu>
