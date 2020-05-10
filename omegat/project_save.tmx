@@ -2537,6 +2537,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T105042Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T105042Z">
+        <seg>Sincrunizazione autumatica cù l’editore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="co">
