@@ -2389,10 +2389,10 @@ U valore attuale hè {0} Mo ;
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T173114Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T173114Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T173150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T173114Z">
         <seg>Sbagliu durante l’analisa di sintassa di u schedariu TMX
 {0}
-U sc TMX</seg>
+U schedariu TMX ùn serà micca caricatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8946,6 +8946,18 @@ a description of how this error was produced.</seg>
         <seg>Ci vole à leghje a documentazione apprupositu di l’ozzioni di
 ricuperazione è mandà l’infurmazione chì seguiteghja à i sviluppatori
 incù una discrizzione precisa cumu stu sbagliu hè statu produttu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T173510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T173510Z">
+        <seg>Fighjate u ghjurnale di i messaghji
+({1})
+per cunnosce a cagione di u sbagliu è pruvate torna.</seg>
       </tuv>
     </tu>
     <tu>
