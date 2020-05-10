@@ -12333,6 +12333,22 @@ d’altri ducumenti, lighjite :</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T180520Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T180520Z">
+        <seg>Elementu di traduzzione incuntratu nanzu l’intestatura TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T180658Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T180658Z">
+        <seg>Variante di l’elementu di traduzzione incuntrata fora di l’elementu di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation:</seg>
       </tuv>
       <tuv lang="co">
