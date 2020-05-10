@@ -7853,6 +7853,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T112357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T112357Z">
+        <seg>A ricerca ùn hà pruduttu nunda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No need to save project, because no changes were made</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140744Z">
@@ -8754,6 +8762,14 @@ everything.</seg>
         <seg>Piazzà i schedarii d’urigine in ./source è d’eventuale schedarii
 in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
 è dopu validà (commit) l’inseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T112210Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T112210Z">
+        <seg>Ci vole à chjode a finestra di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
