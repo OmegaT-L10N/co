@@ -12447,6 +12447,14 @@ cuntene un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113820Z">
+        <seg>Versione XML {0} micca pigliata in contu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Untranslated segment</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T184349Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T184349Z">
