@@ -12835,6 +12835,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Variants in the following languages will be displayed: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T172755Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172755Z">
+        <seg>E varianti presente in quesse lingue seranu affissate : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Version</seg>
       </tuv>
       <tuv lang="co" changeid="LF Aligner 4.05" changedate="20140827T133535Z">
