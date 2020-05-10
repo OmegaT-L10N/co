@@ -8033,6 +8033,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113035Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113035Z">
+        <seg>Numeru di segmenti currispondente : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of matching segments:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171641Z">
