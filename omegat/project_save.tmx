@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113524Z">
+        <seg>&amp;Torna à inizià l’ozzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153100Z">
@@ -842,6 +850,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T154704Z">
         <seg>Ricercà in u &amp;prughjettu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113343Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113343Z">
+        <seg>Circà a &amp;selezzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -12265,6 +12281,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170348Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170348Z">
         <seg>Impussibule di scaricà u prughjettu di squadra !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113651Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113651Z">
+        <seg>Impussibule d’inizià a lettura di u schedariu XML !</seg>
       </tuv>
     </tu>
     <tu>
