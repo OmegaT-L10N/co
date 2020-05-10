@@ -2601,6 +2601,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T111959Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T111959Z">
+        <seg>Nome di cartulare incurrettu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad regular expression!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T111526Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T111526Z">
@@ -10248,6 +10256,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T152304Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T152304Z">
         <seg>Circà in</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T112134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T112134Z">
+        <seg>A ricerca s’hè piantata di manera inaspettata !</seg>
       </tuv>
     </tu>
     <tu>
