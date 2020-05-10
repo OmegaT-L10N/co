@@ -4947,6 +4947,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T171247Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171247Z">
+        <seg>Alcunu bloccu di fine à a chjusura di schedariu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20161003T120618Z" creationid="Patriccollu" creationdate="20161003T120346Z">
