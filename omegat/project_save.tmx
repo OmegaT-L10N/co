@@ -5147,6 +5147,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T111159Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T111159Z">
+        <seg>Esclude i segmenti urfanelli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
