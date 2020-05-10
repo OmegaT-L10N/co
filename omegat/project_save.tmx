@@ -11707,6 +11707,14 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T181656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T181656Z">
+        <seg>A lingua d’urigine ({0}) di u schedariu TMX hè sfarente di a lingua d’urigine ({1}) di u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The URL must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T225140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T225140Z">
@@ -11923,6 +11931,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165412Z">
         <seg>Ghjè perchè, appughjà nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+Shift+V&lt;/s1&gt;&lt;/s0&gt; nanzu d’ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T181359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T181359Z">
+        <seg>St’elementi sò stati tralasciati.</seg>
       </tuv>
     </tu>
     <tu>
