@@ -12631,6 +12631,18 @@ cuntene un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T180159Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T180159Z">
+        <seg>Sbagliu micca ricuperevule durante l’analisa di sintassa di u schedariu TMX
+{0}
+à a linea {1}, culonna  {2}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unspecified</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170815T141909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170815T141909Z">
