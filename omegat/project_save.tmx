@@ -9560,6 +9560,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T173748Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T173748Z">
+        <seg>Sbagliu ricuperevule à a linea {0}, culonna {1} durante l’analisa di sintassa :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Recursi&amp;ve search</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T181641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T181641Z">
@@ -12969,6 +12977,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       </tuv>
       <tuv lang="co">
         <seg>Avertimentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T173612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T173612Z">
+        <seg>Avertimentu à a linea {0}, culonna {1} durante l’analisa di sintassa :</seg>
       </tuv>
     </tu>
     <tu>
