@@ -5171,6 +5171,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T171551Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171551Z">
+        <seg>Caratteru di scappamentu decimale chì cuntene dati malfuttuti ({0}) !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
@@ -5527,6 +5535,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T113216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154421Z">
         <seg>Lucalizazioni di i schedarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T171609Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171609Z">
+        <seg>U schedariu {0} ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
@@ -8754,6 +8770,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T171925Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171925Z">
+        <seg>Sbagliu durante l’analisa di u schedariu di e preferenze !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parsewise</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181210Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181210Z">
@@ -9088,6 +9112,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T172758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172758Z">
         <seg>Preferenze - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T171753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171753Z">
+        <seg>Fiascu durante l’arregistramentu di e preferenze di u sistema !</seg>
       </tuv>
     </tu>
     <tu>
