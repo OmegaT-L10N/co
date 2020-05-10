@@ -5395,6 +5395,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T172300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172300Z">
+        <seg>Fiascu à l’arregistramentu di u schedariu di preferenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191323Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191323Z">
@@ -9126,8 +9134,8 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T171753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171753Z">
-        <seg>Fiascu durante l’arregistramentu di e preferenze di u sistema !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T172310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171753Z">
+        <seg>Fiascu à l’arregistramentu di e preferenze di u sistema !</seg>
       </tuv>
     </tu>
     <tu>
@@ -12595,6 +12603,14 @@ cuntene un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T172006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172006Z">
         <seg>Cudificazione di schedariu inaccettevule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T172501Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172501Z">
+        <seg>Versione di schedariu di prughjettu {0} micca pigliata in contu !</seg>
       </tuv>
     </tu>
     <tu>
