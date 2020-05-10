@@ -5155,6 +5155,22 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T171540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171540Z">
+        <seg>Caratteru di scappamentu binariu chì cuntene dati malfuttuti ({0}) !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T171405Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171358Z">
+        <seg>Caratteru di scappamentu micca chjosu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Event: application shutdown</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
