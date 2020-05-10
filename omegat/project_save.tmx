@@ -2577,6 +2577,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T105339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T105339Z">
+        <seg>Rivene à u segmentu iniziale à a chjusura di sta finestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Background</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211356Z">
