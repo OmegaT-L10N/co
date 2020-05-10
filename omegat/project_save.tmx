@@ -7045,6 +7045,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T180821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T180821Z">
+        <seg>Lingua micca specificata per a variante di l’elementu di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T152238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T152238Z">
@@ -10588,6 +10596,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T181040Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T181040Z">
+        <seg>Segmentu incuntratu fora di una variante d’elementu di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment skipped.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200418T194140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200418T194140Z">
@@ -12917,6 +12933,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       </tuv>
       <tuv lang="co">
         <seg>Valore :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T180900Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T180726Z">
+        <seg>Variante tralasciata.</seg>
       </tuv>
     </tu>
     <tu>
