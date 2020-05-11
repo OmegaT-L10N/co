@@ -720,8 +720,8 @@
       <tuv lang="en">
         <seg>&amp;Regular expressions</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T141544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141544Z">
-        <seg>&amp;Spressioni regulare</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T144023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141544Z">
+        <seg>Spressioni &amp;regulare</seg>
       </tuv>
     </tu>
     <tu>
@@ -2791,8 +2791,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>C&amp;ase sensitive</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T141930Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141930Z">
-        <seg>Sfarenzià &amp;maiuscule è minuscule</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T144245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141930Z">
+        <seg>Sfarenzià maiuscu&amp;le è minuscule</seg>
       </tuv>
     </tu>
     <tu>
@@ -10188,8 +10188,8 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T152245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T152245Z">
-        <seg>U spaziu hè dinù u spaziu micca stacchevule</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T144306Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T152245Z">
+        <seg>U spaziu hè di&amp;nù u spaziu micca stacchevule</seg>
       </tuv>
     </tu>
     <tu>
