@@ -11358,6 +11358,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T150052Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T150052Z">
+        <seg>U schedariu TMX hè statu creatu da OmegaT 1.4.x o da una versione più vechja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TaaS API key not set.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T183155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T182947Z">
