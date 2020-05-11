@@ -6225,8 +6225,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T161954Z">
-        <seg>Fate casu chì, s’è vò fate qualchì sbagliu quandu scrivete l’etichette di furmatu, i vostri schedarii di traduzzione puderianu ùn micca apressi.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T161954Z">
+        <seg>Fate casu chì, s’è vò fate qualchì sbagliu quandu scrivete l’etichette di furmatu, i vostri schedarii tradutti puderianu ùn micca apressi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8327,8 +8327,8 @@ cum'è u cartulare di l’appiecazioni.</seg>
       <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144057Z">
-        <seg>Ci sò dinù ducumenti chì cuntenenu etichette chì ùn anu nunda à vede cù una marca di furmatu, ma chì sò dinù impurtante in i schedarii d’urigine (è in i schedarii di traduzzione).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161212Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144057Z">
+        <seg>Ci sò aspessu ducumenti chì cuntenenu etichette chì ùn anu nunda à vede cù una marca di furmatu, ma chì sò dinù impurtante in i schedarii d’urigine (è in i schedarii tradutti).</seg>
       </tuv>
     </tu>
     <tu>
@@ -12040,8 +12040,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162433Z">
-        <seg>Ghjè perchè, appughjà nant’à &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; nanzu d’ingenerà i vostri schedarii di traduzzione, cuntrollerà chì e vostre etichette sò currette.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161319Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T162433Z">
+        <seg>Ghjè perchè, appughjà nant’à &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; nanzu d’ingenerà i vostri schedarii tradutti, cuntrollerà chì e vostre etichette sò currette.</seg>
       </tuv>
     </tu>
     <tu>
