@@ -11,3 +11,4 @@ tokenizer	lemmatizatore
 hierarchy	ierarchia
 separately	staccatamente
 inserting	inserzione
+marker	marcatore
