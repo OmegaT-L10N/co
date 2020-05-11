@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T162641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T162641Z">
-        <seg>&amp;Permette e traduzzioni viote in i schedarii tradutti</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T162641Z">
+        <seg>Permette e traduzzioni &amp;viote in i schedarii tradutti</seg>
       </tuv>
     </tu>
     <tu>
@@ -938,6 +938,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T145543Z">
         <seg>&amp;Ignurà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Skip PO header</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163118Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T163118Z">
+        <seg>&amp;Ignurà l’intestatura di i schedarii PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -2323,8 +2331,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163022Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T163022Z">
-        <seg>&amp;Permette a traduzzione di i segmenti d’urigine vioti</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163039Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T163022Z">
+        <seg>Permette a traduzzione di i &amp;segmenti d’urigine vioti</seg>
       </tuv>
     </tu>
     <tu>
@@ -2601,6 +2609,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       </tuv>
       <tuv lang="co">
         <seg>Autore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T163328Z">
+        <seg>&amp;Rimpiazzà autumaticamente « {nplurals=INTEGER; &amp;plural=EXPRESSION;} » in l’intestatura</seg>
       </tuv>
     </tu>
     <tu>
