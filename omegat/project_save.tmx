@@ -3329,6 +3329,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column Index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155948Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155948Z">
+        <seg>L’indice di culonna deve esse uguale à 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171822Z" creationid="Patriccollu" creationdate="20170213T133911Z">
@@ -4961,8 +4969,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170903T160124Z">
-        <seg>Attivu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155845Z">
+        <seg>Attivatu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11056,6 +11064,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223025Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180738Z">
         <seg>Cudificazione di schedariu d’urigine :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Filename Pattern</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T160303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T160303Z">
+        <seg>Mudellu di nome di schedariu d’urigine</seg>
       </tuv>
     </tu>
     <tu>
