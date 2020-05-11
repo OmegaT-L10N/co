@@ -542,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Line breaks</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185939Z">
+        <seg>À ogni &amp;linea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Load...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164741Z">
