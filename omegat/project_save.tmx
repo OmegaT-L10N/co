@@ -8918,6 +8918,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDF Input</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T164049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T164049Z">
+        <seg>Entrata PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDFBox (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T130901Z" creationid="Patriccollu" creationdate="20170213T130901Z">
@@ -8962,6 +8970,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181210Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181210Z">
         <seg>Da segmenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Password-protected PDF files are not supported: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T184317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T184317Z">
+        <seg>I schedarii PDF prutetti da una parolla d’entrata ùn sò micca accettati : {0}</seg>
       </tuv>
     </tu>
     <tu>
