@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Remove untranslated strings in the target files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185146Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185146Z">
+        <seg>&amp;Caccià e catene micca tradutte in i schedarii tradutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20160926T123530Z" creationid="Patriccollu" creationdate="20160926T123530Z">
@@ -7985,6 +7993,46 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mozilla DTD</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185218Z">
+        <seg>DTD Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla DTD Filter Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185229Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185229Z">
+        <seg>Ozzioni di u filtru DTD Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185257Z">
+        <seg>FTL Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla FTL Filter Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185308Z">
+        <seg>Ozzioni di u filtru FTL Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mozilla Lang</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185423Z">
+        <seg>Lang Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Multiple Translations</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224534Z" creationid="Patriccollu" creationdate="20170213T141400Z">
@@ -11876,6 +11924,30 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164732Z">
         <seg>E memorie &lt;f3&gt;level1&lt;/f3&gt; è &lt;f4&gt;level2&lt;/f4&gt; ponu esse sparte cù l’utilizatori d’altri prugrammi di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Moodle PHP filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185205Z">
+        <seg>U filtru PHP Moodle hà cagiunatu un eccezzione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla DTD filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185244Z">
+        <seg>U filtru DTD Mozilla hà cagiunatu un eccezzione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185317Z">
+        <seg>U filtru FTL Mozilla hà cagiunatu un eccezzione :</seg>
       </tuv>
     </tu>
     <tu>
