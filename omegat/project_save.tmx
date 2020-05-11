@@ -11649,10 +11649,9 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T103754Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T102949Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T112505Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T102949Z">
         <seg>Rimpiazzamentu di testu :
-- I rimpiazzamenti tuccanu i segmenti di destinazione di u prughjettu, ch’elli sianu dighjà tradutti o micca.
-</seg>
+- I rimpiazzamenti tuccanu i segmenti di destinazione di u prughjettu, ch’elli sianu dighjà tradutti o micca.</seg>
       </tuv>
     </tu>
     <tu>
