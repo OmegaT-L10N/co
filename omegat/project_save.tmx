@@ -7863,6 +7863,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monolingual</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163508Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T163508Z">
+        <seg>Monolinguale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More</seg>
       </tuv>
       <tuv lang="co" changeid="Patrick" changedate="20161007T222645Z" creationid="Patrick" creationdate="20161007T222645Z">
