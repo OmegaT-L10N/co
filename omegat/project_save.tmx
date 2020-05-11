@@ -350,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Empty lines</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T190000Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T190000Z">
+        <seg>À ogni linea &amp;viota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable TaaS terminology lookup</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T182648Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211318Z">
@@ -6965,6 +6973,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T190501Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T190501Z">
+        <seg>Ballotti di risorsa Java(TM)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java: {0} ver.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T145640Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145640Z">
@@ -7415,6 +7431,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Line length:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T190213Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T190213Z">
+        <seg>Longhezza di linea :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List View</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225818Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225818Z">
@@ -7779,6 +7803,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T153427Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153427Z">
         <seg>Ingrandà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Maximum line length:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T190237Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T190237Z">
+        <seg>Longhezza massima di linea :</seg>
       </tuv>
     </tu>
     <tu>
@@ -8912,6 +8944,14 @@ sia installata nant’à u vostru sistema.</seg>
       </tuv>
       <tuv lang="co">
         <seg>Ozzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options to set the line length in target documents (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T190140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T190140Z">
+        <seg>Ozzioni per definisce a longhezza di linea in i ducumenti tradutti (0 = senza cunfina)</seg>
       </tuv>
     </tu>
     <tu>
