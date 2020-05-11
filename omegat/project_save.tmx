@@ -3719,8 +3719,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Could not initialize OS look and feel!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T153137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T153137Z">
-        <seg>Impussi</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T153734Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T153137Z">
+        <seg>Impussibule d’inizià l’aspettu specificu à u sistema d'operazione !</seg>
       </tuv>
     </tu>
     <tu>
@@ -12712,8 +12712,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Tipu d’estensione ’{0}’ scunnisciutu in ’{1}’</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T153400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Tipu di mudullu d’estensione « {0} » scunnisciutu in « {1} »</seg>
       </tuv>
     </tu>
     <tu>
