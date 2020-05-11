@@ -7871,6 +7871,22 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Moodle PHP</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185025Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185025Z">
+        <seg>PHP Moodle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Moodle PHP Filter Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185051Z">
+        <seg>Ozzioni di u filtru PHP Moodle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More</seg>
       </tuv>
       <tuv lang="co" changeid="Patrick" changedate="20161007T222645Z" creationid="Patrick" creationdate="20161007T222645Z">
