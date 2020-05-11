@@ -8766,8 +8766,8 @@ sia installata nant’à u vostru sistema.</seg>
       <tuv lang="en">
         <seg>OpenDocument Filter Options</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20170210T150519Z" creationid="Patriccollu" creationdate="20170210T150519Z">
-        <seg>Ozzioni di filtru OpenDocument</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T162226Z" creationid="Patriccollu" creationdate="20170210T150519Z">
+        <seg>Ozzioni di u filtru OpenDocument</seg>
       </tuv>
     </tu>
     <tu>
@@ -8890,6 +8890,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150009Z" creationid="Patriccollu" creationdate="20170210T150009Z">
         <seg>PO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PO Filter Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T162204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T162204Z">
+        <seg>Ozzioni di u filtru PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -13442,8 +13450,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="en">
         <seg>XHTML Filter Options</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T180938Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180938Z">
-        <seg>Ozzioni di filtru XHTML</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T162232Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180938Z">
+        <seg>Ozzioni di u filtru XHTML</seg>
       </tuv>
     </tu>
     <tu>
