@@ -12622,6 +12622,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155254Z">
+        <seg>Impussibule d’analizà u schedariu di cunfigurazione di i filtri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T172019Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172019Z">
