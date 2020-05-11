@@ -13514,6 +13514,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T150453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T150453Z">
+        <seg>U prughjettu attuale impiega una segmentazione da frasa invece chì u schedariu TMX hè statu creatu cù una segmentazione da paragrafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your project does not contain any files in a supported file format.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T181742Z" creationid="Patriccollu" creationdate="20170210T145659Z">
