@@ -11856,6 +11856,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163906Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T163906Z">
+        <seg>U filtru PO hà lampatu un eccezzione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX file will continue to be loaded.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T181822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T181822Z">
