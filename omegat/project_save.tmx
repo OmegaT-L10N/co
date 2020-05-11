@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank translations in the target files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T162641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T162641Z">
+        <seg>&amp;Permette e traduzzioni viote in i schedarii tradutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T153945Z">
