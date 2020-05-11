@@ -12,3 +12,4 @@ hierarchy	ierarchia
 separately	staccatamente
 inserting	inserzione
 marker	marcatore
+plugin	modulu d’estensione
