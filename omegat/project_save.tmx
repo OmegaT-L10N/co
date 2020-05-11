@@ -5687,6 +5687,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155515Z">
+        <seg>U filtru « {0} » ùn pò micca esse caricatu da « {1} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T145841Z" creationid="Patriccollu" creationdate="20170210T145841Z">
@@ -12388,6 +12396,16 @@ d’altri ducumenti, lighjite :</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155825Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155825Z">
+        <seg>U chjassu di u schedariu traduttu ùn pò micca esse u listessu chì quellu di u schedariu d’urigine :
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171633Z">
@@ -12642,6 +12660,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170238Z">
         <seg>Impussibule di leghje u schedariu di prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155307Z">
+        <seg>Impussibule d’arregistrà u schedariu di cunfigurazione di i filtri</seg>
       </tuv>
     </tu>
     <tu>
