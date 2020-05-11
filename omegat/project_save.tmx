@@ -2321,6 +2321,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translating &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163022Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T163022Z">
+        <seg>&amp;Permette a traduzzione di i segmenti d’urigine vioti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T172919Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172919Z">
