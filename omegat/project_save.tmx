@@ -3717,6 +3717,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T153137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T153137Z">
+        <seg>Impussi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create &amp;Glossary Entry...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175652Z" creationid="Patriccollu" creationdate="20170213T135328Z">
@@ -5099,6 +5107,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174432Z">
         <seg>Sbagliu à u principiu di l’appiecazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T150614Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T150614Z">
+        <seg>Sbagliu di lettura di TMX livellu 2 à a linea {0} culonna {1}</seg>
       </tuv>
     </tu>
     <tu>
