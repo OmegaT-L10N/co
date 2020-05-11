@@ -5121,8 +5121,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154149Z">
-        <seg>Sbagliu di caricamentu di u mudullu d’estensione da a classa « {0} » : {1} : {2}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154149Z">
+        <seg>Sbagliu di caricamentu di u modulu d’estensione da a classa « {0} » : {1} : {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5177,8 +5177,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154252Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154228Z">
-        <seg>Sbagliu di scaricamentu di u mudullu d’estensione da a classa « {0} » : {1}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154228Z">
+        <seg>Sbagliu di scaricamentu di u modulu d’estensione da a classa « {0} » : {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -6635,8 +6635,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Installed plugins:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154527Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154527Z">
-        <seg>Mudulli d’estensione installati :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161842Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154527Z">
+        <seg>Moduli d’estensione installati :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6903,8 +6903,8 @@ d’utilizatore.</seg>
       <tuv lang="en">
         <seg>Jar used for plugins: {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154408Z">
-        <seg>Schedariu Jar impiegatu per i mudulli d’estensione : {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161842Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154408Z">
+        <seg>Schedariu Jar impiegatu per i moduli d’estensione : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9190,16 +9190,16 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154835Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184855Z">
-        <seg>Mudullu d’estensione caricatu bè da a classa « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184855Z">
+        <seg>Modulu d’estensione caricatu bè da a classa « {0} »</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Plugins</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154542Z" creationid="Patriccollu" creationdate="20160422T145858Z">
-        <seg>Mudulli d’estensione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161842Z" creationid="Patriccollu" creationdate="20160422T145858Z">
+        <seg>Moduli d’estensione</seg>
       </tuv>
     </tu>
     <tu>
@@ -10998,8 +10998,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Skipping previously loaded plugin from class '{0}'</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155102Z">
-        <seg>Si tralascia un mudullu d’estensione precedentemente caricatu da a classa « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155102Z">
+        <seg>Si tralascia un modulu d’estensione precedentemente caricatu da a classa « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -12024,8 +12024,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154627Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213145Z">
-        <seg>Ci hè parechji mudulli d’estensione dispunibule inlinea per OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161842Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213145Z">
+        <seg>Ci hè parechji moduli d’estensione dispunibule inlinea per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12834,8 +12834,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T153400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Tipu di mudullu d’estensione « {0} » scunnisciutu in « {1} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Tipu di modulu d’estensione « {0} » scunnisciutu in « {1} »</seg>
       </tuv>
     </tu>
     <tu>
