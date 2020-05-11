@@ -9174,8 +9174,8 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T184855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184855Z">
-        <seg>Estensione caricata bè da a classa « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154835Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184855Z">
+        <seg>Mudullu d’estensione caricatu bè da a classa « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -10976,6 +10976,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T154444Z" creationid="Patriccollu" creationdate="20170209T153000Z">
         <seg>Tralascià i segmenti induve urigine=destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155102Z">
+        <seg>Si tralascia un mudullu d’estensione precedentemente caricatu da a classa « {0} »</seg>
       </tuv>
     </tu>
     <tu>
