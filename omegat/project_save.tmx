@@ -2543,8 +2543,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173407Z">
-        <seg>Insù di stu dialogu, selezziunà a lingua di i schedarii d’urigine, quella di i schedarii di traduzzione, è cliccà &lt;g1&gt;Vai&lt;/g1&gt; per cuntinuà.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161045Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T173407Z">
+        <seg>In capu di stu dialogu, selezziunà a lingua di i schedarii d’urigine, quella di i schedarii tradutti, è cliccà &lt;g1&gt;Vai&lt;/g1&gt; per cuntinuà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12008,8 +12008,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171512Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171512Z">
-        <seg>A lingua di schedariu di traduzzione hè inaccettevule !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T160917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171512Z">
+        <seg>A lingua di schedariu traduttu hè inaccettevule !</seg>
       </tuv>
     </tu>
     <tu>
@@ -12398,8 +12398,8 @@ d’altri ducumenti, lighjite :</seg>
       <tuv lang="en">
         <seg>Translated Files Folder</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160447Z">
-        <seg>Cartulare di schedarii di traduzzione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T160820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160447Z">
+        <seg>Cartulare di schedarii tradutti</seg>
       </tuv>
     </tu>
     <tu>
@@ -12440,8 +12440,8 @@ d’altri ducumenti, lighjite :</seg>
       <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171633Z">
-        <seg>U cartulare di i schedarii di traduzzione ùn esiste micca !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T160931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171633Z">
+        <seg>U cartulare di i schedarii tradutti ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
