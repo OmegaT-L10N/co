@@ -3221,6 +3221,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Class</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154536Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154536Z">
+        <seg>Classa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161624Z">
@@ -6609,6 +6617,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installed plugins:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154527Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154527Z">
+        <seg>Mudulli d’estensione installati :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120129Z">
@@ -9166,8 +9182,8 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="en">
         <seg>Plugins</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20160422T145858Z" creationid="Patriccollu" creationdate="20160422T145858Z">
-        <seg>Estensioni</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154542Z" creationid="Patriccollu" creationdate="20160422T145858Z">
+        <seg>Mudulli d’estensione</seg>
       </tuv>
     </tu>
     <tu>
@@ -11968,8 +11984,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There are many plugins available for OmegaT online.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213145Z">
-        <seg>Ci hè parechje estensioni dispunibule inlinea per OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154627Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213145Z">
+        <seg>Ci hè parechji mudulli d’estensione dispunibule inlinea per OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
