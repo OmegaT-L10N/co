@@ -1550,6 +1550,14 @@ Per aghjunghe schedarii à u prughjettu, cliccà nant’à u buttone « Cupià i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>---- Localization Notes ----</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185511Z">
+        <seg>---- Note di lucalisazione ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--/--</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192342Z">
@@ -9696,6 +9704,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185523Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185523Z">
+        <seg>QuarkXPress CopyFlow Gold</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Quit</seg>
       </tuv>
       <tuv lang="co">
@@ -10820,6 +10836,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment source text into paragraphs on:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185904Z">
+        <seg>Taglià u testu d’urigine per fà paragrafi :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment {0,number,#}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192301Z">
@@ -11874,6 +11898,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20150517T112701Z">
         <seg>Testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Filter Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185551Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185551Z">
+        <seg>Ozzioni di u filtru di testu</seg>
       </tuv>
     </tu>
     <tu>
