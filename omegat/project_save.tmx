@@ -5095,6 +5095,22 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T153845Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T153845Z">
+        <seg>Sbagliu à l'Iniziu di u marcatore « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T154149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154149Z">
+        <seg>Sbagliu di caricamentu di u mudullu d’estensione da a classa « {0}  : {1} : {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204822Z">
