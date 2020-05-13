@@ -3701,6 +3701,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T184601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T184601Z">
+        <seg>Cunfirmà a cacciatura di u mudellu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm uninstalling</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T150805Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150805Z">
@@ -10380,6 +10388,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T152819Z" creationid="Patriccollu" creationdate="20170209T152819Z">
         <seg>Caccià i mnemonichi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T184613Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T184613Z">
+        <seg>Caccià u mudellu ?</seg>
       </tuv>
     </tu>
     <tu>
