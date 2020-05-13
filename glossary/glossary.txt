@@ -14,3 +14,5 @@ inserting	inserzione
 marker	marcatore
 plugin	modulu d’estensione
 bundle	pacchettu
+sequence	sequenza
+declaration	dichjarazione
