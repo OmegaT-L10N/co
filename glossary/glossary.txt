@@ -16,4 +16,6 @@ plugin	modulu d’estensione
 bundle	pacchettu
 sequence	sequenza
 declaration	dichjarazione
-word	parolla	Schedariu di glossariu : C:\OmegaT\prughjetti\A Stonda\glossary\glossary.txt
+configuration	cunfigurazione
+determine	determinà
+switching	trasferimentu
