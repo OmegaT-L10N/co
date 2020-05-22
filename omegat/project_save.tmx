@@ -3957,6 +3957,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commit not possible because somebody else changed remote translation.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T112057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T112057Z">
+        <seg>Impussibule di validà perchè qualchissia hà cambiatu a traduzzione alluntanata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Committing source files</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191503Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191503Z">
@@ -15592,6 +15600,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121537Z">
         <seg>Wildrich Fourie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Will be synchronized next time.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T112141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T112141Z">
+        <seg>A sincrunizazione si ferà a prossima volta.</seg>
       </tuv>
     </tu>
     <tu>
