@@ -6129,8 +6129,16 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
-        <seg>Escuzione di a cumanda esterna…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T110352Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
+        <seg>Esecuzione di a cumanda esterna…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T110423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T110423Z">
+        <seg>Esecuzione di u scrittu {0} (avvenimentu {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -12987,6 +12995,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171606Z">
         <seg>U cartulare di i schedarii d’urigine ùn esiste micca !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T110924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T110924Z">
+        <seg>U cartulare d’urigine {0} ùn esiste micca.</seg>
       </tuv>
     </tu>
     <tu>
