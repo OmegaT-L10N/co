@@ -14097,6 +14097,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T114644Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T114644Z">
+        <seg>U prughjettu serà caricatu cum’è un prughjettu lucale senza funzione di squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162204Z">
