@@ -6839,6 +6839,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T111034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111034Z">
+        <seg>U cartulare di glossariu {0} ùn esiste micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Segment</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180827Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192214Z">
@@ -13569,6 +13577,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T111005Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111005Z">
+        <seg>U cartulare di destinazione {0} ùn esiste micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target longer</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T184222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T184222Z">
@@ -14067,6 +14083,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T160917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171512Z">
         <seg>A lingua di schedariu traduttu hè inaccettevule !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T111552Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111552Z">
+        <seg>U schedariu di glossariu scrivibile ùn si trova micca in u cartulare di glossariu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14638,6 +14662,14 @@ d’altri ducumenti, lighjite :</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T171938Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171938Z">
         <seg>U cartulare di i schedarii di memoria di traduzzione ùn esiste micca !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T111149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111112Z">
+        <seg>U cartulare di e memorie di traduzzione {0} ùn esiste micca.</seg>
       </tuv>
     </tu>
     <tu>
