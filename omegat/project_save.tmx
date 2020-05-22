@@ -6795,6 +6795,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow capitalization of the typed text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T174507Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174507Z">
+        <seg>Rispettà a capitalizatione di u testu scrittu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20161226T121534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20161226T121534Z">
