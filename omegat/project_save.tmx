@@ -5979,6 +5979,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140233Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140233Z">
+        <seg>Sbagliu di riacquistu di {0} cum’è schedariu di prughjettu alluntanatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error saving project file!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183755Z">
@@ -11906,6 +11914,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170449Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170449Z">
         <seg>Dipositu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140308Z">
+        <seg>Infurmazioni d’identificazione di u dipositu</seg>
       </tuv>
     </tu>
     <tu>
