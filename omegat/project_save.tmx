@@ -3529,8 +3529,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Character Table</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165001Z">
-        <seg>Tavula di caratteru</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152452Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165001Z">
+        <seg>Tavula di caratteri</seg>
       </tuv>
     </tu>
     <tu>
@@ -5141,6 +5141,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212501Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212501Z">
         <seg>Disattivà a regula “{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T153549Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153549Z">
+        <seg>Affissà i termi d’&amp;urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -7299,9 +7307,25 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T152447Z">
+        <seg>Cumpiimentu di crunulogia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History Prediction</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184257Z">
+        <seg>Predizzione di crunulogia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152618Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T152618Z">
         <seg>Predizzione di crunulogia</seg>
       </tuv>
     </tu>
