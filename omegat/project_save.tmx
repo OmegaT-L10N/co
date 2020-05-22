@@ -6291,6 +6291,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140856Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140856Z">
+        <seg>Cumanda di post-trattamentu esternu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Post-processing Command (Disabled):</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T140001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T140001Z">
@@ -10853,6 +10861,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140828Z">
+        <seg>Ci vole à selezziunà l’intervallu d’arregistramentu autumaticu di u prughjettu, in minuti è seconde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select the language of your source files and the target language you would like to translate to.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165959Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T165959Z">
@@ -14522,6 +14538,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T152009Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T152009Z">
         <seg>Sta chjama DEVE esse in u filu d’esecuzione swing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141114Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141114Z">
+        <seg>Sta cumanda serà lanciata dopu à « Creà i ducumenti tradutti ».</seg>
       </tuv>
     </tu>
     <tu>
