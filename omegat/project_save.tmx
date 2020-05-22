@@ -3119,6 +3119,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T152338Z">
+        <seg>Entrate di testu autumaticu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T155705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155705Z">
@@ -3523,6 +3531,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165001Z">
         <seg>Tavula di caratteru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152439Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T152439Z">
+        <seg>Tavula di caratteri</seg>
       </tuv>
     </tu>
     <tu>
@@ -5875,6 +5891,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T152105Z">
+        <seg>Entrate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151818Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164458Z">
@@ -7039,6 +7063,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T111034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111034Z">
         <seg>U cartulare di glossariu {0} ùn esiste micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T152150Z">
+        <seg>Impiegà a &amp;lemmatisazione per l’entrate di glossariu</seg>
       </tuv>
     </tu>
     <tu>
