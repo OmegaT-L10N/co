@@ -9716,6 +9716,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Javadoc...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T104302Z">
+        <seg>Javadoc OmegaT…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160656Z">
@@ -13435,8 +13443,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Tag validation failed</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T183205Z">
-        <seg>Validazione fiasca d’etichette</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T183205Z">
+        <seg>Fiascu di validazione d’etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -14524,8 +14532,8 @@ d’altri ducumenti, lighjite :</seg>
       <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T183119Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T183119Z">
-        <seg>Traduzzione di Prughjettu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T183119Z">
+        <seg>Traduzzione di u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
