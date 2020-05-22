@@ -2145,6 +2145,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143254Z">
+        <seg>&lt;Alcuna suggestione&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T145656Z" creationid="Patriccollu" creationdate="20170210T145656Z">
@@ -10867,6 +10875,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143234Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143234Z">
+        <seg>Ci vole à fà torna a validazione di l’etichette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210300Z">
@@ -11110,6 +11126,14 @@ cum’è un prughjettu lucale senza funzione di squadra.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T120406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T115716Z">
         <seg>Appughjate « Vai » per cunvertisce stu prughjettu in un prughjettu di
 squadra di tipu 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143505Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143505Z">
+        <seg>Appughjate &lt;u&gt;{0}&lt;/u&gt; per rivene à e suggestioni &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14452,6 +14476,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T160917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171512Z">
         <seg>A lingua di schedariu traduttu hè inaccettevule !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143126Z">
+        <seg>A  traduzzione hè stata mudificata.</seg>
       </tuv>
     </tu>
     <tu>
