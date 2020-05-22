@@ -15058,6 +15058,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unsupported SVN error</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T112605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T112605Z">
+        <seg>Sbagliu SVN inaccettevule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unsupported XML version {0}!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T113820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113820Z">
@@ -15118,6 +15126,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T222350Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
         <seg>Mudernizazione…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upload disabled because repository in read-only mode</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T112407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T112407Z">
+        <seg>A scrittura ùn si pò fà perchè u dipositu si trova in modu « lettura sola »</seg>
       </tuv>
     </tu>
     <tu>
