@@ -5235,8 +5235,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172322Z">
-        <seg>Affissa l’elementi di dizziunariu trovi in i schedarii di dizziunariu chì si trovanu in u cartulare /dictionary/ s’elli sò presenti in u segmentu d’urigine.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172322Z">
+        <seg>Affissa l’entrate di dizziunariu trove in i schedarii di dizziunariu chì si trovanu in u cartulare /dictionary/ s’elle sò presente in u segmentu d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9850,8 +9850,8 @@ cum'è u cartulare di l’appiecazioni.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T112005Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172350Z">
-        <seg>Infurmammi quand’un segmentu pussede elementi di dizziunariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172350Z">
+        <seg>Infurmammi quand’un segmentu pussede entrate di dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
