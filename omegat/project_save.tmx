@@ -13384,6 +13384,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T173014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T173014Z">
+        <seg>Classificà alfabeticamente i termu di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source</seg>
       </tuv>
       <tuv lang="co">
