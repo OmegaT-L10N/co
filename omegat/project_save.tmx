@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141233Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141233Z">
+        <seg>&amp;Permette dinù e cumande esterne à u prughjetu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Always</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150712Z" creationid="Patriccollu" creationdate="20170210T150712Z">
