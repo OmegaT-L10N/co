@@ -3735,6 +3735,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checking out the project...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133748Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133748Z">
+        <seg>Estrazzione di u prughjettu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chihiro Hio</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121619Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121619Z">
@@ -5847,6 +5855,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       </tuv>
       <tuv lang="co">
         <seg>Sbagliu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error checking out the project from remote repository:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133855Z">
+        <seg>Sbagliu durante l’estrazzione di u prughjettu à partesi di u dipositu :</seg>
       </tuv>
     </tu>
     <tu>
