@@ -5939,6 +5939,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T142942Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T142942Z">
+        <seg>Sbagliu durante a currezzione di l’etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error in file</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T171943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171943Z">
@@ -6383,6 +6391,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T182543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182543Z">
         <seg>Cummenti estratti :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143020Z">
+        <seg>In troppu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10477,8 +10493,8 @@ sia installata nant’à u vostru sistema.</seg>
       <tuv lang="en">
         <seg>Orphaned</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T164713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164713Z">
-        <seg>Urfanellu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T142852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164713Z">
+        <seg>Urfanellu(i)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15930,6 +15946,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215539Z">
         <seg>Quandu vulete fighjà à chì s’assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant’à &lt;s4&gt;&lt;s5&gt;Ctrl+D&lt;/s5&gt;&lt;/s4&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare &lt;c6&gt;/target/&lt;/c6&gt; di u vostru cartulare di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T142825Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T142825Z">
+        <seg>Spazii</seg>
       </tuv>
     </tu>
     <tu>
