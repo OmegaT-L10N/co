@@ -5447,6 +5447,16 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During SVN error({0}),
+project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T112957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T112957Z">
+        <seg>Durante u sbagliu ({0}),
+project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di SVN hè diventatu instabule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T180038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T180038Z">
