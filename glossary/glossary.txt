@@ -22,3 +22,4 @@ switching	trasferimentu
 event	avvenimentu
 executing	esecuzione
 writeable	scrivibile
+console	cunsola
