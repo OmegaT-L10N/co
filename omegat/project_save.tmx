@@ -9220,8 +9220,8 @@ scrittu in u cartulare di cunfigurazione.</seg>
       <tuv lang="en">
         <seg>Missing tags</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20170213T140534Z" creationid="Patriccollu" creationdate="20170213T140534Z">
-        <seg>Etichette chì mancanu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143541Z" creationid="Patriccollu" creationdate="20170213T140534Z">
+        <seg>Etichette mancante</seg>
       </tuv>
     </tu>
     <tu>
@@ -11126,6 +11126,14 @@ cum’è un prughjettu lucale senza funzione di squadra.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T120406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T115716Z">
         <seg>Appughjate « Vai » per cunvertisce stu prughjettu in un prughjettu di
 squadra di tipu 4.x.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143522Z">
+        <seg>Appughjate &lt;u&gt;{0}&lt;/u&gt; per andà à e suggestioni &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
