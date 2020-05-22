@@ -2641,6 +2641,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113917Z">
+        <seg>Permette l’arregistramentu di a parolla d’entrata cum’è testu in chjaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow to save password locally as plain text</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113453Z">
@@ -6803,8 +6811,8 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       <tuv lang="en">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
-        <seg>Git ’{0}’ sbagliu : {1}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
+        <seg>Git « {0} » sbagliu : {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11201,6 +11209,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223528Z" creationid="Patriccollu" creationdate="20170213T134505Z">
         <seg>Nome d’utilizatore è parolla d’entrata di u proxy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113822Z">
+        <seg>Fiascu di l’inviu.</seg>
       </tuv>
     </tu>
     <tu>
