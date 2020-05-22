@@ -20,3 +20,4 @@ configuration	cunfigurazione
 determine	determinà
 switching	trasferimentu
 event	avvenimentu
+executing	esecuzione
