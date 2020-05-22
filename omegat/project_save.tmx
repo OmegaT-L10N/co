@@ -2641,6 +2641,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow to save password locally as plain text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113453Z">
+        <seg>Permette l’arregistramentu lucale di a parolla d’entrata cum’è testu in chjaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow translated tags to be in a di&amp;fferent order</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T105005Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T105005Z">
@@ -10493,8 +10501,8 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       <tuv lang="en">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T111823Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111823Z">
-        <seg>Forse hè dighjà apertu in un’altra finestra d’OmegaT</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111823Z">
+        <seg>Forse hè dighjà apertu in un’altra instanza d’OmegaT</seg>
       </tuv>
     </tu>
     <tu>
