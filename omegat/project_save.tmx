@@ -16848,6 +16848,16 @@ di creà u so cartulare di cunfigurazione.</seg>
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">MARKER_TAB</prop>
+      <tuv lang="en">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141540Z">
+        <seg>Tabulazione</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">src/org/omegat/Bundle.properties</prop>
       <prop type="id">CORE_SRX_RULES_LANG_ENGLISH</prop>
       <tuv lang="en">
