@@ -704,8 +704,8 @@
       <tuv lang="en">
         <seg>&amp;Load...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164741Z">
-        <seg>&amp;Caricà…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164741Z">
+        <seg>Car&amp;icà…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1048,8 +1048,8 @@
       <tuv lang="en">
         <seg>&amp;Save...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164751Z">
-        <seg>&amp;Arregistrà…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175348Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164751Z">
+        <seg>Arre&amp;gistrà…</seg>
       </tuv>
     </tu>
     <tu>
@@ -5179,8 +5179,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Display</seg>
       </tuv>
-      <tuv lang="co">
-        <seg>Affissà</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175327Z">
+        <seg>Affissera</seg>
       </tuv>
     </tu>
     <tu>
@@ -13418,8 +13418,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175218Z">
-        <seg>Classificà da u testu &amp;stesu, micca da l’accurtatoghju</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175218Z">
+        <seg>Classificà da u testu &amp;sanu, micca da l’accurtatoghju</seg>
       </tuv>
     </tu>
     <tu>
@@ -15492,6 +15492,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170238Z">
         <seg>Impussibule di leghje u schedariu di prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175603Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175603Z">
+        <seg>Impussibule d’arregistrà i dati.</seg>
       </tuv>
     </tu>
     <tu>
