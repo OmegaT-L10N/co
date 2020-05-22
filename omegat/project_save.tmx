@@ -13200,6 +13200,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T170540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170540Z">
+        <seg>Affissà i termi di destinazione i più &amp;longhi in primu locu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;source term first</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154112Z">
@@ -16066,6 +16074,14 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T151135Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T151135Z">
         <seg>Quand’un schedariu unicu cuntene più di segmenti, i segmenti addiziunali seranu caricati à a dumanda durante l’affissera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T170405Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170405Z">
+        <seg>S’è st’ozzione hè attivata, l’entrate di a vista di glossariu di l’empiimentu autumaticu cunteneranu dinù u testu d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
