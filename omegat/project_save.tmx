@@ -2177,6 +2177,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133437Z">
+        <seg>&lt;html&gt;URL di u dipositu :&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Repository or Project&lt;br&gt;file (omegat.project) URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225232Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T152443Z">
@@ -5429,6 +5437,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174806Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151056Z">
         <seg>Scaricà una pagina MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Team Project</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133510Z">
+        <seg>Scaricà un prughjettu di squadra</seg>
       </tuv>
     </tu>
     <tu>
@@ -9368,6 +9384,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T152115Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T152115Z">
         <seg>Nova regula di LanguageTool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New Local Project Folder:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133636Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133636Z">
+        <seg>Novu cartulare lucale di prughjettu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -15880,6 +15904,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Wrong authentication</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133346Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133346Z">
+        <seg>Autenticazione fiasca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wrong response format from TaaS service</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211201Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T211201Z">
@@ -15898,8 +15930,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="en">
         <seg>Wrong username/password</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133251Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133251Z">
-        <seg>Nome d’utilizatore/a parolla d’entrata incurrette</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133251Z">
+        <seg>Nome d’utilizatore è/o parolla d’entrata incurrette</seg>
       </tuv>
     </tu>
     <tu>
