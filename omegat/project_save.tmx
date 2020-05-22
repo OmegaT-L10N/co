@@ -4103,8 +4103,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Connection available, the project is in team project mode.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T191029Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T191029Z">
-        <seg>Cunnessione dispunibule, u prughjettu si trova in modu prughjettu di squadra.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T114036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T191029Z">
+        <seg>Cunnessione dispunibule, u prughjettu si trova in modu « prughjettu di squadra ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -7868,6 +7868,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T114513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T114513Z">
+        <seg>Deve esse cunvertitu in un novu prughjettu di squadra, ma quessu ùn si pò fà in modu cunsola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
@@ -9444,8 +9452,8 @@ cum'è u cartulare di l’appiecazioni.</seg>
       <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T190944Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190944Z">
-        <seg>Alcuna cunnessione dispunibule, u prughjettu si trova in modu fora di linea.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T114023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190944Z">
+        <seg>Alcuna cunnessione dispunibule, u prughjettu si trova in modu « fora di linea ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -14125,6 +14133,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T151153Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151153Z">
         <seg>U cartulare di dizziunariu specificatu ùn esiste micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T114154Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T114154Z">
+        <seg>U prughjettu specificatu hè un prughjettu di squadra di tipu OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
