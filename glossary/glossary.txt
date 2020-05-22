@@ -21,3 +21,4 @@ determine	determinà
 switching	trasferimentu
 event	avvenimentu
 executing	esecuzione
+writeable	scrivibile
