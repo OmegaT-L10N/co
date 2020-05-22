@@ -424,8 +424,8 @@
       <tuv lang="en">
         <seg>&amp;Enable autotext</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T174621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174621Z">
-        <seg>Attivà u testu autu&amp;maticu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T174947Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174621Z">
+        <seg>Attivà u &amp;testu autumaticu</seg>
       </tuv>
     </tu>
     <tu>
@@ -13396,6 +13396,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T182725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T182725Z">
         <seg>Peccatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175111Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175111Z">
+        <seg>Classificà da l’&amp;ordine alfabeticu</seg>
       </tuv>
     </tu>
     <tu>
