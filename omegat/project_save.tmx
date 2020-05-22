@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable glossary suggestions</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T153717Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153717Z">
+        <seg>Attivà e suggestioni di &amp;glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable history completion</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184430Z">
@@ -13172,6 +13180,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T133923Z" creationid="Patriccollu" creationdate="20170213T133923Z">
         <seg>Accurtatoghju :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show &amp;source term first</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154112Z">
+        <seg>Termu d’&amp;urigine in primu locu</seg>
       </tuv>
     </tu>
     <tu>
