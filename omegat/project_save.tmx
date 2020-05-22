@@ -10915,10 +10915,21 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Press 'Cancel' to leave the project unmodified and load it as a local
+project without team functionality.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T132537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T132537Z">
+        <seg>Appughjate « Abbandunà » per guardà u prughjettu tale quale è caricallu
+cum’è un prughjettu lucale senza funzione di squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'OK' to convert the project into a 4.x-style team project.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T115716Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T115716Z">
-        <seg>Appughjate « Vai » per cunvertisce stu prughjettu in un prughjettu di squadra di tipu 4.x.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T120406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T115716Z">
+        <seg>Appughjate « Vai » per cunvertisce stu prughjettu in un prughjettu di
+squadra di tipu 4.x.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14304,6 +14315,17 @@ cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144517Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144517Z">
         <seg>Sò prutette, è cusì ùn si pò micca mudificà u so cuntenutu, ma si pò caccialle, scrivelle dapervoi o movelle ver di a frasa di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This
+will delete your local data and re-download the project contents from
+the server.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T120414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T120414Z">
+        <seg>St’azzione squasserà i vostri dati lucale è
+scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
     </tu>
     <tu>
