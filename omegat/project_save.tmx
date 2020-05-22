@@ -3135,10 +3135,26 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175631Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175631Z">
+        <seg>Schedariu di testu autumaticu (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="co">
         <seg>Cuntrollà autumaticamente i rinnovi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175659Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175659Z">
+        <seg>Testu autumaticu</seg>
       </tuv>
     </tu>
     <tu>
