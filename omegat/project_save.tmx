@@ -2379,8 +2379,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Aborted.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T182833Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182833Z">
-        <seg>Interrottu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182833Z">
+        <seg>Interrotta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15208,8 +15208,8 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       <tuv lang="en">
         <seg>Validating tags</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T182815Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182815Z">
-        <seg>Etichette di validazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104638Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182815Z">
+        <seg>Validazione di l’etichette</seg>
       </tuv>
     </tu>
     <tu>
