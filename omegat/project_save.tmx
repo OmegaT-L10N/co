@@ -6793,10 +6793,34 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113700Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113700Z">
+        <seg>Git « {0} » ùn hà fattu nunda perchè ùn ci era alcunu cambiamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Git '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>Git ’{0}’ sbagliu : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113548Z">
+        <seg>L’esecuzione di Git « {0} » hè riesciuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113522Z">
+        <seg>Principu di l’esecuzione di Git « {0} »</seg>
       </tuv>
     </tu>
     <tu>
