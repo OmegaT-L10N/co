@@ -2741,8 +2741,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145254Z">
-        <seg>Un sbagliu hè accadutu pruvendu d’identificà u schedariu di prughjettu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135330Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145254Z">
+        <seg>Un sbagliu hè accadutu pruvendu d’abbentà u schedariu di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11222,8 +11222,8 @@ squadra di tipu 4.x.</seg>
       <tuv lang="en">
         <seg>Project file should be on http protocol.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145120Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145120Z">
-        <seg>U schedariu deveria esse di protocollu http.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145120Z">
+        <seg>U schedariu di prughjettu deveria impiegà u protocollu http.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14472,16 +14472,16 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145954Z">
-        <seg>Quessu hè un dipositu Git.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145954Z">
+        <seg>Què hè un dipositu Git.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>This is a Subversion repository.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225350Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150005Z">
-        <seg>Quessu hè un dipositu di Sottuversione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T150005Z">
+        <seg>Què hè un dipositu Subversion.</seg>
       </tuv>
     </tu>
     <tu>
