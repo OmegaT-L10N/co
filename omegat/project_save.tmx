@@ -9186,6 +9186,14 @@ scrittu in u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T142325Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T142325Z">
+        <seg>Mancante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing tags</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T140534Z" creationid="Patriccollu" creationdate="20170213T140534Z">
