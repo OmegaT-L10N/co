@@ -4227,6 +4227,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T115133Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T115133Z">
+        <seg>Cunvertisce un vechju prughjettu di squadra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Converting all .DOCX in the project...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T160723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T160723Z">
@@ -9898,6 +9906,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
         <seg>OmegaT hà sceltu l’ozzione « Iè » autumaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has detected a 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T115241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T115241Z">
+        <seg>OmegaT hà abbentatu un prughjettu di squadra di tipu 3.6</seg>
       </tuv>
     </tu>
     <tu>
