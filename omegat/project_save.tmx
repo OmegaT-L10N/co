@@ -10541,6 +10541,14 @@ per cunnosce a cagione di u sbagliu è pruvate torna.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104230Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T104230Z">
+        <seg>Ci vole à scrive u nome di sta cunfigurazione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T142414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181226Z">
@@ -12013,6 +12021,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104114Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T104114Z">
+        <seg>Arregistrà a cunfigurazione attuale…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162448Z">
@@ -12667,6 +12683,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T141525Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T141525Z">
         <seg>Definisce un novu prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104042Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T104042Z">
+        <seg>Cunfigurazioni</seg>
       </tuv>
     </tu>
     <tu>
