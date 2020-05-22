@@ -2525,8 +2525,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20170213T140222Z" creationid="Patriccollu" creationdate="20170213T140222Z">
-        <seg> {0} elementu(i) di glossariu aghjuntu(i) à partesi da {1}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T150658Z" creationid="Patriccollu" creationdate="20170213T140222Z">
+        <seg> {0} entrata(e) di glossariu aghjunta(e) à partesi da {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4425,8 +4425,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223333Z" creationid="Patriccollu" creationdate="20170213T140238Z">
-        <seg>Creà un elementu di glossariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T150744Z" creationid="Patriccollu" creationdate="20170213T140238Z">
+        <seg>Creà un’entrata di glossariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5243,8 +5243,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T110655Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164156Z">
-        <seg>Affisseghja l’elementi di glossariu trovi in i schedarii di glossariu chì si trovanu in u cartulare /glossary/ s’elli sò presenti in u segmentu d’urigine.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T150831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164156Z">
+        <seg>Affisseghja l’entrate di glossariu trove in i schedarii di glossariu chì si trovanu in u cartulare /glossary/ s’elle sò presente in u segmentu d’urigine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16282,8 +16282,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="en">
         <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T111406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164335Z">
-        <seg>Pudete creà elementi di glossariu cù « Creà un elementu di glossariu » in u listinu « Mudificà ».</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T150904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164335Z">
+        <seg>Pudete creà entrate di glossariu cù « Creà un’entrata di glossariu » in u listinu « Mudificà ».</seg>
       </tuv>
     </tu>
     <tu>
