@@ -3127,6 +3127,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175310Z">
+        <seg>Cunfigurazione di u testu autumaticu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatically check for updates</seg>
       </tuv>
       <tuv lang="co">
@@ -13404,6 +13412,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175111Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175111Z">
         <seg>Classificà da l’&amp;ordine alfabeticu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175218Z">
+        <seg>Classificà da u testu &amp;stesu, micca da l’accurtatoghju</seg>
       </tuv>
     </tu>
     <tu>
