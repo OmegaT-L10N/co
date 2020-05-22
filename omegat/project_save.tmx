@@ -2797,6 +2797,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T105812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T105812Z">
+        <seg>Un sbagliu hè accadutu pruvendu di lancià un trattamentu di c</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An exception occurred while parsing the TMX file
 {0}
 The TMX file will not be loaded.</seg>
