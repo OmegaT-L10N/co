@@ -4351,6 +4351,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not save credentials to text file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T134937Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T134937Z">
+        <seg>Impussibule d’arregistrà l’infurmazioni d’identificazione in un schedariu di testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T105802Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T105802Z">
@@ -14204,6 +14212,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T105521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T105521Z">
         <seg>U prughjettu ùn pò micca esse verificatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project folder {0} is missing and could not be created.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T134753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T134753Z">
+        <seg>U cartulare di prughjettu {0} hè mancante è ùn hà micca pussutu esse creatu.</seg>
       </tuv>
     </tu>
     <tu>
