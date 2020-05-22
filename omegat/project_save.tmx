@@ -2477,8 +2477,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Add Glossary Entry</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223727Z" creationid="Patriccollu" creationdate="20170213T140308Z">
-        <seg>Aghjunghje un elementu di glossariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T150954Z" creationid="Patriccollu" creationdate="20170213T140308Z">
+        <seg>Aghjunghje un’entrata di glossariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,8 +5877,8 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164458Z">
-        <seg>L’elementi da u glossariu chì si pò scrive sò in grassu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T150935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164458Z">
+        <seg>L’entrate da u glossariu scrivibile sò in grassu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9866,8 +9866,8 @@ cum'è u cartulare di l’appiecazioni.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T112000Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164550Z">
-        <seg>Infurmammi quand’un segmentu pussede elementi di glussariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151005Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164550Z">
+        <seg>Infurmammi quand’un segmentu pussede entrate di glussariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -10373,8 +10373,8 @@ sia installata nant’à u vostru sistema.</seg>
       <tuv lang="en">
         <seg>Open Writable Glossary File</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223801Z" creationid="Patriccollu" creationdate="20170213T140346Z">
-        <seg>Apre un schedariu di glossariu chì si pò scrive</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151307Z" creationid="Patriccollu" creationdate="20170213T140346Z">
+        <seg>Apre un schedariu di glossariu scrivibile</seg>
       </tuv>
     </tu>
     <tu>
