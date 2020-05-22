@@ -5273,6 +5273,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the entries as "&lt;source&gt; → &lt;target&gt;"</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154638Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154638Z">
+        <seg>Presenteghja l’entrate cum’è « &lt;urigine&gt; → &lt;destinazione&gt; »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154615Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154615Z">
