@@ -6075,6 +6075,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140540Z">
+        <seg>Sbagliu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Errors found:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T150814Z" creationid="Patriccollu" creationdate="20170209T150814Z">
@@ -13614,6 +13622,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T162210Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T162210Z">
         <seg>Trasferimentu à a versione integrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140402Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140402Z">
+        <seg>Sincrunizazione di i dipositi</seg>
       </tuv>
     </tu>
     <tu>
