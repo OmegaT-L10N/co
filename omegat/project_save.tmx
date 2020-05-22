@@ -13192,6 +13192,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154144Z">
+        <seg>Termu di &amp;destinazione in primu locu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Advanced &amp;Options</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T141752Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141723Z">
