@@ -8478,6 +8478,14 @@ scrittu in u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T105147Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T105147Z">
+        <seg>Caricamentu di u prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading TMX files...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184041Z">
@@ -13947,6 +13955,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172730Z">
         <seg>E parolle d’entrata sò sfarente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T105521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T105521Z">
+        <seg>U prughjettu ùn pò micca esse verificatu</seg>
       </tuv>
     </tu>
     <tu>
