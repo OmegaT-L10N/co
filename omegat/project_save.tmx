@@ -10707,6 +10707,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter username/password</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133205Z">
+        <seg>Ci vole à scrive u nome d’utilizatore/a parolla d’entrata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter your name/ID.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T142414Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181226Z">
@@ -15884,6 +15892,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T161730Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161730Z">
         <seg>Risposta gattiva da u mutore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong username/password</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133251Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133251Z">
+        <seg>Nome d’utilizatore/a parolla d’entrata incurrette</seg>
       </tuv>
     </tu>
     <tu>
