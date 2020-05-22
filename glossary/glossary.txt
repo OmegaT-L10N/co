@@ -19,3 +19,4 @@ declaration	dichjarazione
 configuration	cunfigurazione
 determine	determinà
 switching	trasferimentu
+event	avvenimentu
