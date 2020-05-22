@@ -2832,8 +2832,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing an entry activated event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T151822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151822Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un avvenimentu di novu elementu :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151518Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151822Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un avvenimentu di nova entrata :
 {0}</seg>
       </tuv>
     </tu>
@@ -3825,8 +3825,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Cleaning entry '{0}'...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161624Z">
-        <seg>Nettata di l’elementu « {0} »…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161624Z">
+        <seg>Nettata di l’entrata « {0} »…</seg>
       </tuv>
     </tu>
     <tu>
@@ -6181,8 +6181,8 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       <tuv lang="en">
         <seg>Event: new entry activated</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T151759Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150212Z">
-        <seg>Avvenimentu : attivazione d’un novu elementu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150212Z">
+        <seg>Avvenimentu : attivazione d’una nova entrata</seg>
       </tuv>
     </tu>
     <tu>
@@ -7013,8 +7013,8 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20170213T140519Z" creationid="Patriccollu" creationdate="20170213T140519Z">
-        <seg>Elementi di glossariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151532Z" creationid="Patriccollu" creationdate="20170213T140519Z">
+        <seg>Entrate di glossariu</seg>
       </tuv>
     </tu>
     <tu>
