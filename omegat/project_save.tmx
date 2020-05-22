@@ -5861,8 +5861,16 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       <tuv lang="en">
         <seg>Error checking out the project from remote repository:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133855Z">
-        <seg>Sbagliu durante l’estrazzione di u prughjettu à partesi di u dipositu :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133855Z">
+        <seg>Sbagliu durante l’estrazzione di u prughjettu à partesi di u dipositu alluntanatu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error checking out the project from remote repository: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133933Z">
+        <seg>Sbagliu durante l’estrazzione di u prughjettu à partesi di u dipositu alluntanatu : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13844,8 +13852,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Team synchronization...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144841Z">
-        <seg>Sincrunizazione di squadra in corsu…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T134008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144841Z">
+        <seg>Sincrunizazione di squadra…</seg>
       </tuv>
     </tu>
     <tu>
@@ -13860,8 +13868,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Team synchronization: Waiting for you to finish this segment...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144955Z">
-        <seg>Sincrunizazione di squadra : In attesa chì stu segmentu sia finitu…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T134317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144955Z">
+        <seg>Sincrunizazione di squadra : in attesa chì a vostra mudificazione di stu segmentu sia compia…</seg>
       </tuv>
     </tu>
     <tu>
