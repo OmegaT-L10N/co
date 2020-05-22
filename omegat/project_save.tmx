@@ -3175,6 +3175,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141851Z">
+        <seg>Incastramentu gattivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad regular expression</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T164244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T164244Z">
@@ -14052,6 +14060,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141630Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141630Z">
+        <seg>Testu à caccià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -16855,6 +16871,16 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141540Z">
         <seg>Tabulazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">TAG_ERROR_DUPLICATE</prop>
+      <tuv lang="en">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141726Z">
+        <seg>Duppione</seg>
       </tuv>
     </tu>
     <tu>
