@@ -7944,8 +7944,8 @@ d’utilizatore.</seg>
       <tuv lang="en">
         <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T114513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T114513Z">
-        <seg>Deve esse cunvertitu in un novu prughjettu di squadra, ma quessu ùn si pò fà in modu cunsola.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135739Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T114513Z">
+        <seg>Deve esse cunvertitu in un novu prughjettu di squadra, ma què ùn si pò fà in modu cunsola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9954,8 +9954,8 @@ cum'è u cartulare di l’appiecazioni.</seg>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T220839Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T220839Z">
-        <seg>OmegatT pò ingenerà è allucà una parolle d'entrata principale per voi è cusì ùn averete micca bisognu di scrivelu ogni volta, ma quessu hè menu sicuru.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135810Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T220839Z">
+        <seg>OmegatT pò ingenerà è allucà una parolle d'entrata principale per voi è cusì ùn averete micca bisognu di scrivelu ogni volta, ma què hè menu sicuru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10945,6 +10945,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150649Z" creationid="Patriccollu" creationdate="20170210T150649Z">
         <seg>Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140034Z">
+        <seg>L’infurmazioni d’identificazione predefinite ùn sò micca state trasmesse.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14570,8 +14578,8 @@ di copia © 2018.</seg>
       <tuv lang="en">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T175733Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T175733Z">
-        <seg>Quessu hà da scartà tutti i cambiamenti fatti fine avà.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T175733Z">
+        <seg>Què hà da scartà tutti i cambiamenti fatti fine avà.</seg>
       </tuv>
     </tu>
     <tu>
