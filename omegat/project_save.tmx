@@ -7067,6 +7067,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T174057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174057Z">
+        <seg>Ozzioni di glossariu di l’empiimentu autumaticu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151532Z" creationid="Patriccollu" creationdate="20170213T140519Z">
@@ -7479,6 +7487,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165515Z">
         <seg>S’è un schedariu ùn si caricheghja micca in u pannellu &lt;s0&gt;Editore&lt;/s0&gt;, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T174001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174001Z">
+        <seg>S’è st’ozzione hè attivata, l’entrate sò classificate alfabeticamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13386,8 +13402,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T173014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T173014Z">
-        <seg>Classificà alfabeticamente i termu di destinazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T173914Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T173014Z">
+        <seg>Classificà alfa&amp;beticamente i termu di destinazione</seg>
       </tuv>
     </tu>
     <tu>
