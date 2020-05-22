@@ -5155,8 +5155,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T153549Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153549Z">
-        <seg>Affissà i termi d’&amp;urigine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153549Z">
+        <seg>&amp;Affissà i termi d’urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -5269,6 +5269,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172322Z">
         <seg>Affissa l’entrate di dizziunariu trove in i schedarii di dizziunariu chì si trovanu in u cartulare /dictionary/ s’elle sò presente in u segmentu d’urigine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the entries as "&lt;target&gt; → &lt;source&gt;"</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154615Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154615Z">
+        <seg>Presenteghja l’entrate cum’è « &lt;destinazione&gt; → &lt;urigine&gt; »</seg>
       </tuv>
     </tu>
     <tu>
@@ -13336,6 +13344,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154240Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154240Z">
+        <seg>&amp;Classificà alfabeticamente da u termu d’urigine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort fuzzy matches by:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T134100Z" creationid="Patriccollu" creationdate="20170213T134100Z">
@@ -14118,6 +14134,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T153244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T153244Z">
         <seg>Variabili di u mudellu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terms with multiple targets</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154323Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154323Z">
+        <seg>Termi cù destinazioni multiple</seg>
       </tuv>
     </tu>
     <tu>
