@@ -7483,6 +7483,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T170715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170715Z">
+        <seg>S’è st’ozzione hè attivata, l’entrate e più longhe sò piazzate à u principiu di a lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If invoked in a git working tree or svn checkout, the results
 		will be staged/added.</seg>
       </tuv>
