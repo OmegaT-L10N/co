@@ -24,3 +24,4 @@ executing	esecuzione
 writeable	scrivibile
 console	cunsola
 glossary	glossariu
+correctly	currettamente
