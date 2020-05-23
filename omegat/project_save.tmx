@@ -17306,7 +17306,7 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="en">
         <seg>Word</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T151831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T112912Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T192820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T192346Z">
         <seg>Parolla</seg>
       </tuv>
     </tu>
@@ -18257,6 +18257,16 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141540Z">
         <seg>Tabulazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">OpenXML_WORD</prop>
+      <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T192849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T192849Z">
+        <seg>Word</seg>
       </tuv>
     </tu>
     <tu>
