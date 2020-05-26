@@ -48,16 +48,16 @@
       <tuv lang="en">
         <seg>"Unable to load Java Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144101Z">
-        <seg>"Impussibule di caricà l’ambiente Runtime di Java.";</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T135233Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144101Z">
+        <seg>"Impussibule di caricà l’ambiente d’esecuzione Java.";</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>"Unable to load a Java %d Runtime Environment.";</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144324Z">
-        <seg>"Impussibule di caricà l’ambiente Runtime di Java %d.";</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T135246Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T144324Z">
+        <seg>"Impussibule di caricà l’ambiente d’esecuzione Java %d.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +66,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184637Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184637Z">
         <seg>#Schedarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T155621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T155621Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2329,6 +2337,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T154519Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T132321Z">
+        <seg>&lt;i1&gt;OmegaT pò esse installatu nant’à tuttu sistema d’operazione ch’impiega al menu a versione 1.6 di l’ambiente d’esecuzione Java.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T144308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T144255Z">
@@ -2377,6 +2393,22 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131102Z">
+        <seg>&lt;s1&gt;Qualità&lt;/s1&gt; : installazione autumatica di i rinnovi nant’à l’urdinatore dopu u lanciu di l’appiecazione.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131437Z">
+        <seg>&lt;s3&gt;Difficultà&lt;/s3&gt; : oghje, sta versione ùn pò micca esse impiegata cù i moduli d’estensione rendendu certi funzioni micca dispunibule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T142034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T142034Z">
@@ -2395,8 +2427,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>===============</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162948Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162948Z">
-        <seg>==============</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T161116Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162948Z">
+        <seg>================</seg>
       </tuv>
     </tu>
     <tu>
@@ -6069,6 +6101,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T124946Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T124946Z">
+        <seg>Selettore di scaricamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download Team Project</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133510Z">
@@ -7547,10 +7587,50 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131725Z">
+        <seg>Per l’installazioni nant’à i sistemi Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131647Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131647Z">
+        <seg>Per l’installazioni nant’à i sistemi Mac OS X.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131703Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131538Z">
+        <seg>Per l’installazioni nant’à i sistemi Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131840Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131840Z">
+        <seg>Per l’installazioni nant’à d’altri sistemi (cum’è FreeBSD è Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T145438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T145438Z">
         <seg>Per e dumande d’assistenza, impiegate u &lt;a1&gt;canale d’assistenza ricumandatu&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this purpose download the following file and then execute it:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163847Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T163847Z">
+        <seg>Per fà què, scaricate stu schedariu è eseguitelu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -8311,6 +8391,14 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T133747Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T133747Z">
+        <seg>S’è un JRE currettu hè dighjà installatu nant’à u vostru urdinatore, selezziunate « Senza JRE ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T174001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174001Z">
@@ -8323,6 +8411,14 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T170715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170715Z">
         <seg>S’è st’ozzione hè attivata, l’entrate e più longhe sò piazzate à u principiu di a lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T130150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T130150Z">
+        <seg>In casu di dubbitu, selezziunate sta versione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8358,10 +8454,26 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T134302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T134302Z">
+        <seg>Osinnò, o s’è ùn vo site sicuru, selezziunate « Cù JRE ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T133015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T133015Z">
         <seg>S’è u filtru prupone ozzioni, pudete mudificalle scigliendu Ozzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T130206Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T124937Z">
+        <seg>S’è vo avete dubbitu apprupositu di a versione à scaricà, pudete impiegà u &lt;a0&gt;Selettore di scaricamenti&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8382,10 +8494,27 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T160031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T160031Z">
+        <seg>S’ellu ci hè quantunque dubbitu d’avè una versione curretta di u JRE, pudete sempre scaricà è installà una version d’OmegaT cù JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T160440Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T160440Z">
         <seg>S’è vo impiegate un proxy autenticatu, scrivite quì u vostru nome d’utilizatore è a parolla d’entrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have already Java installed on your system, one way to install OmegaT is
+to use Java Web Start.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163728Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T163728Z">
+        <seg>S’è Java hè dighjà installatu nant’à u vostru sistema, una manera d’installà OmegaT hè d’impiegà Java Web Start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8434,6 +8563,15 @@ stu cambimentu di locu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T181039Z">
         <seg>S’è i vostri schedarii d’urigine sò furmatati, per indettu Microsoft Word, LibreOffice Writer o HTML, OmegaT cunvertiscerà tutte e marche di furmatu in etichette chì accircunda u testu chì vò traducite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If, during installation, you have created a shortcut on the desktop,
+double-click on that shortcut.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T164938Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T164828Z">
+        <seg>S’è, durante l’installazione, avete creatu un accurtatoghju nant’à u scagnu, fate un doppiu-cliccu nant’à st’accurtatoghju.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8734,6 +8872,14 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125025Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125025Z">
+        <seg>Tipu d’installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installed plugins:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161842Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154527Z">
@@ -8766,6 +8912,16 @@ stu cambimentu di locu.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165155Z">
         <seg>Installazione d’OmegaT (Mac)
 ============================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT (Solaris, FreeBSD, etc.)
+=========================================</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163230Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T163206Z">
+        <seg>Installazione d’OmegaT (Solaris, FreeBSD, etc.)
+===============================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -9004,6 +9160,15 @@ scrittu in u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will install the correct environment for your computer and the application
+itself on the first run.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T164508Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T164508Z">
+        <seg>St’azzione installerà l’ambiente appostu per u vostru urdinatore è l’appiecazione stessa durante u primu lanciu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="co">
@@ -9072,6 +9237,14 @@ scrittu in u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T130609Z" creationid="Patriccollu" creationdate="20170213T130609Z">
         <seg>JGit (Licenza Eclipse Distribution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125332Z">
+        <seg>Ambiente Java</seg>
       </tuv>
     </tu>
     <tu>
@@ -9532,6 +9705,14 @@ scrittu in u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Later calls do not need to be online.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T164551Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T164551Z">
+        <seg>Dopu ùn ci serà più bisognu d’esse in linea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Latest</seg>
       </tuv>
       <tuv lang="co">
@@ -9542,8 +9723,18 @@ scrittu in u cartulare di cunfigurazione.</seg>
       <tuv lang="en">
         <seg>Launch the installation program.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165107Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165107Z">
-        <seg>Lancià u prugramma d’installazione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163913Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165107Z">
+        <seg>Lanciate u prugramma d’installazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Windows)
+==========================</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T164626Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T164626Z">
+        <seg>Lanciu d’OmegaT (Windows)
+=========================</seg>
       </tuv>
     </tu>
     <tu>
@@ -9718,6 +9909,22 @@ scrittu in u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T124204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T124204Z">
+        <seg>I liami inghjò vi permettenu di scaricà versioni sfarente d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131714Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List View</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T130316Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225818Z">
@@ -9866,6 +10073,14 @@ scrittu in u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162759Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162759Z">
         <seg>Lucie Vecerova (rispunsevule di cumunità Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131542Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -10536,6 +10751,15 @@ appropriate location such as the Applications folder.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T165901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T165901Z">
         <seg>Dispiazzà u cartulare ver di una lucalizazione apprupriata
 cum'è u cartulare di l’appiecazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move the folder to an appropriate location such
+as the Applications folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T164013Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T161325Z">
+        <seg>Dispiazzate u cartulare ver di una lucalizazione apposta cum’è u cartulare di l’appiecazioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11216,6 +11440,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125011Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125011Z">
+        <seg>Selettore di scaricamenti d’OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Javadoc...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T104302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T104302Z">
@@ -11276,6 +11508,14 @@ cum'è u cartulare di l’appiecazioni.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T174020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T220839Z">
         <seg>OmegatT pò ingenerà è allucà una parolla d'entrata principale per voi è cusì ùn averete micca à scrivela ogni volta, ma cù una perdita di sicurità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T155010Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T155010Z">
+        <seg>Oghje, OmegaT richiesta a versione 1.6 di u JRE o un’altra più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11357,12 +11597,8 @@ francese è CAT in inglese).</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163412Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163412Z">
-        <seg>OmegaT hè un attrezzu di traduzzione assistata da l’urdinatore (TAO in
-francese è CAT in inglese) - liberu è di « fonte aperta » multipiattaforma -
-chì cuntene funzioni cum’è currispundenze simile, memoria di traduzzione,
-ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione
-hè più faciule.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163412Z">
+        <seg>OmegaT hè un attrezzu di traduzzione assistata da l’urdinatore (TAO in francese è CAT in inglese) - liberu è di « fonte aperta » multipiattaforma chì cuntene funzioni cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è cusì u travagliu di traduzzione hè più faciule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11387,10 +11623,8 @@ hè più faciule.</seg>
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163759Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163759Z">
-        <seg>OmegaT hè dispunibule sottu à i termi di a Licenza Publica Generale GNU
-tale chì publicata da a Free Software Foundation ; sia a versione 3 di
-a licenza, sia (s’è voi preferite) una versione più recente.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163759Z">
+        <seg>OmegaT hè dispunibule sottu à i termi di a Licenza Publica Generale GNU tale chì publicata da a Free Software Foundation ; sia a versione 3 di a licenza, sia (s’è voi preferite) una versione più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11423,6 +11657,15 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is then ready to
+be launched.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162347Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T161927Z">
+        <seg>Tandu OmegaT hè prontu à esse lanciatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT license</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T184024Z" creationid="Patriccollu" creationdate="20170209T153811Z">
@@ -11442,9 +11685,8 @@ quella chì cuntene u vostru cartulare di basa.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T164511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T164511Z">
-        <seg>OmegaT richiede chì Java Runtime Environment (JRE) version 1.8 o più recente
-sia installata nant’à u vostru sistema.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T164511Z">
+        <seg>OmegaT richiede chì l’ambiente d’esecuzione Java (JRE) versione 1.8 o più recente sia installata nant’à u vostru sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11543,6 +11785,14 @@ sia installata nant’à u vostru sistema.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T172827Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
         <seg>OmegaT hà da pruvà di risegmentà u schedariu TMX…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T155003Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T155003Z">
+        <seg>Da bona regula, OmegaT pò esse lanciatu nant’à tuttu sistema Linux chì cuntene l’ambiente d’esecuzione Java (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -11751,6 +12001,14 @@ sia installata nant’à u vostru sistema.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T184625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184625Z">
         <seg>Apertura di u prughjettu di squadra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125056Z">
+        <seg>Sistema d’operazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -12081,6 +12339,14 @@ everything.</seg>
         <seg>Piazzà i schedarii d’urigine in ./source è d’eventuale schedarii
 in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
 è dopu validà (commit) l’inseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place the archive in any suitable folder and unpack it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T161811Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T161811Z">
+        <seg>Piazzate l’archiviu in u cartulare di a vostra scelta è spacchittatelu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14480,6 +14746,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T133544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T133544Z">
+        <seg>Sciglite s'ellu ci vole à scaricà OmegaT cù o senza l’ambiente d’esecuzione Java (JRE) inchjusu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T160959Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T160959Z">
@@ -15960,6 +16234,14 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T130857Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T130627Z">
+        <seg>Sta versione hè di tipu « Installà è scurdassi ».&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The command must include "{target}", which will be replaced with the search text.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T225201Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T225201Z">
@@ -16032,12 +16314,31 @@ Chì t’aspettanu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The installer can create shortcuts for you in the start menu, on the desktop and
+in the quick launch area.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T165308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T165308Z">
+        <seg>U prugramma d’installazione pò creà accurtatoghji per voi in u listinu « démarrer », nant’à u scagnu o in a barra di lanciu rapidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The language code should be in the form xx-YY, xxx-YY, xx_YY or xxx_YY, where 
 xx or xxx is the language code and YY is the region or country code (optional).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200418T193843Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200418T193843Z">
         <seg>U codice di lingua duveria esse in u furmatu xx-YY, xxx-YY, xx_YY o xxx_YY, induve xx
 o xxx hè u codice di lingua è YY hè quellu (ozzionale) di u rughjone o di u paese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license of each library is mentioned in
+/lib/licenses/Licenses.txt.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162231Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T161026Z">
+        <seg>A licenza d’ogni bibliuteca hè ammentata in
+/lib/licenses/Licenses.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16280,6 +16581,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T165458Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T165458Z">
         <seg>U manuale di l’utilizatore d’OmegaT in furmatu PDF ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125916Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125916Z">
+        <seg>Cù sta versione, l’installazione hè fatta da l’utilizatore ; ghjè quella di l'utilizatori avvezzi d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16568,6 +16877,14 @@ di copia © 2018.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T160433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T160433Z">
+        <seg>Stu metoda hè più sicuru è impedisce tuttu cunflittu di versioni (risicu di rimpiazzamentu o disinstallazione) perchè stu JRE serà solu impiegatu lucalmente da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will discard all changes you have made so far.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T151155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T175733Z">
@@ -16622,6 +16939,14 @@ di copia © 2018.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T151136Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T150759Z">
         <seg>Stu manuale hè accessibile direttamente da OmegaT via Aiutu &gt; Manuale di l’utilizatore o via u tastu « F1 ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T155617Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T155617Z">
+        <seg>Per verificà chì versione hè presente nant’à u vostru sistema Linux, aprite una cunsola (finestra di linea di cumanda) è entrite què :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16696,6 +17021,16 @@ read:</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T164525Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>Per traduce l’interfaccia utilizatore d’OmegaT, u manuale d’utilizazione, è
 d’altri ducumenti, lighjite :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script, open a terminal
+window (console), change folder to the folder containing OmegaT.jar and the
+linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T163126Z">
+        <seg>Per impiegalu, aprite una finestra di terminale (cunsola), andate in u cartulare chì cuntene OmegaT.jar è u scrittu linux-install.sh, è eseguitelu cù ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17410,6 +17745,15 @@ cuntene un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack the OmegaT .zip archive to obtain a folder that contains a documentation
+file and the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T161111Z">
+        <seg>Spacchittate l’archiviu .zip d’OmegaT per ottene un cartulare chì cuntenerà un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -17730,6 +18074,16 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Using Java Web Start for installing OmegaT (all platforms)
+===========================================================</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163452Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T163452Z">
+        <seg>Impiegu di Java Web Start per l’installazione d’OmegaT (tutte piattaforme)
+==========================================================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using spellchecker</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T152743Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T152743Z">
@@ -17990,6 +18344,23 @@ impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We recommend using OmegaT packages that include the JRE, to save you the trouble
+of selecting, obtaining and installing it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T135131Z">
+        <seg>Vi ricumandemu d’impiegà i pacchetti OmegaT chì cuntenenu u JRE, per impediscevi u penseru di selezziunalu, d’ottenelu, è d’installalu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T130357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T130357Z">
+        <seg>Avviu web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200417T183529Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200417T183529Z">
@@ -18176,6 +18547,22 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T184339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T184339Z">
         <seg>Risorse Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T134314Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T134314Z">
+        <seg>Cù JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T134310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T134310Z">
+        <seg>Senza JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -18396,6 +18783,15 @@ Pagina scapa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also manually drag the file OmegaT.exe to the
+start menu, the desktop or the quick launch area to link it from there.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T165828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T165828Z">
+        <seg>Pudete dinù manualmente fà sguillà u schedariu OmegaT.exe ver di u listinu « démarrer », nant’à u scagnu o in a barra di lanciu rapidu per creacci l’accurtatoghji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163719Z">
@@ -18425,7 +18821,7 @@ Pagina scapa</seg>
         <seg>You can find the text of the license in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163837Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163837Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163837Z">
         <seg>Pudete fighjà u testu di a licenza in
 /docs/OmegaT-license.txt.</seg>
       </tuv>
@@ -18436,6 +18832,15 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T184521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184521Z">
         <seg>Pudete andà à a &lt;a0&gt;pagina d’accolta&lt;/a0&gt; è forse truvà ciò chì vò circate da quallà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can however obtain a neater and more user-friendly installation by using the
+installation script (linux-install.sh).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T162702Z">
+        <seg>Pudete quantunque ottene un’installazione più netta è più piacevule grazia à u scrittu d’installazione (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18758,6 +19163,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200515T121051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200515T121051Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T164039Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T164039Z">
+        <seg>https://omegat.sourceforge.net/webstart/OmegaT.jnlp</seg>
       </tuv>
     </tu>
     <tu>
@@ -19389,6 +19802,28 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T165941Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T165941Z">
         <seg>Furmazioni autonome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">For installation on Linux.</prop>
+      <prop type="next">For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</prop>
+      <tuv lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131742Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131742Z">
+        <seg>Altri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">JRE</prop>
+      <prop type="next">The version for installation by the user, familiar to existing OmegaT users.</prop>
+      <tuv lang="en">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125423Z">
+        <seg>Classica</seg>
       </tuv>
     </tu>
   </body>
