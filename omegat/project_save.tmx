@@ -1470,6 +1470,14 @@ Per aghjunghe schedarii à u prughjettu, cliccà nant’à u buttone « Cupià i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(The Java executable file is the file java on Linux and java.exe on Windows.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T191659Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T191526Z">
+        <seg>(U schedariu d’esecuzione Java hè u schedariu java nant’à Linux è java.exe nant’à Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(X)HTML Filter Options</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T163620Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T163620Z">
@@ -1548,6 +1556,34 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T155557Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T155557Z">
         <seg>- Risorsa Android (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Anthony Baldwin (localisation manager)
+- Didier Briel (project manager)
+- Alex Buloichik (lead developer)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (support group owner, localisation manager)
+- Maxym Mykhalchuk (lead developer)
+- Samuel Murray
+- Henry Pijffers (release manager)
+- Marc Prior (project co-ordinator, webmaster)
+- Vito Smolej (documentation manager)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165338Z">
+        <seg>- Anthony Baldwin (rispunsevule di a lucalisazione)
+- Didier Briel (risponsevule di u prughjettu)
+- Alex Buloichik (sviluppatore principale)
+- Sabine Cretella
+- Dmitri Gabinski
+- Jean-Christophe Helary (prupietariu di u gruppu d’assistenza, rispunsevule di a lucalisazione)
+- Maxym Mykhalchuk (sviluppatore principale)
+- Samuel Murray
+- Henry Pijffers (rispunsevule di versione)
+- Marc Prior (co-cuurdinatore di prughjettu, webmaestru)
+- Vito Smolej (risponsevule di a documentazione)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1724,6 +1760,26 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T155707Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T155707Z">
         <seg>- Typo3 LocManager (*.xml)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Vincent Bidaux (documentation manager)
+- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsof (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165544Z">
+        <seg>- Vincent Bidaux (risponsevule di a documentazione)
+- Marco Cevoli (rispunsevule di cumunità Telegram)
+- Jean-Christophe Helary (rispunsevule di cumunità Twitter)
+- Kos Ivantsof (rispunsevule di a lucalisazione)
+- Concepción Martin (rispunsevule di cumunità Facebook)
+- Briac Pilpré (webmaestru)
+- Lucie Vecerova (rispunsevule di cumunità Facebook)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2361,6 +2417,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T191533Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T190008Z">
+        <seg>&lt;nome è chjassu di u schedariu d’esecuzione Java&gt; -jar OmegaT.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;none&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162305Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162305Z">
@@ -2447,6 +2511,14 @@ U valore attuale hè {0} Mo ;
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T152026Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T152026Z">
         <seg>==============================================================================
 6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T112140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112140Z">
+        <seg>Stu ducumentu hè statu traduttu da Patriccollu di Santa Maria è Sichè, copyright© 2018-2020.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2983,6 +3055,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T172919Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172919Z">
         <seg>Permette di fighjà, aghjunghje, caccià o mudificà una nota in u segmentu attivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt+F2</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165614Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165614Z">
+        <seg>Alt+F2</seg>
       </tuv>
     </tu>
     <tu>
@@ -3709,8 +3789,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Bug reports (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T145132Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145132Z">
-        <seg>Raporti di penseru (in inglese) à u situ SourceForge :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T164824Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145132Z">
+        <seg>Raporti di penseru (in inglese) nant’à u situ SourceForge :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6053,6 +6133,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on the OmegaT application.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T112828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112828Z">
+        <seg>Doppiu-cliccate nant’à l’appiecazione OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doubled blanks</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191629Z">
@@ -7563,6 +7651,15 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T182423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182423Z">
+        <seg>Per pudè impegà OmegaT d’una manera più faciule, pudete impiegà u scrittu Kaptain pruvistu (omegat.kaptn).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T124404Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T124404Z">
@@ -8359,6 +8456,16 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If
+Java is installed at system level and is in the command path, the full path need
+not be entered.)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T191842Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T191842Z">
+        <seg>S’è Java hè installatu à u livellu di u sistema è inchjusu in u chjassu, ùn hè micca bisognu di scrive u chjassu sanu.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T163557Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T163557Z">
@@ -8510,6 +8617,15 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
+Explorer), change the settings so that file extensions are displayed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T112637Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112637Z">
+        <seg>S’ellu hè pussibule di fighjà u schedariu OmegaT ma micca OmegaT.exe in u vostru ghjestiunariu di schedariu (Espluratore WIndows), mudificate e preferenze per chì l’estensioni sianu affissate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have already Java installed on your system, one way to install OmegaT is
 to use Java Web Start.</seg>
       </tuv>
@@ -8547,6 +8663,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T170842Z">
         <seg>S’è vò piazzate quessi schedarii di memoria di traduzzione in u sottucartulare &lt;f6&gt;/tm/&lt;/f6&gt; d’un prughjettu, OmegaT circherà ci autumaticamente segmenti simile, chjamati "currispundenze simile".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T182244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182244Z">
+        <seg>S’è vo avete impiegatu u scrittu linux-install.sh, duveriate pudè lancià OmegaT cusì :</seg>
       </tuv>
     </tu>
     <tu>
@@ -9729,12 +9853,42 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launching OmegaT (Linux)
+========================</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T164648Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T164648Z">
+        <seg>Lanciu d’OmegaT (Linux)
+=======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT (Mac)
+======================</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T112729Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112729Z">
+        <seg>Lanciu d’OmegaT (Mac)
+=====================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launching OmegaT (Windows)
 ==========================</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T164626Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T164626Z">
         <seg>Lanciu d’OmegaT (Windows)
 =========================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Launching OmegaT from the command line (all systems)
+====================================================</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T183522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T183522Z">
+        <seg>Lanciu d’OmegaT da a linea di cumanda (tutti sistemi)
+=====================================================</seg>
       </tuv>
     </tu>
     <tu>
@@ -13778,8 +13932,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T145049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145049Z">
-        <seg>Dumande d’amendamentu (in inglese) à u situ SourceForge :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T164820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145049Z">
+        <seg>Dumande d’amendamentu (in inglese) nant’à u situ SourceForge :</seg>
       </tuv>
     </tu>
     <tu>
@@ -16250,6 +16404,14 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The command to launch OmegaT is:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T183601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T183528Z">
+        <seg>A cumanda chì permette di lancià OmegaT hè :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -17021,6 +17183,14 @@ read:</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T164525Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>Per traduce l’interfaccia utilizatore d’OmegaT, u manuale d’utilizazione, è
 d’altri ducumenti, lighjite :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use this script you must first install Kaptain.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T182524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182524Z">
+        <seg>Per impiegallu, duvete installà Kaptain in primu locu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18048,6 +18218,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User support resources:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T164928Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T164928Z">
+        <seg>Risorse d’assistenza per l’utilizatore :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User support, at the Yahoo user group (multilingual), where the archives are
 searchable without subscription:</seg>
       </tuv>
@@ -18719,6 +18897,15 @@ Pagina scapa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You
+can then launch the Kaptain launch script with:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T182557Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182557Z">
+        <seg>È dopu, pudete lancià u scrittu Kaptain cusì :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You already have the latest version.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172502Z">
@@ -18779,6 +18966,15 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T162308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T162308Z">
         <seg>Si pò dinù fighjà u manuale di l’utilizatore senza apre OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also launch it from
+the Spotlight search field.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T164604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T164604Z">
+        <seg>Pudete dinù eseguiscelu da u campu di ricerca di Spotlight.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18873,6 +19069,15 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T161902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T161902Z">
         <seg>Pudete dinù cupià i schedarii ver di u cartulare « source » di u vostru prughjettu cù u vostru ghjestiunariu di schedariu è ricaricà u prughjettu cù a funzione Ricaricà di u listinu Prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may drag the OmegaT application to your dock or to the toolbar of a Finder
+window to be able to launch it from any location.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T164511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T164511Z">
+        <seg>Pudete fà sguillà OmegaT.app nant’à u vostru Dock o nant’à a barra d’attrezzi di u Finder per pudè eseguiscelu da qualsiasi locu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19023,6 +19228,14 @@ di creà u so cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>and then:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165623Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165623Z">
+        <seg>eppò :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>attributes.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T115153Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T115153Z">
@@ -19035,6 +19248,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T224800Z">
         <seg>abbandunatu ({0} ms trascorsu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>cd &lt;folder where the file OmegaT.jar is located&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T183644Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T183644Z">
+        <seg>cd &lt;cartulare induve si trova u schedariu OmegaT.jar&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -19151,6 +19372,14 @@ di creà u so cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T164715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T164715Z">
+        <seg>https://omegat.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://omegat.org/files/OmegaT_for_Beginners.pdf</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172729Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172729Z">
@@ -19253,6 +19482,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T131039Z" creationid="Patriccollu" creationdate="20170213T131033Z">
         <seg>mALIGNa (Licenza MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.kaptn</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165651Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165651Z">
+        <seg>omegat.kaptn</seg>
       </tuv>
     </tu>
     <tu>
@@ -19740,6 +19977,18 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141726Z">
         <seg>Duppione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">readme_co.txt</prop>
+      <prop type="prev">and then:</prop>
+      <prop type="next">For a more user-friendly way of launching OmegaT, you can use the Kaptain script
+provided (omegat.kaptn).</prop>
+      <tuv lang="en">
+        <seg>omegat</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165645Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165645Z">
+        <seg>omegat</seg>
       </tuv>
     </tu>
     <tu>
