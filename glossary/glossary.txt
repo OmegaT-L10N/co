@@ -25,3 +25,5 @@ writeable	scrivibile
 console	cunsola
 glossary	glossariu
 correctly	currettamente
+sponsorship	cumparaticu
+commission	cummissiunà
