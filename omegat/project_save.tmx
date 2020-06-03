@@ -3406,6 +3406,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T162648Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T162648Z">
+        <seg>A versione « Ultima » nant’à u situ di scaricamentu hè a più recente d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;c0&gt;level1&lt;/c0&gt;, &lt;c1&gt;level2&lt;/c1&gt; and &lt;c2&gt;omegat&lt;/c2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165621Z">
@@ -9477,6 +9485,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175844Z">
         <seg>Quand’ellu hè ghjuvevule di circà parolle e frase in u testu d’urigine è/o in a vostra traduzzione, si pò appughjà nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+F&lt;/s1&gt;&lt;/s0&gt; per affissà u dialogu &lt;s2&gt;Ricerca di Testu&lt;/s2&gt; quand’ella vi piace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T162354Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T162354Z">
+        <seg>Ghjè a versione ricumandata per i principianti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16643,8 +16659,8 @@ attuale serà impiegatu.</seg>
       <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T161524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T161524Z">
-        <seg>A versione « Classica » d’OmegaT hè pruvista cù una documentazione sana (omancu in inglese) è hè stata pruvata è verificata per caccià</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T162336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T161524Z">
+        <seg>A versione « Classica » d’OmegaT hè pruvista cù una documentazione sana (omancu in inglese) è hè stata pruvata è verificata per caccià i penseri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20586,6 +20602,17 @@ provided (omegat.kaptn).</prop>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T165941Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T165941Z">
         <seg>Furmazioni autonome</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">It is the recommended version for first-time users.</prop>
+      <prop type="next">As its name suggests, the "Latest" version of Omegat is more up to date.</prop>
+      <tuv lang="en">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T162403Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T162403Z">
+        <seg>Ultima</seg>
       </tuv>
     </tu>
     <tu>
