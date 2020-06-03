@@ -8792,6 +8792,14 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T160612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T160335Z">
+        <seg>Sciglite st’ozzione s’è un ambiente d’esecuzione Java hè dighjà installatu nant’à l’urdinatore à u livellu di u sistema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T160031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T160031Z">
@@ -16633,6 +16641,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T161524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T161524Z">
+        <seg>A versione « Classica » d’OmegaT hè pruvista cù una documentazione sana (omancu in inglese) è hè stata pruvata è verificata per caccià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "batteries included" version of OmegaT, with its own Java Runtime Environment.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T113846Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T113846Z">
@@ -20581,6 +20597,17 @@ provided (omegat.kaptn).</prop>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131742Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131742Z">
         <seg>Altri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/download.html</prop>
+      <prop type="prev">If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</prop>
+      <prop type="next">The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</prop>
+      <tuv lang="en">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T160633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T160633Z">
+        <seg>Classica</seg>
       </tuv>
     </tu>
     <tu>
