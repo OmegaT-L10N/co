@@ -17634,6 +17634,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing signed versions.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T153052Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T153052Z">
+        <seg>Forse ci vulerà à aspettà una cria per a publicazione di e versioni firmate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T155252Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T155252Z">
