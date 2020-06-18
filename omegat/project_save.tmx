@@ -17041,6 +17041,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The "master" (alpha) version reflects the very latest state of development.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T163726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T163726Z">
+        <seg>A versione « alfa » cuntene a fasa a più recente di u sviluppu di l’appiecazione OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The "master" version is a cutting-edge, "alpha" version, still in development.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T172749Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T172749Z">
