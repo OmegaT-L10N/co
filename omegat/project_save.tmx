@@ -6502,6 +6502,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During installation, depending on your operating system, you may receive several security warnings.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T160206Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T160206Z">
+        <seg>Durante l’installazione, secondu à u vostru sistema d’operazione, pudete riceve parechji avertimenti di sicurità.&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T180038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T180038Z">
@@ -19716,6 +19724,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T134314Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T134314Z">
         <seg>Cù JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With this version, future updates will be installed automatically.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T160025Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T160025Z">
+        <seg>Cù sta versione i rinnovi dispunibule sò installati autumaticamente.</seg>
       </tuv>
     </tu>
     <tu>
