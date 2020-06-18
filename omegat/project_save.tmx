@@ -16147,6 +16147,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source code packages are not required by users and are intended for developers only.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T165124Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T165124Z">
+        <seg>I pacchetti cuntenendu u codice di fonte ùn sò micca richiesti per l'adopru di u prugramma è sò fatti solu per i sviluppatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210637Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210637Z">
