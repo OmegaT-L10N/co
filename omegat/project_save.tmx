@@ -13100,6 +13100,14 @@ In nebbia pagna</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Periodic builds are available on Sourceforge.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T164359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T164359Z">
+        <seg>Custruzzioni periodiche sò dispunibule nant’ Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Phillip Hall</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121543Z">
@@ -20391,6 +20399,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T181446Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T181446Z">
         <seg>i nomi di schedariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T164011Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T164011Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
