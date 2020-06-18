@@ -9163,6 +9163,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.3 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T161849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T161849Z">
+        <seg>L’installazione di a versione « Web Start » richiede chì a versione 1.3 (o ancu più recente) di Java sia installata nant’à u vostru urdinatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T115422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T115422Z">
