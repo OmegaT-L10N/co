@@ -9635,6 +9635,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can also be obtained using the git command:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T164001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T164001Z">
+        <seg>Pò dinù esse ottenuta cù quella cumanda git :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T162339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T162339Z">
@@ -9685,6 +9693,14 @@ d’utilizatore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T175844Z">
         <seg>Quand’ellu hè ghjuvevule di circà parolle e frase in u testu d’urigine è/o in a vostra traduzzione, si pò appughjà nant’à &lt;s0&gt;&lt;s1&gt;Ctrl+F&lt;/s1&gt;&lt;/s0&gt; per affissà u dialogu &lt;s2&gt;Ricerca di Testu&lt;/s2&gt; quand’ella vi piace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is recommended for serious developers and testers only.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T163855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T163855Z">
+        <seg>Hè ricumandata solu per i sviluppatori è esperimentadori tercani.</seg>
       </tuv>
     </tu>
     <tu>
