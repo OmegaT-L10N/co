@@ -2456,6 +2456,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;Linux users&lt;/s0&gt;: most Linux distributions are supplied with a Java Runtime Environment, but some open-source implementations do not work properly with OmegaT (although this may not be immediately apparent).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T142845Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T140702Z">
+        <seg>&lt;s0&gt;Nota per l’utilizatori Linux&lt;/s0&gt; : a maiò parte di e distribuzioni Linux sò pruviste cù un ambiente d’esecuzione Java ma certe messe in opera « Open Source » ùn funziuneghjanu micca currettamente cù OmegaT, penseru chì ùn si vede micca subitu subitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131102Z">
@@ -7939,6 +7947,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For most users, these are not of interest.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T115112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T114532Z">
+        <seg>Per a maiò parte di a ghjente, anu pocu interessu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T145438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T145438Z">
@@ -8623,6 +8639,14 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, some users may face restrictions (imposed by their operating systems or Java version) that may result in a preference for an older version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T115102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T115102Z">
+        <seg>Sarrimanenti, in certi casi, ste versioni anziane ponu esse ghjuvevule quandu ci sò ristrizzioni imposte da u sistema d’operazione o da a versione Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T162839Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T162839Z">
@@ -8771,8 +8795,8 @@ not be entered.)</seg>
       <tuv lang="en">
         <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T133747Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T133747Z">
-        <seg>S’è un JRE currettu hè dighjà installatu nant’à u vostru urdinatore, selezziunate « Senza JRE ».</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T135312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T133747Z">
+        <seg>S’è un JRE apprupriatu hè dighjà installatu nant’à u vostru urdinatore, selezziunate « Senza JRE ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -8864,6 +8888,14 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are confident that a suitable version of the JRE is already installed on your computer, you can download a version of OmegaT without the JRE.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T135616Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T120043Z">
+        <seg>S’è vo site sicuru(a) chì una versione apprupriata di l’ambiente JRE hè dighjà installata nant’à u vostru urdinatore, pudete scaricà una versione d’OmegaT senza JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T130206Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T124937Z">
@@ -8888,18 +8920,34 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are relatively new to Linux, we advise you to select an OmegaT version with the JRE included.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T140909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T140909Z">
+        <seg>Ricumandemu à i principianti Linux di sceglie una versione d’OmegaT cù JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T160612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T160335Z">
-        <seg>Sciglite st’ozzione s’è un ambiente d’esecuzione Java hè dighjà installatu nant’à l’urdinatore à u livellu di u sistema.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T135436Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T160335Z">
+        <seg>Sciglite st’ozzione s’è un ambiente d’esecuzione Java apprupriatu hè dighjà installatu nant’à l’urdinatore à u livellu di u sistema.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T160031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T160031Z">
-        <seg>S’ellu ci hè quantunque dubbitu d’avè una versione curretta di u JRE, pudete sempre scaricà è installà una version d’OmegaT cù JRE.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T135406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T160031Z">
+        <seg>S’ellu ci hè quantunque dubbitu d’avè una versione apprupriata di u JRE, pudete sempre scaricà è installà una version d’OmegaT cù JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are unsure whether or not you have a suitable version of the JRE, select a version with JRE (or the Default version).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T135221Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T135221Z">
+        <seg>S’è ùn site micca sicuru(a) d’avè una versione apprupriata di u JRE, selezziunate a versione d’OmegaT cù JRE (o a versione predefinita).</seg>
       </tuv>
     </tu>
     <tu>
@@ -8934,6 +8982,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163728Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T163728Z">
         <seg>S’è Java hè dighjà installatu nant’à u vostru sistema, una manera d’installà OmegaT hè d’impiegà Java Web Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T134546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T134546Z">
+        <seg>S'è vo devite installà a versione d’OmegaT cù l’ambiente JRE quandu u JRE hè dighjà installatu, ùn ci seria micca cunflittu perchè e duie installazioni sò distinte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9099,6 +9155,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T115422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T115422Z">
+        <seg>Per pudè funziunà, OmegaT richiede chì l’ambiente d’esecuzione Java (JRE) sia installatu nant’à u vostru urdinatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T181141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T171133Z">
@@ -9119,6 +9183,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171204T201053Z">
         <seg>In u listinu &lt;s0&gt;Prughjettu&lt;/s0&gt;, selezziunà &lt;s1&gt;Novu…&lt;/s1&gt; è entre un nome per u vostru prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, do not select the Default version; select a different version (e.g. Standard or Latest), then select a version marked "Java not included".</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T122807Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T122807Z">
+        <seg>In stu casu, ùn selezziunate micca a versione predefinita ma preferite piuttostu una versione « Classica » o « Ultima » eppò selezziunate una versione cù a menzione « Java not included » o « without JRE ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -9609,6 +9681,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is therefore always safe to install the version of OmegaT with JRE.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T134853Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T134853Z">
+        <seg>Dunque, l’installazione d’OmegaT cù u JRE hè a metoda a più sicura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181311Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181311Z">
@@ -9696,6 +9776,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co">
         <seg>Elementi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its documentation, at least in English, is usually reasonably up to date.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T143822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T143822Z">
+        <seg>A documentazione pruvista hè assai cumpleta, omancu in inglese.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10324,6 +10412,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Legacy versions are older versions that have been superseded.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T114208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T114208Z">
+        <seg>E versioni anziane sò vechje versioni chì sò state rimpiazzate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lev Abashkin</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121441Z">
@@ -10642,6 +10738,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131542Z">
         <seg>Mac OS X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac OS X has a feature called Gatekeeper that increases security by making it difficult to run unsigned programs.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T144544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T144544Z">
+        <seg>Mac OS X pussede una funzione chjamata Gatekeeper chì aumenteghja a sicurità di manera à rende più difficiule di lancià prugrammi micca firmati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11226,6 +11330,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patrick" changedate="20161007T222645Z" creationid="Patrick" creationdate="20161007T222645Z">
         <seg>Più</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More experienced Linux users may prefer to install the Oracle (formerly Sun) JRE at system level.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T142653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T142653Z">
+        <seg>L’utilizatori più tercani puderanu preferisce una installazione di u JRE d’Oracle (Sun tempi fà) à u livellu di u sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12326,8 +12438,8 @@ be launched.</seg>
         <seg>OmegaT requires the Java Runtime Environment (JRE) version 1.8 or higher to be
 installed on your system.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T164511Z">
-        <seg>OmegaT richiede chì l’ambiente d’esecuzione Java (JRE) versione 1.8 o più recente sia installata nant’à u vostru sistema.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T115636Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T164511Z">
+        <seg>OmegaT richiede chì a versione 1.8 - o una più recente - di l’ambiente d’esecuzione Java (JRE) sia installata nant’à u vostru sistema.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12440,8 +12552,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T155003Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T155003Z">
-        <seg>Da bona regula, OmegaT pò esse lanciatu nant’à tuttu sistema Linux chì cuntene l’ambiente d’esecuzione Java (JRE).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T135353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T155003Z">
+        <seg>Da bona regula, OmegaT pò esse lanciatu nant’à tuttu sistema Linux chì cuntene una versione apprupriata di l’ambiente d’esecuzione Java (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -15723,6 +15835,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Signed/Unsigned</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T144126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T144126Z">
+        <seg>Firmatu/Senza firma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T143842Z" creationid="Patriccollu" creationdate="20170209T143842Z">
@@ -17127,6 +17247,14 @@ cartulare attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T120701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T120315Z">
+        <seg>U so scaricamentu serà più rapidu è a so installazione richiiderà menù di spaziu nant’à u vostru discu duru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The file "{0}" is not supported.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T144228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T144228Z">
@@ -17760,8 +17888,8 @@ di copia © 2018.</seg>
       <tuv lang="en">
         <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T114325Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T114325Z">
-        <seg>U so scaricamentu serà più longu è a so installazione dumanderà più di spaziu nant’à u vostru discu duru, ma hè sicura di funziunà.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T120321Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T114325Z">
+        <seg>U so scaricamentu serà più longu è a so installazione richiiderà più di spaziu nant’à u vostru discu duru, ma hè sicura di funziunà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19560,6 +19688,14 @@ Pagina scapa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With/without JRE</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T115137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T115137Z">
+        <seg>Cù o senza JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Without JRE</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T134310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T134310Z">
@@ -19860,6 +19996,14 @@ installation script (linux-install.sh).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T162702Z">
         <seg>Pudete quantunque ottene un’installazione più netta è più piacevule grazia à u scrittu d’installazione (linux-install.sh).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can still find &lt;a0&gt;older, superseded versions&lt;/a0&gt; of OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T114053Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T114053Z">
+        <seg>Pudete sempre scaricà &lt;a0&gt;d’anziane versioni&lt;/a0&gt; d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
