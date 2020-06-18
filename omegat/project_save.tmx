@@ -20193,6 +20193,14 @@ window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your documents and translation memories remain on your computer, and the OmegaT project will have no access to your work or information.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T163219Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T163219Z">
+        <seg>I vostri ducumenti è e vostre memorie di traduzzione stanu nant’à u vostru urdinatore è u prughjettu OmegaT ùn averà alcunu accessu à i vostri travaglii o infurmazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your operating system refused to let OmegaT
 create its configuration folder.</seg>
       </tuv>
