@@ -10126,8 +10126,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T170129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T102842Z">
-        <seg>U so scopu hè di sviluppà, distribuisce, è prumove l’impiegu d'OmegaT, un’appiecazione libera è di « fonte aperta » di memoria di traduzzione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145252Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T102842Z">
+        <seg>U so scopu hè di sviluppà, distribuisce, è prumove l’impiegu d'OmegaT, un’appiecazione libera è à « fonte aperta » di memoria di traduzzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12726,8 +12726,8 @@ francese è CAT in inglese).</seg>
 tool with fuzzy matching, translation memory, keyword search, glossaries, and
 translation leveraging into updated projects.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200529T112246Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163412Z">
-        <seg>OmegaT hè un attrezzu di traduzzione assistata da l’urdinatore (TAO in francese è CAT in inglese) - liberu è di « fonte aperta » multipiattaforma chì cuntene funzioni cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è tandu u travagliu di traduzzione hè più faciule.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163412Z">
+        <seg>OmegaT hè un attrezzu di traduzzione assistata da l’urdinatore (TAO in francese è CAT in inglese) - liberu è à « fonte aperta » multipiattaforma chì cuntene funzioni cum’è currispundenze simile, memoria di traduzzione, ricerca di parolla chjave, glossarii è tandu u travagliu di traduzzione hè più faciule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12742,8 +12742,8 @@ translation leveraging into updated projects.</seg>
       <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T170510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184831Z">
-        <seg>OmegaT hè un appiecazione di memoria di traduzzione, liberu è di « fonte aperta », scitta in Java per i traduttori prufessiunali.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145314Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184831Z">
+        <seg>OmegaT hè un appiecazione di memoria di traduzzione, liberu è à « fonte aperta », scitta in Java per i traduttori prufessiunali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18528,6 +18528,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T141607Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T141306Z">
         <seg>Sta lista di diffusione hè destinata à i traduttori per a lucalisazione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T145850Z">
+        <seg>Vole si dì chì u codice di fonte di u prugramma hè dispunibule è chì a licenza d’OmegaT hè cuncepita per cuncede una libertà maiò à l’utilizatori.</seg>
       </tuv>
     </tu>
     <tu>
