@@ -5948,6 +5948,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T145032Z">
+        <seg>Sviluppu d’OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DictZip from JDict (GPL)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T131028Z" creationid="Patriccollu" creationdate="20170213T131017Z">
@@ -12740,6 +12748,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T145220Z">
+        <seg>OmegaT hè un prughjettu è un appiecazione à fonte aperta o « Open Source ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is available under the terms of the GNU General Public License as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
@@ -17753,6 +17769,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T144958Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T144958Z">
+        <seg>Filosufia di u prughjettu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T104720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T104720Z">
@@ -18030,6 +18054,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T140018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T140018Z">
         <seg>I novi culori sò stati arregistrati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The open-source philosophy</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T144934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T144934Z">
+        <seg>Filosufia di l’« open source »</seg>
       </tuv>
     </tu>
     <tu>
