@@ -27,3 +27,4 @@ glossary	glossariu
 correctly	currettamente
 sponsorship	cumparaticu
 commission	cummissiunà
+OmegaT	OmegaT
