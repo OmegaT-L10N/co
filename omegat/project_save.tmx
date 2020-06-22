@@ -8115,6 +8115,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200622T160656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200622T160656Z">
+        <seg>Per indettu, hè pussibule di scrive u so propiu manuale di l’utilizatore o di fà un filmettu per mustrà cumu impiegà OmegaT ; e cuntribuzioni ghjudicate ghjuvevule da i membri di u prughjettu seranu messe à dispusizione di a cumunità di l’utilizatori d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131725Z">
