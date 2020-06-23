@@ -1579,7 +1579,7 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 - Marc Prior (project co-ordinator, webmaster)
 - Vito Smolej (documentation manager)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200529T133439Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165338Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T152529Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165338Z">
         <seg>- Anthony Baldwin (rispunsevule di a lucalisazione)
 - Didier Briel (risponsevule di u prughjettu)
 - Alex Buloichik (sviluppatore principale)
@@ -1589,7 +1589,7 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 - Samuel Murray
 - Maxym Mykhalchuk (sviluppatore principale)
 - Henry Pijffers (rispunsevule di versione)
-- Marc Prior (co-cuurdinatore di prughjettu, webmaestru)
+- Marc Prior (cuurdinatore di prughjettu, webmaestru)
 - Vito Smolej (risponsevule di a documentazione)</seg>
       </tuv>
     </tu>
@@ -8115,6 +8115,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T153036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T153036Z">
+        <seg>Per indettu, ognunu hè liberu di mudificà u codice di u prugramma d’OmegaT è di pruponelu à a squadra di sviluppu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, there is nothing to stop a user writing their own user manual or a demonstration video for OmegaT, and if the project considers it remotely useful, it is likely to be made available to OmegaT's community of users.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200622T160656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200622T160656Z">
@@ -9471,6 +9479,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T181141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T171133Z">
         <seg>In l’&amp;urigine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T152513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T152513Z">
+        <seg>Sarrimanenti, ci sò dinù duminii chì richiedenu un certu gradu di cuurdinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13102,6 +13118,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T153431Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T153431Z">
+        <seg>Ma solu i cambiamenti chì sò ghjudicati ghjuvevule per l’utilizatori d’OmegaT seranu integrati à u prugramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open</seg>
       </tuv>
       <tuv lang="co">
@@ -13674,8 +13698,8 @@ per cunnosce a cagione di u sbagliu è pruvate torna.</seg>
       <tuv lang="en">
         <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T113144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T113144Z">
-        <seg>Ci vole à cuntattà u &lt;a0&gt;co-cuurdinatore di a lucalisazione d’OmegaT&lt;/a0&gt; per sapene di più apprupositu di a lucalisazione è a traduzzione d’OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T152707Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T113144Z">
+        <seg>Ci vole à cuntattà u &lt;a0&gt;cuurdinatore di a lucalisazione d’OmegaT&lt;/a0&gt; per sapene di più apprupositu di a lucalisazione è a traduzzione d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18524,6 +18548,22 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T155101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T155101Z">
+        <seg>St’organizazione assicureghja a prutezzione di l’interessi di l’utilizatori è hà permessu à OmegaT di riceve l’attestazione &lt;a0&gt;« 100% Free guarantee »&lt;/a0&gt; da Softpedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T153559Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T152224Z">
+        <seg>Sta manera di non-intervenzione hè chjamata da u cuurdinatore attuale di prughjettu una « anarchia delegata »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is a Git repository.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145954Z">
@@ -20390,6 +20430,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T215539Z">
         <seg>Quandu vulete fighjà à chì s’assumiglierà u furmatu finale di a vostra traduzzione, appughjà nant’à &lt;s4&gt;&lt;s5&gt;Ctrl+D&lt;/s5&gt;&lt;/s4&gt; per ingenerà i ducumenti tradutti, chì seranu creati in u sottucartulare &lt;c6&gt;/target/&lt;/c6&gt; di u vostru cartulare di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where routine tasks are concerned, volunteers working on the OmegaT project are generally given as much freedom as possible in determining the form of their contribution.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T151552Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T151552Z">
+        <seg>Per e tacche di rutina, i vuluntarii chì travaglianu nant’à u prughjettu OmegaT godenu di a libertà a più maiò pussibule per sceglie a forma di a so cuntribuzione.</seg>
       </tuv>
     </tu>
     <tu>
