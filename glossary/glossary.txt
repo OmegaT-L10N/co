@@ -28,3 +28,6 @@ correctly	currettamente
 sponsorship	cumparaticu
 commission	cummissiunà
 OmegaT	OmegaT
+programming	prugrammazione
+philosophy	filosufia
+localization	lucalisazione
