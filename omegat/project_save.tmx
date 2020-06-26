@@ -17069,16 +17069,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Show &amp;source term first</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T173145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154112Z">
-        <seg>Termu d’urigine in &amp;primu locu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100527Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154112Z">
+        <seg>Termine d’urigine in &amp;primu locu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Show &amp;target term first</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T173203Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154144Z">
-        <seg>Termu di destinazione in primu &amp;locu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100516Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154144Z">
+        <seg>Termine di destinazione in primu &amp;locu</seg>
       </tuv>
     </tu>
     <tu>
@@ -17317,8 +17317,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sort by source term &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T154240Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154240Z">
-        <seg>&amp;Classificà alfabeticamente da u termu d’urigine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154240Z">
+        <seg>&amp;Classificà alfabeticamente da u termine d’urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -20761,8 +20761,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T142441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T142441Z">
-        <seg>Impiegà i termi affachendu &amp;staccatamente in u testu d’urigine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100555Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T142441Z">
+        <seg>Impiegà i termini affachendu &amp;staccatamente in u testu d’urigine</seg>
       </tuv>
     </tu>
     <tu>
