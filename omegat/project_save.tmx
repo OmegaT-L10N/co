@@ -2964,8 +2964,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Add terms to a glossary whilst translating in OmegaT</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T185731Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185731Z">
-        <seg>Aghjunghje termi à un glossariu tuttu traducendu in OmegaT</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100835Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185731Z">
+        <seg>Aghjunghje termini à un glossariu tuttu traducendu in OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -6366,8 +6366,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T173024Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153549Z">
-        <seg>Affissà i termi d’&amp;urigine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100644Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153549Z">
+        <seg>Affissà i termini d’&amp;urigine</seg>
       </tuv>
     </tu>
     <tu>
@@ -13312,8 +13312,8 @@ translation leveraging into updated projects.</seg>
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200529T112452Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163759Z">
-        <seg>OmegaT hè dispunibule sottu à i termi di a Licenza Publica Generale GNU tale chì publicata da a Free Software Foundation : sia a versione 3 di a licenza, sia (s’è voi preferite) una versione più recente.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163759Z">
+        <seg>OmegaT hè dispunibule sottu à i termini di a Licenza Publica Generale GNU tale chì publicata da a Free Software Foundation : sia a versione 3 di a licenza, sia (s’è voi preferite) una versione più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17061,8 +17061,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T173858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170540Z">
-        <seg>&amp;Termi di destinazione i più longhi in primu locu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170540Z">
+        <seg>&amp;Termini di destinazione i più longhi in primu locu</seg>
       </tuv>
     </tu>
     <tu>
@@ -17333,8 +17333,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T171302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T173014Z">
-        <seg>Classificà alfa&amp;beticamente i termi di destinazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100708Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T173014Z">
+        <seg>Classificà alfa&amp;beticamente i termini di destinazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -18279,8 +18279,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Terms with multiple targets</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T173619Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154323Z">
-        <seg>Termi cù parechje destinazioni</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100738Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154323Z">
+        <seg>Termini cù parechje destinazioni</seg>
       </tuv>
     </tu>
     <tu>
@@ -19462,8 +19462,8 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       <tuv lang="en">
         <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T184247Z" creationid="Patriccollu" creationdate="20170213T131543Z">
-        <seg>Stu prugramma hè liberu ; pudete ridistribuiscellu è/o mudificallu dapervoi secondu i termi di a Licenza Publica Generale GNU tale chì publicata da a Free Software Foundation ; sia a versione 3 di a licenza, o s’è voi preferite, una versione più recente.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100611Z" creationid="Patriccollu" creationdate="20170213T131543Z">
+        <seg>Stu prugramma hè liberu ; pudete ridistribuiscellu è/o mudificallu dapervoi secondu i termini di a Licenza Publica Generale GNU tale chì publicata da a Free Software Foundation ; sia a versione 3 di a licenza, o s’è voi preferite, una versione più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20753,8 +20753,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Use glossary terms</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100448Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T100448Z">
-        <seg>Impiegà i termi per l’entrate di glossariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100635Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T100448Z">
+        <seg>Impiegà i termini per l’entrate di glossariu</seg>
       </tuv>
     </tu>
     <tu>
