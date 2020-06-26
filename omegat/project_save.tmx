@@ -4140,8 +4140,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T095143Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T095143Z">
-        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T095327Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T095143Z">
+        <seg>Da Sheila Gomes (in purtughese di u Brasile).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21700,6 +21700,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T180415Z">
         <seg>Yandex Translate - Alcuna chjave API ùn hè specificata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yandex.Cloud</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T095348Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T095348Z">
+        <seg>Yandex.Cloud</seg>
       </tuv>
     </tu>
     <tu>
