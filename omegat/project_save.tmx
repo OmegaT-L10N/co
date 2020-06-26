@@ -9247,10 +9247,82 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Howto - Adding a preview function to OmegaT</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140243Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140243Z">
+        <seg>Cumufà - Aghjuntu d’una funzione di previsualizazione (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Compiling OmegaT from the source code</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140004Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140004Z">
+        <seg>Cumufà - Creazione di prugramma d’esecuzione OmegaT à partesi di u codice di fonte (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Creating a new file filter</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140141Z">
+        <seg>Cumufà - Creazione d’un novu filtru di schedariu (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140039Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140039Z">
+        <seg>Cumufà - Espurtà da OmegaT ver di u furmatu micca pulitu « Trados uncleaned RTF » (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Howto - OmegaT compatibility with Déjà Vu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T135938Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T135938Z">
         <seg>Cumufà - Cumpatibilità d’OmegaT cù Déjà Vu (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating OmegaT into your language</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140119Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140119Z">
+        <seg>Cumufà - Traduzzione è lucalisazione d’OmegaT in a vostra lingua (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating PDF files with Iceni Infix and OmegaT</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140059Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140059Z">
+        <seg>Cumufà - Traduzzione di schedarii PDF cù Iceni Infix è OmegaT (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Translating Word 2007 files in OmegaT</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140023Z">
+        <seg>Cumufà - Traduzzione di schedarii Microsoft Office, sopratuttu Word 2007, cù OmegaT (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using Google Translate in OmegaT</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140050Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140050Z">
+        <seg>Cumufà - Impiegu di Google Translate cù OmegaT (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using Microsoft Translator in OmegaT</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140134Z">
+        <seg>Cumufà - Impiegu di Microsoft Translator cù OmegaT (in inglese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13423,6 +13495,14 @@ be launched.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T184024Z" creationid="Patriccollu" creationdate="20170209T153811Z">
         <seg>Licenza d’OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT on Linux HowTo</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140110Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140110Z">
+        <seg>Cumufà - Impiegu d’OmegaT nant’à Linux (in inglese)</seg>
       </tuv>
     </tu>
     <tu>
