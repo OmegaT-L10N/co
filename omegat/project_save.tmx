@@ -12589,6 +12589,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No OAuth token specified</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T101129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101129Z">
+        <seg>Alcuna marca OAuth specificata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T152315Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T152315Z">
@@ -12601,6 +12609,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T114023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190944Z">
         <seg>Alcuna cunnessione dispunibule, u prughjettu si trova in modu « fora di linea ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No folder ID specified</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T101203Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101203Z">
+        <seg>Alcuna identificazione di cartulare specificata</seg>
       </tuv>
     </tu>
     <tu>
@@ -20320,10 +20336,34 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse IAM service response</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T101235Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101235Z">
+        <seg>Impussibule d’analizà a risposta di u serviziu IAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to parse filters configuration file</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155254Z">
         <seg>Impussibule d’analizà u schedariu di cunfigurazione di i filtri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse service error report</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T101431Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101431Z">
+        <seg>Impussibule d’analizà u raportu di sbagliu di u serviziu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to parse translate service response</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T101300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101300Z">
+        <seg>Impussibule d’analizà a risposta di u serviziu di traduzzione</seg>
       </tuv>
     </tu>
     <tu>
