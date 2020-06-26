@@ -9289,8 +9289,8 @@ Simu d’inguernu</seg>
       <tuv lang="en">
         <seg>Howto - Spellchecking</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140526Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140526Z">
-        <seg>Cumufà - Impiegu d’un cuntrullore d’ortugrafia cù OmegaT (in inglese)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140526Z">
+        <seg>Cumufà - Impiegu d’un cuntrullore d’ortugrafia (in inglese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9339,6 +9339,14 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140134Z">
         <seg>Cumufà - Impiegu di Microsoft Translator cù OmegaT (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Howto - Using the OmegaT text export function (scripting interface)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140921Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140921Z">
+        <seg>Cumufà - Impiegu di a funzione d’espurtazione di testu (in inglese)</seg>
       </tuv>
     </tu>
     <tu>
