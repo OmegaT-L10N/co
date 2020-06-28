@@ -3106,6 +3106,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200628T145805Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200628T145805Z">
+        <seg>Alinià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Accepted" Group</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T135032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T135032Z">
@@ -15647,6 +15655,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove Translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200628T145732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200628T145732Z">
+        <seg>Caccià a traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove all text except tags, or all tags except text</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T185930Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185930Z">
@@ -23221,12 +23237,32 @@ provided (omegat.kaptn).</prop>
     </tu>
     <tu>
       <prop type="file">website/yml/co.yml</prop>
+      <prop type="id">tu18_0</prop>
+      <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200628T150535Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200628T150535Z">
+        <seg>Scaricamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/yml/co.yml</prop>
       <prop type="id">tu25_0</prop>
       <tuv lang="en">
         <seg>Reviews</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T110521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T110521Z">
         <seg>Articuli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">website/yml/co.yml</prop>
+      <prop type="id">tu7_0</prop>
+      <tuv lang="en">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200628T150501Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200628T150501Z">
+        <seg>Scaricamentu</seg>
       </tuv>
     </tu>
   </body>
