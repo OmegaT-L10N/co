@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8583,6 +8583,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T174128Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T174128Z">
         <seg>Filmettu di a seguita OmegaT da Miguel Navarro (in spagnolu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts and the PO filter already detects them.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T140518Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140518Z">
+        <seg>A verificazione sana pò palisà falsi positivi in testi nurmali è u filtru PO pò dighjà identificali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22753,6 +22761,22 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T144850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T141910Z">
         <seg>{0} invertisce l’orientazione trà i modi da a manca ver di a dritta, da a dritta ver di a manca, è dipendenti di e lingue</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1} ({2})</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T140308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140308Z">
+        <seg>{0} versione {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} version {1}, update {2} ({3})</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T140339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140339Z">
+        <seg>{0} versione {1}, rinnovu {2} ({3})</seg>
       </tuv>
     </tu>
     <tu>
