@@ -4650,6 +4650,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0}).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T140605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140605Z">
+        <seg>Cuntrollà i mudelli &amp;Java MessageFormat &amp;simplice (p.i. : {0}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check spaces around tags</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191438Z">
@@ -5462,6 +5470,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T151231Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151231Z">
         <seg>Ùn pò micca creà u cartulare specificatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Could not delete {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T140756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140756Z">
+        <seg>Impussibule di squassà {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12537,6 +12553,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T110952Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T160933Z">
         <seg>MyMemory (traduzzione autumatica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T140726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140726Z">
+        <seg>Nota : u filtru Java™ Resource Bundles pò dighjà identificali.</seg>
       </tuv>
     </tu>
     <tu>
