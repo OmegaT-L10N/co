@@ -1487,8 +1487,8 @@ Per aghjunghe schedarii à u prughjettu, cliccà nant’à u buttone « Cupià i
       <tuv lang="en">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T154528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T154528Z">
-        <seg>(Lasciate a parolla d’entrata viota s'è vo impiegate una chajve API.)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T154528Z">
+        <seg>(Lasciate a parolla d’entrata viota s’è vo impiegate una chajve API.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3292,8 +3292,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>An error occurred when saving the TMX.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T150904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212011Z">
-        <seg>Un sbagliu hè accadutu à l'arregistramentu di a TMX.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143506Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212011Z">
+        <seg>Un sbagliu hè accadutu à l’arregistramentu di a TMX.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7364,8 +7364,8 @@ Micca pagina</seg>
       <tuv lang="en">
         <seg>Enter your master password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212758Z">
-        <seg>Scrivite a vostra parolla d'entrata principale.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212758Z">
+        <seg>Scrivite a vostra parolla d’entrata principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19396,8 +19396,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T155252Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T155252Z">
-        <seg>Un sbagliu hè accadutu à l'iniziu di LanguageTool.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T155252Z">
+        <seg>Un sbagliu hè accadutu à l’iniziu di LanguageTool.</seg>
       </tuv>
     </tu>
     <tu>
