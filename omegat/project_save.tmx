@@ -1376,8 +1376,8 @@
       <tuv lang="en">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T171748Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T144905Z">
-        <seg>Validà l’etichette &amp;quandu si esce d'un segmentu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143119Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T144905Z">
+        <seg>Validà l’etichette &amp;quandu si esce d’un segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4228,8 +4228,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205053Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185701Z">
-        <seg>Cupià tutti i dati ver di u &amp;preme'papei</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185701Z">
+        <seg>Cupià tutti i dati ver di u &amp;preme’papei</seg>
       </tuv>
     </tu>
     <tu>
@@ -7488,8 +7488,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Error initializing marker '{0}'</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T155443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T153845Z">
-        <seg>Sbagliu à l'iniziu di u marcatore « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T153845Z">
+        <seg>Sbagliu à l’iniziu di u marcatore « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -7504,8 +7504,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204822Z">
-        <seg>Sbagliu à l'appustamentu di a cumanda esterna !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204822Z">
+        <seg>Sbagliu à l’appustamentu di a cumanda esterna !</seg>
       </tuv>
     </tu>
     <tu>
@@ -7560,8 +7560,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204420Z">
-        <seg>Sbagliu à l'iniziu di a cumanda esterna : {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143002Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204420Z">
+        <seg>Sbagliu à l’iniziu di a cumanda esterna : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7844,16 +7844,16 @@ Solu 404</seg>
       <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204547Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204547Z">
-        <seg>Codice d'esciuta {0} : "{1}"</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204547Z">
+        <seg>Codice d’esciuta {0} : "{1}"</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Exit code: {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204530Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204530Z">
-        <seg>Codice d'esciuta : {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204530Z">
+        <seg>Codice d’esciuta : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12799,8 +12799,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No need to save project, because no changes were made</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140744Z">
-        <seg>Ùn hè bisognu d'arregistrà u prughjettu perchè ùn ci hè statu nisunu cambiamentu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140744Z">
+        <seg>Ùn hè bisognu d’arregistrà u prughjettu perchè ùn ci hè statu nisunu cambiamentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -18995,9 +18995,9 @@ cartulare attuale serà impiegatu.</seg>
 Lies beyond our perception
 But others await</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T160513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200524T151013Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T142954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200524T151013Z">
         <seg>A to pagina
-Ùn hè più ma sò d'altre
+Ùn hè più ma sò d’altre
 Chì t’aspettanu</seg>
       </tuv>
     </tu>
