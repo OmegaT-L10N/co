@@ -6244,6 +6244,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T140813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140813Z">
+        <seg>Di&amp;zziunarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries already installed:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T153133Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T153133Z">
@@ -18393,6 +18401,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co">
         <seg>Squadra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team Mode Repository Mapping</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T141601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T141601Z">
+        <seg>Cartugrafia di u dipositu in modu di squadra</seg>
       </tuv>
     </tu>
     <tu>
