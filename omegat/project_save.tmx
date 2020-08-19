@@ -320,8 +320,8 @@
       <tuv lang="en">
         <seg>&amp;Check for Updates...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190201T191838Z">
-        <seg>&amp;Cuntrollà e nove versioni...</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143858Z">
+        <seg>&amp;Cuntrollà e nove versioni…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1048,8 +1048,8 @@
       <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T172215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213318Z">
-        <seg>Viutà a &amp;parolla d'entrata principale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213318Z">
+        <seg>Viutà a &amp;parolla d’entrata principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -3244,8 +3244,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T115823Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T115823Z">
-        <seg>S'è nondimenu, sapete dighjà chì versione d’OmegaT vulete scaricà, andate puru à a pagina di presentazione di i scaricamenti dispunibule.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T115823Z">
+        <seg>S’è nondimenu, sapete dighjà chì versione d’OmegaT vulete scaricà, andate puru à a pagina di presentazione di i scaricamenti dispunibule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,8 +5362,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T143010Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T143010Z">
-        <seg>O ancu ch'elle esistenu funzioni o suluzioni più pratiche.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T143010Z">
+        <seg>O ancu ch’elle esistenu funzioni o suluzioni più pratiche.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9780,8 +9780,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you install the OmegaT version with JRE even though the JRE is already installed on your computer, OmegaT's JRE will be installed separately and will not conflict with it.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T134546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T134546Z">
-        <seg>S'è vo devite installà a versione d’OmegaT cù l’ambiente JRE quandu u JRE hè dighjà installatu, ùn ci seria micca cunflittu perchè e duie installazioni sò distinte.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143643Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T134546Z">
+        <seg>S’è vo devite installà a versione d’OmegaT cù l’ambiente JRE quandu u JRE hè dighjà installatu, ùn ci seria micca cunflittu perchè e duie installazioni sò distinte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9909,8 +9909,8 @@ double-click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Important: listed plug-ins work with OmegaT version 4 and above.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200625T104841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T164941Z">
-        <seg>Impurtante : l'impiegu di sti moduli d’estensione pò richiede OmegaT versione 4 o ancu più recente.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T164941Z">
+        <seg>Impurtante : l’impiegu di sti moduli d’estensione pò richiede OmegaT versione 4 o ancu più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10694,8 +10694,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145252Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T102842Z">
-        <seg>U so scopu hè di sviluppà, distribuisce, è prumove l’impiegu d'OmegaT, un’appiecazione libera è à « fonte aperta » di memoria di traduzzione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143617Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T102842Z">
+        <seg>U so scopu hè di sviluppà, distribuisce, è prumove l’impiegu d’OmegaT, un’appiecazione libera è à « fonte aperta » di memoria di traduzzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11984,8 +11984,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Master Password:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213254Z">
-        <seg>Parolla d'entrata principale :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213254Z">
+        <seg>Parolla d’entrata principale :</seg>
       </tuv>
     </tu>
     <tu>
@@ -12655,8 +12655,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>New...</seg>
       </tuv>
-      <tuv lang="co">
-        <seg>Novu...</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143929Z">
+        <seg>Novu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12995,8 +12995,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T122754Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T122754Z">
-        <seg>Nota : I schedarii DocBook sò ricunnisciuti micca solu da l’estensione di u schedariu .xml, ma devenu dinù cuntene una dichjarazione : &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... per DocBook 4, o un spaziu di nome : xmlns="http://docbook.org/ns/docbook" per DocBook 5</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T122754Z">
+        <seg>Nota : I schedarii DocBook sò ricunnisciuti micca solu da l’estensione di u schedariu .xml, ma devenu dinù cuntene una dichjarazione : &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML… per DocBook 4, o un spaziu di nome : xmlns="http://docbook.org/ns/docbook" per DocBook 5</seg>
       </tuv>
     </tu>
     <tu>
@@ -13347,8 +13347,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T174020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T220839Z">
-        <seg>OmegatT pò ingenerà è allucà una parolla d'entrata principale per voi è cusì ùn averete micca à scrivela ogni volta, ma cù una perdita di sicurità.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T220839Z">
+        <seg>OmegatT pò ingenerà è allucà una parolla d’entrata principale per voi è cusì ùn averete micca à scrivela ogni volta, ma cù una perdita di sicurità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13371,8 +13371,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T221305Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221305Z">
-        <seg>OmegaT cifra e parolle d'entrata è e chjave API sensibile cù una parolla d'entrata principale.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221305Z">
+        <seg>OmegaT cifra e parolle d’entrata è e chjave API sensibile cù una parolla d’entrata principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16043,8 +16043,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Reset Master Password</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213351Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
-        <seg>Viutà a parolla d'entrata principale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
+        <seg>Viutà a parolla d’entrata principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -17085,8 +17085,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T133544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T133544Z">
-        <seg>Sciglite s'ellu ci vole à scaricà OmegaT cù o senza l’ambiente d’esecuzione Java (JRE) inchjusu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143634Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T133544Z">
+        <seg>Sciglite s’ellu ci vole à scaricà OmegaT cù o senza l’ambiente d’esecuzione Java (JRE) inchjusu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17605,8 +17605,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T165124Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T165124Z">
-        <seg>I pacchetti cuntenendu u codice di fonte ùn sò micca richiesti per l'adopru di u prugramma è sò fatti solu per i sviluppatori.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143651Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T165124Z">
+        <seg>I pacchetti cuntenendu u codice di fonte ùn sò micca richiesti per l’adopru di u prugramma è sò fatti solu per i sviluppatori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18159,8 +18159,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>TMX files of localizations of the OmegaT documentation and of this site, for use by localizers.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T180051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T180051Z">
-        <seg>Schedarii TMX di parechje lucalisazioni d’OmegaT (documentazione è situ web) à l'usu di i traduttori.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T180051Z">
+        <seg>Schedarii TMX di parechje lucalisazioni d’OmegaT (documentazione è situ web) à l’usu di i traduttori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18593,8 +18593,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T103517Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T103517Z">
-        <seg>Què permette, s’ella vi garba è s’è a vo sentite, di mudificà OmegaT per ch'ellu rispondi à i vostri bisogni.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143708Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T103517Z">
+        <seg>Què permette, s’ella vi garba è s’è a vo sentite, di mudificà OmegaT per ch’ellu rispondi à i vostri bisogni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19332,8 +19332,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125916Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125916Z">
-        <seg>Cù sta versione, l’installazione hè fatta da l’utilizatore ; ghjè quella di l'utilizatori avvezzi d’OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143623Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125916Z">
+        <seg>Cù sta versione, l’installazione hè fatta da l’utilizatore ; ghjè quella di l’utilizatori avvezzi d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
