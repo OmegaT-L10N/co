@@ -13331,8 +13331,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T160505Z">
-        <seg>OmegaT pò dinù cuntrollà e variabile di prugrammazione (variabile printf-function) cum’è ’%s’.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201009T175056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T160505Z">
+        <seg>OmegaT pò dinù cuntrollà e variabile di prugrammazione (variabile printf-function) cum’è « %s ».</seg>
       </tuv>
     </tu>
     <tu>
