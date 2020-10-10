@@ -4378,6 +4378,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change to "needs-review-translation" instead of "translated"</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201010T165348Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20201010T165348Z">
+        <seg>Cambià ver di « needs-review-translation » invece di « translated »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changed &amp;before:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T141910Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141910Z">
@@ -14110,6 +14118,14 @@ installed on your system.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other Systems</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190705T124534Z">
+        <seg>Altri sistemi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other contributions are detailed in the readme.txt file</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171654Z">
@@ -17719,6 +17735,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T181830Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224428Z">
         <seg>Specificate un mnemonicu cù « &amp; » : « &amp;Ohimè » per impiegà O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specify state attribute handling behavior</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201010T164512Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20201010T164512Z">
+        <seg>Specificà l’andamentu di a ghjestione di l’attributu di statu</seg>
       </tuv>
     </tu>
     <tu>
