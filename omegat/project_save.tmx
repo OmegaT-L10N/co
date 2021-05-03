@@ -8811,6 +8811,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary &amp;layout:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T154548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T154548Z">
+        <seg>&amp;Accunciamentu di u glossariu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary Files Folder</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165028Z" creationid="Patriccollu" creationdate="20170213T135937Z">
@@ -16829,8 +16837,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See Options &gt; File filters for a list of supported file formats.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T151647Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T151647Z">
-        <seg>Fighjà Ozzioni &gt; Filtri di schedariu per ottene una lista di i furmati di schedariu accettati.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T154123Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T151647Z">
+        <seg>Fighjà « Ozzioni » &gt; « Filtri di schedariu… » per ottene una lista di i furmati di schedariu accettati.</seg>
       </tuv>
     </tu>
     <tu>
