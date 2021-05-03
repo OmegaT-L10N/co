@@ -13059,8 +13059,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Notarized vs Unsigned</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T165406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T165406Z">
-        <seg>Nutarizatu vs Senza firma</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T165717Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T165406Z">
+        <seg>Nutarizata vs Senza firma</seg>
       </tuv>
     </tu>
     <tu>
@@ -13485,6 +13485,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T152725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T152725Z">
         <seg>OmegaT per Mac OS X hè dispunibule in e duie versioni - firmata è senza firma - tremenduie cù e listesse funzioni, ma a versione firmata hè preferita perchè hè ricunnisciuta da u sistema cum’è publicata da un sviluppatore cunnisciutu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for macOS is available in both Notarized and Unsigned versions; they are functionally identical, but the Notarized version is preferred as it is recognized by the system as being a) published by a known developer, and b) scanned by Apple.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T165927Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T165712Z">
+        <seg>OmegaT per macOS hè dispunibule in e duie versioni - nutarizata è senza firma - tremenduie cù e listesse funzioni, ma a versione nutarizata hè preferita perchè hè ricunnisciuta da u sistema cum’è a) publicata da un sviluppatore cunnisciutu è b) analizata da Apple.</seg>
       </tuv>
     </tu>
     <tu>
