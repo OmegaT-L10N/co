@@ -10027,6 +10027,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order to install the Web start version, you must already have Java version 1.8 or later installed on your computer.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T170610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T170610Z">
+        <seg>L’installazione di a versione « Web Start » richiede chì a versione 1.8 (o ancu più recente) di Java sia installata nant’à u vostru urdinatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In order to run, OmegaT requires the Java Runtime Environment (JRE) to be installed on your computer.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T115422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T115422Z">
@@ -13409,6 +13417,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171121Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171121Z">
+        <seg>OmegaT pussede dinù liste di diffusione è sistemi di cura chì sò accolti ind’è Sourceforge :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T110503Z">
@@ -14440,6 +14456,14 @@ In nebbia pagna</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111823Z">
         <seg>Forse hè dighjà apertu in un’altra instanza d’OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Periodic builds are available on SourceForge.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T170629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T170629Z">
+        <seg>Custruzzioni periodiche sò dispunibule nant’ SourceForge.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19015,6 +19039,14 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T160309Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T160309Z">
         <seg>U certificatu hè firmatu da &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, una cumpagnia francese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The certificate is signed by OmegaT's lead developer.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T170542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T170542Z">
+        <seg>U certificatu hè firmatu da u sviluppatore principale d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
