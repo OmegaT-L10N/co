@@ -10389,16 +10389,16 @@ double-click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T164200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T164200Z">
-        <seg>Integrazione di e funzioni di traduzzione autumatica d’Apertium in OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171752Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T164200Z">
+        <seg>Integrazione in OmegaT di e funzioni di traduzzione autumatica d’Apertium.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171700Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171700Z">
-        <seg>Integrazione di u mutore neurale di traduzzione autumatica di TexTra in OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171816Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171700Z">
+        <seg>Integrazione in OmegaT di u mutore neurale di traduzzione autumatica di TexTra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12703,8 +12703,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Neural machine translation</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T163058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200524T163058Z">
-        <seg>Traduzzione « Neural » da a mascina</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171717Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200524T163058Z">
+        <seg>Traduzzione neurale da a mascina</seg>
       </tuv>
     </tu>
     <tu>
@@ -19031,6 +19031,14 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T181656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T181656Z">
         <seg>A lingua d’urigine ({0}) di u schedariu TMX hè sfarente di a lingua d’urigine ({1}) di u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TexTra API is freely provided by NICT, Japan government research agency.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172217Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T172217Z">
+        <seg>L’API di TexTra hè pruvista di rigalu da NICT, un’agenzia di ricerca di u guvernu di u Giappone.</seg>
       </tuv>
     </tu>
     <tu>
