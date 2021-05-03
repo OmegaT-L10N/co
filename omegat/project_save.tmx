@@ -19530,6 +19530,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There may be a delay in publishing the Notarized version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T170019Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T170019Z">
+        <seg>Forse ci vulerà à aspettà una cria per a publicazione di a versione nutarizata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T155252Z">
@@ -21279,6 +21287,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T152903Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T152903Z">
         <seg>L’utilizatori ponu scaricà u prugramma è sò liberi d’impiegallu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users in a hurry can use the Unsigned version instead; if you have difficulty launching the app, see &lt;a0&gt;how to open an app from an unidentified developer&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T170440Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T170440Z">
+        <seg>L’utilizatori chì ùn volenu (o ùn ponu) micca aspettà puderanu impiegà a versione senza firma ; in casu di penseru per lancià st’appiecazione, fighjate &lt;a0&gt;cumu apre un’appiecazione da un sviluppatore micca identificatu&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
