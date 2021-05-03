@@ -10395,6 +10395,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integrates the TexTra neural machine translation engine into OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171700Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171700Z">
+        <seg>Integrazione di u mutore neurale di traduzzione autumatica di TexTra in OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T103324Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T103324Z">
@@ -18689,6 +18697,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T155327Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T155327Z">
         <seg>Verificazione…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TexTra plugin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171416Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171416Z">
+        <seg>Modulu d’estensione TexTra</seg>
       </tuv>
     </tu>
     <tu>
