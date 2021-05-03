@@ -480,8 +480,8 @@
       <tuv lang="en">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T153717Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153717Z">
-        <seg>Attivà e suggestioni di &amp;glossariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153717Z">
+        <seg>Attivà e sugestioni di &amp;glossariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1192,8 +1192,8 @@
       <tuv lang="en">
         <seg>&amp;Show Relevant Suggestions Automatically</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184711Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184711Z">
-        <seg>Affissà autumaticamente e &amp;suggestioni pertinente</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184711Z">
+        <seg>Affissà autumaticamente e &amp;sugestioni pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1208,8 +1208,8 @@
       <tuv lang="en">
         <seg>&amp;Show relevant suggestions automatically</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200420T184721Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184721Z">
-        <seg>Affissà autumaticamente e &amp;suggestioni pertinente</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184721Z">
+        <seg>Affissà autumaticamente e &amp;sugestioni pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -1409,9 +1409,9 @@
         <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
 '?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T103750Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T102732Z">
-        <seg>- U caratteru « * » currispunde à zeru o parechji caratteri. A ricerca cù « man* » truverà, per indettu, i risultati « mane », « manu » è « manghjà ».
-- U caratteru « ? » currispunde à un caratteru solu. A ricerca cù « man? » truverà, per indettu, i risultati « mane » è « manu » ma micca « manghjà ».</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173247Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T102732Z">
+        <seg>- U caratteru « * » currisponde à zeru o parechji caratteri. A ricerca cù « man* » truverà, per indettu, i risultati « mane », « manu » è « manghjà ».
+- U caratteru « ? » currisponde à un caratteru solu. A ricerca cù « man? » truverà, per indettu, i risultati « mane » è « manu » ma micca « manghjà ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,8 +2322,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>&lt;No suggestions&gt;</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143254Z">
-        <seg>&lt;Alcuna suggestione&gt;</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143254Z">
+        <seg>&lt;Alcuna sugestione&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6414,8 +6414,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Disable rule “{0}”</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212501Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212501Z">
-        <seg>Disattivà a regula “{0}”</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173421Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212501Z">
+        <seg>Disattivà a regula « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -12759,8 +12759,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T112449Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T112449Z">
-        <seg>Hè ricumandatu à i novi utilizatori di facci e so suggestioni.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T112449Z">
+        <seg>Hè ricumandatu à i novi utilizatori di facci e so sugestioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12871,8 +12871,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T152315Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T152315Z">
-        <seg>Alcuna suggestione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T152315Z">
+        <seg>Alcuna sugestione</seg>
       </tuv>
     </tu>
     <tu>
@@ -13920,8 +13920,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T144359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T144359Z">
-        <seg>Ogni suggestione di mudificazione o d’amendamentu d’OmegaT sottumessa da un utilizatore hè esaminata da a squadra di sviluppu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T144359Z">
+        <seg>Ogni sugestione di mudificazione o d’amendamentu d’OmegaT sottumessa da un utilizatore hè esaminata da a squadra di sviluppu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15035,16 +15035,16 @@ squadra di tipu 4.x.</seg>
       <tuv lang="en">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143522Z">
-        <seg>Appughjate &lt;u&gt;{0}&lt;/u&gt; per andà à e suggestioni &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143522Z">
+        <seg>Appughjate &lt;u&gt;{0}&lt;/u&gt; per andà à e sugestioni &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143505Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143505Z">
-        <seg>Appughjate &lt;u&gt;{0}&lt;/u&gt; per rivene à e suggestioni &lt;b&gt;{1}&lt;/b&gt;.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143505Z">
+        <seg>Appughjate &lt;u&gt;{0}&lt;/u&gt; per rivene à e sugestioni &lt;b&gt;{1}&lt;/b&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19332,8 +19332,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The password you entered did not match.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212841Z">
-        <seg>A parolla d’entrata pruvista ùn currispunde micca.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212841Z">
+        <seg>A parolla d’entrata pruvista ùn currisponde micca.</seg>
       </tuv>
     </tu>
     <tu>
