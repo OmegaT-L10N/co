@@ -13057,6 +13057,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notarized vs Unsigned</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T165406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T165406Z">
+        <seg>Nutarizatu vs Senza firma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T154157Z" creationid="Patriccollu" creationdate="20170209T154157Z">
@@ -13437,6 +13445,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T155010Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T155010Z">
         <seg>Oghje, OmegaT richiesta a versione 1.6 di u JRE o un’altra più recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 1.8 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155957Z">
+        <seg>Oghje, OmegaT richiesta a versione 1.8 di u JRE o un’altra più recente.</seg>
       </tuv>
     </tu>
     <tu>
