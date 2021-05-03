@@ -4084,8 +4084,16 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Bug reports (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145132Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171123Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145132Z">
         <seg>I raporti di penseru (in inglese) nant’à u situ SourceForge :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on SourceForge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171234Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171234Z">
+        <seg>I prublemi, e dumande di nove funzioni, è i penseri di documentazione sò accolti ind’è SourceForge da sti sistemi di cura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13419,8 +13427,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT also has the following mailing lists and trackers, which are hosted on SourceForge:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171121Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171121Z">
-        <seg>OmegaT pussede dinù liste di diffusione è sistemi di cura chì sò accolti ind’è Sourceforge :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171153Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171121Z">
+        <seg>OmegaT pussede dinù liste di diffusione è sistemi di cura chì sò accolti ind’è SourceForge :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14462,7 +14470,7 @@ In nebbia pagna</seg>
       <tuv lang="en">
         <seg>Periodic builds are available on SourceForge.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T170629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T170629Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171123Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T170629Z">
         <seg>Custruzzioni periodiche sò dispunibule nant’ SourceForge.</seg>
       </tuv>
     </tu>
@@ -15419,6 +15427,14 @@ squadra di tipu 4.x.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX, and Markdown.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171334Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T171334Z">
+        <seg>Pruvede parechji filtri per trattà d’altri furmati di schedariu cum’è Trados TTX è Markdown.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T155228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T155228Z">
@@ -16123,7 +16139,7 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Requests for Enhancements (in English), at the SourceForge site:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145049Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171123Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T145049Z">
         <seg>E dumande d’amendamentu (in inglese) nant’à u situ SourceForge :</seg>
       </tuv>
     </tu>
