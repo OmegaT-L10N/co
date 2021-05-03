@@ -19822,6 +19822,20 @@ di copia © 2018.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can
+- drag and drop files on this Editor pane
+- use Project &gt; Copy Files to Source Folder...
+- click on Copy Files to Source Folder... in the Project Files window
+- copy files to the project's 'source' folder with your file manager, and then reload the project with Project &gt; Reload.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T153300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T153300Z">
+        <seg>Per aghjunghe schedarii à u prughjettu, pudete
+- sguillà è dipone schedarii nant’à stu pannellu Editore
+- Impiegà Prughjettu &gt; Cupià i schedarii in u cartulare d’origine…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
