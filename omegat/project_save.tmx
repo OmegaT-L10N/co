@@ -8883,10 +8883,26 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary note</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155354Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155354Z">
+        <seg>Nota di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary source</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155339Z">
         <seg>Origine di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155346Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155346Z">
+        <seg>Traduzzione di glossariu</seg>
       </tuv>
     </tu>
     <tu>
