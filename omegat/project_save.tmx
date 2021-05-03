@@ -6590,8 +6590,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T163613Z">
-        <seg>Affisseghja i segmenti di memoria di traduzzione chì currispundenu à u segmentu d’origine.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T163613Z">
+        <seg>Affisseghja i segmenti di memoria di traduzzione chì currispondenu à u segmentu d’origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11030,8 +11030,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T103733Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T100923Z">
-        <seg>- E ricerche da parolla chjave currispundenu à tutte e parolle chjave staccate da spazii, qualsiasi l’ordine.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T100923Z">
+        <seg>- E ricerche da parolla chjave currispondenu à tutte e parolle chjave staccate da spazii, qualsiasi l’ordine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13243,8 +13243,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Number of matching segments:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171641Z">
-        <seg>Numeru di segmenti chì currispundenu :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171641Z">
+        <seg>Numeru di segmenti chì currispondenu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -15713,8 +15713,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T103735Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T101241Z">
-        <seg>- E ricerche da espressioni regulare currispundenu à l’espressioni regulare Java chì sò discritte in u manuale di l’utilizatore.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T101241Z">
+        <seg>- E ricerche da espressioni regulare currispondenu à l’espressioni regulare Java chì sò discritte in u manuale di l’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18809,8 +18809,8 @@ The scope of a text replacement is the target segments of the project, whether t
       <tuv lang="en">
         <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T102548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T102548Z">
-        <seg>Vole si dì chì l’utilizatori cum’è voi sò liberi di scaricallu è d’impegallu quasi senza restrizzione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T102548Z">
+        <seg>Vole si dì chì l’utilizatori cum’è voi sò liberi di scaricallu è d’impegallu quasi senza ristrizzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20625,9 +20625,9 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T100410Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T100410Z">
         <seg>Tipi :
-- E ricerche esatte currispundenu à a catena sana ricercata.</seg>
+- E ricerche esatte currispondenu à a catena sana ricercata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20922,8 +20922,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unique Remaining Segments</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204925Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185237Z">
-        <seg>Segmenti unichi rmanente</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172819Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185237Z">
+        <seg>Segmenti unichi rimanente</seg>
       </tuv>
     </tu>
     <tu>
