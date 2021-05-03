@@ -11966,6 +11966,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark unknown words</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T154943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T154943Z">
+        <seg>Marcà e parolle scunnisciute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Martin Fleurke</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121535Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121535Z">
@@ -23089,6 +23097,16 @@ di creà u so cartulare di cunfigurazione.</seg>
         <seg>Default</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T175545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200524T175545Z">
+        <seg>Predefinitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">GLOSSARY_RENDERER_DEFAULT</prop>
+      <tuv lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T154859Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T154859Z">
         <seg>Predefinitu</seg>
       </tuv>
     </tu>
