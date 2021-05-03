@@ -7758,6 +7758,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201110T143435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20201110T143435Z">
+        <seg>Esempiu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Excel</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150628Z" creationid="Patriccollu" creationdate="20170210T150628Z">
@@ -16815,6 +16823,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164811Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T132441Z">
         <seg>Fighjate OmegaT.jar/META-INF/MANIFEST.MF per cunnosce i valori pussibule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Options &gt; File filters for a list of supported file formats.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T151647Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T151647Z">
+        <seg>Fighjà Ozzioni &gt; Filtri di schedariu per ottene una lista di i furmati di schedariu accettati.</seg>
       </tuv>
     </tu>
     <tu>
