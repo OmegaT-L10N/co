@@ -9731,6 +9731,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If it is &lt;e0&gt;tar.bz&lt;/e0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182022Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182022Z">
+        <seg>S’ella hè &lt;e0&gt;tar.bz&lt;/e0&gt;, forse vi site scurtati di spacchittallu cù una decumpressione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If later access to the desired location is granted
 that location will be used and all settings will return to
 their defaults as a result of the location change.</seg>
@@ -9756,6 +9764,14 @@ stu cambimentu di locu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T114809Z">
         <seg>È chì ne pensate di scrivene unu nant’à l’usu d’OmegaT ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If only one file is present, check its extension.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T181716Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T181716Z">
+        <seg>S’è ci n’hè solu unu, verificate a so estensione.</seg>
       </tuv>
     </tu>
     <tu>
