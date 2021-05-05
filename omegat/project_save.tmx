@@ -4642,6 +4642,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Project&lt;/g5&gt; &lt;g6&gt;Properties&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T181431Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T181431Z">
+        <seg>Verificate in &lt;m0&gt; &lt;s1&gt; &lt;k2&gt; &lt;k3&gt;Ctrl&lt;/k3&gt; &lt;k4&gt;E&lt;/k4&gt; &lt;/k2&gt; &lt;/s1&gt; &lt;g5&gt;Prughjettu&lt;/g5&gt; &lt;g6&gt;Pruprietà…&lt;/g6&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check number of tags</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191332Z">
@@ -6784,6 +6792,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T172120Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T172120Z">
         <seg>A so documentazione hè menu detagliata, soprattuttu l’infurmazioni nant’à e nove funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does the folder contain three files of the same name, with extensions?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T181622Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T181622Z">
+        <seg>U cartulare, cuntene trè schedarii di u listessu nome cù estensioni sfarente ?</seg>
       </tuv>
     </tu>
     <tu>
