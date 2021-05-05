@@ -23645,6 +23645,17 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">doc_src/App_Dictionaries.xml</prop>
+      <prop type="prev">Merriam Webster dictionary - use</prop>
+      <prop type="next">Check that your dict files are in the correct folder (or in a subfolder below it).</prop>
+      <tuv lang="en">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182346Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182346Z">
+        <seg>Prublemi cunnisciuti cù i dizziunarii</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">readme_co.txt</prop>
       <prop type="prev">and then:</prop>
       <prop type="next">For a more user-friendly way of launching OmegaT, you can use the Kaptain script
