@@ -6924,6 +6924,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T173519Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T173519Z">
+        <seg>Scricate u schedariu chì duveria esse un archiviu &lt;f0&gt;tarball&lt;/f0&gt; (cù un estensione &lt;e1&gt;tar.bz&lt;/e1&gt; o &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading project...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183556Z">
@@ -21283,6 +21291,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T145724Z">
         <seg>Impiegà a lingua d’installazione in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use untar utility (or its equivalent, for instance&lt;f0&gt; winrar&lt;/f0&gt; in Windows) to extract its contents into the project folder "Dictionary".</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T174702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T174702Z">
+        <seg>Impiegate un prugramma di decumpressione cum’è « untar » (o un altru simile, per indettu &lt;f0&gt;7-Zip&lt;/f0&gt; per Windows) per estrae u so cuntenutu in u cartulare « dictionary » di u prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
