@@ -19658,6 +19658,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;e1&gt;dz, idx &lt;/e1&gt;and &lt;e2&gt;ifo&lt;/e2&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T175116Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T175116Z">
+        <seg>Trè schedarii cù l’estensioni &lt;e1&gt;dz, idx&lt;/e1&gt; è &lt;e2&gt;ifo&lt;/e2&gt; devenu stà dentru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T155252Z">
