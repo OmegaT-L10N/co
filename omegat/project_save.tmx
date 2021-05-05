@@ -4706,6 +4706,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check that your dict files are in the correct folder (or in a subfolder below it).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T181033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T181033Z">
+        <seg>Verificate chì i vostri schedarii Dizziunariu sò piazzati in u cartulare previstu (o dentru, in un sottucartulare).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T152305Z" creationid="Patriccollu" creationdate="20170209T152305Z">
@@ -12310,6 +12318,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Merriam Webster dictionary - use</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T180718Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T180718Z">
+        <seg>Adopru di u dizziunariu Merriam Webster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Michael Zakharov</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122135Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122135Z">
@@ -15151,6 +15167,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184455Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184455Z">
         <seg>Sbagliu à u caricamentu di u schedariu di prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Problems with dictionaries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T180734Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T180734Z">
+        <seg>Prublemi cù i dizziunarii</seg>
       </tuv>
     </tu>
     <tu>
