@@ -6270,8 +6270,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Dictionaries</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T140813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140813Z">
-        <seg>Di&amp;zziunarii</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T134703Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140813Z">
+        <seg>Dizziunarii</seg>
       </tuv>
     </tu>
     <tu>
@@ -6280,6 +6280,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T153133Z">
         <seg>Dizziunarii dighjà installati :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T134837Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T134837Z">
+        <seg>I dizziunarii in &lt;a0&gt;OmegaT&lt;/a0&gt; impieganu i furmati StarDict è Lingvo DSL.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9299,6 +9307,14 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T154335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T154335Z">
         <seg>Di più, a forma di participazione ùn hè micca imposta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to download and install dictionaries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T134727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T134727Z">
+        <seg>Cumu scaricà è installà i dizziunarii</seg>
       </tuv>
     </tu>
     <tu>
