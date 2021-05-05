@@ -13473,6 +13473,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT 4.2 - User's Guide</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182821Z">
+        <seg>OmegaT 4.2 - Guida di l’utilizatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T102155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T110726Z">
@@ -13856,6 +13864,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T154523Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T154523Z">
         <seg>OmegaT permette l’impiegu di quelli furmati di schedariu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT team</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182831Z">
+        <seg>Squadra OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -15423,6 +15439,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145120Z">
         <seg>U schedariu di prughjettu deveria impiegà u protocollu http.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182645Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182645Z">
+        <seg>Nisunu cartulare di prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -19924,6 +19948,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This document is the official user's guide to OmegaT, the free Computer Aided Translation tool.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T183015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T183015Z">
+        <seg>Stu ducumentu hè a guida ufficiale di l’utilizatore d’OmegaT, l’attrezzu liberu di traduzzione assistita da l’urdinatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This enables the numerous suggestions to be managed more easily.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T144701Z">
@@ -22815,6 +22847,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T102533Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T102533Z">
         <seg>e-lexica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182803Z">
+        <seg>co</seg>
       </tuv>
     </tu>
     <tu>
