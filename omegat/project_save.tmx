@@ -13129,6 +13129,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that in addition to "source-target" dictionaries you can, using the Dictionary feature, obtain access to information such as:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T175600Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T175600Z">
+        <seg>Ci vole à sapè chì, in più di i dizziunarii « origine-destinazione », a funzione Dizziunariu vi permette di fighjà l’infurmazione tale chì :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T135908Z">
