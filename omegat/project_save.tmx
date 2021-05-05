@@ -8867,6 +8867,22 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossaries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T183509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T183509Z">
+        <seg>Glossarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries are terminology files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T190611Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T190611Z">
+        <seg>I glossarii sò schedarii di terminolugia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T154039Z" creationid="Patriccollu" creationdate="20170209T154039Z">
@@ -10623,6 +10639,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T144216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T144216Z">
         <seg>Sistema di cura di i prublemi/penseri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also contains installation instructions.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T183044Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T183044Z">
+        <seg>Cuntene dinù l’istruzzioni d’installazione.</seg>
       </tuv>
     </tu>
     <tu>
