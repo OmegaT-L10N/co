@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restart</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T182812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T182812Z">
+        <seg>&amp;Rilancià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Restore Main Window</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T165852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153100Z">
