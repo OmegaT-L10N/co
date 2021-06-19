@@ -13546,6 +13546,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Classic</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184128Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184128Z">
+        <seg>OmegaT classicu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Default</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184027Z">
@@ -13642,6 +13650,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT classic theme</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184137Z">
+        <seg>Tema classicu d’OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T155010Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T155010Z">
@@ -13660,8 +13676,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT default theme</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184043Z">
-        <seg>Tema predefinitu d’</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184122Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184043Z">
+        <seg>Tema predefinitu d’OmegaT</seg>
       </tuv>
     </tu>
     <tu>
