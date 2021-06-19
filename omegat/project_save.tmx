@@ -9068,6 +9068,22 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got unexpected HTTP response {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184604Z">
+        <seg>Risposta HTTP inaspettata {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected MIME TYPE {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184724Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184724Z">
+        <seg>U tipu MIME {0} ricevutu hè inaspettatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Goto &amp;Line...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224928Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162728Z">
