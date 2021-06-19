@@ -4261,8 +4261,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>C&amp;opy All Data to Clipboard</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185701Z">
-        <seg>Cupià tutti i dati ver di u &amp;preme’papei</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183848Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185701Z">
+        <seg>Cupià tutti i dati in u &amp;preme’papei</seg>
       </tuv>
     </tu>
     <tu>
@@ -13546,6 +13546,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Default</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184027Z">
+        <seg>OmegaT predefinitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Download Selector</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T115924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125011Z">
@@ -13646,6 +13654,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155957Z">
         <seg>Oghje, OmegaT richiesta a versione 1.8 di u JRE o un’altra più recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT default theme</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184043Z">
+        <seg>Tema predefinitu d’</seg>
       </tuv>
     </tu>
     <tu>
@@ -15916,6 +15932,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185558Z">
         <seg>Caratteri rimanente (includendu spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183816Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183816Z">
+        <seg>Caratteri rimanente (cù spazii)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20477,6 +20501,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183809Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183809Z">
+        <seg>Tutale di caratteri (cù spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Total Characters (w/o spaces)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183715Z">
@@ -21161,6 +21193,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unique Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183821Z">
+        <seg>Caratteri unichi (cù spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183749Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183749Z">
+        <seg>Caratteri unichi (senza spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unique Characters (without spaces)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185508Z">
@@ -21173,6 +21221,22 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185615Z">
         <seg>Caratteri unichi rimanente (includendu spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183828Z">
+        <seg>Caratteri unichi rimanente (cù spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183755Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183755Z">
+        <seg>Caratteri unichi rimanente (senza spazii)</seg>
       </tuv>
     </tu>
     <tu>
