@@ -4501,8 +4501,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Characters (w/ spaces)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183407Z">
-        <seg>Caratteri (incl. spazii)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183645Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183407Z">
+        <seg>Caratteri (cù spazii)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15920,6 +15920,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183745Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183745Z">
+        <seg>Caratteri rimanente (senza spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (without spaces)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185448Z">
@@ -20465,6 +20473,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205012Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185547Z">
         <seg>Tutale di caratteri (includendu spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183715Z">
+        <seg>Tutale di caratteri (senza spazii)</seg>
       </tuv>
     </tu>
     <tu>
