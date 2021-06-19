@@ -4499,6 +4499,22 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters (w/ spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183407Z">
+        <seg>Caratteri (incl. spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (w/o spaces)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183350Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183350Z">
+        <seg>Caratteri (senza spazii)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Characters (without spaces)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T184553Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184553Z">
@@ -19767,6 +19783,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T181445Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171910Z">
         <seg>U schedariu di glossariu scrivibile deve truvassi in u cartulare di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183326Z">
+        <seg>Tema :</seg>
       </tuv>
     </tu>
     <tu>
