@@ -17148,6 +17148,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210701T173916Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210701T173916Z">
+        <seg>Ozzioni di ricerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search options are similar to the ones displayed in &lt;l0&gt;Search window&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210701T174132Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210701T174132Z">
+        <seg>L’ozzioni di ricerca sò simile à quelle affissate nant’à a &lt;l0&gt;finestra di ricerca&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search thread died unexpectedly!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T112134Z">
