@@ -2409,6 +2409,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Close:&lt;/e0&gt; close the window without any change.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210701T174922Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210701T174922Z">
+        <seg>&lt;e0&gt;Chjode :&lt;/e0&gt; chjode a finestra senza nisunu cambiamentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185929Z">
