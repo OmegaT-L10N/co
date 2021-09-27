@@ -16506,6 +16506,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart OmegaT to apply these changes</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210927T155302Z">
+        <seg>Rilancià OmegaT per piglià in contu sti cambiamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="co" changeid="Patrick" changedate="20161004T221734Z" creationid="Patrick" creationdate="20161004T221734Z">
@@ -23426,6 +23434,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T102604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T102604Z">
         <seg>weLocalize</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>x</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210213T132054Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210213T132054Z">
+        <seg>x</seg>
       </tuv>
     </tu>
     <tu>
