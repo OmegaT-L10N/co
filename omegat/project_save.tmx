@@ -11567,16 +11567,16 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Left-to-Right Embedding (LRE U+202A)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183340Z">
-        <seg>Principiu di l’incastramentu da manca à dritta (LRE U+202A)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183340Z">
+        <seg>Principiu di l’incastramentu da manca à diritta (LRE U+202A)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Left-to-Right Mark (LRM U+200E)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183101Z">
-        <seg>Marca da manca à dritta (LRM U+200E)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183101Z">
+        <seg>Marca da manca à diritta (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16628,16 +16628,16 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183418Z">
-        <seg>Principiu di l’incastramentu da dritta à manca (RLE U+202B)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183418Z">
+        <seg>Principiu di l’incastramentu da diritta à manca (RLE U+202B)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Right-to-Left Mark (RLM U+200F)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T183127Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183127Z">
-        <seg>Marca da dritta à manca (LRM U+200F)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183127Z">
+        <seg>Marca da diritta à manca (LRM U+200F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -18536,8 +18536,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Support for right-to-left languages</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T113919Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T113919Z">
-        <seg>Accetteghja e lingue chì si scrivanu da dritta à manca</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T113919Z">
+        <seg>Accetteghja e lingue chì si scrivanu da diritta à manca</seg>
       </tuv>
     </tu>
     <tu>
@@ -20451,8 +20451,8 @@ di copia © 2018.</seg>
       <tuv lang="en">
         <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T162104Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T162104Z">
-        <seg>Pudete ottene OpenOffice.org o LibreOffice seguitendu a leia pruvista in a parte « Prugrammi terzi » di a pagina « Risorse ».</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T162104Z">
+        <seg>Pudete ottene OpenOffice.org o LibreOffice seguitendu u liame pruvistu in a parte « Prugrammi terzi » di a pagina « Risorse ».</seg>
       </tuv>
     </tu>
     <tu>
@@ -21667,9 +21667,9 @@ on line {1}, column {2}.</seg>
         <seg>Useful links
 ============</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T161520Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T161520Z">
-        <seg>Leie ghjuvevule
-===============</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T161520Z">
+        <seg>Liami ghjuvevule
+================</seg>
       </tuv>
     </tu>
     <tu>
@@ -23536,8 +23536,8 @@ di creà u so cartulare di cunfigurazione.</seg>
       <tuv lang="en">
         <seg>{0} toggles orientation between LTR, RTL, and language-dependent</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T144850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T141910Z">
-        <seg>{0} invertisce l’orientazione trà i modi da a manca ver di a dritta, da a dritta ver di a manca, è dipendenti di e lingue</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T141910Z">
+        <seg>{0} invertisce l’orientazione trà i modi da a manca ver di a diritta, da a diritta ver di a manca, è dipendenti di e lingue</seg>
       </tuv>
     </tu>
     <tu>
