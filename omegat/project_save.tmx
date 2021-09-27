@@ -616,8 +616,8 @@
       <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T161539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T144454Z">
-        <seg>Viaghjà ver di u « Segmentu seguente micca traduttu » si ferma quandu si scontra omancu una &amp;traduzzione alternativa.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162315Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T144454Z">
+        <seg>Viaghjà à u « Segmentu seguente micca traduttu » si ferma quandu si scontra omancu una &amp;traduzzione alternativa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3069,8 +3069,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175017Z">
-        <seg>Dopu à avè traduttu ogni segmentu, appughjà nant’à &lt;k0&gt;Ctrl+U&lt;/k0&gt; per move ver di u prossimu segmentu micca traduttu (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; per move ver di u prossimu segmentu traduttu).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T175017Z">
+        <seg>Dopu à avè traduttu ogni segmentu, appughjà nant’à &lt;k0&gt;Ctrl+U&lt;/k0&gt; per move à u prossimu segmentu micca traduttu (o &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; per move à u prossimu segmentu traduttu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -5491,8 +5491,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Cop&amp;y Files to Source Folder...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
-        <seg>Cupià i schedarii ver di u cartulare d’&amp;origine…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150949Z">
+        <seg>Cupià i schedarii in u cartulare d’&amp;origine…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14081,8 +14081,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T174351Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174351Z">
-        <seg>Tandu OmegaT cupierà i schedarii selezziunati ver di u sottucartulare &lt;f2&gt;/source/&lt;/f2&gt; di u vostru prughjettu creatu pocu fà.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162325Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174351Z">
+        <seg>Tandu OmegaT cupierà i schedarii selezziunati in u sottucartulare &lt;f2&gt;/source/&lt;/f2&gt; di u vostru prughjettu creatu pocu fà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22708,8 +22708,8 @@ can then launch the Kaptain launch script with:</seg>
       <tuv lang="en">
         <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171408Z">
-        <seg>Si pò aghjunghje un vucabulu novu ver di u glossariu appughjendu nant’à &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o cupià glossarii esistente ver di u sottucartulare &lt;f1&gt;/glossary/&lt;/f1&gt; di u vostru cartulare di prughjettu, è OmegaT circherà ci autumaticamente e parolle.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171408Z">
+        <seg>Si pò aghjunghje un vucabulu novu à u glossariu appughjendu nant’à &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, o cupià glossarii esistente in u sottucartulare &lt;f1&gt;/glossary/&lt;/f1&gt; di u vostru cartulare di prughjettu, è OmegaT ci circherà autumaticamente e parolle.</seg>
       </tuv>
     </tu>
     <tu>
