@@ -1048,8 +1048,8 @@
       <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213318Z">
-        <seg>Viutà a &amp;parolla d’entrata principale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213318Z">
+        <seg>Viutà a &amp;parolla d’intesa principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1504,8 @@ Per aghjunghe schedarii à u prughjettu, cliccà nant’à u buttone « Cupià i
       <tuv lang="en">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T154528Z">
-        <seg>(Lasciate a parolla d’entrata viota s’è vo impiegate una chajve API.)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T154528Z">
+        <seg>(Lasciate a parolla d’intesa viota s’è vo impiegate una chajve API.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3205,8 +3205,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
-        <seg>Tutte e preferenze prutette da a parolla d’entrata principale seranu rimesse d’origine.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
+        <seg>Tutte e preferenze prutette da a parolla d’intesa principale seranu rimesse d’origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,8 +3221,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Allow to save password as plain text</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113917Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113917Z">
-        <seg>Permette l’arregistramentu di a parolla d’entrata cum’è testu in chjaru</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113917Z">
+        <seg>Permette l’arregistramentu di a parolla d’intesa cum’è testu in chjaru</seg>
       </tuv>
     </tu>
     <tu>
@@ -3621,8 +3621,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Are you sure you want to reset the master password?</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172257Z">
-        <seg>Site sicuru di vulè viutà a parolla d’entrata principale ?</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172257Z">
+        <seg>Site sicuru di vulè viutà a parolla d’intesa principale ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7477,8 +7477,8 @@ Micca pagina</seg>
       <tuv lang="en">
         <seg>Enter your master password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212758Z">
-        <seg>Scrivite a vostra parolla d’entrata principale.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212758Z">
+        <seg>Scrivite a vostra parolla d’intesa principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7553,8 +7553,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Error decoding user and password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T160505Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181655Z">
-        <seg>Sbagliu di discudificazione di nome d’utilizatore è di parolla d’entrata.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181655Z">
+        <seg>Sbagliu di discudificazione di nome d’utilizatore è di parolla d’intesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9482,8 +9482,8 @@ Simu d’inguernu</seg>
       <tuv lang="en">
         <seg>Howto - Adding a preview function to OmegaT</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140243Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140243Z">
-        <seg>Cumufà - Aghjuntu d’una funzione di previsualizazione (in inglese)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140243Z">
+        <seg>Cumufà - Aghjuntu d’una funzione di fighjulata (in inglese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9939,8 +9939,8 @@ stu cambimentu di locu.</seg>
       <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T160440Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T160440Z">
-        <seg>S’è vo impiegate un proxy autenticatu, scrivite quì u vostru nome d’utilizatore è a parolla d’entrata.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T160440Z">
+        <seg>S’è vo impiegate un proxy autenticatu, scrivite quì u vostru nome d’utilizatore è a parolla d’intesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12233,16 +12233,16 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Master Password</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173354Z">
-        <seg>Parolla d’entrata principale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173354Z">
+        <seg>Parolla d’intesa principale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Master Password:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213254Z">
-        <seg>Parolla d’entrata principale :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213254Z">
+        <seg>Parolla d’intesa principale :</seg>
       </tuv>
     </tu>
     <tu>
@@ -13668,8 +13668,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT can generate and store a master password so you don't have to enter it each time, but this is much less secure.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T220839Z">
-        <seg>OmegatT pò ingenerà è allucà una parolla d’entrata principale per voi è cusì ùn averete micca à scrivela ogni volta, ma cù una perdita di sicurità.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T220839Z">
+        <seg>OmegatT pò ingenerà è allucà una parolla d’intesa principale per voi è cusì ùn averete micca à scrivela ogni volta, ma cù una perdita di sicurità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13716,8 +13716,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221305Z">
-        <seg>OmegaT cifra e parolle d’entrata è e chjave API sensibile cù una parolla d’entrata principale.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161113Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221305Z">
+        <seg>OmegaT cifra e parolle d’intesa è e chjave API sensibile cù una parolla d’intesa principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14615,16 +14615,16 @@ In nebbia pagna</seg>
       <tuv lang="en">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T184317Z">
-        <seg>I schedarii PDF prutetti da una parolla d’entrata ùn sò micca accettati : {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T184317Z">
+        <seg>I schedarii PDF prutetti da una parolla d’intesa ùn sò micca accettati : {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Password:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z">
-        <seg>Parolla d’entrata :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z">
+        <seg>Parolla d’intesa :</seg>
       </tuv>
     </tu>
     <tu>
@@ -14933,8 +14933,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Please enter username/password for {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155102Z">
-        <seg>Ci vole à scrive u nome d’utilizatore/a parolla d’entrata per {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155102Z">
+        <seg>Ci vole à scrive u nome d’utilizatore/a parolla d’intesa per {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14949,8 +14949,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Please enter your password again for confirmation.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172706Z">
-        <seg>Ci vole à scrive torna a vostra parolla d’entrata per cunfirmà.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172706Z">
+        <seg>Ci vole à scrive torna a vostra parolla d’intesa per cunfirmà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16484,8 +16484,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Reset Master Password</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
-        <seg>Viutà a parolla d’entrata principale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172202Z">
+        <seg>Viutà a parolla d’intesa principale</seg>
       </tuv>
     </tu>
     <tu>
@@ -17662,8 +17662,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Set My Own Password</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T174050Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212945Z">
-        <seg>Definisce a mo parolla d’entrata</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212945Z">
+        <seg>Definisce a mo parolla d’intesa</seg>
       </tuv>
     </tu>
     <tu>
@@ -17678,8 +17678,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Set a master password to protect your private data.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T173558Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212723Z">
-        <seg>Definite una parolla d’entrata principale per prutege i vostri dati privati.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212723Z">
+        <seg>Definite una parolla d’intesa principale per prutege i vostri dati privati.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19637,24 +19637,24 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The password cannot be empty.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172606Z">
-        <seg>A parolla d’entrata ùn pò micca esse viota.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172606Z">
+        <seg>A parolla d’intesa ùn pò micca esse viota.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The password you entered did not match.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212841Z">
-        <seg>A parolla d’entrata pruvista ùn currisponde micca.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212841Z">
+        <seg>A parolla d’intesa pruvista ùn currisponde micca.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The passwords don't match.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172730Z">
-        <seg>E parolle d’entrata sò sfarente.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161113Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172730Z">
+        <seg>E parolle d’intesa sò sfarente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22571,8 +22571,8 @@ Pagina scapa</seg>
       <tuv lang="en">
         <seg>Wrong username/password for {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155114Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155114Z">
-        <seg>Nome d’utilizatore è/o parolla d’entrata incurrette per {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155114Z">
+        <seg>Nome d’utilizatore è/o parolla d’intesa incurrette per {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22884,8 +22884,8 @@ window to be able to launch it from any location.</seg>
       <tuv lang="en">
         <seg>You will be prompted to enter this password every time you launch OmegaT.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T181808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181808Z">
-        <seg>Sta parolla d’entrata vi serà dumandata à ogni avviu d’OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T181808Z">
+        <seg>Sta parolla d’intesa vi serà dumandata à ogni avviu d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
