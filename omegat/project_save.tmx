@@ -3857,8 +3857,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T172112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172112Z">
-        <seg>Preferenze arregistrate ver di {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162829Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172112Z">
+        <seg>Preferenze arregistrate in {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4421,8 +4421,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Change to "needs-review-translation" instead of "translated"</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201010T165348Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20201010T165348Z">
-        <seg>Cambià ver di « needs-review-translation » invece di « translated »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20201010T165348Z">
+        <seg>Cambià per « needs-review-translation » invece di « translated »</seg>
       </tuv>
     </tu>
     <tu>
@@ -16412,8 +16412,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Request to TaaS: {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210424Z">
-        <seg>Richieste ver di TaaS : {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162926Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T210424Z">
+        <seg>Dumandà à TaaS : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -17150,8 +17150,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Search for the required language combination - for instance on the &lt;u0&gt;dictionary links given by the OmegaT Wiki&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T173306Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T173306Z">
-        <seg>Circate a cumbinazione di lingua richiesta, per indettu seguidendu i &lt;u0&gt;liami ver di i dizziunarii indicati da u Wiki d’OmegaT&lt;/u0&gt;.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T173306Z">
+        <seg>Circate a cumbinazione di lingua richiesta, per indettu seguidendu i &lt;u0&gt;liami in i dizziunarii indicati da u Wiki d’OmegaT&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20020,8 +20020,8 @@ Vi manca una</seg>
       <tuv lang="en">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T144517Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144517Z">
-        <seg>Sò prutette, è cusì ùn si pò micca mudificà u so cuntenutu, ma si pò caccialle, scrivelle dapervoi o movelle ver di a frasa di destinazione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144517Z">
+        <seg>Sò prutette, è cusì ùn si pò micca mudificà u so cuntenutu, ma si pò caccialle, scrivele dapervoi o movele ver di a frasa di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
