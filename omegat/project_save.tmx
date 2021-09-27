@@ -1240,8 +1240,8 @@
       <tuv lang="en">
         <seg>&amp;Source (segment {0}):</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151850Z">
-        <seg>&amp;Urigine (segmentu {0}) :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151850Z">
+        <seg>&amp;Origine (segmentu {0}) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -2095,9 +2095,9 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--script=&lt;path&gt;
 		A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T151047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T133118Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T133118Z">
         <seg>--script=&lt;chjassu&gt;
-		Un scrittu à eseguisce quandu accadanu avvenimenti in u prughjettu.</seg>
+		Un scenariu à eseguisce quandu accadanu avvenimenti in u prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2183,10 +2183,10 @@ specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
 command line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150551Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150551Z">
         <seg>2) Aumentà u valore di memoria dispunibule per OmegaT, cù
 « java -Xmx&lt;dimensione-in-Mo&gt;M -jar OmegaT.jar » in a
-cumanda di linea o in u scrittu di principiu d’OmegaT ;
+cumanda di linea o in u scenariu di principiu d’OmegaT ;
 U valore attuale hè {0} Mo ;
 </seg>
       </tuv>
@@ -3825,8 +3825,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Available script engines:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T185121Z">
-        <seg>Mutori di scrittu dispunibule :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T185121Z">
+        <seg>Mutori di scenariu dispunibule :</seg>
       </tuv>
     </tu>
     <tu>
@@ -4381,8 +4381,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Cannot read selected script file.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T160937Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T160937Z">
-        <seg>Impussibule di leghje u schedariu di scrittu selezziunatu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T160937Z">
+        <seg>Impussibule di leghje u schedariu di scenariu selezziunatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4893,8 +4893,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174122Z">
-        <seg>Cliccu nant’à &lt;g1&gt;Cupià Schedarii ver di u Cartulare d’Urigine…&lt;/g1&gt; per selezziunà i vostri schedarii d’origine.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T174122Z">
+        <seg>Cliccu nant’à &lt;g1&gt;Cupià Schedarii ver di u Cartulare d’Origine…&lt;/g1&gt; per selezziunà i vostri schedarii d’origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7513,8 +7513,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Equal source &amp; target</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T184326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T184326Z">
-        <seg>Urigine è destinazione sò uguale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T184326Z">
+        <seg>Origine è destinazione sò uguale</seg>
       </tuv>
     </tu>
     <tu>
@@ -7957,8 +7957,8 @@ Solu 404</seg>
       <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T110423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T110423Z">
-        <seg>Esecuzione di u scrittu {0} (avvenimentu {1})</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T110423Z">
+        <seg>Esecuzione di u scenariu {0} (avvenimentu {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -8518,8 +8518,8 @@ Solu 404</seg>
         <seg>For a more user-friendly way of launching OmegaT, you can use the Kaptain script
 provided (omegat.kaptn).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T182423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182423Z">
-        <seg>Per pudè impegà OmegaT d’una manera più faciule, pudete impiegà u scrittu Kaptain pruvistu (omegat.kaptn).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182423Z">
+        <seg>Per pudè impegà OmegaT d’una manera più faciule, pudete impiegà u scenariu Kaptain pruvistu (omegat.kaptn).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9238,8 +9238,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Have you ever written an article for your professional association's journal?</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T114341Z">
-        <seg>Avete dighjà scrittu un articulu in u ghjurnale di u vostru associu ?</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T114341Z">
+        <seg>Avete dighjà scenariu un articulu in u ghjurnale di u vostru associu ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9867,8 +9867,8 @@ stu cambimentu di locu.</seg>
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T144327Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T144327Z">
-        <seg>S’è vo avete dighjà belle cunnuscenze generale in infurmatica è chì vo sciglite un linguaghju di scrittu simplice cum’è Javascript o Tcl/Tk, pudete amparà dapervoi cumu scrive scritti simplice è ghjuvevule in qualchì settimana solu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T144327Z">
+        <seg>S’è vo avete dighjà belle cunnuscenze generale in infurmatica è chì vo sciglite un linguaghju di scenariu simplice cum’è Javascript o Tcl/Tk, pudete amparà dapervoi cumu scrive scritti simplice è ghjuvevule in qualchì settimana solu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10029,8 +10029,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you used linux-install.sh script, you should be able to launch OmegaT with:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182244Z">
-        <seg>S’è vo avete impiegatu u scrittu linux-install.sh, duveriate pudè lancià OmegaT cusì :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182244Z">
+        <seg>S’è vo avete impiegatu u scenariu linux-install.sh, duveriate pudè lancià OmegaT cusì :</seg>
       </tuv>
     </tu>
     <tu>
@@ -10837,9 +10837,9 @@ d’utilizatore.</seg>
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T145302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T145302Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T145302Z">
         <seg>Ùn era micca pussibule di creà u cartulare di
-scrittu in u cartulare di cunfigurazione.</seg>
+scenariu in u cartulare di cunfigurazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13096,24 +13096,24 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T181858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181858Z">
-        <seg>Alcunu scrittu liatu à a piazza n° {0}.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181858Z">
+        <seg>Alcunu scenariu liatu à a piazza n° {0}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No script selected.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T160814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T160814Z">
-        <seg>Alcunu scrittu selezziunatu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T160814Z">
+        <seg>Alcunu scenariu selezziunatu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No script set.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T181744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181744Z">
-        <seg>Alcunu scrittu definitu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181744Z">
+        <seg>Alcunu scenariu definitu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13910,8 +13910,8 @@ be launched.</seg>
       <tuv lang="en">
         <seg>OmegaT is written in Java.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T115241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T115241Z">
-        <seg>OmegaT hè scrittu in Java.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T115241Z">
+        <seg>OmegaT hè scenariu in Java.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16692,8 +16692,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T181722Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181722Z">
-        <seg>Esecuzione di u scrittu à a piazza n° {0}.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181722Z">
+        <seg>Esecuzione di u scenariu à a piazza n° {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17006,8 +17006,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Script "{0}" saved.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T181147Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162524Z">
-        <seg>U scrittu « {0} » hè arregistratu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162524Z">
+        <seg>U scenariu « {0} » hè arregistratu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18030,8 +18030,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source</seg>
       </tuv>
-      <tuv lang="co">
-        <seg>Urigine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155855Z">
+        <seg>Origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -18150,8 +18150,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source of Selected &amp;Match</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171001Z">
-        <seg>Urigine di &amp;currispundenza selezziunata</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171001Z">
+        <seg>Origine di &amp;currispundenza selezziunata</seg>
       </tuv>
     </tu>
     <tu>
@@ -19741,16 +19741,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162204Z">
-        <seg>U scrittu "{0}" hè in corsu…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162204Z">
+        <seg>U scenariu "{0}" hè in corsu…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The script will quit now.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171459Z">
-        <seg>U  scrittu hà da finisce avà.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171459Z">
+        <seg>U  scenariu hà da finisce avà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20263,8 +20263,8 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       <tuv lang="en">
         <seg>This script is intended to run in OmegaT 3.6 and newer.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T171816Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171816Z">
-        <seg>U scrittu deve funziunà cù OmegaT 3.6 è più recente.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T171816Z">
+        <seg>U scenariu deve funziunà cù OmegaT 3.6 è più recente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20527,8 +20527,8 @@ d’altri ducumenti, lighjite :</seg>
 window (console), change folder to the folder containing OmegaT.jar and the
 linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T163126Z">
-        <seg>Per impiegalu, aprite una finestra di terminale (cunsola), andate in u cartulare chì cuntene OmegaT.jar è u scrittu linux-install.sh, è eseguitelu cù ./linux-install.sh.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T163126Z">
+        <seg>Per impiegalu, aprite una finestra di terminale (cunsola), andate in u cartulare chì cuntene OmegaT.jar è u scenariu linux-install.sh, è eseguitelu cù ./linux-install.sh.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22652,8 +22652,8 @@ Pagina scapa</seg>
         <seg>You
 can then launch the Kaptain launch script with:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182557Z">
-        <seg>È dopu, pudete lancià u scrittu Kaptain cusì :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182557Z">
+        <seg>È dopu, pudete lancià u scenariu Kaptain cusì :</seg>
       </tuv>
     </tu>
     <tu>
@@ -22795,8 +22795,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
         <seg>You can however obtain a neater and more user-friendly installation by using the
 installation script (linux-install.sh).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T162702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T162702Z">
-        <seg>Pudete quantunque ottene un’installazione più netta è più piacevule grazia à u scrittu d’installazione (linux-install.sh).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T162702Z">
+        <seg>Pudete quantunque ottene un’installazione più netta è più piacevule grazia à u scenariu d’installazione (linux-install.sh).</seg>
       </tuv>
     </tu>
     <tu>
