@@ -4325,8 +4325,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Cancel only works on scripts that explicitly check for cancellation.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182027Z">
-        <seg>Abbandunà funziuneghja solu per i scritti chì cuntrolleghjanu l’abbandonu di manera esplicita.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T182027Z">
+        <seg>Abbandunà funziuneghja solu per i scenarii chì cuntrolleghjanu l’abbandonu di manera esplicita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6231,8 +6231,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T184604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T184604Z">
-        <seg>Discrizzione è leia ver di i scritti è prucedure di Samuel Murray.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T184604Z">
+        <seg>Discrizzione è leia ver di i scenarii è prucedure di Samuel Murray.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9867,8 +9867,8 @@ stu cambimentu di locu.</seg>
       <tuv lang="en">
         <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T144327Z">
-        <seg>S’è vo avete dighjà belle cunnuscenze generale in infurmatica è chì vo sciglite un linguaghju di scenariu simplice cum’è Javascript o Tcl/Tk, pudete amparà dapervoi cumu scrive scritti simplice è ghjuvevule in qualchì settimana solu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T144327Z">
+        <seg>S’è vo avete dighjà belle cunnuscenze generale in infurmatica è chì vo sciglite un linguaghju di scenariu simplice cum’è Javascript o Tcl/Tk, pudete amparà dapervoi cumu scrive scenarii simplice è ghjuvevule in qualchì settimana solu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10999,16 +10999,16 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Java command-line script for merging two or more TMX files.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T165723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T165723Z">
-        <seg>Scrittu di linea di cumanda Java per unisce dui schedarii TMX (o più).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T165723Z">
+        <seg>Scenariu di linea di cumanda Java per unisce dui schedarii TMX (o più).</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T170600Z">
-        <seg>Scrittu di linea di cumanda Java chì permette di caccià l’elementi di traduzzione superflui in un schedariu TMX, ch’ella sia tutti l’elementi senza segmentu di destinazione o quandu u segmentu di destinazione hè identicu à quellu d’origine.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T170600Z">
+        <seg>Scenariu di linea di cumanda Java chì permette di caccià l’elementi di traduzzione superflui in un schedariu TMX, ch’ella sia tutti l’elementi senza segmentu di destinazione o quandu u segmentu di destinazione hè identicu à quellu d’origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12657,8 +12657,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T185041Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185013Z">
-        <seg>A maiò parte di sti scritti funziuneghjanu solu nant’à Windows ma certe prucedure pudenu quantunque funziunà nant’à d’altre piattaforme.&lt;br0/&gt;</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185013Z">
+        <seg>A maiò parte di sti scenarii funziuneghjanu solu nant’à Windows ma certe prucedure pudenu quantunque funziunà nant’à d’altre piattaforme.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15906,8 +15906,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Refreshing script folder "{0}"</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T181020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181020Z">
-        <seg>Attualizazione di u schedariu di scritti « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181020Z">
+        <seg>Attualizazione di u schedariu di scenarii « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -16868,8 +16868,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Samuel Murray's scripts and procedures</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T184608Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T184443Z">
-        <seg>Scritti è prucedure di Samuel Murray</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160231Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T184443Z">
+        <seg>Scenarii è prucedure di Samuel Murray</seg>
       </tuv>
     </tu>
     <tu>
@@ -16998,8 +16998,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T182113Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T182113Z">
-        <seg>Scrittu « {0} » liatu à a piazza n° {1}.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T182113Z">
+        <seg>Scenariu « {0} » liatu à a piazza n° {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17014,8 +17014,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Script "{0}" unbound from slot #{1}.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T182152Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T182152Z">
-        <seg>Scrittu « {0} » scioltu da a piazza n° {1}.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T182152Z">
+        <seg>Scenariu « {0} » scioltu da a piazza n° {1}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17038,16 +17038,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Script for extracting text for translation from plain-text files (e.g. computer source code) for translation in OmegaT.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T173318Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T173318Z">
-        <seg>Scrittu per l’estrazzione di testu à partesi di schedarii di testu in chjaru (per indettu, codice di prugramma infurmaticu) chì permette a traduzzione cù OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T173318Z">
+        <seg>Scenariu per l’estrazzione di testu à partesi di schedarii di testu in chjaru (per indettu, codice di prugramma infurmaticu) chì permette a traduzzione cù OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Script versions of Toxic.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T172437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T172437Z">
-        <seg>Versioni scritti di Toxic.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T172437Z">
+        <seg>Versioni scenarii di Toxic.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17062,8 +17062,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Scripting</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T161923Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161923Z">
-        <seg>Scrittura</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160334Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161923Z">
+        <seg>Scrittura di scenariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -17078,8 +17078,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Scripts/procedures are available to enable you to do the following:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185327Z">
-        <seg>Pudete impiegà sti scritti è prucedure per :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185327Z">
+        <seg>Pudete impiegà sti scenarii è prucedure per :</seg>
       </tuv>
     </tu>
     <tu>
@@ -17814,8 +17814,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20170209T143842Z" creationid="Patriccollu" creationdate="20170209T143842Z">
-        <seg>Scrittu simplice per circà è rimpiazzà</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu" creationdate="20170209T143842Z">
+        <seg>Scenariu simplice per circà è rimpiazzà</seg>
       </tuv>
     </tu>
     <tu>
@@ -18496,8 +18496,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T143209Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T143209Z">
-        <seg>Parechji prugrammi di stu tipu sò stati scritti in Javascript, Groovy o Tcl/Tk, per indettu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T143209Z">
+        <seg>Parechji prugrammi di stu tipu sò stati scenarii in Javascript, Groovy o Tcl/Tk, per indettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20111,8 +20111,8 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       <tuv lang="en">
         <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T171806Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T171806Z">
-        <seg>St’inseme di scritti hè fattu per i sviluppatori chì cunnoscenu tcl/tk.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T171806Z">
+        <seg>St’inseme di scenarii hè fattu per i sviluppatori chì cunnoscenu tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20655,8 +20655,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Toxic scripts</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T172335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T172335Z">
-        <seg>Scritti Toxic</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160231Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T172335Z">
+        <seg>Scenarii Toxic</seg>
       </tuv>
     </tu>
     <tu>
@@ -22165,8 +22165,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>Website support can be scripted in Groovy.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T164714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T164714Z">
-        <seg>L’accessu à i siti web pò esse fatta da scritti Groovy.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T164714Z">
+        <seg>L’accessu à i siti web pò esse fatta da scenarii Groovy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22523,16 +22523,16 @@ Pagina scapa</seg>
       <tuv lang="en">
         <seg>Written in Python.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T165356Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T165356Z">
-        <seg>Scrittu in Python.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T165356Z">
+        <seg>Scenariu in Python.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Written in Python/Perl.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T165453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T165453Z">
-        <seg>Scrittu in Python/Perl.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T165453Z">
+        <seg>Scenariu in Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
