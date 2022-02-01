@@ -13078,6 +13078,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T140550Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140550Z">
+        <seg>Alcunu schedariu d’esecuzione GPG ùn hè statu trovu ; definiscelu in e preferenze Git di a sezzione « Committing », o ancu in gpg.program di a cunfigurazione git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T120036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T120036Z">
@@ -21766,6 +21774,14 @@ on line {1}, column {2}.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T161520Z">
         <seg>Liami ghjuvevule
 ================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User canceled signing (no passphrase provided)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T140122Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140122Z">
+        <seg>L’utilizatore hà abbandunatu a cunnessione (alcuna frasa d’intesa ùn hè stata pruvista)</seg>
       </tuv>
     </tu>
     <tu>
