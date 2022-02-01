@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_203361b5" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4363,6 +4363,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cannot find GPG executable on the bash $PATH</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T115147Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115147Z">
+        <seg>Ùn si pò truvà u schedariu d’esecuzione GPG nant’à variabile $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cannot install</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T150935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150935Z">
@@ -5535,6 +5543,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T182640Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172317Z">
         <seg>Diritti di copia © 2000-2019 Keith Godfrey, Maxym Mykhalchuk è d’altre persone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright © 2000-2021 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T114354Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T114354Z">
+        <seg>Diritti di copia © 2000-2021 Keith Godfrey, Maxym Mykhalchuk è d’altre persone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7703,6 +7719,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error while getting output of external program</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T114843Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T114843Z">
+        <seg>Sbagliu per ottene l‘esciuta d’un prugramma esternu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T111002Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T174026Z">
@@ -9032,6 +9056,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T152150Z">
         <seg>Impiegà a &amp;lemmatisazione per l’entrate di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go To</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20211118T154119Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20211118T154119Z">
+        <seg>Andà à</seg>
       </tuv>
     </tu>
     <tu>
@@ -16514,6 +16546,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Restart</seg>
+      </tuv>
+      <tuv lang="co" changeid="phenry" changedate="20150420T184821Z">
+        <seg>Rilancià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restart OmegaT to apply these changes</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210927T155302Z">
@@ -17064,6 +17104,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160334Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T161923Z">
         <seg>Scrittura di scenariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20211119T161805Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20211119T161805Z">
+        <seg>Scenarii</seg>
       </tuv>
     </tu>
     <tu>
@@ -19887,6 +19935,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T181445Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171910Z">
         <seg>U schedariu di glossariu scrivibile deve truvassi in u cartulare di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Theme</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20211025T113006Z">
+        <seg>Tema</seg>
       </tuv>
     </tu>
     <tu>
@@ -23088,6 +23144,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T175624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T175624Z">
         <seg>ecc…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>exact search</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220122T181536Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220122T181536Z">
+        <seg>ricerca esatta</seg>
       </tuv>
     </tu>
     <tu>
