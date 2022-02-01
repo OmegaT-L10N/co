@@ -12007,6 +12007,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looking for a GPG executable: path {0} from $PATH is not accessible; skipping</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T140004Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140004Z">
+        <seg>Ricerca d’un schedariu d’esecuzione GPG : chjassu {0} in $PATH hè inaccessibile ; abbandonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lucene (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T130755Z" creationid="Patriccollu" creationdate="20170213T130747Z">
