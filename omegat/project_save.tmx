@@ -13070,6 +13070,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T120036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T120036Z">
+        <seg>Alcuna chjave GPG ùn hè stata trova per a chjave n° « {0} » ; cuntrollà o definisce user.signingKey in a cunfigurazione git</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173522Z">
