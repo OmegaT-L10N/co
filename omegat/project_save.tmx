@@ -4301,8 +4301,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Call to external program was interrupted: {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T115424Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115424Z">
-        <seg>A chjama ver di u prugramma esternu hè stata interrotta : {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142304Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115424Z">
+        <seg>A chjama à u prugramma esternu hè stata interrotta : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7469,48 +7469,48 @@ Micca pagina</seg>
       <tuv lang="en">
         <seg>Ensure the URL is correct.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T183035Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T183035Z">
-        <seg>Assicuratevvi chì l’URL hè curretta.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142225Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T183035Z">
+        <seg>Assicuratevi chì l’URL hè curretta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Ensure the server URL is correct.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T182941Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T182941Z">
-        <seg>Assicuratevvi chì l’URL di u servitore hè curretta.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142221Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T182941Z">
+        <seg>Assicuratevi chì l’URL di u servitore hè curretta.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Ensure you are specifying the right API version (the URL should include "/v2/").</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T162754Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T162754Z">
-        <seg>Assicuratevvi chì vo specificate a versione d’API curretta (l’URL duveria cuntene « /v2/ »)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T162754Z">
+        <seg>Assicuratevi chì vo specificate a versione d’API curretta (l’URL duveria cuntene « /v2/ »)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T223509Z">
-        <seg>Scrivite un termine d’origine, a so traduzzione è un cummentu :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T223509Z">
+        <seg>Stampittate un termine d’origine, a so traduzzione è un cummentu :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T174847Z">
-        <seg>Scrivite u numeru di segmentu :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T174847Z">
+        <seg>Stampittate u numeru di segmentu :</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Enter your master password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212758Z">
-        <seg>Scrivite a vostra parolla d’intesa principale.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212758Z">
+        <seg>Stampittate a vostra parolla d’intesa principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8093,8 +8093,8 @@ Solu 404</seg>
       <tuv lang="en">
         <seg>External command failed.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T204742Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204603Z">
-        <seg>A cumanda esterna hè fiasca.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204603Z">
+        <seg>A cumanda esterna hè fiascata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9570,8 +9570,8 @@ Simu d’inguernu</seg>
       <tuv lang="en">
         <seg>Howto - Exporting from OmegaT to 'Trados uncleaned RTF' format</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T140039Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140039Z">
-        <seg>Cumufà - Espurtà da OmegaT ver di u furmatu micca pulitu « Trados uncleaned RTF » (in inglese)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140039Z">
+        <seg>Cumufà - Espurtà da OmegaT à u furmatu micca pulitu « Trados uncleaned RTF » (in inglese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10003,8 +10003,8 @@ stu cambimentu di locu.</seg>
       <tuv lang="en">
         <seg>If you are using an authenticated proxy, please enter here your user and password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T160440Z">
-        <seg>S’è vo impiegate un proxy autenticatu, scrivite quì u vostru nome d’utilizatore è a parolla d’intesa.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T160440Z">
+        <seg>S’è vo impiegate un proxy autenticatu, stampittate quì u vostru nome d’utilizatore è a parolla d’intesa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16290,8 +16290,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Remove tags in the current target</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141020Z" creationid="Patriccollu" creationdate="20170209T145137Z">
-        <seg>Toglie l’etichette in a destinazione attuale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141845Z" creationid="Patriccollu" creationdate="20170209T145137Z">
+        <seg>Caccià l’etichette in a destinazione attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -18536,40 +18536,40 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Strip BiDi Marks</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141057Z" creationid="Patriccollu" creationdate="20170209T144622Z">
-        <seg>Toglie e Marche BiDi</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141810Z" creationid="Patriccollu" creationdate="20170209T144622Z">
+        <seg>Spuglià e Marche BiDi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Strip BiDi marks in current segment</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141108Z" creationid="Patriccollu" creationdate="20170209T144947Z">
-        <seg>Toglie e marche BiDi in u segmentu attuale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141813Z" creationid="Patriccollu" creationdate="20170209T144947Z">
+        <seg>Spuglià e marche BiDi in u segmentu attuale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Strip Tags</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141017Z" creationid="Patriccollu" creationdate="20170209T143752Z">
-        <seg>Toglie l’etichette</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141823Z" creationid="Patriccollu" creationdate="20170209T143752Z">
+        <seg>Spuglià l’etichette</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Strip tags in current segment</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141030Z" creationid="Patriccollu" creationdate="20170209T145152Z">
-        <seg>Toglie l’etichette in u segmentu attuale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141850Z" creationid="Patriccollu" creationdate="20170209T145152Z">
+        <seg>Spuglià l’etichette in u segmentu attuale</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Stripper</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T172720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T172720Z">
-        <seg>Stripper</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T141933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T172720Z">
+        <seg>Spugliadore</seg>
       </tuv>
     </tu>
     <tu>
@@ -21097,8 +21097,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Type in new rule ID</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T163427Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T152050Z">
-        <seg>Scrivite a nova identificazione di regula</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T152050Z">
+        <seg>Stampittate a nova identificazione di regula</seg>
       </tuv>
     </tu>
     <tu>
