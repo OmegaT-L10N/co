@@ -4299,6 +4299,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Call to external program was interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T115424Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115424Z">
+        <seg>A chjama ver di u prugramma esternu hè stata interrotta : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Camtasia for Windows</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150111Z" creationid="Patriccollu" creationdate="20170210T150111Z">
@@ -4383,6 +4391,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200418T194018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200418T194018Z">
         <seg>Ùn si pò caricà u schedariu XML specificatu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot prepare GPG environment properly</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T115234Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115234Z">
+        <seg>Ùn si pò appruntà currettamente l’ambiente GPG</seg>
       </tuv>
     </tu>
     <tu>
@@ -8087,6 +8103,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T170428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T170428Z">
         <seg>Documentazione esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External program failed({1}): {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T115700Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115700Z">
+        <seg>U prugramma esternu hè fiascatu ({1}) : {0}</seg>
       </tuv>
     </tu>
     <tu>
