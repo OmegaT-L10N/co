@@ -4819,6 +4819,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checks to see whether a more recent version of OmegaT has been released.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220323T173003Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220323T173003Z">
+        <seg>Cuntrolleghja s’è una versione più recente d’OmegaT seria dispunibule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chihiro Hio</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121619Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121619Z">
@@ -13654,6 +13662,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182821Z">
         <seg>OmegaT 4.2 - Guida di l’utilizatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 4.3.1 - User's Guide</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220323T173150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220323T173150Z">
+        <seg>OmegaT 4.3.1 - Guida di l’utilizatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -24062,6 +24078,17 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182346Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182346Z">
         <seg>Prublemi cunnisciuti cù i dizziunarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">doc_src/OmegaTUsersManual_xinclude full.xml</prop>
+      <prop type="prev"></prop>
+      <prop type="next">OmegaT 4.3.1 - User's Guide</prop>
+      <tuv lang="en">
+        <seg>en</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220323T173106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220323T173106Z">
+        <seg>en</seg>
       </tuv>
     </tu>
     <tu>
