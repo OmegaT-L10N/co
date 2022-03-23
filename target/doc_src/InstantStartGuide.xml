@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<chapter id="chapter.instant.start.guide">
+  <title>Amparà à impiegà OmegaT in 5 minuti !</title>
+
+  <section id="create.and.open.new.project">
+    <title>Definisce un novu prughjettu<indexterm class="singular">
+        <primary>Prughjettu</primary> <secondary>Creà / apre novu</secondary>
+      </indexterm></title>
+
+    <para><remark>Nota :</remark> Cù un Apple Mac, impiegate u tastu <keycap>Command</keycap> in piazza di u tastu <keycap>Control</keycap>.</para>
+
+      <indexterm class="singular">
+        <primary>Listinu Prughjettu</primary> <secondary>Novu…</secondary>
+      </indexterm>
+
+    <para>Per principià à impiegà OmegaT, da prima, ci vole à creà un prughjettu chì cuntenerà tutti i vostri schedarii, cum’è quellu d’origine, e memorie di traduzzione, i glossarii, è in fine di contu, u schedariu traduttu. In u listinu <guimenu>Prughjettu</guimenu>, selezziunà <menuchoice><guimenuitem>Novu…</guimenuitem></menuchoice> è scrive un nome per u vostru prughjettu. Arricurdavvi induve vò create u prughjettu, perchè ci vulerà à ritruvallu dopu.</para>
+
+    <para>Dopu à avè datu un nome à u vostru prughjettu, u dialogu <guilabel>Creà un Prughjettu Novu</guilabel> s’aprerà. In capu di stu dialogu, selezziunà a lingua di i schedarii d’origine, quella di i schedarii tradutti, è cliccà <guibutton>Vai</guibutton> per cuntinuà.</para>
+
+    <para>If you are interested in other settings of this dialog,
+    you can return to it any time by pressing <keycombo><keycap>Ctrl</keycap><keycap>E</keycap></keycombo>.</para>
+
+    <para>Dopu, u dialogu <guilabel>Schedarii di Prughjettu</guilabel> s’apre. Cliccu nant’à <guibutton>Cupià i schedarii in u cartulare d’origine…</guibutton> per selezziunà i vostri schedarii d’origine. OmegaT will then copy the selected files to the <filename class="directory">source</filename> subfolder of your newly created project. Quandu tutti i schedarii d’origine sò caricati in u pannellu di l’<guilabel>Editore</guilabel>, pudete chjode u dialogu <guilabel>Schedarii di Prughjettu</guilabel>.</para>
+  </section>
+
+  <section id="translate.the.segments.one.by.one">
+    <title>Traduce u schedariu</title>
+
+    <para>OmegaT vi prisenterà un segmentu dopu à l’altru è toccu à voi di traducellu. After you have translated each segment, press <keycombo><keycap>Ctrl</keycap><keycap>U</keycap></keycombo> to move to the next untranslated segment (or <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap><keycap>U</keycap></keycombo> to move to the next translated segment). Whenever you want to see what your translation will look like in its final format, press <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo> to generate the translated documents, which will be created in the <filename class="directory">target</filename> subfolder of your project folder. During translation, use the <guimenu>Edit</guimenu> and <guimenu>Go To</guimenu> menus to perform various useful functions.</para>
+  </section>
+
+  <section>
+    <title>Validà e vostre etichette</title>
+
+    <para>S’è i vostri schedarii d’origine sò furmatati, per indettu Microsoft Word, LibreOffice Writer o HTML, OmegaT cunvertiscerà tutte e marche di furmatu in etichette chì accircunda u testu chì vò traducite. Ci sò aspessu ducumenti chì cuntenenu etichette chì ùn anu nunda à vede cù una marca di furmatu, ma chì sò dinù impurtante in i schedarii d’origine (è in i schedarii tradutti). Una frasa d’origine pò assumigliassi à què :<mediaobject>
+      <imageobject role="html">
+        <imagedata align="justify" fileref="images/InstantGuide_1.png"/>
+      </imageobject>
+      <imageobject role="fo">
+        <imagedata align="justify" fileref="images/InstantGuide_1.png" width="40%"/>
+      </imageobject>
+    </mediaobject>
+    </para>
+
+    <para>Eppuru, OmegaT vi prisenterà sta frasa di sta manera :<mediaobject>
+      <imageobject role="html">
+        <imagedata align="justify" fileref="images/InstantGuide_2.png"/>
+      </imageobject>
+      <imageobject role="fo">
+        <imagedata align="justify" fileref="images/InstantGuide_2.png" width="45%"/>
+      </imageobject>
+    </mediaobject>
+    </para>
+    
+    <para>L’etichette in OmegaT sò grisge, è cusì sò faciule à ricunnosce. Sò prutette, è cusì ùn si pò micca mudificà u so cuntenutu, ma si pò caccialle, scrivele dapervoi o movele ver di a frasa di destinazione. Fate casu chì, s’è vò fate qualchì sbagliu quandu scrivete l’etichette di furmatu, i vostri schedarii tradutti puderianu ùn micca apressi. Therefore, press <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap><keycap>V</keycap></keycombo> before you generate your translated files, to validate that your tags are correct.</para>
+  </section>
+
+  <section>
+    <title>Ingenerà u schedariu traduttu</title>
+
+    <para>Once you have made certain that there are no tag errors in your
+    translation, press <keycombo><keycap>Ctrl</keycap><keycap>D</keycap></keycombo> to generate the target files,
+    which will be created in the <filename class="directory">target</filename> subfolder of
+    your project folder.</para>
+  </section>
+
+  <section>
+    <title>Qualchì cosa di più à tene à mente</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>S’è un schedariu ùn si caricheghja micca in u pannellu <guilabel>Editore</guilabel>, vole si dì chì u so furmatu ùn hè micca accettatu da OmegaT. Fighjà <menuchoice><guimenuitem>Ozzioni</guimenuitem><guimenuitem>Preferenze…</guimenuitem><guimenuitem>Filtri di schedariu</guimenuitem></menuchoice> per ottene una lista di i furmati di schedariu ch’OmegaT pò trattà.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Si pò creà un prughjettu novu per ogni travagliu novu, è si pò aghjunghje schedarii d’origine novi in un prughjettu quand’ella vi pare.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>To remind yourself of the project's initial settings, open the
+        project properties dialog by pressing <keycombo><keycap>Ctrl</keycap><keycap>E</keycap></keycombo>. To see a
+        list of files in the project, open the <guilabel>Project Files</guilabel> dialog by
+        pressing <keycombo><keycap>Ctrl</keycap><keycap>L</keycap></keycombo>.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>À a fine di a vostra traduzzione, OmegaT crea trè memorie di traduzzione chjamate <filename>level1</filename>, <filename>level2</filename> è <filename>omegat</filename> in u vostru cartulare di prughjettu. E memorie <filename>level1</filename> è <filename>level2</filename> ponu esse sparte cù l’utilizatori d’altri prugrammi di traduzzione. A memoria chjamata <filename>omegat</filename> pò esse impiegata da OmegaT stessu, per d’altri prughjetti futuri creati dapervoi. If you place such translation memory files in the <filename class="directory">tm</filename> subfolder of a project, OmegaT will automatically search them for similar segments, called &quot;fuzzy matches&quot;.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>You can add a new term to the glossary by pressing
+        <keycombo><keycap>Ctrl</keycap><keycap>Shift</keycap><keycap>G</keycap></keycombo>, or copy existing glossaries to
+        the <filename class="directory">glossary</filename> subfolder of your project folder,
+        and OmegaT will automatically look up words in them.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>It is often useful to search for words and phrases in the source
+        text and in your translation, so press <keycombo><keycap>Ctrl</keycap><keycap>F</keycap></keycombo> for the
+        <guilabel>Text Search</guilabel> dialog at any time.</para>
+      </listitem>
+    </itemizedlist>
+
+    <itemizedlist>
+      <listitem>
+        <para>Per avè un’intruduzzione più detagliata (in inglese) fighjà <ulink url="https://omegat.org/files/OmegaT_for_Beginners.pdf">OmegaT for beginners</ulink> nant’à u situ web d’OmegaT. S’è vo avete bisognu d’assistenza cù qualchì aspettu d’OmegaT, raghjunghjate puru u <ulink url="https://omegat.org/support">gruppu d’utilizatori d’OmegaT.</ulink></para>
+      </listitem>
+    </itemizedlist>
+  </section>
+</chapter>

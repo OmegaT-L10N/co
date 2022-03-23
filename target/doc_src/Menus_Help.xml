@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="menus.help">
+  <title>Aiutu</title>
+
+  <variablelist>
+    <varlistentry>
+      <term>&amp;Manuale di l’utilizatore</term>
+
+      <listitem>
+        <para>Apre stu manuale in u navigatore predefinitu</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Apprupositu…</term>
+
+      <listitem>
+        <para>Affisseghja di i diritti di copia, infurmazioni di meritu è di licenza.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Ultimi cambiamenti…</term>
+
+      <listitem>
+        <para>Affisseghja di a lista di e nove funzioni, amendamenti è currezzioni di penseri per ogni nova versione.</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Ghjurnale…</term>
+
+      <listitem>
+        <para>Affisseghja di u ghjurnale di messaghji attuale. U titulu di u dialogu indicheghja u schedariu impiegatu avà (secondu à quantu instanze d’OmegaT funziuneghjanu à u listessu tempu).</para>
+      </listitem>
+    </varlistentry>
+
+    <varlistentry>
+      <term>Circà i rinnovi…</term>
+
+      <listitem>
+        <para>Cuntrolleghja s’è una versione più recente d’OmegaT seria dispunibule.</para>
+      </listitem>
+    </varlistentry>
+  </variablelist>
+</section>
