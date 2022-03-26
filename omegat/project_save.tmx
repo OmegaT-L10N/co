@@ -12079,6 +12079,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translate Highlight</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220326T122156Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220326T122156Z">
+        <seg>Sopralineà a traduzzione da a mascina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213209Z" creationid="Patriccollu" creationdate="20170213T134733Z">
@@ -17062,6 +17070,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180355Z">
         <seg>Arregistrà i cambiamenti di regule di segmentazione ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save origin of &amp;translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220326T121844Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220326T121844Z">
+        <seg>Arregistrà l’origine di a &amp;traduzzione</seg>
       </tuv>
     </tu>
     <tu>
