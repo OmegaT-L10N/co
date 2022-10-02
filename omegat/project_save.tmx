@@ -2020,12 +2020,32 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135235Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135038Z">
+        <seg>--config-dir=&lt;chjassu&gt;
+	  Un cartulare induve leghje è scrive i schedarii di cunfigurazione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T165253Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T165253Z">
         <seg>--config-file=&lt;chjassu&gt;
 		Un schedariu Java .properties da duve si caricheranu e preferenze predefinite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+	  A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134927Z">
+        <seg>--config-file=&lt;path&gt;
+	  Un schedariu .properties Java da duve si caricheranu e preferenze predefinite.</seg>
       </tuv>
     </tu>
     <tu>
