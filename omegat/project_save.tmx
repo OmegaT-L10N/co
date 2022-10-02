@@ -20613,6 +20613,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There should be three files, with extensions &lt;f2&gt;dz, idx &lt;/f2&gt;and &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T164500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T164500Z">
+        <seg>Ci duveria esse trè schedarii cù l’estensioni &lt;f2&gt;dz, idx &lt;/f2&gt;è &lt;f3&gt;ifo&lt;/f3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There was an error initializing LanguageTool.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T155252Z">
