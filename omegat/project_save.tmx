@@ -6621,6 +6621,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries Folder:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143153Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143153Z">
+        <seg>Cartulare di i dizziunarii :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries already installed:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T153133Z">
@@ -8279,6 +8287,22 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204530Z">
         <seg>Codice d’esciuta : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143256Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143256Z">
+        <seg>Cartulare di l’espurtazione di e memorie di traduzzione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Export Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143627Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143627Z">
+        <seg>Espurtazione di cartulare di schedarii di memoria di traduzzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -19128,6 +19152,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TMX Level 1</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143402Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143402Z">
+        <seg>TMX Livellu 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX Level 2</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143405Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143405Z">
+        <seg>TMX Livellu 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T150052Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T150052Z">
@@ -21265,8 +21305,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translated Files Folder:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154817Z">
-        <seg>Cartulare di schedarii tradutti :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143158Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T154817Z">
+        <seg>Cartulare di i schedarii tradutti :</seg>
       </tuv>
     </tu>
     <tu>
@@ -21405,6 +21445,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T192552Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192552Z">
         <seg>Ultima traduzzione da {0} u {1} à {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memories to export:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143318Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143318Z">
+        <seg>Memorie di traduzzione à espurtà :</seg>
       </tuv>
     </tu>
     <tu>
