@@ -7181,6 +7181,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Done and current translations are saved as {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143035Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143035Z">
+        <seg>Compiu è e traduzzioni attuale sò arregistrate cum’è {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T112828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112828Z">
@@ -9224,6 +9232,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T183509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T183509Z">
         <seg>Glossarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossaries Folder:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143142Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143142Z">
+        <seg>Cartulare di i glossarii :</seg>
       </tuv>
     </tu>
     <tu>
@@ -18848,6 +18864,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start new project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143104Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143104Z">
+        <seg>Principià un prughjettu novu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start rebase</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135640Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T135640Z">
@@ -21341,6 +21365,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="co">
         <seg>Traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation Memories Folder:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T143126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T143126Z">
+        <seg>Cartulare di e memorie di traduzzione :</seg>
       </tuv>
     </tu>
     <tu>
