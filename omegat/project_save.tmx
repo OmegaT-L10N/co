@@ -9004,6 +9004,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Force escaping Unicode literals as compatible to Java 8 to write</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T161737Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T161737Z">
+        <seg>Sfurzà u scappamentu di i litterali Unicode cum’è cumpatibile cù Java 8 per scrive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Format:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu" creationdate="20170210T150022Z">
@@ -23161,6 +23169,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T165453Z">
         <seg>Scenariu in Python/Perl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong URL detected in Linkifier: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T155145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T155145Z">
+        <seg>Indirizzu web incurrettu avventatu in Linkifier : {0}</seg>
       </tuv>
     </tu>
     <tu>
