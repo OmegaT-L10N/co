@@ -7167,8 +7167,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Does the folder contain three files of the same name, with extensions?</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T181622Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T181622Z">
-        <seg>U cartulare, cuntene trè schedarii di u listessu nome cù estensioni sfarente ?</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T164723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T181622Z">
+        <seg>U cartulare cunteneria trè schedarii di u listessu nome cù estensioni sfarente ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10258,6 +10258,14 @@ not be entered.)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182022Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182022Z">
         <seg>S’ella hè &lt;e0&gt;tar.bz&lt;/e0&gt;, forse vi site scurtati di spacchittallu cù una decumpressione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If it is &lt;f0&gt;tar.bz&lt;/f0&gt;, you have forgotten to unpack (untar) it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T164705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T164705Z">
+        <seg>S’ella hè &lt;f0&gt;tar.bz&lt;/f0&gt;, forse vi site scurdati di spacchittallu cù una decumpressione.</seg>
       </tuv>
     </tu>
     <tu>
