@@ -2011,8 +2011,8 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134509Z">
-        <seg>--ITokenizer=&lt;classname&gt;
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134509Z">
+        <seg>--ITokenizer=&lt;nome di classa&gt;
 	--ITokenizerTarget=&lt;nome di classa&gt;
 	  Lemmatizatore d’analisa di lingua - d’origine o di destinazione -
 	  à impiegà (rimpiazzeghja e preferenze di prughjettu).</seg>
@@ -2043,8 +2043,8 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134927Z">
-        <seg>--config-file=&lt;path&gt;
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135253Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134927Z">
+        <seg>--config-file=&lt;chjassu&gt;
 	  Un schedariu .properties Java da duve si caricheranu e preferenze predefinite.</seg>
       </tuv>
     </tu>
@@ -2164,6 +2164,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 		Un schedariu Java .properties à impiegà per u testu di l’interfaccia
 	--config-dir=&lt;chjassu&gt;
 		Un cartulare per leghje è scrive i schedarii di cunfigurazione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for interface text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135331Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	  Un schedariu .properties Java à impiegà per u testu di l’interfaccia</seg>
       </tuv>
     </tu>
     <tu>
