@@ -2110,6 +2110,18 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140343Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140300Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;chjassu&gt;
+	    Un cartulare cuntenendu i schedarii tradutti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-pseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
@@ -2118,6 +2130,22 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--mode=console-pseudotranslatetmx
 	  --pseudotranslatetmx=&lt;chjassu&gt;
 	    U schedariu TMX resultendu chì cuntene a pseudo traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to that file, or to standard output if absent.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140354Z">
+        <seg>--mode=console-stats
+	  project_path
+	    U chjassu ver di u prughjettu
+	  --output-file=[stats-output-file]
+	    Stampa ver di stu schedariu, o ver di l’esciuta classica s’ellu hè assente.</seg>
       </tuv>
     </tu>
     <tu>
