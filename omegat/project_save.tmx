@@ -2078,6 +2078,18 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133627Z">
+        <seg>--remote-project
+	  Scaricà un schedariu omegat.project da l’indirizzu web specificatu
+	  in &lt;chjassu di prughjettu&gt; è caricà u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--resource-bundle=&lt;path&gt;
 		A Java .properties file to use for interface text
 	--config-dir=&lt;path&gt;
@@ -2118,6 +2130,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173418Z">
         <seg>-h, --help
 		Affissa l’infurmazione d’impiegu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+	  Print this help message.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133518Z">
+        <seg>-h, --help
+	  Stampà stu messaghju d’aiutu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15744,6 +15766,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T103218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T103218Z">
         <seg>Risponsevule di prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133504Z">
+        <seg>Solu u chjassu di prughjettu : Lancià l’interfaccia GUI è caricà u prughjettu indicatu</seg>
       </tuv>
     </tu>
     <tu>
