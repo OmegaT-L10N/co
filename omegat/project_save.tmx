@@ -15291,6 +15291,14 @@ in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check your repository has correct commits and files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T163011Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T163011Z">
+        <seg>Verificate chì i commits è schedarii di u vostru dipositu sianu curretti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please close search window.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T112210Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T112210Z">
@@ -20297,6 +20305,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T105521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T105521Z">
         <seg>U prughjettu ùn pò micca esse verificatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project conversion was failed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T162412Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T162412Z">
+        <seg>A cunversione di prughjettu hè fiascata.</seg>
       </tuv>
     </tu>
     <tu>
