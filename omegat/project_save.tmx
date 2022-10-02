@@ -2300,6 +2300,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+	  Validate tags.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T141422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141331Z">
+        <seg>--tag-validation=[abort|warn]
+	  Cunvalidà l’etichette.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
@@ -21976,6 +21986,16 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T141559Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141454Z">
+        <seg>Sintassa : team init &lt;lingua d’origine&gt; &lt;lingua di destinazione&gt;
+	Fighjate --help</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use $n to refer to the nth group.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T104646Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T104646Z">
@@ -22506,8 +22526,8 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       <tuv lang="en">
         <seg>Warn: Report invalid tags to stdout.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173809Z">
-        <seg>Warn : adittà l’etichette inaccettevule nant’à stdout.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T141447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T173809Z">
+        <seg>Warn : signalà l’etichette inaccettevule nant’à stdout.</seg>
       </tuv>
     </tu>
     <tu>
