@@ -2090,6 +2090,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135640Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135515Z">
+        <seg>--mode=[console mode name]
+	  Specificà un altru modu chì quellu predefinitu (interfaccia GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
 		Specify a mode other than default (GUI).</seg>
       </tuv>
@@ -5407,6 +5417,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T175352Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T175352Z">
         <seg>Ghjè una guida d’amparera cù istruzzioni per u furmadore è esempii di risorse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console mode names and their options:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135804Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135804Z">
+        <seg>Nomi di i modi di cunsola è e so ozzioni :</seg>
       </tuv>
     </tu>
     <tu>
@@ -17576,8 +17594,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164908Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164908Z">
-        <seg>Fighjate inghjò per sapene di più.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135652Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164908Z">
+        <seg>Lighjite inghjò per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
