@@ -2056,6 +2056,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133827Z">
+        <seg>--no-team
+	  Disattivà à funzione di prughjettu di squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--pseudotranslatetype=[equal|empty]
 		What to fill the pseudotranslated TMX with.</seg>
       </tuv>
@@ -23624,6 +23634,16 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T165410Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T165410Z">
         <seg>src (URL di e &amp;fiure)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133933Z">
+        <seg>team init &lt;lingua d’origine&gt; &lt;lingua di destinazione&gt;
+	  Attrezzu di prughjettu di squadra.</seg>
       </tuv>
     </tu>
     <tu>
