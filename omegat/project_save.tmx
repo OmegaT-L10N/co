@@ -8201,48 +8201,48 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Event: application shutdown</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
-        <seg>Avvenimentu : fermata di l’appiecazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
+        <seg>Evvenimentu : fermata di l’appiecazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150034Z">
-        <seg>Avvenimentu : avviu di l’appiecazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150034Z">
+        <seg>Evvenimentu : avviu di l’appiecazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Event: font changed</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150237Z">
-        <seg>Avvenimentu : cambiamentu di grafia</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150237Z">
+        <seg>Evvenimentu : cambiamentu di grafia</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Event: new entry activated</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150212Z">
-        <seg>Avvenimentu : attivazione d’una nova entrata</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150212Z">
+        <seg>Evvenimentu : attivazione d’una nova entrata</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150147Z">
-        <seg>Avvenimentu : attivazione d’un novu schedariu ({0})</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150147Z">
+        <seg>Evvenimentu : attivazione d’un novu schedariu ({0})</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Event: project change - "{0}"</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145957Z">
-        <seg>Avvenimentu : cambiamentu di prughjettu - « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145957Z">
+        <seg>Evvenimentu : cambiamentu di prughjettu - « {0} »</seg>
       </tuv>
     </tu>
     <tu>
