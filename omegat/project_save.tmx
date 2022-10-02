@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font size to dictionary pane</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T142835Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T142835Z">
+        <seg>Appiecà sta &amp;dimensione di grafia à u pannellu di dizziunariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (project files, statistics, etc.)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T165934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192851Z">
@@ -18298,6 +18306,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co">
         <seg>Dimensione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Size on Dictionary pane</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T142611Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T142611Z">
+        <seg>Dimensione nant’à u pannellu Dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
