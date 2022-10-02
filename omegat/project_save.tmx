@@ -6397,6 +6397,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom branch</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T163502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T163502Z">
+        <seg>Ghjemba persunalizata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom server URL</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T182752Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T182752Z">
@@ -6465,6 +6473,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T172221Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T172221Z">
         <seg>Valori predefiniti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default branch</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T163455Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T163455Z">
+        <seg>Ghjemba predefinita</seg>
       </tuv>
     </tu>
     <tu>
