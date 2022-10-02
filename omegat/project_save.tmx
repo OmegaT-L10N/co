@@ -6347,6 +6347,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current project configuration will be override by the remote project configuration content.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T154756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T154756Z">
+        <seg>A cunfigurazione di u prughjettu attuale serà rimpiazzata da u cuntenutu di a cunfigurazione di u prughjettu alluntanatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Current team:
 (alphabetical order)</seg>
       </tuv>
