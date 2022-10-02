@@ -11256,8 +11256,8 @@ double-click on that shortcut.</seg>
       <tuv lang="en">
         <seg>It is a more recent version than the Standard version and includes new features not present in the latter.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T171807Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T171807Z">
-        <seg>Ghjè una versione più recente chì a versione classica è chì cuntene nove funzioni.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174712Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T171807Z">
+        <seg>Ghjè una versione più recente chè a versione classica è chì cuntene nove funzioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23009,8 +23009,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T151135Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T151135Z">
-        <seg>Quand’un schedariu unicu cuntene più di segmenti, i segmenti addiziunali seranu caricati à a dumanda durante l’affissera.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174547Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T151135Z">
+        <seg>Quand’un schedariu unicu cuntene più di segmenti chè què, i segmenti addiziunali seranu caricati à a dumanda durante l’affissera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23816,6 +23816,22 @@ di creà u so cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T174621Z">
+        <seg>\.[A-Z]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>\s{2,}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T174632Z">
+        <seg>\s{2,}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>all matching segments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T142515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T181428Z">
@@ -24174,6 +24190,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T165610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T165610Z">
         <seg>macOS prova di fà cresce a sicurità per rende più difficiule di lancià prugrammi micca verificati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>more than one space</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174617Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T174617Z">
+        <seg>più chè un spaziu</seg>
       </tuv>
     </tu>
     <tu>
