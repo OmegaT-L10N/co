@@ -2157,9 +2157,9 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--mode=[console mode name]
 	  Specify a mode other than default (GUI).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135640Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135515Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135515Z">
         <seg>--mode=[console mode name]
-	  Specificà un altru modu chì quellu predefinitu (interfaccia GUI).</seg>
+	  Specificà un altru modu chè quellu predefinitu (interfaccia GUI).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3877,8 +3877,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T142110Z">
-        <seg>Site sicuru di vulè caccià u gruppu di regule di segmentazione {0} ?</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T142110Z">
+        <seg>Da veru, vulete caccià u gruppu di regule di segmentazione {0} ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3893,8 +3893,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Are you sure you want to reset the master password?</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172257Z">
-        <seg>Site sicuru di vulè viutà a parolla d’intesa principale ?</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172257Z">
+        <seg>Da veru, vulete viutà a parolla d’intesa principale ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15273,8 +15273,8 @@ In nebbia pagna</seg>
       <tuv lang="en">
         <seg>Perform SVN cleanup on current project or any local SVN repository</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T144351Z">
-        <seg>Eseguisce una nettata di SVN nant’à u prughettu attuale o qualsisia repository SVN lucale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174144Z" creationid="Patriccollu" creationdate="20170209T144351Z">
+        <seg>Eseguisce una nettata di SVN nant’à u prughjettu attuale o qualsiasi dipositu SVN lucale</seg>
       </tuv>
     </tu>
     <tu>
@@ -21075,8 +21075,8 @@ di copia © 2018.</seg>
       <tuv lang="en">
         <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T141334Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T141334Z">
-        <seg>Dunque, per indettu, e regule per u canadianu francese (FR-CA) duverianu esse piazzate più insù chì e regule per u francese (FR.*) è più insù chì quelle predefinite (.*).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174419Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T141334Z">
+        <seg>Dunque, per indettu, e regule per u canadianu francese (FR-CA) duverianu esse piazzate più insù chè e regule per u francese (FR.*) è più insù chì quelle predefinite (.*).</seg>
       </tuv>
     </tu>
     <tu>
@@ -21187,6 +21187,14 @@ di copia © 2018.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T173335Z">
+        <seg>Per arricurdavvi di e preferenze iniziale di u prughjettu, aprite u dialogu di e pruprietà di prughjettu, appughjendu nant’à &lt;k0&gt;&lt;k1&gt;Ctrl&lt;/k1&gt;&lt;k2&gt;E&lt;/k2&gt;&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164035Z">
@@ -21207,6 +21215,14 @@ di copia © 2018.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T164332Z">
         <seg>Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu &lt;g1&gt;Schedarii di Prughjettu&lt;/g1&gt;, appughjendu nant’à &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g3&gt;Project Files&lt;/g3&gt; dialog by pressing &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T173634Z">
+        <seg>Per fighjà a lista di i schedarii di u prughjettu, aprite u dialogu &lt;g3&gt;Schedarii di Prughjettu&lt;/g3&gt;, appughjendu nant’à &lt;k4&gt;&lt;k5&gt;Ctrl&lt;/k5&gt;&lt;k6&gt;L&lt;/k6&gt;&lt;/k4&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23562,8 +23578,8 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163719Z">
-        <seg>Si pò creà un prughjettu novu per ogni travagliu novu, è si pò aghjunghje schedarii d’origine novi in un prughjettu quand’ella vi pare.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173323Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163719Z">
+        <seg>Si pò creà un prughjettu novu per ogni travagliu novu, è si pò aghjunghje schedarii d’origine novi in un prughjettu quand’ella vi piace.</seg>
       </tuv>
     </tu>
     <tu>
