@@ -8323,6 +8323,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Export translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T161943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T161943Z">
+        <seg>U cartulare d’espurtazione di memoria di traduzzione {0} ùn esiste micca !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External GPG did not return a valid signature; got: {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T140725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140725Z">
@@ -9256,6 +9264,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113522Z">
         <seg>Principu di l’esecuzione di Git « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git notification: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T162123Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T162123Z">
+        <seg>Nutificazione Git : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11451,6 +11467,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162304Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162204Z">
         <seg>Jean-Christophe Helary (prupietariu di u gruppu d’assistenza, rispunsevule di a lucalisazione)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jean-Christophe Helary is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T161832Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T161749Z">
+        <seg>Jean-Christophe Helary hè u risponsevule di u prughjettu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17730,6 +17754,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172342Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172342Z">
         <seg>Fighjate /docs/contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See /docs/libraries.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T161852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T161844Z">
+        <seg>Fighjate /docs/libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
