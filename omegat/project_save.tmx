@@ -2202,6 +2202,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--quiet
+	  Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T141150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140908Z">
+        <seg>--quiet
+	  Riduce l’esciuta à stdout di a linea di cumanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -2256,6 +2266,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T133118Z">
         <seg>--script=&lt;chjassu&gt;
 		Un scenariu à eseguisce quandu accadanu avvenimenti in u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140812Z">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Indicheghja u furmatu d’esciuta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5491,6 +5511,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console only options:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140905Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140905Z">
+        <seg>Ozzioni solu di cunsola :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -6393,6 +6421,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T172221Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T172221Z">
         <seg>Valori predefiniti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Defaults to xml.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140808Z">
+        <seg>Predefinizioni à xml.</seg>
       </tuv>
     </tu>
     <tu>
