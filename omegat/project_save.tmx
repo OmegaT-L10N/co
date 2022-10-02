@@ -16868,6 +16868,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository (type: {0}) URL not defined on path: {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T162336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T162336Z">
+        <seg>Dipositu (tipu : {0}) indirizzu web micca definitu nant’à u chjassu : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository Credentials</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140308Z">
