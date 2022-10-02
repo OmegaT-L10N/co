@@ -9900,6 +9900,16 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134308Z">
+        <seg>S’è a cumanda hè lanciata da un arburu di travagliu git o una copia timpuraria svn,
+	  i risultati seranu messi in attesa o aghjunti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If issue checking is slow, try disabling some of the optional checks.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T153504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185340Z">
@@ -10416,6 +10426,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T172033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T171255Z">
         <seg>L’infurmazioni menziunate dopu sò pruposte nant’à d’altri siti è cuncernenu parechje prucedure è funzioni d’OmegaT. Da bona regula, sò scritte &lt;i&gt;in inglese&lt;/i&gt; è fatte per l’utilizatori cunfirmati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134151Z">
+        <seg>Inizià un prughjettu minimu di squadra cù e lingue indicate.</seg>
       </tuv>
     </tu>
     <tu>
