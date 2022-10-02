@@ -2110,6 +2110,30 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-pseudotranslatetmx
+	  --pseudotranslatetmx=&lt;path&gt;
+	    The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140030Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135922Z">
+        <seg>--mode=console-pseudotranslatetmx
+	  --pseudotranslatetmx=&lt;chjassu&gt;
+	    U schedariu TMX resultendu chì cuntene a pseudo traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;pattern&gt;
+	    A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135819Z">
+        <seg>--mode=console-translate
+	  --source-pattern=&lt;mudellu&gt;
+	    Una lista bianca in espressione regulare di i schedarii d’origine à trattà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 		Disable team project functionality.</seg>
       </tuv>
@@ -2136,6 +2160,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T164215Z">
         <seg>--pseudotranslatetype=[equal|empty]
 		U cuntenutu à include in a pseudo-traduzzione TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140034Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    U cuntenutu à riempie in u TMX di pseudo traduzzione.</seg>
       </tuv>
     </tu>
     <tu>
