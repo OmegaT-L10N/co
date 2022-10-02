@@ -22835,6 +22835,14 @@ Pagina scapa</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Without --stats-type, detects format from file extension.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140646Z">
+        <seg>Senza --stats-type, avventata di u furmatu da l’estensione di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Without JRE</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T134310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T134310Z">
