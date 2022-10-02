@@ -6669,6 +6669,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries in OmegaT are based on the StarDict or on the Lingvo DSL format.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T163751Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T163751Z">
+        <seg>I dizziunarii in OmegaT impieganu i furmati StarDict o Lingvo DSL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="co">
@@ -7329,6 +7337,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T173519Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T173519Z">
         <seg>Scricate u schedariu chì duveria esse un archiviu &lt;f0&gt;tarball&lt;/f0&gt; (cù un estensione &lt;e1&gt;tar.bz&lt;/e1&gt; o &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T163814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T163814Z">
+        <seg>Download the file - it should be a tarball archive (extension &lt;f0&gt;tar.bz&lt;/f0&gt; or &lt;f1&gt;tar.bz2&lt;/f1&gt;).</seg>
       </tuv>
     </tu>
     <tu>
