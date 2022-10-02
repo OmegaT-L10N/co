@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Export TMs</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T141815Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141815Z">
+        <seg>&amp;Espurtà e MdT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="co">
@@ -22000,6 +22008,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T104646Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T104646Z">
         <seg>Impiegà $n per fà referenza à u n-esimu gruppu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;Condensed view</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T142029Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T142029Z">
+        <seg>Impiegà una vista &amp;cundensata</seg>
       </tuv>
     </tu>
     <tu>
