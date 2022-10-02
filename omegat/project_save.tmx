@@ -2270,6 +2270,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+	  A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T141329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141154Z">
+        <seg>--script=&lt;path&gt;
+	  Un schedariu di scenariu à eseguisce à l’accade d’avvenimenti di prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--stats-type=[xml|text][txt][json]]]
 	    Specifies the output format.</seg>
       </tuv>
