@@ -2006,6 +2006,20 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+	  Source- or target-language tokenizer to use (overrides project
+	  settings).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134509Z">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;nome di classa&gt;
+	  Lemmatizatore d’analisa di lingua - d’origine o di destinazione -
+	  à impiegà (rimpiazzeghja e preferenze di prughjettu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -2026,12 +2040,32 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134427Z">
+        <seg>--disable-location-save
+	  Ùn arricurdassi micca di l’ultimu cartulare apertu in u selettore di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--disable-project-locking
 		Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T125918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174220Z">
         <seg>--disable-project-locking
 		Ùn pruvà micca di bluccà u schedariu di prughjettu omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+	  Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134337Z">
+        <seg>--disable-project-locking
+	  Ùn pruvà micca d’ammarchjunà u schedariu di prughjettu omegat.project.</seg>
       </tuv>
     </tu>
     <tu>
