@@ -2337,9 +2337,9 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--script=&lt;path&gt;
 	  A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T141329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141154Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141154Z">
         <seg>--script=&lt;path&gt;
-	  Un schedariu di scenariu à eseguisce à l’accade d’avvenimenti di prughjettu.</seg>
+	  Un schedariu di scenariu à eseguisce à l’accade d’evvenimenti di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3630,8 +3630,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151853Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un avvenimentu di cambiamentu di grafia :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151853Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu di cambiamentu di grafia :
 {0}</seg>
       </tuv>
     </tu>
@@ -3640,8 +3640,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151735Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un avvenimentu di novu schedariu :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151735Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu di novu schedariu :
 {0}</seg>
       </tuv>
     </tu>
@@ -3650,8 +3650,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T150909Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un avvenimentu di cambiamentu di prughjettu :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T150909Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu di cambiamentu di prughjettu :
 {0}</seg>
       </tuv>
     </tu>
@@ -3660,8 +3660,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151420Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un avvenimentu d’avviu di l’appiecazione :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151420Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu d’avviu di l’appiecazione :
 {0}</seg>
       </tuv>
     </tu>
@@ -3670,8 +3670,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151332Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un avvenimentu d’avviu di l’appiecazione :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151332Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu d’avviu di l’appiecazione :
 {0}</seg>
       </tuv>
     </tu>
@@ -3680,8 +3680,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing an entry activated event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151822Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un avvenimentu di nova entrata :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151822Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu di nova entrata :
 {0}</seg>
       </tuv>
     </tu>
@@ -8365,8 +8365,8 @@ Solu 404</seg>
       <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T110423Z">
-        <seg>Esecuzione di u scenariu {0} (avvenimentu {1})</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T110423Z">
+        <seg>Esecuzione di u scenariu {0} (evvenimentu {1})</seg>
       </tuv>
     </tu>
     <tu>
