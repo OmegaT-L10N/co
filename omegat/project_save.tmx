@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.6.0_0_203361b5" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17396,6 +17396,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Help &gt; User's Manual for more information, including Java options.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133310Z">
+        <seg>Lighjite Aiutu &gt; Manuale di l’utilizatore per sapene di più, ancu nant’à l’ozzioni java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Help &gt; User's Manual for more information.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T164510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150134Z">
@@ -21692,6 +21700,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T145850Z">
         <seg>Sintassa : java -jar OmegaT.jar team &lt;cumanda&gt; [&lt;ozzioni&gt;]]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133030Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T132923Z">
+        <seg>Sintassa : java -jar [&lt;ozzioni java&gt;] OmegaT.jar [&lt;ozzioni OmegaT&gt;] [&lt;chjassu di prughjettu&gt;]</seg>
       </tuv>
     </tu>
     <tu>
