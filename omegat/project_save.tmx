@@ -2434,6 +2434,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--stats-type=[xml|text|txt|json]
+	    Specifies the output format.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T142915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T142915Z">
+        <seg>--stats-type=[xml|text][txt][json]]]
+	    Indicheghja u furmatu d’esciuta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--tag-validation=[abort|warn]
 		Validate tags.</seg>
       </tuv>
@@ -10282,6 +10292,16 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If --stats-type is not specified, the format is
+	    detected from the file extension.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T143057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T143057Z">
+        <seg>S’è --stats-type ùn hè micca indicatu, u furmatu hè
+	    avventatu da l’estensione di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T163557Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T163557Z">
@@ -14630,6 +14650,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T143213Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T143213Z">
+        <seg>OmegaT manca di memoria è si chjoderà quandu si preme nant’à u buttone Vai.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150014Z">
@@ -15428,6 +15456,18 @@ material in ./tm, ./glossary, and ./dictionary as required, then commit
 everything.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T180858Z">
+        <seg>Piazzà i schedarii d’origine in ./source è d’eventuale schedarii
+in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
+è dopu validà (commit) l’inseme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T143140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T143140Z">
         <seg>Piazzà i schedarii d’origine in ./source è d’eventuale schedarii
 in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
 è dopu validà (commit) l’inseme.</seg>
