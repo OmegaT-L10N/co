@@ -2094,6 +2094,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The directory used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T141901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T141901Z">
+        <seg>--config-dir=&lt;chjassu&gt;
+	  Un cartulare induve leghje o scrive i schedarii di cunfigurazione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -2145,6 +2155,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     <tu>
       <tuv lang="en">
         <seg>--disable-project-locking
+	  Do not attempt to lock the omegat.project file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T141824Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T141824Z">
+        <seg>--disable-project-locking
+	  Ùn pruvà micca d’ammarchjunà u schedariu omegat.project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
 	  Do not attempt to lock the project's omegat.project file.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134337Z">
@@ -2160,6 +2180,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135515Z">
         <seg>--mode=[console mode name]
 	  Specificà un altru modu chè quellu predefinitu (interfaccia GUI).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console mode name]
+	  Specify a mode other than the GUI default.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T142001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T142001Z">
+        <seg>--mode=[console mode name]
+	  Specificà un altru modu chè quellu di l’interfaccia GUI predefinita.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2318,6 +2348,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	  A Java .properties file to use for interface text</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135331Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	  Un schedariu .properties Java à impiegà per u testu di l’interfaccia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T141904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T141904Z">
         <seg>--resource-bundle=&lt;path&gt;
 	  Un schedariu .properties Java à impiegà per u testu di l’interfaccia</seg>
       </tuv>
@@ -13648,6 +13688,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T141754Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T141754Z">
+        <seg>Nisuna ozzione : Lancià l’interfaccia GUI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133408Z">
@@ -17898,6 +17946,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T144933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T144933Z">
         <seg>Fighjà &lt;m1&gt;&lt;g2&gt;Ozzioni&lt;/g2&gt;&lt;g3&gt;Preferenze…&lt;/g3&gt;&lt;g4&gt;Filtri di schedariu&lt;/g4&gt;&lt;/m1&gt; per ottene una lista di i furmati di schedariu ch’OmegaT pò trattà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Help &gt; User Guide for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T141747Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T141747Z">
+        <seg>Lighjite Aiutu &gt; Manuale di l’utilizatore per sapene di più, ancu nant’à l’ozzioni java.</seg>
       </tuv>
     </tu>
     <tu>
