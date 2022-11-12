@@ -2256,6 +2256,24 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T142909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T142909Z">
+        <seg>--mode=console-stats
+	  project_path
+	    U chjassu ver di u prughjettu
+	  --output-file=[stats-output-file]
+	    Stampa ver di u schedariu indicatu, o ver di l’esciuta
+	    classica s’ellu ùn ci hè schedariu o s’è l’ozzione hè assente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
@@ -2302,6 +2320,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	    What to fill the pseudotranslated TMX with.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140034Z">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    U cuntenutu à riempie in u TMX di pseudo traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+	    What to put in the pseudotranslated TMX.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T142533Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T142533Z">
         <seg>--pseudotranslatetype=[equal|empty]
 	    U cuntenutu à riempie in u TMX di pseudo traduzzione.</seg>
       </tuv>
