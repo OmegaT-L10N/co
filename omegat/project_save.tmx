@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;UPPER CASE</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161325Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161325Z">
+        <seg>TUTTE &amp;MAIUSCULE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Undo Changes</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172841Z">
@@ -1456,8 +1464,8 @@
       <tuv lang="en">
         <seg>&amp;lower case</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160918Z">
-        <seg>&amp;solu minuscule</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161229Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160918Z">
+        <seg>&amp;tutte minuscule</seg>
       </tuv>
     </tu>
     <tu>
