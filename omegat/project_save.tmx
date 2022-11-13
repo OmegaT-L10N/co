@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Use local segmentation rules</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165534Z">
+        <seg>&amp;Impiegà regule lucale di segmentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User Guide...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162313Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162313Z">
@@ -8375,6 +8383,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring post-processing commands!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165341Z">
+        <seg>Sbagliu à l’appustamentu di e cumande di post trattamentu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174432Z">
@@ -12787,6 +12803,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local &amp;Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165459Z">
+        <seg>&amp;Regule lucale di segmentazione…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155823Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155823Z">
@@ -16293,6 +16317,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing commands was interrupted.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165309Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165309Z">
+        <seg>E cumande di post trattamentu sò interrotte..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Point</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150649Z" creationid="Patriccollu" creationdate="20170210T150649Z">
@@ -16600,6 +16632,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T143841Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T143841Z">
         <seg>Schedarii di &amp;prughjettu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165437Z">
+        <seg>Pruprietà di u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -18312,6 +18352,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185327Z">
         <seg>Pudete impiegà sti scenarii è prucedure per :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;ntence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165421Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165421Z">
+        <seg>Segmentazione à u livellu di a &amp;frasa</seg>
       </tuv>
     </tu>
     <tu>
