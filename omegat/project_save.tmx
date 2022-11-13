@@ -13815,6 +13815,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monolingual XLIFF</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184510Z">
+        <seg>XLIFF monolinguale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moodle PHP</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T185025Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185025Z">
@@ -18226,6 +18234,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143117Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143117Z">
         <seg>SQLJet 1.1.10 (GPL v2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG  / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184648Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184648Z">
+        <seg>SVG o Adobe Illustrator Export</seg>
       </tuv>
     </tu>
     <tu>
