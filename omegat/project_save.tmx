@@ -7583,6 +7583,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DocBook files must have a proper DOCTYPE declaration.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184824Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184824Z">
+        <seg>I schedarii DocBook devenu pussede una dichjarazione DOCTYPE curretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="co" changeid="Patrick" changedate="20160917T145933Z" creationid="Patrick" creationdate="20160917T145933Z">
@@ -12247,8 +12255,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Key=Value Text</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T135524Z" creationid="Patriccollu" creationdate="20170210T150356Z">
-        <seg>Testu chjave=valore</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184841Z" creationid="Patriccollu" creationdate="20170210T150356Z">
+        <seg>Testu di tipu Chjave=Valore</seg>
       </tuv>
     </tu>
     <tu>
@@ -24454,6 +24462,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150220Z" creationid="Patriccollu" creationdate="20170210T150220Z">
         <seg>WordPress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordpress XML export</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184722Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184722Z">
+        <seg>Espurtazione XML di Wordpress</seg>
       </tuv>
     </tu>
     <tu>
