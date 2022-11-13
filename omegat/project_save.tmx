@@ -11110,8 +11110,8 @@ double-click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Ignore &amp;PO header</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181926Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181926Z">
-        <seg>Ignurà l’intestatura di schedariu &amp;PO</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T182616Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181926Z">
+        <seg>&amp;Ignurà l’intestatura di schedariu PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -13767,6 +13767,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Monolin&amp;gual</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T182731Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T182731Z">
+        <seg>&amp;Monolinguale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Monolingual</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163508Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T163508Z">
@@ -15813,6 +15821,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T164049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T164049Z">
         <seg>Entrata PDF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PDF text contents</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T183850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T183850Z">
+        <seg>Cuntenutu di testu PDF</seg>
       </tuv>
     </tu>
     <tu>
@@ -19890,6 +19906,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standar&amp;d</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T182725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T182725Z">
+        <seg>&amp;Classicu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20161225T180320Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20161225T180320Z">
@@ -22471,8 +22495,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Translate &amp;blank source segments</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181851Z">
-        <seg>Traduce i segmenti d’origine &amp;vioti</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T182610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181851Z">
+        <seg>&amp;Traduce i segmenti d’origine vioti</seg>
       </tuv>
     </tu>
     <tu>
