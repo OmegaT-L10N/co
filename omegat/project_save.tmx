@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source File</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160642Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160642Z">
+        <seg>Schedariu &amp;attuale d’origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T160510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T160510Z">
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T141815Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141815Z">
         <seg>&amp;Espurtà e MdT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Exported TMs</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160627Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160627Z">
+        <seg>MdT &amp;espurtate</seg>
       </tuv>
     </tu>
     <tu>
@@ -6111,10 +6127,26 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Translated Files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160519Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160519Z">
+        <seg>Creà i schedarii &amp;tradutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224559Z" creationid="Patriccollu" creationdate="20170213T141537Z">
         <seg>Creà una traduzzione alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translate&amp;d File</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160549Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160549Z">
+        <seg>Creà u sche&amp;dariu traduttu attuale</seg>
       </tuv>
     </tu>
     <tu>
