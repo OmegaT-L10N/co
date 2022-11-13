@@ -8107,6 +8107,14 @@ Micca pagina</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enable them in Preferences &gt; Saving and Output....</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165800Z">
+        <seg>Attivatele via Preferenze &gt; Arregistramentu è esciuta…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enabled</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T155845Z">
@@ -12827,6 +12835,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Post-processing Commands</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165607Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165607Z">
+        <seg>Cumande lucale di post trattamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local Post-processing Commands (Disabled):</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165629Z">
+        <seg>Cumande lucale di post trattamentu (disattivate) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local Project Folder:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225246Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T164511Z">
@@ -12839,6 +12863,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T154503Z">
         <seg>Chjassu di l’installazione lucale :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165707Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165707Z">
+        <seg>E cumande lucale di post trattamentu sò disattivate è ùn seranu micca lanciate.</seg>
       </tuv>
     </tu>
     <tu>
