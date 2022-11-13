@@ -17468,6 +17468,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Run OmegaT" in the user guide.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T113633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T113633Z">
+        <seg>Lancià OmegaT » in u manuale di l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Run script on slot #{0}.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181722Z">
@@ -21273,6 +21281,14 @@ di copia © 2018.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T113817Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T113817Z">
+        <seg>Per aghjunghje schedarii à u prughjettu, si pò :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
@@ -23879,6 +23895,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T175017Z">
         <seg>Ci vole à cambià u vostru JDK 1.6 da l’ultima versione, o solu caccià i schedarii jaxb-*.jar in u cartulare OmegaT /lib</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T113741Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T113741Z">
+        <seg>U vostru prughjettu ùn pare micca cuntene di schedariu à traduce.</seg>
       </tuv>
     </tu>
     <tu>
