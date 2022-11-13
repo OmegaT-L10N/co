@@ -18341,6 +18341,16 @@ Solu ste parolle</seg>
     <tu>
       <tuv lang="en">
         <seg>Scope:
+Searches apply to the project and cover its source and target text, reference TMs, glossaries, notes, and comments by default.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T172135Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T172135Z">
+        <seg>Scopu :
+E ricerche predefinite s’appiecanu à u prughjettu è coprenu u testu d’origine è di destinazione, e MdT di referenza, i glossarii, e note è i cummenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T095948Z">
