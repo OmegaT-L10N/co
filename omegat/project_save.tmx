@@ -9365,6 +9365,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder exists and is not empty.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171200Z">
+        <seg>U cartulare esiste è ùn hè micca viotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Folder {0} was automatically created for team mode project</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T164731Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T164731Z">
@@ -9681,6 +9689,14 @@ provided (omegat.kaptn).</seg>
         <seg>Full/Half &amp;width char insensitive</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T142130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T142130Z">
+        <seg>&amp;Ignurà a sfarenza trà sana è mezu larghezza di caratteru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full/half-&amp;width char insensitive</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171336Z">
         <seg>&amp;Ignurà a sfarenza trà sana è mezu larghezza di caratteru</seg>
       </tuv>
     </tu>
@@ -14856,6 +14872,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have read and write permissions for this folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171254Z">
+        <seg>OmegaT ùn hà micca i permessi di lettura è di scrittura per stu cartulare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T141403Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141403Z">
@@ -18926,6 +18950,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a different folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171243Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171243Z">
+        <seg>Selezziunate un altru cartulare.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185144Z">
@@ -20914,6 +20946,14 @@ cartulare attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The dictionary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171136Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171136Z">
+        <seg>U cartulare di i schedarii di dizziunariu ùn esiste micca !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T101144Z">
@@ -20926,6 +20966,14 @@ cartulare attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T120701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T120315Z">
         <seg>U so scaricamentu serà più rapidu è a so installazione richiiderà menù di spaziu nant’à u vostru discu duru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The export translation memory folder does not exist!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171129Z">
+        <seg>U cartulare d’espurtazione di memoria di traduzzione ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
@@ -20974,6 +21022,14 @@ cartulare attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T170142Z">
         <seg>Ste furmazioni autonome sò dispunibule à u scaricamentu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The glossary files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171035Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171035Z">
+        <seg>U cartulare di i schedarii di glossariu ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
@@ -21349,10 +21405,26 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translated files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171030Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171030Z">
+        <seg>U cartulare di i schedarii tradutti ùn esiste micca !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translation has changed.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T143126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143126Z">
         <seg>A  traduzzione hè stata mudificata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation memory files folder does not exist!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171101Z">
+        <seg>U cartulare di i schedarii di memoria di traduzzione ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
@@ -21369,6 +21441,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125916Z">
         <seg>Cù sta versione, l’installazione hè fatta da l’utilizatore ; ghjè quella di l’utilizatori avvezzi d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writeable glossary file folder does not exist!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171046Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171046Z">
+        <seg>U cartulare di i schedarii di glossariu scrivibile ùn esiste micca !</seg>
       </tuv>
     </tu>
     <tu>
