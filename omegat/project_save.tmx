@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply a different font size to the dictionary pane</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163641Z">
+        <seg>&amp;Appiecà una dimensione sfarente di grafia à u pannellu di dizziunariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply this font size to dictionary pane</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T142835Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T142835Z">
@@ -200,8 +208,8 @@
       <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163429Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163429Z">
-        <seg>Appiecà sta &amp;grafia à i dati tabulari (lista di i schedarii d’origine, statistiche, ecc.)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163429Z">
+        <seg>Appiecà sta grafia à i &amp;dati tabulari (lista di i schedarii d’origine, statistiche, ecc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -21491,8 +21499,8 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       <tuv lang="en">
         <seg>This is the way text will look when displayed.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T164407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T164407Z">
-        <seg>Ghjè a manera cù quella u testu serà riprisentatu quand’ellu serà affissatu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163646Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T164407Z">
+        <seg>Eccu a manera cù quella u testu serà riprisentatu quand’ellu serà affissatu.</seg>
       </tuv>
     </tu>
     <tu>
