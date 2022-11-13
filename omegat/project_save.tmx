@@ -1936,6 +1936,22 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane,
+	- use Project &gt; Add Files...,
+	- use Project &gt; Source Files... and click on Add Files...
+	- or use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T114820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T114027Z">
+        <seg>- Sguillà è dipone schedarii nant’à stu pannellu,
+	- Impiegà Prughjettu &gt; Aghjunghje schedarii…
+	- Impiegà Prughjettu &gt; Schedarii di fonte… eppò Aghjunghje schedarii…
+	- O impiegà u vostru ghjestiunariu per cupià i schedarii ver di u
+	 cartulare « Source » eppò impiegà Prughjettu &gt; Ricaricà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T184331Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184331Z">
@@ -3305,6 +3321,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co">
         <seg>Aghjunghje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T114033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T114033Z">
+        <seg>Aghjunghje schedarii…</seg>
       </tuv>
     </tu>
     <tu>
