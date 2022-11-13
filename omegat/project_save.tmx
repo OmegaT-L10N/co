@@ -1472,8 +1472,8 @@
       <tuv lang="en">
         <seg>&amp;lower case</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160918Z">
-        <seg>&amp;tutte e lettere in minuscule</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161602Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160918Z">
+        <seg>&amp;solu lettere minuscule</seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,6 +5099,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180055Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153724Z">
         <seg>Verificà i penseri per u &amp;ducumentu attuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current File</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161837Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161837Z">
+        <seg>Verificà i penseri per u sche&amp;dariu attuale</seg>
       </tuv>
     </tu>
     <tu>
@@ -12959,6 +12967,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161631Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161631Z">
+        <seg>Marcà i spa&amp;zii micca spezzevule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-breakable Spaces</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T185741Z">
@@ -18716,6 +18732,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T174610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221434Z">
         <seg>Definita è allucata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Empty Translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161615Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161615Z">
+        <seg>Definisce una traduzzione viota</seg>
       </tuv>
     </tu>
     <tu>
