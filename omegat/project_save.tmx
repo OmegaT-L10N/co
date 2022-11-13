@@ -8243,6 +8243,16 @@ Micca pagina</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a language code in xx-YY, xxx-YY, xx_YY or xxx_YY  format, where xx or xxx 
+is the language code and YY is the region or country code (optional).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170930Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T170930Z">
+        <seg>Stampittà u codice di a lingua in u furmatu xx-YY, xxx-YY, xx_YY o xxx_YY, induve xx o xxx
+hè u codice di a lingua è YY hè quellu di u rughjone o di u paese (ozzionale).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter a source term, a target term and a comment:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T223509Z">
@@ -12853,8 +12863,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170515Z">
-        <seg>Schedariu/cartulare lucale</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170515Z">
+        <seg>Schedariu o cartulare lucale</seg>
       </tuv>
     </tu>
     <tu>
@@ -13125,8 +13135,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T141121Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141121Z">
-        <seg>Cartugrafia di i cartulari lucali cù quelli alluntanati di i dipositi</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141121Z">
+        <seg>Cartugrafia di i cartulari lucali cù quelli alluntanati in i dipositi</seg>
       </tuv>
     </tu>
     <tu>
@@ -17330,8 +17340,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Remote File/Folder</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170523Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170523Z">
-        <seg>Schedariu/cartulare alluntanatu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170526Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170523Z">
+        <seg>Schedariu o cartulare alluntanatu</seg>
       </tuv>
     </tu>
     <tu>
