@@ -20916,6 +20916,22 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The TMX file will still be loaded.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181638Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181638Z">
+        <seg>U schedariu TMX serà caricatu quantunque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) differs from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181519Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181519Z">
+        <seg>A lingua d’origine ({0}) di u schedariu TMX hè sfarente di a lingua d’origine ({1}) di u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T181656Z">
