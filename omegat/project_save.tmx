@@ -17250,6 +17250,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user guide.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T172723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T172723Z">
+        <seg>E ricerche da espressioni regulare currispondenu à l’espressioni regulare Java chì sò discritte in u manuale di l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T101241Z">
@@ -24090,6 +24098,16 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T165917Z" creationid="Patriccollu" creationdate="20170210T150134Z">
         <seg>Lucalizazione WiX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the * and ?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T173026Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T173026Z">
+        <seg>Caratteri generichi :
+E ricerche esatte è quelle da parolla chjave accettanu i caratteri generichi « * » è « ? »</seg>
       </tuv>
     </tu>
     <tu>
