@@ -21979,6 +21979,14 @@ di copia © 2018.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tick or untick the approrpiate boxes to change these settings.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T172230Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T172230Z">
+        <seg>Attivate o nò a casella apposta per cambià ste preferenze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can
 - drag and drop files on this Editor pane
 - use Project &gt; Copy Files to Source Folder...
