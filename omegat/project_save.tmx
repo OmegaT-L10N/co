@@ -5775,6 +5775,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Completed and current translations saved as {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164311Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164311Z">
+        <seg>Compiu è e traduzzioni attuale arregistrate cum’è {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T170441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T170441Z">
@@ -5943,6 +5951,18 @@ Hè ora di beie »</seg>
         <seg>Modu console-translate :
 	--source-pattern=&lt;mudellu&gt;
 		Una lista bianca in espressione regulare di i schedarii d’origine à trattà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consult the documentation about your recovery options and
+return the information below to the software manufacturer with
+a description of how this error was produced.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164213Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164213Z">
+        <seg>Lighjite a documentazione apprupositu di l’ozzioni di ricuperazione
+è mandate l’infurmazione chì seguiteghja à i sviluppatori incù una
+discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
       </tuv>
     </tu>
     <tu>
