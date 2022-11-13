@@ -5135,6 +5135,22 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Issues...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162839Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162839Z">
+        <seg>Verificà i penseri…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues... &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163005Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162854Z">
+        <seg>Verificà i penseri… &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;S&lt;/k2&gt;&lt;k3&gt;V&lt;/k3&gt;&lt;/k0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check LanguageTools rules</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191538Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191538Z">
@@ -22933,8 +22949,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162758Z">
-        <seg>Impiegà Attrezzi &gt; </seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163055Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162758Z">
+        <seg>Impiegate Attrezzi &gt; Verificà i penseri… per currege i sbaglii d’etichetta è pruvate torna.</seg>
       </tuv>
     </tu>
     <tu>
