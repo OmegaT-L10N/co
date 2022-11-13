@@ -6331,6 +6331,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create Project Folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170232Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T170232Z">
+        <seg>Creà u cartulare di prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a New Project</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170157Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160558Z">
@@ -6751,6 +6759,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T125256Z">
         <seg>Impiegu attuale di a memoria da a VM : {0}Mo ; ma sempre libera : {1}Mo ; è massima dispunibule: {2}Mo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current project configuration will be overridden by the remote project configuration.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T170308Z">
+        <seg>A cunfigurazione di u prughjettu attuale serà rimpiazzata da u cuntenutu di a cunfigurazione di u prughjettu alluntanatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21055,6 +21071,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T144934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T144934Z">
         <seg>Filosufia di l’« open source »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The original file is backed up as: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T170418Z">
+        <seg>U schedariu d’origine hè arregistratu cum’è salvaguardia : {0}</seg>
       </tuv>
     </tu>
     <tu>
