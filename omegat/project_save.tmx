@@ -104,8 +104,8 @@
       <tuv lang="en">
         <seg>&amp;Access Project Contents</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174926Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153423Z">
-        <seg>Accessu à u cuntenutu di u prugh&amp;jettu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155704Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153423Z">
+        <seg>Accessu à u cuntenutu d&amp;i u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -15309,6 +15309,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191937Z">
         <seg>Modu di rimpiazzamentu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;roject Folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155759Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155759Z">
+        <seg>Cartulare di prughjettu</seg>
       </tuv>
     </tu>
     <tu>
