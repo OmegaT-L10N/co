@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163429Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163429Z">
+        <seg>Appiecà sta &amp;grafia à i dati tabulari (lista di i schedarii d’origine, statistiche, ecc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply to All</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225553Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225553Z">
@@ -5343,6 +5351,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check whether this is intentional.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163307Z">
+        <seg>Verificate ch’ellu hè fattu appostu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check whole project</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T152305Z" creationid="Patriccollu" creationdate="20170209T152305Z">
@@ -8889,16 +8905,16 @@ Solu 404</seg>
       <tuv lang="en">
         <seg>Failed to commit source files!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191323Z">
-        <seg>Fiascu per rimandà i schedarii d’origine !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163108Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191323Z">
+        <seg>Impussibule di rimandà i schedarii d’origine !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191336Z">
-        <seg>Fiascu per rimandà i schedarii di destinazione !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163116Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191336Z">
+        <seg>Impussibule di rimandà i schedarii di destinazione !</seg>
       </tuv>
     </tu>
     <tu>
@@ -17052,6 +17068,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reload the project?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163333Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163333Z">
+        <seg>Ricaricà u prughjettu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remaining Characters (including spaces)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185558Z">
@@ -21155,6 +21179,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T174554Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213145Z">
         <seg>Ci hè parechji moduli d’estensione dispunibule in linea per OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There are no Git settings in the remote project file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163233Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163233Z">
+        <seg>Ùn ci hè alcuna preferenza Git in u schedariu di prughjettu alluntanatu.</seg>
       </tuv>
     </tu>
     <tu>
