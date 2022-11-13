@@ -14394,6 +14394,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T115341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T115341Z">
+        <seg>OmegaT hà sceltu l’ozzione « Sì » autumaticamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201009T175056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T160505Z">
@@ -20635,6 +20643,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T134753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T134753Z">
         <seg>U cartulare di prughjettu {0} hè mancante è ùn hà micca pussutu esse creatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T115226Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T115226Z">
+        <seg>U prughjettu hè viotu</seg>
       </tuv>
     </tu>
     <tu>
