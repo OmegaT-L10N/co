@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow blank target segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181756Z">
+        <seg>&amp;Permette i segmenti di destinazione vioti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T163031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T162641Z">
@@ -4297,6 +4305,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       </tuv>
       <tuv lang="co">
         <seg>Autore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto &amp;replace plural specification</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181958Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181958Z">
+        <seg>&amp;Rimpiazzà autumaticamente a specificazione di plurale</seg>
       </tuv>
     </tu>
     <tu>
@@ -11088,6 +11104,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co">
         <seg>Ignurà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore &amp;PO header</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181926Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181926Z">
+        <seg>Ignurà l’intestatura di schedariu &amp;PO</seg>
       </tuv>
     </tu>
     <tu>
@@ -22441,6 +22465,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T144327Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T181331Z">
         <seg>Traduttu o m&amp;icca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate &amp;blank source segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181851Z">
+        <seg>Traduce i segmenti d’origine &amp;vioti</seg>
       </tuv>
     </tu>
     <tu>
