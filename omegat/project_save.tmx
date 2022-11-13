@@ -20581,6 +20581,16 @@ The scope of a search is by default the project and can be set to be any files l
     <tu>
       <tuv lang="en">
         <seg>Text Replace:
+Replace applies to the target segments of the project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T173506Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T173506Z">
+        <seg>Rimpiazzamentu di testu :
+U rimpiazzamentu s’appieca à i segmenti di destinazione di u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
 The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T102949Z">
