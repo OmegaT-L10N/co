@@ -1088,8 +1088,8 @@
       <tuv lang="en">
         <seg>&amp;Restart</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T182812Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T182812Z">
-        <seg>&amp;Rilancià</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T182812Z">
+        <seg>Ri&amp;lancià</seg>
       </tuv>
     </tu>
     <tu>
@@ -3335,6 +3335,22 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160319Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160319Z">
+        <seg>+ &amp;schedarii…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160406Z">
+        <seg>Aghjunghje schedarii in u cartulare d’origine…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Files...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T114033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T114033Z">
@@ -3361,8 +3377,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Add Online MediaWiki Page</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155945Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155945Z">
-        <seg>Aghjunghje in linea una pagina MediaWiki</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155945Z">
+        <seg>Aghjunghje una pagina MediaWiki in linea</seg>
       </tuv>
     </tu>
     <tu>
@@ -8767,10 +8783,26 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to copy files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160218Z">
+        <seg>Impussibule di cupià i schedarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184410Z">
         <seg>Fiascu à a creazione di u prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to download Mediawiki page</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160133Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160133Z">
+        <seg>Impussibule di scaricà una pagina MediaWiki</seg>
       </tuv>
     </tu>
     <tu>
@@ -14985,8 +15017,8 @@ installed on your system.</seg>
       <tuv lang="en">
         <seg>Online Mediawiki Page URL</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160013Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160013Z">
-        <seg>Indirizzu web</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160013Z">
+        <seg>Indirizzu web di a pagina MediaWiki in linea</seg>
       </tuv>
     </tu>
     <tu>
