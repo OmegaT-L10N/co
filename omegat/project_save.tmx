@@ -1430,6 +1430,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User Guide...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162313Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162313Z">
+        <seg>&amp;Manuale di l’utilizatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180531Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172648Z">
@@ -9674,8 +9682,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Global File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162122Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162122Z">
-        <seg>&amp;Filtri di schedariu glubali…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162122Z">
+        <seg>&amp;Filtri glubali di schedariu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14884,6 +14892,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT needs to reload the project to take the modifications into account.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162433Z">
+        <seg>OmegaT richiede di ricaricà u prughjettu per piglià in contu e mudificazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT on Linux HowTo</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T171606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140110Z">
@@ -17000,6 +17016,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155348Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210927T155348Z">
         <seg>Ricaricà u prughjettu attuale per piglià in contu sti cambiamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reload the project now?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162455Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162455Z">
+        <seg>Ricaricà u prughjettu subitu ?</seg>
       </tuv>
     </tu>
     <tu>
