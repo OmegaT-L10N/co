@@ -24,8 +24,8 @@
       <tuv lang="en">
         <seg>"Cannot launch from folder that contains a \"/\" in its name.";</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T145222Z">
-        <seg>"Ùn pò micca avvià à partesi d’un cartulare chì cuntene un \"/\" in u so nome.";</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164710Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T145222Z">
+        <seg>"Ùn si pò micca avvià à partesi d’un cartulare chì cuntene un \"/\" in u so nome.";</seg>
       </tuv>
     </tu>
     <tu>
@@ -4905,16 +4905,16 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Cannot access glossary folder!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu" creationdate="20170213T135623Z">
-        <seg>Ùn pò micca accede à u cartulare di glossariu !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164710Z" creationid="Patriccollu" creationdate="20170213T135623Z">
+        <seg>Ùn si pò micca accede à u cartulare di glossariu !</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Cannot create folder for translated files:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu" creationdate="20170213T135706Z">
-        <seg>Ùn pò micca creà u cartulare per i schedarii tradutti :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164710Z" creationid="Patriccollu" creationdate="20170213T135706Z">
+        <seg>Ùn si pò micca creà u cartulare per i schedarii tradutti :</seg>
       </tuv>
     </tu>
     <tu>
@@ -6197,16 +6197,16 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
       <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T112616Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T112616Z">
-        <seg>Ùn pò micca creà u cartulare di prughjettu à {0}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T112616Z">
+        <seg>Ùn si pò micca creà u cartulare di prughjettu à {0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Could not create the specified folder.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T151231Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151231Z">
-        <seg>Ùn pò micca creà u cartulare specificatu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164710Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T151231Z">
+        <seg>Ùn si pò micca creà u cartulare specificatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8431,6 +8431,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error starting post-processing commands: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164934Z">
+        <seg>Sbagliu à u lanciu di e cumande di post trattamentu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154228Z">
@@ -8711,6 +8719,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T110352Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
         <seg>Esecuzione di a cumanda esterna…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Executing post-processing commands...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164851Z">
+        <seg>Esecuzione di e cumande di post trattamentu…</seg>
       </tuv>
     </tu>
     <tu>
