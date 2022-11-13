@@ -6403,6 +6403,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated files: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164404Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164404Z">
+        <seg>Creazione di i schedarii tradutti: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creation date</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165510Z">
@@ -8965,8 +8973,8 @@ Solu 404</seg>
       <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184410Z">
-        <seg>Fiascu à a creazione di u prughjettu !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184410Z">
+        <seg>Impussibule di creà u prughjettu !</seg>
       </tuv>
     </tu>
     <tu>
@@ -22149,12 +22157,28 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file created</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164527Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164527Z">
+        <seg>U schedariu traduttu hè statu creatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155825Z">
         <seg>U chjassu di u schedariu traduttu ùn pò micca esse u listessu chì quellu di u schedariu d’origine :
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated files created</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164504Z">
+        <seg>I schedarii tradutti sò stati creati</seg>
       </tuv>
     </tu>
     <tu>
@@ -22483,8 +22507,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184344Z">
-        <seg>Impussibule di custruisce u novu schedariu TMX !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184344Z">
+        <seg>Impussibule di custruisce u schedariu TMX novu !</seg>
       </tuv>
     </tu>
     <tu>
