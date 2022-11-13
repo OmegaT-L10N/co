@@ -184,8 +184,8 @@
       <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163641Z">
-        <seg>&amp;Appiecà una dimensione sfarente di grafia à u pannellu di dizziunariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163829Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163641Z">
+        <seg>Appiecà una &amp;dimensione sfarente di grafia à u pannellu di dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>&amp;Apply this font to tabular data (source files list, statistics, etc.)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163429Z">
-        <seg>Appiecà sta grafia à i &amp;dati tabulari (lista di i schedarii d’origine, statistiche, ecc.)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163834Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163429Z">
+        <seg>&amp;Appiecà sta grafia à i dati tabulari (lista di i schedarii d’origine, statistiche, ecc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19284,6 +19284,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180702Z">
         <seg>Mudellu di nome di schedariu d’origine :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163922Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163922Z">
+        <seg>Schedarii d’origine ({0} nant’à {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files ({0})</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163904Z">
+        <seg>Schedarii d’origine ({0})</seg>
       </tuv>
     </tu>
     <tu>
