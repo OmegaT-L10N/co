@@ -9592,6 +9592,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Force Unicode literals compatibility with Java 8</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184443Z">
+        <seg>Sfurzà a cumpatibilità di i litterali Unicode cù Java 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Force escaping Unicode literals as compatible to Java 8 to write</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T161737Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T161737Z">
@@ -12205,6 +12213,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184341Z">
+        <seg>Cunservà i litterali &amp;Unicode (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep tags in translated text</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155021Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155021Z">
@@ -12787,6 +12803,14 @@ itself on the first run.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163447Z">
         <seg>Infurmazione di licenza
 =======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line length in target files (0 = no limit)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184211Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184211Z">
+        <seg>Longhezza di linea in i schedarii tradutti (0 = senza cunfina)</seg>
       </tuv>
     </tu>
     <tu>
