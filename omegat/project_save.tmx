@@ -5563,6 +5563,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close the search window.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T173719Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T173719Z">
+        <seg>Chjudite a finestra di ricerca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Co&amp;mments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T181753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T143747Z">
@@ -12199,8 +12207,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Keyword searches are not available in the search string.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T103719Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T103719Z">
-        <seg>- E ricerche da parolla chjave ùn ponu micca esse impiegate cum’è catena di ricerca.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T173538Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T103719Z">
+        <seg>E ricerche da parolla chjave ùn ponu micca esse impiegate cum’è catena di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13475,6 +13483,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T105924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T163822Z">
         <seg>E currispundenze ponu esse trove in a vostra traduzzione attuale o in i schedarii TMX chì voi avete piazzati in u cartulare  /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T173801Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T173801Z">
+        <seg>Segmenti chì currispondenu : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24036,8 +24052,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T104238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T104238Z">
-        <seg>- Quandu l’espressioni regulare sò impiegate, a catena di rimpiazzamentu piglia in contu e referenze à i gruppi definiti in a catena di ricerca.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T173646Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T104238Z">
+        <seg>Quandu s’impieganu l’espressioni regulare, a catena di rimpiazzamentu piglia in contu e referenze à i gruppi definiti in a catena di ricerca.</seg>
       </tuv>
     </tu>
     <tu>
