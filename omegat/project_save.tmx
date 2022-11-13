@@ -13710,6 +13710,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T115356Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T115356Z">
+        <seg>Nò</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T160832Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T160832Z">
@@ -14979,6 +14987,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T153431Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T153431Z">
         <seg>Ma solu i cambiamenti chì sò ghjudicati ghjuvevule per l’utilizatori d’OmegaT seranu integrati à u prugramma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Op&amp;en Recent...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155555Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155555Z">
+        <seg>Apre un pr&amp;ughjettu recente…</seg>
       </tuv>
     </tu>
     <tu>
@@ -23728,6 +23744,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T095348Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T095348Z">
         <seg>Yandex.Cloud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T115347Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T115347Z">
+        <seg>Sì</seg>
       </tuv>
     </tu>
     <tu>
