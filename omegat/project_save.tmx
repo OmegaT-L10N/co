@@ -1222,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sentence case</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161407Z">
+        <seg>Maiuscula à u principiu di a &amp;frasa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T141112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T141112Z">
@@ -1384,8 +1392,8 @@
       <tuv lang="en">
         <seg>&amp;UPPER CASE</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161325Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161325Z">
-        <seg>TUTTE &amp;MAIUSCULE</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161325Z">
+        <seg>SOLU LETTERE &amp;MAIUSCULE</seg>
       </tuv>
     </tu>
     <tu>
@@ -1464,8 +1472,8 @@
       <tuv lang="en">
         <seg>&amp;lower case</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161229Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160918Z">
-        <seg>&amp;tutte minuscule</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160918Z">
+        <seg>&amp;tutte e lettere in minuscule</seg>
       </tuv>
     </tu>
     <tu>
