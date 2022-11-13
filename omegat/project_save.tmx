@@ -3351,6 +3351,22 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Online Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155932Z">
+        <seg>Aghjunghje una pagina Media&amp;Wiki in linea…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Online MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155945Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155945Z">
+        <seg>Aghjunghje in linea una pagina MediaWiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Pattern</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223003Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180534Z">
@@ -12519,6 +12535,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155823Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155823Z">
+        <seg>&amp;Filtri di schedariu lucali…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170515Z">
@@ -14955,6 +14979,14 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T143034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T142847Z">
         <seg>In stu locu, si pò amparà chì a funzione desirata hè dighjà messa in ballu o chì ci hè raghjoni chì impediscenu a so messa in ballu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Online Mediawiki Page URL</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160013Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160013Z">
+        <seg>Indirizzu web</seg>
       </tuv>
     </tu>
     <tu>
@@ -18948,6 +18980,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T155855Z">
         <seg>Origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source &amp;Files...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155907Z">
+        <seg>Schedarii d’&amp;origine…</seg>
       </tuv>
     </tu>
     <tu>
