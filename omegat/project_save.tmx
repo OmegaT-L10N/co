@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160727Z">
+        <seg>&amp;Ricerca…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Segment Number...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170604Z">
@@ -1430,10 +1438,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Writable Glossary</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160715Z">
+        <seg>Glossariu induve si pò &amp;scrive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Writeable Glossary</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T154500Z">
         <seg>Glossariu induve si pò &amp;scrive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;lower case</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160918Z">
+        <seg>&amp;solu minuscule</seg>
       </tuv>
     </tu>
     <tu>
@@ -4739,6 +4763,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175009Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153942Z">
         <seg>Ducumentu a&amp;ttuale di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C&amp;urrent Target File</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160657Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160657Z">
+        <seg>Schedariu a&amp;ttuale di destinazione</seg>
       </tuv>
     </tu>
     <tu>
@@ -17286,6 +17318,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160744Z">
+        <seg>Rimpiazzà…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repository</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T170449Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170449Z">
@@ -17696,8 +17736,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>S&amp;witch Case To</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155902Z">
-        <seg>Permutà e &amp;lettere ver di</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155902Z">
+        <seg>Cambià a cassa di e &amp;lettere</seg>
       </tuv>
     </tu>
     <tu>
