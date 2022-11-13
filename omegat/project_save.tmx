@@ -2040,6 +2040,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- use Options &gt; File Filters... to verify that their format is supported by OmegaT,
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T115219Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T114955Z">
+        <seg>- Impiegà Ozzioni &gt; Filtri di schedariu…. per verificà chì u so furmatu hè accettatu da OmegaT,
+	- apre i schedarii cù a so appiecazione d’origine è verificà ch’elli ùn sò micca vioti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- use of any valid TMX file as a translation reference</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184105Z">
@@ -10499,6 +10509,14 @@ stu cambimentu di locu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T133015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T133015Z">
         <seg>S’è u filtru prupone ozzioni, pudete mudificalle scigliendu Ozzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T114930Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T114930Z">
+        <seg>S’è u prughjettu cuntene schedarii ma chì u so cuntenutu ùn hè micca affissatu quì :</seg>
       </tuv>
     </tu>
     <tu>
