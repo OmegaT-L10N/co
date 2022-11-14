@@ -4209,6 +4209,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152828Z">
+        <seg>Da veru, vulete caccià u gruppu di regule di segmentazione {0} ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T142110Z">
@@ -19542,6 +19550,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212723Z">
         <seg>Definite una parolla d’intesa principale per prutege i vostri dati privati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set contents</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152402Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152402Z">
+        <seg>Cuntenutu di a definizione</seg>
       </tuv>
     </tu>
     <tu>
