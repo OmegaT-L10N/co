@@ -160,8 +160,8 @@
       <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu" creationdate="20170209T153945Z">
-        <seg>Permette chì a traduzzione sia &amp;uguale à l’origine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T155818Z" creationid="Patriccollu" creationdate="20170209T153945Z">
+        <seg>Permette chì a traduzzione sia uguale à l’&amp;origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -360,8 +360,8 @@
       <tuv lang="en">
         <seg>&amp;Check issues when leaving a segment</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T155632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T155632Z">
-        <seg>Cuntrollà i penseri l’esce d’un segmentu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T160031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T155632Z">
+        <seg>&amp;Cuntrollà i penseri l’esce d’un segmentu</seg>
       </tuv>
     </tu>
     <tu>
