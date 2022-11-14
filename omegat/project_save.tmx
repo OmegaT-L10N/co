@@ -360,8 +360,8 @@
       <tuv lang="en">
         <seg>&amp;Check issues when leaving a segment</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T160031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T155632Z">
-        <seg>&amp;Cuntrollà i penseri l’esce d’un segmentu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T161148Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T155632Z">
+        <seg>&amp;Cuntrollà i penseri à l’esce d’un segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -16221,6 +16221,14 @@ In nebbia pagna</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimiter:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T161250Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T161250Z">
+        <seg>Delimitatore di paragrafu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171925Z">
@@ -19622,6 +19630,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T141707Z">
         <seg>Gruppi di regule di segmentazione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T161741Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T161741Z">
+        <seg>Preferenze per l’etichette venute da schedarii TMX micca creati da OmegaT :</seg>
       </tuv>
     </tu>
     <tu>
