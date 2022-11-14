@@ -6285,6 +6285,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright © 2000-2022 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T124313Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T124313Z">
+        <seg>Diritti di copia © 2000-2022 Keith Godfrey, Maxym Mykhalchuk è d’altre persone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not create project dir at {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T112616Z">
@@ -15165,6 +15173,14 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform computer-assisted translation (CAT) tool offering fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T130443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T130443Z">
+        <seg>OmegaT hè un attrezzu di Traduzzione Assistata da l’Urdinatore (TAO in francese è CAT in inglese) - à fonte aperta è multipiattaforma - chì cuntene funzioni cum’è a ricerca di currispundenze simile, memoria di traduzzione, ricerca da parolle chjave, glossarii è soprattuttu a pussibilità di reimpiegà e traduzzioni in d’altri prughjetti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145314Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184831Z">
@@ -20087,6 +20103,14 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T153948Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T153948Z">
+        <seg>Principià un novu paragrafu per i &amp;salti di linea Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft-return</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T124250Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T124250Z">
         <seg>Principià un novu paragrafu per i &amp;salti di linea Word</seg>
       </tuv>
     </tu>
