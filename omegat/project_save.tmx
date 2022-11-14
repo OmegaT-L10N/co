@@ -936,8 +936,8 @@
       <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163552Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163552Z">
-        <seg>&amp;Nunda</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163552Z">
+        <seg>&amp;Nisunu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1322,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200420T184721Z">
         <seg>Affissà autumaticamente e &amp;sugestioni pertinente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Simple variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163708Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163639Z">
+        <seg>Variabili &amp;simplice (p.i. : %s, %d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3841,6 +3849,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163703Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163703Z">
+        <seg>&amp;Tutte e variabili (p.i. : %s, %-s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allo&amp;w tag editing</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T144702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T144702Z">
@@ -5237,6 +5253,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180042Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T153822Z">
         <seg>Verificà i &amp;penseri…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;Java MessageFormat placeholders (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163911Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163911Z">
+        <seg>Cuntrollà i campi di sustituzione MessageFormat di &amp;Java (p.i. : {0})</seg>
       </tuv>
     </tu>
     <tu>
