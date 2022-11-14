@@ -1366,6 +1366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Stop at untranslated and at segments with  alternatives</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T154701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T154701Z">
+        <seg>&amp;Piantà quandu si scontra un segmentu micca traduttu o unu cù l’alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Store for this session only</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T181606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T181606Z">
