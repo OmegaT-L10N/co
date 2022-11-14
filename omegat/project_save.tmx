@@ -8227,8 +8227,8 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       <tuv lang="en">
         <seg>Editor Options</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223300Z" creationid="Patriccollu" creationdate="20170213T132925Z">
-        <seg>Ozzioni d’editore</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T153402Z" creationid="Patriccollu" creationdate="20170213T132925Z">
+        <seg>Ozzioni di l’editore</seg>
       </tuv>
     </tu>
     <tu>
@@ -24552,6 +24552,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170405Z">
         <seg>S’è st’ozzione hè attivata, l’entrate di a vista d’empiimentu autumaticu di u glossariu cunteneranu dinù u testu d’origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When entering an empty segment:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T153614Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T153614Z">
+        <seg>À l’entre d’un segmentu viotu :</seg>
       </tuv>
     </tu>
     <tu>
