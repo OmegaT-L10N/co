@@ -6453,6 +6453,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;flagged text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T165141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T165141Z">
+        <seg>Cuntabilizà in e &amp;statistiche u testu marcatu è l’etichette persunalizate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Count &amp;protected text and custom tags in statistics</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T114819Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T105802Z">
