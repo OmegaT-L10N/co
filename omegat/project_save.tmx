@@ -8585,8 +8585,8 @@ hè u codice di a lingua è YY hè quellu di u rughjone o di u paese (ozzionale)
       <tuv lang="en">
         <seg>Entries from the writeable glossary are in bold.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T151818Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164458Z">
-        <seg>L’entrate di u glossariu scrivibile sò in grassu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T170259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T164458Z">
+        <seg>L’entrate di u glossariu scrivibile sò scritte in una grafia grassa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24109,6 +24109,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T142720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T142720Z">
         <seg>Impiegà a &amp;lemmatisazione per l’entrate di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T170714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T170714Z">
+        <seg>Impiegate « Creà un’entrata di glossariu » in u listinu « Mudificà » per aghjunghje entrate nove.</seg>
       </tuv>
     </tu>
     <tu>
