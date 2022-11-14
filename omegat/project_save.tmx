@@ -7607,6 +7607,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays entries from in glossary files located in the /glossary/ folder if they are found in the source segment.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T170236Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T170236Z">
+        <seg>Affisseghja l’entrate di i schedarii di glossariu chì sò piazzati in u cartulare /glossary/ s’elle sò trove in u segmentu d’origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the current log file.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200625T093717Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200625T093717Z">
