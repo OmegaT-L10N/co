@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check issues when leaving a segment</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T155632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T155632Z">
+        <seg>Cuntrollà i penseri l’esce d’un segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T141903Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T141903Z">
@@ -11686,8 +11694,8 @@ double-click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Insert the &amp;best fuzzy match</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T145601Z" creationid="Patriccollu" creationdate="20170213T134252Z">
-        <seg>Framette a &amp;currispundenza simile a più vicina</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T155656Z" creationid="Patriccollu" creationdate="20170213T134252Z">
+        <seg>Framette a currispundenza simile a più &amp;vicina</seg>
       </tuv>
     </tu>
     <tu>
