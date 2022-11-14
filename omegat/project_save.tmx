@@ -9808,6 +9808,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For file formats and filters that support comments (e.g. PO-filter), displays the comments for the translator concerning the active segment, if any.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174018Z">
+        <seg>Per i furmati è i filtri di schedariu chì accettanu i cummenti (p.i. : u filtru PO), st’ozzione affisseghja i cummenti per u traduttore (s’ella ci n’hè) chì cuncernenu u segmentu attivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Linux.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131725Z">
