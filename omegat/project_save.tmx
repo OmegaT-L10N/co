@@ -11300,6 +11300,30 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignored &lt;meta&gt; tags "content" attribute</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T144359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T144359Z">
+        <seg>Ignurà l’attributi « content » di l’etichette &lt;meta&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored paragraphs (regular expression)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T144205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T144205Z">
+        <seg>Ignurà i paragrafi (espressione regulare)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignored tags (attribute=value)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T144435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T144435Z">
+        <seg>Ignurà l’etichette (attributu=valore)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ilia Vinogradov</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122129Z">
