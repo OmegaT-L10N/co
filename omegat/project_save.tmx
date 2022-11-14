@@ -8425,6 +8425,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181024Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181024Z">
+        <seg>Mittite JDK 1.6 à l’ultimu livellu, o cacciate i schedarii jaxb-*.jar in u cartulare /lib d’OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Email:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T140808Z">
