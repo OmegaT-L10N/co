@@ -160,8 +160,8 @@
       <tuv lang="en">
         <seg>&amp;Allow translation to be equal to source</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T155818Z" creationid="Patriccollu" creationdate="20170209T153945Z">
-        <seg>Permette chì a traduzzione sia uguale à l’&amp;origine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T160039Z" creationid="Patriccollu" creationdate="20170209T153945Z">
+        <seg>Permette chì a traduzzione sia &amp;uguale à l’origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -1376,8 +1376,8 @@
       <tuv lang="en">
         <seg>&amp;Stop at untranslated and at segments with  alternatives</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T154701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T154701Z">
-        <seg>&amp;Piantà quandu si scontra un segmentu micca traduttu o unu cù l’alternative.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T160115Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T154701Z">
+        <seg>Piantà quandu si scontra un segmentu micca traduttu o unu cù l’alternative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14946,6 +14946,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of segments to initially load:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T160202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T160202Z">
+        <seg>Numeru di segmenti à caricà à l’iniziu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Number of unique segments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181024T183439Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183439Z">
@@ -18720,8 +18728,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Save aut&amp;o-populated status</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T171758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T145548Z">
-        <seg>Arregistrà u statu di e tradu&amp;zzioni chì sò alimentate autumaticamente</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T160124Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T145548Z">
+        <seg>&amp;Arregistrà u statu di e traduzzioni chì sò alimentate autumaticamente</seg>
       </tuv>
     </tu>
     <tu>
@@ -18744,8 +18752,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Save origin of &amp;translation</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220326T121844Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220326T121844Z">
-        <seg>Arregistrà l’origine di a &amp;traduzzione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T160130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220326T121844Z">
+        <seg>Arregistrà l’&amp;origine di a traduzzione</seg>
       </tuv>
     </tu>
     <tu>
