@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Use local file filter settings</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T140113Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T140113Z">
+        <seg>&amp;Impiegà e preferenze di i filtri di schedariu lucali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Use local segmentation rules</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165534Z">
@@ -13071,6 +13079,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local File Filters</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T140009Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T140009Z">
+        <seg>Filtri di schedariu lucali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local File/Folder</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170515Z">
@@ -19234,6 +19250,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a filter and click on Edit... or Options... to customize it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T140303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T140303Z">
+        <seg>Selezziunà un filtru è fà un cliccu nant’à Mudificà… o nant’à Ozzioni… per persunalizallu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185144Z">
@@ -19606,6 +19630,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T181455Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T181455Z">
         <seg>Elementi di traduzzione tralasciati per quelli nisunu segmentu d’origine ùn hè statu traovu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped translation units for which no source segments were found.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T135955Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T135955Z">
+        <seg>Elementi di traduzzione tralasciati per quelli ùn si trova nisunu segmentu d’origine.</seg>
       </tuv>
     </tu>
     <tu>
