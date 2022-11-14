@@ -1376,8 +1376,8 @@
       <tuv lang="en">
         <seg>&amp;Stop at untranslated and at segments with  alternatives</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T160115Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T154701Z">
-        <seg>Piantà quandu si scontra un segmentu micca traduttu o unu cù l’alternative.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T161141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T154701Z">
+        <seg>Piantà quandu si scontra un segmentu micca &amp;traduttu o unu cù l’alternative.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8107,8 +8107,8 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T143844Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T143844Z">
-        <seg>&amp;Espurtà u segmentu in schedarii di testu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T161109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T143844Z">
+        <seg>&amp;Espurtà u segmentu in i schedarii di testu</seg>
       </tuv>
     </tu>
     <tu>
