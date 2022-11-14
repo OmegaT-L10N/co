@@ -10024,6 +10024,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T145822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T145822Z">
+        <seg>Regule glubale di segmentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152147Z">
@@ -11037,6 +11045,14 @@ stu cambimentu di locu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T114930Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T114930Z">
         <seg>S’è u prughjettu cuntene schedarii ma chì u so cuntenutu ùn hè micca affissatu quì :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If there is a declaration, that encoding  be used regardless of the setting specified here.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T145800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T145800Z">
+        <seg>S’ella ci n’hè una, quella cudificazione serà impiegata senza tene contu di a preferenza indicata quì.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13175,6 +13191,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local Segmentation Rules</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T145833Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T145833Z">
+        <seg>Regule lucale di segmentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T154503Z">
@@ -14748,16 +14772,16 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T145607Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T145607Z">
-        <seg>Nota : e preferenze di cudificazione s’appiecanu solu à i schedarii HHC è HHK senza dichjarazione di cudificazione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T145724Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T145607Z">
+        <seg>Nota : e preferenze di cudificazione di i schedarii d’origine s’appiecanu solu à i schedarii HHC è HHK senza dichjarazione di cudificazione.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Note: The Source File Encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T143317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T143317Z">
-        <seg>Nota : e preferenze di cudificazione s’appiecanu solu à i schedarii HTML senza dichjarazione di cudificazione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T145709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T143317Z">
+        <seg>Nota : e preferenze di cudificazione di i schedarii d’origine s’appiecanu solu à i schedarii HTML senza dichjarazione di cudificazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20086,6 +20110,16 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T171928Z">
         <seg>Spagnolu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Specific sets should be put above general sets:
+"FR-CA" should be above "FR.*", which should be above ".*".</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T150408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T150408Z">
+        <seg>E definizioni specifiche devenu esse piazzate insù di e definizioni generale :
+« FR-CA » duve esse piazzatu più insù chè « FR.* » chì duve esse piazzatu più insù chè « .* ».</seg>
       </tuv>
     </tu>
     <tu>
