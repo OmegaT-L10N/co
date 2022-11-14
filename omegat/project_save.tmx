@@ -19762,6 +19762,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simplify tag &amp;tooltips</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T162931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T162931Z">
+        <seg>&amp;Simplificà l’infobolle di l’etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simultaneous processing of multiple-file projects</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T111437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T111437Z">
@@ -20368,6 +20376,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T164220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T164220Z">
         <seg>Versione classica - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Standard template</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T162935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T162935Z">
+        <seg>Mudellu classicu</seg>
       </tuv>
     </tu>
     <tu>
@@ -21034,6 +21050,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T134317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T144955Z">
         <seg>Sincrunizazione di squadra : in attesa chì a vostra mudificazione di stu segmentu sia compia…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template for segments without date</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T162957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T162957Z">
+        <seg>Mudellu per i segmenti senza data</seg>
       </tuv>
     </tu>
     <tu>
