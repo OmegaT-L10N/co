@@ -3393,6 +3393,22 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>API key (optional)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181047Z">
+        <seg>Chjave d’API (ozzionale)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>API key:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181038Z">
+        <seg>Chjave d’API :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ASCII Only</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T133841Z" creationid="Patriccollu" creationdate="20170213T133841Z">
@@ -7183,6 +7199,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL API key not available.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181241Z">
+        <seg>A chjave d’API di DeepL ùn hè micca dispunibule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL Api key not available.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T174641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T174641Z">
@@ -10436,6 +10460,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T175722Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T175722Z">
         <seg>Per attivalle, andate à Preferenze &gt; Ricerca esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google API key not available.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181119Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181119Z">
+        <seg>A chjave d’API di Google ùn hè micca dispunibule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19434,6 +19466,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the user guide for instructions.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181218Z">
+        <seg>Lighjite l’istruzzioni in u manuale di l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T145401Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20161226T194643Z">
@@ -24536,6 +24576,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
         <seg>Username or API Key:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T154253Z">
+        <seg>Nome d’utilizatore o chjave API :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API key:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181322Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181322Z">
         <seg>Nome d’utilizatore o chjave API :</seg>
       </tuv>
     </tu>
