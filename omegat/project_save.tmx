@@ -3265,6 +3265,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is simply a remark about the source text or its translation.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171559Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T171559Z">
+        <seg>Una nota hè una rimarca simplice apprupositu di u testu d’origine o di a so traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A restart is required in order to apply these changes</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T173132Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173032Z">
@@ -7681,8 +7689,8 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
       <tuv lang="en">
         <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T171151Z">
-        <seg>Affisseghja a traduzzione di u segmentu attuale pruvisty da i servizii di traduzzione autumatica, chì voi avete selezziunati in Preferenze &gt; Traduzzione da a mascina, s’è sti serviziii sò dispunibule.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T171151Z">
+        <seg>Affisseghja a traduzzione di u segmentu attuale pruvisty da i servizii di traduzzione autumatica, chì voi avete selezziunati in Preferenze &gt; Traduzzione autumatica, s’è quelli serviziii sò dispunibule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13529,8 +13537,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Mac&amp;hine Translation</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161903Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161903Z">
-        <seg>Traduzzione da a &amp;mascina</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161903Z">
+        <seg>Traduzzione autu&amp;matica</seg>
       </tuv>
     </tu>
     <tu>
@@ -18248,8 +18256,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175321Z" creationid="Patriccollu" creationdate="20170213T134849Z">
-        <seg>Rimpiazzà cù a traduzzione di a &amp;mascina</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171244Z" creationid="Patriccollu" creationdate="20170213T134849Z">
+        <seg>Rimpiazzà cù a traduzzione autu&amp;matica</seg>
       </tuv>
     </tu>
     <tu>
@@ -24571,6 +24579,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T132435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T132435Z">
         <seg>Fighjà o mudificà i filtri di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171422Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T171422Z">
+        <seg>Vede, aghjunghje, caccià o mudificà una nota in u segmentu attivu.</seg>
       </tuv>
     </tu>
     <tu>
