@@ -13537,16 +13537,16 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Machine Translate Highlight</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220326T122156Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220326T122156Z">
-        <seg>Sopralineà a traduzzione da a mascina</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171152Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220326T122156Z">
+        <seg>Sopralineà a traduzzione autumatica</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Machine Translation</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T213209Z" creationid="Patriccollu" creationdate="20170213T134733Z">
-        <seg>Traduzzione da a mascina</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171152Z" creationid="Patriccollu" creationdate="20170213T134733Z">
+        <seg>Traduzzione autumatica</seg>
       </tuv>
     </tu>
     <tu>
@@ -14480,8 +14480,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Neural machine translation</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171717Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200524T163058Z">
-        <seg>Traduzzione neurale da a mascina</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171152Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200524T163058Z">
+        <seg>Traduzzione neurale autumatica</seg>
       </tuv>
     </tu>
     <tu>
