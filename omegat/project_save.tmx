@@ -4211,8 +4211,8 @@ U schedariu TMX ùn serà micca caricatu.</seg>
       <tuv lang="en">
         <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152828Z">
-        <seg>Da veru, vulete caccià u gruppu di regule di segmentazione {0} ?</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152905Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152828Z">
+        <seg>Da veru, vulete caccià l’inseme di regule di segmentazione {0} ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12591,8 +12591,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Language sets</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152351Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152351Z">
-        <seg>Definizioni di lingua</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152840Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152351Z">
+        <seg>Insemi di lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -19556,8 +19556,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Set contents</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152402Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152402Z">
-        <seg>Cuntenutu di a definizione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152402Z">
+        <seg>Cuntenutu di l’inseme</seg>
       </tuv>
     </tu>
     <tu>
@@ -25305,6 +25305,14 @@ window to be able to launch it from any location.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T163219Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T163219Z">
         <seg>I vostri ducumenti è e vostre memorie di traduzzione stanu nant’à u vostru urdinatore è u prughjettu OmegaT ùn averà alcunu accessu à i vostri travaglii o infurmazioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your name/ID is used to identify your translations.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T153038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T153038Z">
+        <seg>U vostru nome o identificazione hè impiegatu per identificà e vostre traduzzioni.</seg>
       </tuv>
     </tu>
     <tu>
