@@ -4373,6 +4373,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Authenticated proxy credentials:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163317Z">
+        <seg>Infurmazioni d’identificazione di u proxy autenticatu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Authentication</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20150516T172859Z">
@@ -7007,6 +7015,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Customize segment modification &amp;information</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163128Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163058Z">
+        <seg>&amp;Persunalizà l’infurmazione di mudificazione di u segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customize the processed source filename patterns, the translated file names and their respective encodings.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T131023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T131023Z">
@@ -7433,8 +7449,8 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
       <tuv lang="en">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T155109Z">
-        <seg>Affissà u segmentu d’origine attivu in &amp;caratteri grassi</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T155109Z">
+        <seg>Affissà u segmentu d’origine &amp;attivu in caratteri grassi</seg>
       </tuv>
     </tu>
     <tu>
