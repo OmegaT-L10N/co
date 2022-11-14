@@ -1256,8 +1256,8 @@
       <tuv lang="en">
         <seg>&amp;Sheet Names</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T141112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T141112Z">
-        <seg>Nome di &amp;foglii</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122745Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T141112Z">
+        <seg>Nomi di i &amp;foglii</seg>
       </tuv>
     </tu>
     <tu>
@@ -5645,6 +5645,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comm&amp;it Target Files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T122548Z">
+        <seg>Rimandà i schedarii di destina&amp;zione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Command</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T171822Z" creationid="Patriccollu" creationdate="20170213T133911Z">
@@ -8453,8 +8461,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Error in file</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T171943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171943Z">
-        <seg>Sbagliu in schedariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122752Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T171943Z">
+        <seg>Sbagliu in u schedariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -19562,6 +19570,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>So&amp;urce Files...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T122606Z">
+        <seg>Schedarii d’&amp;origine…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Social Networks</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T144343Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T144343Z">
@@ -20448,6 +20464,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223541Z" creationid="Patriccollu" creationdate="20170213T134609Z">
         <seg>Ozzioni di trattamentu d’etichetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag handling compatibility</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122944Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T122944Z">
+        <seg>Cumpatibilità di u trattamentu di l’etichette</seg>
       </tuv>
     </tu>
     <tu>
