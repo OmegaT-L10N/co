@@ -14954,6 +14954,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No writeable glossary file in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181907Z">
+        <seg>Ùn si trova nisunu schedariu di glossariu scrivibile in u cartulare di glossariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-ASCII Only</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T133855Z" creationid="Patriccollu" creationdate="20170213T133855Z">
@@ -19684,40 +19692,48 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select Match #&amp;1</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175721Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155254Z">
-        <seg>Selezziunà a currispundenza #&amp;1</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181718Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155254Z">
+        <seg>Selezziunà a currispundenza n° &amp;1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #&amp;2</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155256Z">
-        <seg>Selezziunà a currispundenza #&amp;2</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181721Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155256Z">
+        <seg>Selezziunà a currispundenza n° &amp;2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #&amp;3</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175729Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155258Z">
-        <seg>Selezziunà a currispundenza #&amp;3</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181724Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155258Z">
+        <seg>Selezziunà a currispundenza n° &amp;3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #&amp;4</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175734Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155300Z">
-        <seg>Selezziunà a currispundenza #&amp;4</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155300Z">
+        <seg>Selezziunà a currispundenza n° &amp;4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Select Match #&amp;5</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175738Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155304Z">
-        <seg>Selezziunà a currispundenza #&amp;5</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181733Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155304Z">
+        <seg>Selezziunà a currispundenza n° &amp;5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #1</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181800Z">
+        <seg>Selezziunà a currispundenza n° 1</seg>
       </tuv>
     </tu>
     <tu>
@@ -23395,6 +23411,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu" creationdate="20170210T150543Z">
         <seg>Traduce st’elementi :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate this plural as plural form #{0}.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181714Z">
+        <seg>Traduce stu plurale cum’è forma plurale n° {0}.</seg>
       </tuv>
     </tu>
     <tu>
