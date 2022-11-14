@@ -7071,6 +7071,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom tags (regular expression):</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T165316Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T165223Z">
+        <seg>Etichette persunalizate (espressione regulare) :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Customize character &amp;table</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T113721Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T113721Z">
@@ -7650,6 +7658,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T163613Z">
+        <seg>Affisseghja i segmenti di memoria di traduzzione chì currispondenu à u segmentu d’origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memory segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T165332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T165332Z">
         <seg>Affisseghja i segmenti di memoria di traduzzione chì currispondenu à u segmentu d’origine.</seg>
       </tuv>
     </tu>
@@ -9603,6 +9619,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co">
         <seg>Finlandese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flagged text (regular expression):</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T165308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T165308Z">
+        <seg>Testu marcatu (espressione regulare) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -13875,6 +13899,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T105924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T163822Z">
         <seg>E currispundenze ponu esse trove in a vostra traduzzione attuale o in i schedarii TMX chì voi avete piazzati in u cartulare  /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T165502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T165502Z">
+        <seg>E currispundenze venenu da a vostra traduzzione attuale o da i schedarii TMX chì sò piazzati in u cartulare  /tm/.</seg>
       </tuv>
     </tu>
     <tu>
