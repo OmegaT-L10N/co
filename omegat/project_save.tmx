@@ -23937,6 +23937,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;XML notation for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T162214Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T162214Z">
+        <seg>Impiegà a nutazione &amp;XML per l’etichette autonome (p.i. : &lt;i/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;fuzzy matching for dictionary entries</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T183943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T183943Z">
