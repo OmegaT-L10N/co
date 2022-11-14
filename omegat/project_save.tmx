@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Force &lt;it pos="end"&gt; tags shortcut to "&lt;f &gt;"</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T123429Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T123429Z">
+        <seg>&amp;Sfurzà à « f » l’accurtatoghju di l’etichette &lt;it pos="end"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T142932Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T142932Z">
@@ -20480,6 +20488,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T114745Z">
         <seg>Nome di l’etichetta :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag shortcuts (do not apply to OmegaT 2.6 compatible files):</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T123055Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T123055Z">
+        <seg>Accurtatoghji d’etichetta (ùn s’appieca micca à i schedarii cumpatibile d’OmegaT 2.6) :</seg>
       </tuv>
     </tu>
     <tu>
