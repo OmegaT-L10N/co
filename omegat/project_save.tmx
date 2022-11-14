@@ -3489,6 +3489,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Online MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122119Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T122119Z">
+        <seg>Aghjunghje una pagina Media&amp;Wiki in linea…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add Online MediaWiki Page</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155945Z">
@@ -5595,6 +5603,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Co&amp;mmit Source Files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T122540Z">
+        <seg>Rimandà i schedarii d’ori&amp;gine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Code has been contributed by</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121438Z">
@@ -7555,6 +7571,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T142830Z">
         <seg>Vulete rimpiazzallu cù quellu chì vo dispiazzate ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T122056Z">
+        <seg>Scaricà un prughjettu di s&amp;quadra…</seg>
       </tuv>
     </tu>
     <tu>
@@ -17224,6 +17248,14 @@ These words: 'Page not found'</seg>
         <seg>Nè chjama nè « bip »
 « Pagina micca trova »
 Solu ste parolle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;load</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122156Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T122156Z">
+        <seg>&amp;Ricaricà</seg>
       </tuv>
     </tu>
     <tu>
