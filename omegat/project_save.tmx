@@ -7679,6 +7679,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T171151Z">
+        <seg>Affisseghja a traduzzione di u segmentu attuale pruvisty da i servizii di traduzzione autumatica, chì voi avete selezziunati in Preferenze &gt; Traduzzione da a mascina, s’è sti serviziii sò dispunibule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Options &gt; Machine Translate, if those services are available.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T172727Z">
@@ -20110,6 +20118,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T154240Z">
         <seg>&amp;Classificà alfabeticamente da u termine d’origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by target term length</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T170851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T170851Z">
+        <seg>Classificà da a dimensione di u termine di destinazione</seg>
       </tuv>
     </tu>
     <tu>
