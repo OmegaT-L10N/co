@@ -1696,6 +1696,14 @@ Per aghjunghe schedarii à u prughjettu, cliccà nant’à u buttone « Cupià i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Leave the Password empty if you are using an API key.)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181419Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181419Z">
+        <seg>(Lasciate a parolla d’intesa viota s’è vo impiegate una chajve d’API.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T110909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T110909Z">
@@ -7671,6 +7679,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays alternative translations you have created for repeated segments in the project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181520Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181520Z">
+        <seg>Affisseghja traduzzioni alternative chì vo avete create per i segmenti chì sò ripetiti in u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T173446Z">
@@ -8651,6 +8667,14 @@ hè u codice di a lingua è YY hè quellu di u rughjone o di u paese (ozzionale)
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T223509Z">
         <seg>Stampittate un termine d’origine, a so traduzzione è un cummentu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181614Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181614Z">
+        <seg>Stampittà u nome di sta cunfigurazione :</seg>
       </tuv>
     </tu>
     <tu>
@@ -13947,6 +13971,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Master password:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181335Z">
+        <seg>Parolla d’intesa principale :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185756Z">
@@ -14263,6 +14295,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172732Z" creationid="Patriccollu" creationdate="20170213T140534Z">
         <seg>Etichette assente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Model ID:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181353Z">
+        <seg>Identificazione di u mudellu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -15552,8 +15592,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161113Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221305Z">
-        <seg>OmegaT cifra e parolle d’intesa è e chjave API sensibile cù una parolla d’intesa principale.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221305Z">
+        <seg>OmegaT cifra e parolle d’intesa è e chjave d’API sensibile cù una parolla d’intesa principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24583,8 +24623,8 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       <tuv lang="en">
         <seg>Username or API key:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181322Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181322Z">
-        <seg>Nome d’utilizatore o chjave API :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181322Z">
+        <seg>Nome d’utilizatore o chjave d’API :</seg>
       </tuv>
     </tu>
     <tu>
