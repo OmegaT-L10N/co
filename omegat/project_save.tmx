@@ -5889,6 +5889,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compress whitespace in translated file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T144457Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T144457Z">
+        <seg>Cumpressione di i spazii bianchi in u schedariu traduttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Con&amp;figure</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T164454Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T171925Z">
@@ -17752,6 +17760,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T170515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T170515Z">
         <seg>Caccià i cummenti HTML in u ducumentu traduttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove HTML comments in translated file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T144713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T144713Z">
+        <seg>Caccià i cummenti HTML in u schedariu traduttu</seg>
       </tuv>
     </tu>
     <tu>
