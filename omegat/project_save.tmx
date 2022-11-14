@@ -998,6 +998,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Preserve whitespace for all tags</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T124229Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T124229Z">
+        <seg>Cunservà i spa&amp;zii bianchi per tutte l’etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Previous Segment</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175952Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170412Z">
@@ -3268,6 +3276,14 @@ U valore attuale hè {0} Mo ;
         <seg>A&amp;ggregate Tags</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T145420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T145420Z">
+        <seg>&amp;Aggregà l’etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;ggregate tags</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T123954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T123954Z">
         <seg>&amp;Aggregà l’etichette</seg>
       </tuv>
     </tu>
