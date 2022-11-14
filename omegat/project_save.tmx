@@ -13631,6 +13631,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark all non-unique segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T162815Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T162815Z">
+        <seg>&amp;Marcà tutti i segmenti micca unichi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark unknown words</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T154943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T154943Z">
