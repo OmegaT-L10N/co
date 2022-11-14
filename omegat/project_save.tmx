@@ -4681,6 +4681,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Block the creation of translated files with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T164741Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T164741Z">
+        <seg>Ùn creà micca i schedarii tradutti cù &amp;penseri d’etichetta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Blog pages on OmegaT.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T180156Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T180156Z">
@@ -5181,6 +5189,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165500Z">
         <seg>Cambiatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing the tag order may break the translated file!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163936Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163936Z">
+        <seg>Cambià l’ordine di l’etichette pò dannighjà u schedariu traduttu !</seg>
       </tuv>
     </tu>
     <tu>
