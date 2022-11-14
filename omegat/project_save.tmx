@@ -19666,6 +19666,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some filters do not allow encoding modifications.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T131109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T131109Z">
+        <seg>Certi filtri ùn permettenu micca e mudificazioni di cudificazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the dictionaries have no strings attached - i.e. are "Free to use", and others, like the selection above, are under the GPL license.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T180339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T180339Z">
