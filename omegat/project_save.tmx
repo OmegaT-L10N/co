@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Install new language...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174933Z">
+        <seg>&amp;Installà un dizziunariu novu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190018Z">
@@ -7131,6 +7139,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20180523T155837Z">
         <seg>Cecusluvaccu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D&amp;elete</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174950Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174950Z">
+        <seg>&amp;Caccià</seg>
       </tuv>
     </tu>
     <tu>
@@ -20462,8 +20478,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Spellcheck the tr&amp;anslation</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174529Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174515Z">
-        <seg>Cuntrollu ortugraficu di a tr&amp;aduzzione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174515Z">
+        <seg>Cuntrollu &amp;ortugraficu di a traduzzione</seg>
       </tuv>
     </tu>
     <tu>
@@ -20494,8 +20510,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Spellchecking dictionaries location:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174846Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174846Z">
-        <seg>Lucalizazione di i dizziunarii di u cuntrollu ortugraficu :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T175031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174846Z">
+        <seg>Lucalizazione di i dizziunarii di cuntrollu ortugraficu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -23591,6 +23607,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T180508Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T180459Z">
         <seg>L’URL ùn pussede micca sibula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL of downloadable spellchecking dictionaries:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T175137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T175027Z">
+        <seg>Indirizzu web di scaricamentu di i dizziunarii di cuntrollu ortugraficu :</seg>
       </tuv>
     </tu>
     <tu>
