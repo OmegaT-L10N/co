@@ -11096,6 +11096,18 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If access to the desired location is granted later,
+that location will be used and all settings will be reset to
+their default values.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174359Z">
+        <seg>S’è un accessu à stu locu
+preferitu hè accettatu à l’avvene, stu locu serà impiegatu è tutte
+e preferenze seranu reiniziate à i so valori predefiniti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, the entries are sorted alphabetically.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T174001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174001Z">
@@ -15787,6 +15799,18 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T173329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T173329Z">
         <seg>Filmetti OmegaT nant’à a catena YouTube di Qabiria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT was refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174032Z">
+        <seg>OmegaT s’hè vistu nigatu l’accessu à a pruprietà sistema
+chì cuntene u nome di u vostru sistema d’operazione è/o
+quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25585,6 +25609,16 @@ window to be able to launch it from any location.</seg>
 create its configuration folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T144820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T144820Z">
+        <seg>U vostru sistema d’operazione hà nigatu à OmegaT
+di creà u so cartulare di cunfigurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT
+create the configuration folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174051Z">
         <seg>U vostru sistema d’operazione hà nigatu à OmegaT
 di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
