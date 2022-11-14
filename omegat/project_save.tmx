@@ -768,8 +768,8 @@
       <tuv lang="en">
         <seg>&amp;Install new language...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174933Z">
-        <seg>&amp;Installà un dizziunariu novu…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T180605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174933Z">
+        <seg>&amp;Installà una lingua nova…</seg>
       </tuv>
     </tu>
     <tu>
@@ -12793,6 +12793,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language Installer</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T180441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T180441Z">
+        <seg>Stalladore di lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language Name</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T171822Z" creationid="Patriccollu" creationdate="20170209T153445Z">
@@ -14798,6 +14806,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T172115Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T172115Z">
         <seg>Alcunu novu dizziunariu ùn hè dispunibule nant’à u servitore alluntanatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No new languages available at the remote server.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T180654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T180654Z">
+        <seg>Alcuna lingua nova ùn hè dispunibule nant’à u servitore alluntanatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19690,6 +19706,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the languages you want to install and press Install.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T180555Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T180555Z">
+        <seg>Selezziunate e lingue chì vo vulete installà è preme u buttone Installà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select the location of the language checker.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T155639Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T155639Z">
@@ -23541,6 +23565,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200529T112056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200529T112056Z">
         <seg>Infurmazioni per currege certi penseri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try again later.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T180404Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T180404Z">
+        <seg>Pruvate torna un’altra volta.</seg>
       </tuv>
     </tu>
     <tu>
