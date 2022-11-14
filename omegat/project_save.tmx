@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163552Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163552Z">
+        <seg>&amp;Nunda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T140743Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T140743Z">
@@ -5417,6 +5425,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check printf function variables:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163604Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163416Z">
+        <seg>Cuntrollu di e variabili di a funzione printf :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check punctuation at segment end</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T172838Z">
@@ -8557,8 +8573,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Error decoding user and password.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181655Z">
-        <seg>Sbagliu di discudificazione di nome d’utilizatore è di parolla d’intesa.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181655Z">
+        <seg>Sbagliu di discudificazione di u nome d’utilizatore è di a parolla d’intesa.</seg>
       </tuv>
     </tu>
     <tu>
