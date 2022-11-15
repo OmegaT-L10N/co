@@ -8097,6 +8097,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-check it and try again.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134038Z">
+        <seg>Verificate un’altra volta è pruvate torna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T112828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112828Z">
@@ -8633,8 +8641,8 @@ Micca pagina</seg>
       <tuv lang="en">
         <seg>End rebase</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135650Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T135650Z">
-        <seg>Fine di ribasa</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134103Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T135650Z">
+        <seg>Fine di a ribasa</seg>
       </tuv>
     </tu>
     <tu>
@@ -8904,6 +8912,14 @@ Screnu turchinu</seg>
         <seg>Error retrieve {0} as remote project file</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T140233Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T140233Z">
+        <seg>Sbagliu di riacquistu di {0} cum’è schedariu di prughjettu alluntanatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error retrieving {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134244Z">
         <seg>Sbagliu di riacquistu di {0} cum’è schedariu di prughjettu alluntanatu</seg>
       </tuv>
     </tu>
@@ -14956,6 +14972,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No predefined credentials passed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134152Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134152Z">
+        <seg>Nisuna iinfurmazione d’identificazione predefinita ùn hè stata trasmessa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T162420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T162420Z">
@@ -17655,6 +17679,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T152229Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T152229Z">
         <seg>Principiu di a creazione di u prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project data saving interval</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134341Z">
+        <seg>Intervallu d’arregistramentu di i dati di u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
@@ -20891,8 +20923,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Start rebase</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T135640Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T135640Z">
-        <seg>Principiu di ribasa</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T135640Z">
+        <seg>Lanciu di a ribasa</seg>
       </tuv>
     </tu>
     <tu>
