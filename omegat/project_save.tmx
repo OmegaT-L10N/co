@@ -10258,8 +10258,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Git '{0}' execution start</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T113522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113522Z">
-        <seg>Principu di l’esecuzione di Git « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T003946Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113522Z">
+        <seg>Lanciu di l’esecuzione di Git « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -18936,8 +18936,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>SVN '{0}' execution start</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200506T185934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T185934Z">
-        <seg>Principu di l’esecuzione di SVN « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T003931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T185934Z">
+        <seg>Lanciu di l’esecuzione di SVN « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -22361,6 +22361,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T144244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T144244Z">
         <seg>I schedarii specificati ùn sò micca accettati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6 team project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T004056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T004056Z">
+        <seg>U prughjettu specificatu hè un prughjettu di squadra OmegaT 3.6.</seg>
       </tuv>
     </tu>
     <tu>
