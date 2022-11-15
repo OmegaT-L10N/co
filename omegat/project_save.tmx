@@ -3307,8 +3307,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>@TRANSLATION_NOTICE@</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T165002Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112140Z">
-        <seg>Stu ducumentu, ma dinù a prima versione d’OmegaT in lingua corsa, sò stati tradutti da Patriccollu di Santa Maria è Sichè, diritti di copia o copyright© 2020-2022.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T144757Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112140Z">
+        <seg>Stu ducumentu, è soprattuttu a prima versione d’OmegaT in lingua corsa, sò stati tradutti da Patriccollu di Santa Maria è Sichè, diritti di copia, copyright © 2020-2022.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17563,6 +17563,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Post-processing command failed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T144423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T144423Z">
+        <seg>Fiascu di a cumanda di post trattamentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Post-processing commands completed.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165011Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165011Z">
@@ -17583,6 +17591,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165309Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165309Z">
         <seg>E cumande di post trattamentu sò interrotte..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Post-processing commands were interrupted.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T144448Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T144448Z">
+        <seg>E cumande di post trattamentu sò interrotte.</seg>
       </tuv>
     </tu>
     <tu>
