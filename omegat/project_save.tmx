@@ -3827,8 +3827,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Align Files</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T144131Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T144131Z">
-        <seg>Alineà schedarii</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140104Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T144131Z">
+        <seg>Alineà i schedarii</seg>
       </tuv>
     </tu>
     <tu>
@@ -3981,6 +3981,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165614Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165614Z">
         <seg>Alt+F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alternative</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140000Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140000Z">
+        <seg>Alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -8329,6 +8337,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Duplicated</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135824Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135824Z">
+        <seg>Duppiata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During SVN error({0}),
 project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
       </tuv>
@@ -10758,6 +10774,22 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121625Z">
         <seg>Hans-Peter Jacobs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Comment, see Comments Tab</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135936Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135936Z">
+        <seg>Pussede un cummentu, fighjate l’unghjetta Cummenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Has Note, see Notes Tab</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135907Z">
+        <seg>Pussede una nota, fighjate l’unghjetta Note</seg>
       </tuv>
     </tu>
     <tu>
@@ -14932,6 +14964,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Comment</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135948Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135948Z">
+        <seg>Nisunu cummentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T140550Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140550Z">
@@ -14952,6 +14992,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173522Z">
         <seg>Alcunu penseru trovu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Note</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135915Z">
+        <seg>Nisuna nota</seg>
       </tuv>
     </tu>
     <tu>
@@ -15180,6 +15228,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co">
         <seg>Nurmale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not Alternative</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140007Z">
+        <seg>Nisuna alternativa</seg>
       </tuv>
     </tu>
     <tu>
@@ -16509,6 +16565,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
 	Solu u chjassu di prughjettu : Lancià l’interfaccia utilizatore
 	è caricà u prughjettu di squadra specificatu
 		Attrezzu di creazione di prughjettu di squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Origin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140038Z">
+        <seg>Uriginale</seg>
       </tuv>
     </tu>
     <tu>
