@@ -23851,6 +23851,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to commit because remote translation was changed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T003548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T003548Z">
+        <seg>Impussibule di rimandà perchè a traduzzione alluntanata hè stata cambiata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to connect to server.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T182846Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T182846Z">
