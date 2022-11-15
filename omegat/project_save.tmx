@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore matches with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T142234Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T142234Z">
+        <seg>&amp;Ignurà e currispundenze cù una scrittura assai sfarente (p.i. ECCU vs eccu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T143207Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T143207Z">
@@ -18749,6 +18757,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T143633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T143633Z">
         <seg>Rimpiazzà e sequenze di scappamentu cù spaziu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace matches when inserting source text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T142202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T142202Z">
+        <seg>Rimpiazzà e currispundenze à l’inserzione di u &amp;testu d'origine</seg>
       </tuv>
     </tu>
     <tu>
