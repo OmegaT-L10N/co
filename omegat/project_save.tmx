@@ -3961,6 +3961,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow local external search commands</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143732Z">
+        <seg>Permette e cumande lucale di ricerca esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow to save password as plain text</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T113917Z">
@@ -10482,6 +10490,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global External Searches</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143624Z">
+        <seg>Ricerche glubale esterne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global File &amp;Filters...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162122Z">
@@ -10686,6 +10702,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T175722Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T175722Z">
         <seg>Per attivalle, andate à Preferenze &gt; Ricerca esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143517Z">
+        <seg>Per attivalle, andate à Preferenze &gt; Ricerche glubale esterne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13697,6 +13721,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T165459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T165459Z">
         <seg>&amp;Regule lucale di segmentazione…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local External Searches</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143630Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143630Z">
+        <seg>Ricerche lucale esterne</seg>
       </tuv>
     </tu>
     <tu>
