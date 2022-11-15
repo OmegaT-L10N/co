@@ -13781,6 +13781,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local project commands are disabled for security reasons.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143511Z">
+        <seg>E cumande lucale di prughjettu sò disattivate per raghjoni di sicurità.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local translation not synchronized with remote repository.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T152606Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T152606Z">
@@ -19645,6 +19653,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search &amp;automatically</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143407Z">
+        <seg>Ricerca &amp;autumatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search ({0})</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T174146Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T174146Z">
@@ -24825,8 +24841,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Use &amp;fuzzy matching</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143127Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143127Z">
-        <seg>Impiegà a ricerca di currispundenza simile</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143127Z">
+        <seg>Impiegà a ricerca di currispundenza &amp;simile</seg>
       </tuv>
     </tu>
     <tu>
