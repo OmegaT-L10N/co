@@ -12819,10 +12819,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keep Remote Version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135744Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135744Z">
+        <seg>Cunservà a versione alluntanata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keep Unico&amp;de literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184341Z">
         <seg>Cunservà i litterali &amp;Unicode (\uXXXX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep Your Version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135723Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135723Z">
+        <seg>Cunservà a vostra versione</seg>
       </tuv>
     </tu>
     <tu>
@@ -16505,6 +16521,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135701Z">
+        <seg>Versione originale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T135723Z" creationid="Patriccollu" creationdate="20170213T135723Z">
@@ -18327,6 +18351,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135711Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135711Z">
+        <seg>Versione alluntanata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20150516T231716Z">
@@ -19695,8 +19727,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Segment Properties</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T225751Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225751Z">
-        <seg>Pruprietà di segmentu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135807Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T225751Z">
+        <seg>Pruprietà di u segmentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -19957,6 +19989,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select appropriate version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135612Z">
+        <seg>Selezziunà a versione apposta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select issue types to check.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T185144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185144Z">
@@ -19993,6 +20033,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143634Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T133544Z">
         <seg>Sciglite s’ellu ci vole à scaricà OmegaT cù o senza l’ambiente d’esecuzione Java (JRE) inchjusu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select your version, the original version or the remote version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135653Z">
+        <seg>Selezziunate a vostra versione, quella originale o quella alluntanata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24623,6 +24671,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135544Z">
+        <seg>Impiegà a tabulazione per validà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Tools &gt; Check Issues... to correct the tag errors and try again.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163055Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162758Z">
@@ -26107,6 +26163,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T181742Z" creationid="Patriccollu" creationdate="20170210T145659Z">
         <seg>U vostru prughjettu ùn cuntene micca di schedariu d’un furmatu accettatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135706Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135706Z">
+        <seg>A vostra versione</seg>
       </tuv>
     </tu>
     <tu>
