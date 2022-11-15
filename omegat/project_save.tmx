@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Colour</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135425Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135425Z">
+        <seg>Reinizià u &amp;culore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset Master Password</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T213318Z">
@@ -3018,6 +3026,14 @@ U valore attuale hè {0} Mo ;
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T141314Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T141314Z">
+        <seg>&lt;html&gt;&lt;i&gt;Preferenze&lt;/i&gt; &amp;gt; &lt;i&gt;Generale&lt;/i&gt; &amp;gt; &lt;i&gt;Impiegà a tabulazione per validà&lt;/i&gt; hè attiva&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135536Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135536Z">
         <seg>&lt;html&gt;&lt;i&gt;Preferenze&lt;/i&gt; &amp;gt; &lt;i&gt;Generale&lt;/i&gt; &amp;gt; &lt;i&gt;Impiegà a tabulazione per validà&lt;/i&gt; hè attiva&lt;/html&gt;</seg>
       </tuv>
     </tu>
