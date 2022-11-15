@@ -4461,6 +4461,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Assign &amp;shortcut</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T144014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T144014Z">
+        <seg>&amp;Attribuisce un accurtatoghju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the end of your translation, OmegaT exports three translation memories called &lt;c0&gt;level1&lt;/c0&gt;, &lt;c1&gt;level2&lt;/c1&gt; and &lt;c2&gt;omegat&lt;/c2&gt; to your project folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T165621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165621Z">
@@ -9493,6 +9501,22 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T221745Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221745Z">
         <seg>Ricerca esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search Set</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143850Z">
+        <seg>Inseme di ricerca esterna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search URL</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T144047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T144047Z">
+        <seg>Indirizzu web di ricerca esterna</seg>
       </tuv>
     </tu>
     <tu>
