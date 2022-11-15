@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Layout:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T142320Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T142320Z">
+        <seg>&amp;Accunciamentu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T143639Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T143223Z">
@@ -14409,6 +14417,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T154725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T154725Z">
         <seg>Fusione di e definizioni alternative per u listessu termine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merge alternate definitions of the same term</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T142301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T142301Z">
+        <seg>&amp;Fusione di e definizioni alternative per u listessu termine</seg>
       </tuv>
     </tu>
     <tu>
