@@ -7729,6 +7729,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display TBX &amp;glossaries context description</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140905Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140905Z">
+        <seg>Affissà a discrizzione di cuntestu di i &amp;glossarii TBX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T154947Z">
@@ -14225,6 +14233,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T111326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T111326Z">
         <seg>Prupagazione di e currispundenze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match term groups even if the terms appear separately</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T141042Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T141042Z">
+        <seg>Fà currispunde i gruppi di termine ancu s’è i termini accadenu staccatamente</seg>
       </tuv>
     </tu>
     <tu>
