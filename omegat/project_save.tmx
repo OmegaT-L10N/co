@@ -2022,6 +2022,24 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T144828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T144828Z">
+        <seg>- Marco Cevoli (rispunsevule di cumunità Telegram)
+- Jean-Christophe Helary (rispunsevule di cumunità Twitter)
+- Kos Ivantsov (rispunsevule di a lucalizazione)
+- Concepción Martin (rispunsevule di cumunità Facebook)
+- Briac Pilpré (webmaestru)
+- Lucie Vecerova (rispunsevule di cumunità Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- Microsoft Open XML (*.docx, *.xlsx, *.pptx)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T155319Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T155319Z">
@@ -3177,8 +3195,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>&lt;none&gt;</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T162305Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162305Z">
-        <seg>&lt;alcunu&gt;</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145117Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162305Z">
+        <seg>&lt;nisunu&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8769,8 +8787,8 @@ Micca pagina</seg>
       <tuv lang="en">
         <seg>End of stream encountered without finding close block!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171247Z">
-        <seg>Alcunu bloccu di fine à a chjusura di schedariu !</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171247Z">
+        <seg>Nisunu bloccu di fine à a chjusura di schedariu !</seg>
       </tuv>
     </tu>
     <tu>
@@ -15134,8 +15152,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No .DOCX files to clean.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T160832Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T160832Z">
-        <seg>Alcunu schedariu .DOCX à nettà.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T160832Z">
+        <seg>Nisunu schedariu .DOCX à nettà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15150,24 +15168,24 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T140550Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140550Z">
-        <seg>Alcunu schedariu d’esecuzione GPG ùn hè statu trovu ; definiscelu in e preferenze Git di a sezzione « Committing », o ancu in gpg.program di a cunfigurazione git</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140550Z">
+        <seg>Nisunu schedariu d’esecuzione GPG ùn hè statu trovu ; definiscelu in e preferenze Git di a sezzione « Committing », o ancu in gpg.program di a cunfigurazione git</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No GPG key found for key ID ''{0}''; check or set git config user.signingKey</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T120036Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T120036Z">
-        <seg>Alcuna chjave GPG ùn hè stata trova per a chjave n° « {0} » ; cuntrollà o definisce user.signingKey in a cunfigurazione git</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T120036Z">
+        <seg>Nisuna chjave GPG ùn hè stata trova per a chjave n° « {0} » ; cuntrollà o definisce user.signingKey in a cunfigurazione git</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No Issues Found</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173522Z">
-        <seg>Alcunu penseru trovu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T173522Z">
+        <seg>Nisunu penseru trovu</seg>
       </tuv>
     </tu>
     <tu>
@@ -15182,32 +15200,32 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No OAuth token specified</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T101129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101129Z">
-        <seg>Alcuna marca OAuth specificata</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101129Z">
+        <seg>Nisuna marca OAuth specificata</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T152315Z">
-        <seg>Alcuna sugestione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T152315Z">
+        <seg>Nisuna sugestione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No connection available, the project is in offline mode.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T114023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190944Z">
-        <seg>Alcuna cunnessione dispunibule, u prughjettu si trova in modu « fora di linea ».</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190944Z">
+        <seg>Nisuna cunnessione dispunibule, u prughjettu si trova in modu « fora di linea ».</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No folder ID specified</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T101203Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101203Z">
-        <seg>Alcuna identificazione di cartulare specificata</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T101203Z">
+        <seg>Nisuna identificazione di cartulare specificata</seg>
       </tuv>
     </tu>
     <tu>
@@ -15246,8 +15264,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No new languages available at the remote server.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T180654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T180654Z">
-        <seg>Alcuna lingua nova ùn hè dispunibule nant’à u servitore alluntanatu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T180654Z">
+        <seg>Nisuna lingua nova ùn hè dispunibule nant’à u servitore alluntanatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15278,32 +15296,32 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No project loaded.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T162420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T162420Z">
-        <seg>Alcunu prughjettu carcu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T162420Z">
+        <seg>Nisunu prughjettu carcu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No script bound in slot #{0}.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181858Z">
-        <seg>Alcunu scenariu liatu à a piazza n° {0}.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181858Z">
+        <seg>Nisunu scenariu liatu à a piazza n° {0}.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No script selected.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T160814Z">
-        <seg>Alcunu scenariu selezziunatu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T160814Z">
+        <seg>Nisunu scenariu selezziunatu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>No script set.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181744Z">
-        <seg>Alcunu scenariu definitu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181744Z">
+        <seg>Nisunu scenariu definitu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15394,8 +15412,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>None</seg>
       </tuv>
-      <tuv lang="co">
-        <seg>Alcunu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z">
+        <seg>Nisunu</seg>
       </tuv>
     </tu>
     <tu>
@@ -25115,8 +25133,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>User canceled signing (no passphrase provided)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T140122Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140122Z">
-        <seg>L’utilizatore hà abbandunatu a cunnessione (alcuna frasa d’intesa ùn hè stata pruvista)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145146Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140122Z">
+        <seg>L’utilizatore hà abbandunatu a cunnessione (nisuna frasa d’intesa ùn hè stata pruvista)</seg>
       </tuv>
     </tu>
     <tu>
