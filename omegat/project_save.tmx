@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always confirm quit</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140359Z">
+        <seg>&amp;Sempre cunfirmà per esce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply a different font size to the dictionary pane</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163829Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T163641Z">
@@ -4225,6 +4233,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An item with the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140237Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140237Z">
+        <seg>Un elementu cù u nome "{0}" esiste dighjà in stu locu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Analyzing strings - {0} of {1} completed</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T164557Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T164557Z">
@@ -8145,6 +8161,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-check and try again.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140344Z">
+        <seg>Verificate un’altra volta è pruvate torna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-check it and try again.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134038Z">
@@ -8801,6 +8825,14 @@ hè u codice di a lingua è YY hè quellu di u rughjone o di u paese (ozzionale)
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter your password again for confirmation.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140321Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140321Z">
+        <seg>Stampittate torna a vostra parolla d’intesa per cunfirmà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T152105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T152105Z">
@@ -9049,6 +9081,14 @@ Screnu turchinu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T114843Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T114843Z">
         <seg>Sbagliu per ottene l‘esciuta d’un prugramma esternu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while loading the source files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140214Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140214Z">
+        <seg>Sbagliu durante u caricamentu di i schedarii d’origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11958,6 +11998,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T190845Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T190845Z">
         <seg>Numeri cuntradittorii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect password.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140257Z">
+        <seg>A parolla d’intesa hè incurretta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22476,6 +22524,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T212841Z">
         <seg>A parolla d’intesa pruvista ùn currisponde micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The passwords do not match.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140336Z">
+        <seg>E parolle d’intesa sò sfarente.</seg>
       </tuv>
     </tu>
     <tu>
