@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow local post-processing commands</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134442Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134442Z">
+        <seg>&amp;Permette e cumande lucale di post trattamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow only unique characters</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T124633Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T114351Z">
@@ -2921,8 +2929,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>&lt;No suggestions&gt;</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143254Z">
-        <seg>&lt;Alcuna sugestione&gt;</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T143254Z">
+        <seg>&lt;Nisuna sugestione&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5597,6 +5605,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T181033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T181033Z">
         <seg>Verificate chì i vostri schedarii Dizziunariu sò piazzati in u cartulare previstu (o dentru, in un sottucartulare).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the tag issues again.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134536Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134536Z">
+        <seg>Verificà torna i penseri d’etichetta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9938,6 +9954,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For best results, install the appropriate dictionaries via Preferences &gt; Spellchecker.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134919Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134919Z">
+        <seg>Per ottene risultati più belli, installate i dizziunarii adattati via Preferenze &gt; Cuntrullore ortograficu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For best results, please install the appropriate dictionaries via Options &gt; Spell Checking.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T210032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T162137Z">
@@ -10358,6 +10382,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T135813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T135813Z">
         <seg>&amp;Filtri glubali di schedariu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global Post-processing Commands</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134358Z">
+        <seg>Cumande glubale di post trattamentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -21672,6 +21704,14 @@ The scope of a text replacement is the target segments of the project, whether t
         <seg>Text to be removed</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141630Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141630Z">
+        <seg>Testu à caccià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to remove</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134450Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134450Z">
         <seg>Testu à caccià</seg>
       </tuv>
     </tu>
