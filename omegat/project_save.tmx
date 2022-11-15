@@ -24791,6 +24791,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;stemming</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T142043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T142043Z">
+        <seg>Impiegà a &amp;lemmatisazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;stemming for glossary entries</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T142720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T142720Z">
