@@ -6371,6 +6371,14 @@ discrizzione precisa annant’à cumu stu sbagliu hè statu pruduttu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conversion to the new team project format cannot be performed in console mode.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T004254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T004254Z">
+        <seg>A cunversione in u furmatu novu di prughjettu di squadra ùn si pò micca fà in modu di cunsola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20150514T185032Z">
@@ -16243,6 +16251,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T143352Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T143352Z">
         <seg>Ozzioni di u filtru Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open it in the OmegaT GUI tTo convert it to the new format.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T004646Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T004646Z">
+        <seg>Apritelu in l’interfaccia GUI d’OmegaT per cunvertiscelu in u furmatu novu.</seg>
       </tuv>
     </tu>
     <tu>
