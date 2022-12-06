@@ -968,8 +968,8 @@
       <tuv lang="en">
         <seg>&amp;Move Down</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223233Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181112Z">
-        <seg>Move in&amp;ghjò</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181112Z">
+        <seg>Move ing&amp;hjò</seg>
       </tuv>
     </tu>
     <tu>
@@ -15123,6 +15123,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mo&amp;ve Up</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182846Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182846Z">
+        <seg>Dispia&amp;zzà insù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Model ID:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181353Z">
@@ -15313,8 +15321,8 @@ U paradisu</seg>
       <tuv lang="en">
         <seg>Move Do&amp;wn</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223212Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181058Z">
-        <seg>Move in&amp;ghjò</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182719Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181058Z">
+        <seg>Dispiazzà in&amp;ghjò</seg>
       </tuv>
     </tu>
     <tu>
@@ -15327,10 +15335,18 @@ U paradisu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move F&amp;irst</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182706Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182706Z">
+        <seg>Piazzà in &amp;primu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move U&amp;p</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181041Z">
-        <seg>Move in&amp;sù</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181041Z">
+        <seg>Dispiazzà in&amp;sù</seg>
       </tuv>
     </tu>
     <tu>
@@ -15518,6 +15534,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133636Z">
         <seg>Novu cartulare lucale di prughjettu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New language and country</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182919Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182919Z">
+        <seg>Lingua nova è paese</seg>
       </tuv>
     </tu>
     <tu>
