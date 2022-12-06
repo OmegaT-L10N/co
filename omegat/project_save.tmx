@@ -10664,8 +10664,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Global File Filters</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T135813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T135813Z">
-        <seg>&amp;Filtri glubali di schedariu…</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172043Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T135813Z">
+        <seg>Filtri glubali di schedariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12322,6 +12322,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T192029Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T192029Z">
         <seg>Modu d’inserzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Next Missing T&amp;ag</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172251Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172251Z">
+        <seg>Fr&amp;amette a prossima etichetta chì manca</seg>
       </tuv>
     </tu>
     <tu>
@@ -19869,6 +19877,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185327Z">
         <seg>Pudete impiegà sti scenarii è prucedure per :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Se&amp;lect Source Text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172230Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172230Z">
+        <seg>Se&amp;lezziunà u testu d’origine</seg>
       </tuv>
     </tu>
     <tu>
