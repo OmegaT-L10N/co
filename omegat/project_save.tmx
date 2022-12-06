@@ -2188,6 +2188,22 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171513Z">
+        <seg>- Sguillà è dipone schedarii nant’à stu pannellu,
+	- Impiegà Prughjettu &gt; Aghjunghje schedarii…
+	- Impiegà Prughjettu &gt; Schedarii di fonte… eppò Aghjunghje schedarii…
+	- Impiegà u vostru ghjestiunariu per cupià i schedarii ver di u
+	 cartulare « Source » eppò impiegà Prughjettu &gt; Ricaricà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>- flexible sentence segmenting (using an SRX-like method)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T184331Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184331Z">
@@ -2290,6 +2306,22 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184105Z">
         <seg>- l’impiegu di parechji schedarii TMX accettevule cum’è referenza di traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if per-project filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171557Z">
+        <seg>- verificà chì u so furmatu hè accettatu da OmegaT :
+	  s’è e preferenze di filtru à u prughjettu sò attivate
+	  impiegà Prughjettu &gt; Pruprietà… &gt; Filtri di schedariu lucali…,
+	  osinnò impiegà Ozzioni &gt; Filtri glubali di schedariu…;
+	- apre i schedarii cù a so appiecazione d’origine è verificà ch’elli ùn sò micca vioti.</seg>
       </tuv>
     </tu>
     <tu>
