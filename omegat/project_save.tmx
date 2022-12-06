@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Stop at segments that are untranslated or have alternative translations</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183000Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183000Z">
+        <seg>Piantà quandu si scontra un segmentu micca &amp;traduttu o unu cù l’alternative.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Stop at untranslated and at segments with  alternatives</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T161141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T154701Z">
@@ -8751,6 +8759,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport the segment to a text file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182938Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182938Z">
+        <seg>&amp;Espurtà u segmentu in un schedariu di testu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T161109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T143844Z">
@@ -12528,6 +12544,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initial number of loaded segments:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183041Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183041Z">
+        <seg>Numeru iniziale di segmenti caricati :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134151Z">
@@ -16170,6 +16194,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T112012Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T173127Z">
         <seg>Infurmammi quand’un segmentu pussede note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify even When No Result found on Dictionary Search</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183238Z">
+        <seg>Infurmammi ancu s’ellu ùn si trova alcunu risultatu in una ricerca di dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -21567,6 +21599,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175218Z">
         <seg>Classificà da u testu &amp;sanu, micca da l’accurtatoghju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Target Term Length</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183057Z">
+        <seg>Classificà da a dimensione di u termine di destinazione</seg>
       </tuv>
     </tu>
     <tu>
