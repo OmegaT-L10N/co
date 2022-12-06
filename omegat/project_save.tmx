@@ -3525,6 +3525,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A rule ID can only contain Latin letters, underscores, and periods.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183337Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183337Z">
+        <seg>Un’identificazione di regula pò solu cuntene lettere latine, lineette basse (spaziu sottulineatu), è punti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A simple set of QA checks for current OmegaT project</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T153150Z" creationid="Patriccollu" creationdate="20170209T153150Z">
@@ -3905,6 +3913,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100835Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185731Z">
         <seg>Aghjunghje termini à un glossariu tuttu traducendu in OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add to Dictionary</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183245Z">
+        <seg>Aghjunghje à u dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -21039,6 +21055,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T163326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T163326Z">
         <seg>Selezziunate languagetool-server.jar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the desired languages and click Install.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183603Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183603Z">
+        <seg>Selezziunà e lingue desirate è fate un cliccu nant’à Installà.</seg>
       </tuv>
     </tu>
     <tu>
