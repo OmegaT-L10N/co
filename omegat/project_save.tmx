@@ -10918,6 +10918,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Segment</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174623Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174623Z">
+        <seg>Andà à u segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google API key not available.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181119Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181119Z">
@@ -21373,6 +21381,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181539Z">
         <seg>Termine d’origine :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation length (characters)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174649Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174649Z">
+        <seg>Longhezze di l’origine/traduzzione (caratteri)</seg>
       </tuv>
     </tu>
     <tu>
