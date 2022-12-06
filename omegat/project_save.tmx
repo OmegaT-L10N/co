@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump to Segment</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184341Z">
+        <seg>&amp;Saltà à u segmentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Keyword search</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T141458Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141458Z">
@@ -3925,6 +3933,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add to Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184350Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184350Z">
+        <seg>Aghjunghje à u dizziunariu : « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T150658Z" creationid="Patriccollu" creationdate="20170213T140222Z">
@@ -4077,9 +4093,25 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" group</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184245Z">
+        <seg>Gruppu d’aliniamentu« accettatu »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aligner "Needs Review" Group</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T135047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T135047Z">
+        <seg>Gruppu d’aliniamentu« à verificà »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" group</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184314Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184314Z">
         <seg>Gruppu d’aliniamentu« à verificà »</seg>
       </tuv>
     </tu>
@@ -4096,6 +4128,22 @@ U valore attuale hè {0} Mo ;
         <seg>Aligner Table Row Highlight</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T135338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T135338Z">
+        <seg>Sopralineà una linea di u tavulone d’aliniamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner highlight</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184317Z">
+        <seg>Sopralineà l’aliniamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner table row highlight</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184328Z">
         <seg>Sopralineà una linea di u tavulone d’aliniamentu</seg>
       </tuv>
     </tu>
@@ -11160,6 +11208,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go to Preferences &gt; Global External Searches to enable them.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184429Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184429Z">
+        <seg>Per attivalle, andate à Preferenze &gt; Ricerche glubale esterne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go to Preferences &gt; Global External Searches to enable.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143517Z">
@@ -14603,6 +14659,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine translate highlight</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184334Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184334Z">
+        <seg>Sopralineà a traduzzione autumatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Magento CE Locale CSV</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T140221Z" creationid="Patriccollu" creationdate="20170210T150405Z">
@@ -15011,10 +15075,34 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches deleted active</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184154Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184154Z">
+        <seg>Cuncurdanze squassate attive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches deleted inactive</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184155Z">
+        <seg>Cuncurdanze squassate inattive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches inserted active</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184151Z">
         <seg>Cuncurdanze framette attive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted inactive</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184152Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184152Z">
+        <seg>Cuncurdanze framette inattive</seg>
       </tuv>
     </tu>
     <tu>
@@ -20699,6 +20787,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search found mark</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184216Z">
+        <seg>Marca di ricerca trova</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search in</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T152304Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T152304Z">
@@ -20719,6 +20815,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210701T174132Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210701T174132Z">
         <seg>L’ozzioni di ricerca sò simile à quelle affissate nant’à a &lt;l0&gt;finestra di ricerca&lt;/l0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search replaced mark</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184220Z">
+        <seg>Marca di ricerca rimpiazzata</seg>
       </tuv>
     </tu>
     <tu>
@@ -26034,6 +26138,14 @@ U valore attuale hè {0} Mo ;
         <seg>Use &amp;TAB to Advance</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T165224Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T162840Z">
+        <seg>Impiegà a &amp;tabulazione per validà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;TAB to advance</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184357Z">
         <seg>Impiegà a &amp;tabulazione per validà</seg>
       </tuv>
     </tu>
