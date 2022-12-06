@@ -6819,6 +6819,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create A&amp;lternative Translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172828Z">
+        <seg>Creà una traduzzione &amp;alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224559Z" creationid="Patriccollu" creationdate="20170213T141537Z">
@@ -12360,8 +12368,8 @@ double-click on that shortcut.</seg>
       <tuv lang="en">
         <seg>Insert Unicode Control C&amp;haracter</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172502Z">
-        <seg>Fr&amp;amette un caratteru di cuntrollu Unicode</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172810Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172502Z">
+        <seg>Framette un caratteru di cuntrollu &amp;Unicode</seg>
       </tuv>
     </tu>
     <tu>
@@ -13603,6 +13611,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu" creationdate="20170209T143721Z">
         <seg>Amparà à impiegà OmegaT in 5 minuti !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Embedding (LRE U+202&amp;A)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172603Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172603Z">
+        <seg>Principiu di l’incastramentu da manca à diritta (LRE U+202&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17671,6 +17687,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pop Directional Formatting (PDF U+202&amp;C)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172618Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172618Z">
+        <seg>Fine di furmatu direzziunale (PDF U+202&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pop Directional Formatting (PDF U+202C)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T163738Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T163738Z">
@@ -18747,6 +18771,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remo&amp;ve Translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172844Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172844Z">
+        <seg>Caccià a &amp;traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote &amp;server</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T154257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T154257Z">
@@ -19397,10 +19429,26 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-to-Left Embedding (RLE U+202&amp;B)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172610Z">
+        <seg>Principiu di l’incastramentu da diritta à manca (RLE U+202&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-to-Left Embedding (RLE U+202B)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183418Z">
         <seg>Principiu di l’incastramentu da diritta à manca (RLE U+202B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-to-Left Mark (RLM U+200&amp;F)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172550Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172550Z">
+        <seg>Marca da diritta à manca (LRM U+200&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -25217,6 +25265,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T130030Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T125941Z">
         <seg>Impiegà tutte e mudificate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use as Default Translati&amp;on</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172803Z">
+        <seg>Impiegà cum’è traduzzione predefinita</seg>
       </tuv>
     </tu>
     <tu>
