@@ -5077,6 +5077,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/exception</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182446Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182446Z">
+        <seg>Segmentazione/Eccezzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Briac Pilpré</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122111Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122111Z">
@@ -9895,6 +9903,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182312Z">
+        <seg>&amp;Liami esterni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External program failed({1}): {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T115700Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115700Z">
@@ -10119,6 +10135,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File &amp;format</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182341Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182341Z">
+        <seg>&amp;Furmatu di schedariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T151321Z">
@@ -10218,6 +10242,14 @@ Solu 404</seg>
         <seg>Filename Variables:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180835Z">
+        <seg>Variabili di nome di schedariu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filename variables:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182423Z">
         <seg>Variabili di nome di schedariu :</seg>
       </tuv>
     </tu>
@@ -13553,10 +13585,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language name</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182441Z">
+        <seg>Nome di a lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language not specified for translation unit variant.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T180821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T180821Z">
         <seg>Lingua micca specificata per a variante di l’elementu di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language pattern</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182444Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182444Z">
+        <seg>Mudellu di a lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -15998,6 +16046,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182436Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182436Z">
+        <seg>Nota : e preferenze di cudificazione di i schedarii d’origine s’appiecanu solu à i schedarii HTML senza dichjarazione di cudificazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: not all filters allow you to select an encoding.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T131700Z">
@@ -17313,6 +17369,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other options:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182321Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182321Z">
+        <seg>Altre ozzioni :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other plugins are available online.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T144309Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T144309Z">
@@ -17513,6 +17577,22 @@ In nebbia pagna</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223121Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T180956Z">
         <seg>Mudellu nanzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern after</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182511Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182511Z">
+        <seg>Mudellu di dopu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern before</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182503Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182503Z">
+        <seg>Mudellu di nanzu</seg>
       </tuv>
     </tu>
     <tu>
@@ -18167,6 +18247,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T164307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T164307Z">
         <seg>Prerichiesti per installà OmegaT
 ================================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preserve &amp;spaces for all tags</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182406Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182406Z">
+        <seg>Cunservà i spazii per &amp;tutte l’etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -21611,6 +21699,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182419Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182419Z">
+        <seg>Cudificazione di schedariu d’origine :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183956Z">
@@ -21623,6 +21719,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182130Z">
         <seg>Mudellu di nome di schedariu d’origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182416Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182416Z">
+        <seg>Mudellu di nome di schedariu d’origine :</seg>
       </tuv>
     </tu>
     <tu>
@@ -21970,6 +22074,14 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T153948Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T153948Z">
+        <seg>Principià un novu paragrafu per i &amp;salti di linea Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph &amp;on Word soft return</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182329Z">
         <seg>Principià un novu paragrafu per i &amp;salti di linea Word</seg>
       </tuv>
     </tu>
@@ -24739,6 +24851,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182421Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182421Z">
+        <seg>Cudificazione di schedariu traduttu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
@@ -25843,6 +25963,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174731Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174731Z">
         <seg>&amp;Impiegà regule lucale di segmentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use local file fil&amp;ter settings</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182357Z">
+        <seg>&amp;Impiegà e preferenze di i filtri di schedariu lucali</seg>
       </tuv>
     </tu>
     <tu>
