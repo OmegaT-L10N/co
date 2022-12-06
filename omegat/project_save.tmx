@@ -10367,6 +10367,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Flagged text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184049Z">
+        <seg>Testu marcatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flagged text (regular expression):</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T165308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T165308Z">
@@ -10952,6 +10960,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global post-processing commands</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183902Z">
+        <seg>Cumande glubale di post trattamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global spell checking</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152147Z">
@@ -11068,6 +11084,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T111034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T111034Z">
         <seg>U cartulare di glossariu {0} ùn esiste micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary matches</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184101Z">
+        <seg>Cuncurdanze di glossariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -13649,6 +13673,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language checker</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184057Z">
+        <seg>Cuntrullore linguisticu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language name</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182441Z">
@@ -14963,10 +14995,34 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Matches changed</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184106Z">
+        <seg>Cuncurdanze mudificate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches come from your current translation or the TMX files placed in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T165502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T165502Z">
         <seg>E currispundenze venenu da a vostra traduzzione attuale o da i schedarii TMX chì sò piazzati in u cartulare  /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches inserted active</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184151Z">
+        <seg>Cuncurdanze framette attive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches unchanged</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184109Z">
+        <seg>Cuncurdanze micca mudificate</seg>
       </tuv>
     </tu>
     <tu>
@@ -26738,6 +26794,14 @@ of selecting, obtaining and installing it.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will also contain the source text.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183942Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183942Z">
+        <seg>S’è st’ozzione hè attivata, l’entrate di a vista d’empiimentu autumaticu di u glossariu cunteneranu dinù u testu d’origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170405Z">
@@ -27303,6 +27367,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T125418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T124811Z">
         <seg>Pruvate d’impiegà u lemmatizatore Hunspell cù a lingua {0}, ma nisunu dizziunariu d’ortugrafia ùn hè installatu per sta lingua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trying to use the HunspellTokenizer with {0}, but no spelling dictionaries are installed for this language.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184029Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184029Z">
+        <seg>Pruvate d’impiegà u lemmatizatore Hunspell cù {0}, ma nisunu dizziunariu d’ortugrafia ùn hè installatu per sta lingua.</seg>
       </tuv>
     </tu>
     <tu>
