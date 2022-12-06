@@ -12358,6 +12358,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Unicode Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172502Z">
+        <seg>Fr&amp;amette un caratteru di cuntrollu Unicode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Unicode Control Character</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155447Z">
@@ -13603,6 +13611,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T183340Z">
         <seg>Principiu di l’incastramentu da manca à diritta (LRE U+202A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Left-to-Right Mark (LRM U+200&amp;E)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172543Z">
+        <seg>Marca da manca à diritta (LRM U+200&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -19504,6 +19520,14 @@ Solu ste parolle</seg>
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T155902Z">
+        <seg>Cambià a cassa di e &amp;lettere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>S&amp;witch Case to</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172300Z">
         <seg>Cambià a cassa di e &amp;lettere</seg>
       </tuv>
     </tu>
