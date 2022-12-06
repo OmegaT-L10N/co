@@ -1382,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Sheet names</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182208Z">
+        <seg>Nomi di i &amp;foglii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show All</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T212106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T190033Z">
@@ -6169,6 +6177,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Column index must be equal to 1</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182124Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182124Z">
+        <seg>L’indice di culonna deve esse uguale à 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comm&amp;it Target Files</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T122548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T122548Z">
@@ -8637,6 +8653,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Duplicate fallbac&amp;k text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182222Z">
+        <seg>Testu di cu&amp;mpatibilità duppiatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate segments: {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T192242Z">
@@ -9267,6 +9291,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182104Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182104Z">
+        <seg>Sbagliu di caricamentu di u modulu d’estensione da a classa « {0} » : {1} : {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T204822Z">
@@ -9366,6 +9398,14 @@ Screnu turchinu</seg>
         <seg>Error unload plugin from class '{0}': {1}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154228Z">
+        <seg>Sbagliu di scaricamentu di u modulu d’estensione da a classa « {0} » : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unloading plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182113Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182113Z">
         <seg>Sbagliu di scaricamentu di u modulu d’estensione da a classa « {0} » : {1}</seg>
       </tuv>
     </tu>
@@ -15798,6 +15838,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible instruction te&amp;xt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182215Z">
+        <seg>&amp;Testu d’istruzzione invisibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>None</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z">
@@ -18033,6 +18081,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PowerPoint</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182249Z">
+        <seg>PowerPoint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Powerful tools</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T112611Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T112611Z">
@@ -19855,6 +19911,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide comments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182256Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182256Z">
+        <seg>&amp;Cummenti di e diapusitive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;pace matches nbsp</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T144306Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T152245Z">
@@ -21283,9 +21347,25 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sli&amp;de masters</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182301Z">
+        <seg>Masc&amp;here di e diapusitive</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Slide La&amp;youts</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T181950Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T144934Z">
+        <seg>Accunciamentu di e diapusiti&amp;ve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide la&amp;youts</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182309Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182309Z">
         <seg>Accunciamentu di e diapusiti&amp;ve</seg>
       </tuv>
     </tu>
@@ -21523,10 +21603,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source file encoding</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182137Z">
+        <seg>Cudificazione di schedariu d’origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183956Z">
         <seg>Caricamentu compiu di schedariu d’origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename pattern</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182130Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182130Z">
+        <seg>Mudellu di nome di schedariu d’origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -24635,12 +24731,28 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file encoding</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182143Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182143Z">
+        <seg>Cudificazione di schedariu traduttu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated file path cannot be identical to the source file path:
 {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T155825Z">
         <seg>U chjassu di u schedariu traduttu ùn pò micca esse u listessu chì quellu di u schedariu d’origine :
 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename pattern</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182201Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182201Z">
+        <seg>Mudellu di nome di schedariu traduttu</seg>
       </tuv>
     </tu>
     <tu>
@@ -27126,6 +27238,14 @@ window to be able to launch it from any location.</seg>
         <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T150453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T150453Z">
+        <seg>U prughjettu attuale impiega una segmentazione da frasa invece chì u schedariu TMX hè statu creatu cù una segmentazione da paragrafu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but the TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182049Z">
         <seg>U prughjettu attuale impiega una segmentazione da frasa invece chì u schedariu TMX hè statu creatu cù una segmentazione da paragrafu.</seg>
       </tuv>
     </tu>
