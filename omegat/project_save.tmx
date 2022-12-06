@@ -4849,6 +4849,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175035Z">
+        <seg>Navi&amp;gà…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back to the initial segment on close</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T105339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T105339Z">
@@ -5085,6 +5093,22 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175136Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175029Z">
+        <seg>Na&amp;vigà…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brow&amp;se...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175143Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175033Z">
+        <seg>Nav&amp;igà…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Brows&amp;e</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160027Z">
@@ -5093,10 +5117,26 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Brows&amp;e...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175240Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175124Z">
+        <seg>Navig&amp;à…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T160031Z">
         <seg>Navi&amp;gà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse&amp;...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175021Z">
+        <seg>N&amp;avigà…</seg>
       </tuv>
     </tu>
     <tu>
@@ -14117,6 +14157,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175000Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175000Z">
         <seg>Cumande lucale di post trattamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Local post-processing commands (disabled):</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175008Z">
+        <seg>Cumande lucale di post trattamentu (disattivate) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -26476,6 +26524,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T112004Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T112004Z">
         <seg>Accetta più di 30 furmati di schedariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175259Z">
+        <seg>Schedariu di glossariu scrivibile</seg>
       </tuv>
     </tu>
     <tu>
