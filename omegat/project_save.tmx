@@ -2498,6 +2498,18 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    A folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171058Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;chjassu&gt;
+	    Un cartulare cuntenendu i schedarii tradutti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
@@ -2556,6 +2568,18 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-stats
+	  project_path
+	    The path to the project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171143Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171143Z">
+        <seg>--mode=console-stats
+	  project_path
+	    U chjassu ver di u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-translate
 	  --source-pattern=&lt;pattern&gt;
 	    A regex whitelist of source files to process.</seg>
@@ -2584,6 +2608,18 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133827Z">
         <seg>--no-team
 	  Disattivà à funzione di prughjettu di squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171300Z">
+        <seg>--output-file=[stats-output-file]
+	    Stampa ver di u schedariu indicatu, o ver di l’esciuta
+	    classica s’ellu ùn ci hè schedariu o s’è l’ozzione hè assente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24946,6 +24982,16 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Usage: team init &lt;source language&gt; &lt;target language&gt;
+	See --help.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171312Z">
+        <seg>Sintassa : team init &lt;lingua d’origine&gt; &lt;lingua di destinazione&gt;
+	Fighjate --help.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
 line or in the OmegaT start script;
 The current setting is {0}MB;</seg>
@@ -26555,6 +26601,14 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T181742Z" creationid="Patriccollu" creationdate="20170210T145659Z">
         <seg>U vostru prughjettu ùn cuntene micca di schedariu d’un furmatu accettatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171345Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171345Z">
+        <seg>U vostru prughjettu ùn pare micca cuntene schedarii à traduce.</seg>
       </tuv>
     </tu>
     <tu>
