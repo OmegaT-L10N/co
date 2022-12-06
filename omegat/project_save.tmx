@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-Completion</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174320Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174320Z">
+        <seg>Empiimentu &amp;autumaticu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205516Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T205516Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T154026Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153443Z">
         <seg>Di&amp;zziunarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionary</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174138Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174138Z">
+        <seg>&amp;Dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3669,6 +3685,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access &amp;Configuration Folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174353Z">
+        <seg>Accede à u cartulare di &amp;cunfigurazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Configurat&amp;ion Folder</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200524T164006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153155Z">
@@ -4739,8 +4763,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Automatically &amp;Show Relevant Suggestions</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162020Z">
-        <seg>Affissà autumaticamente e &amp;sugestioni pertinente</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174324Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162020Z">
+        <seg>&amp;Affissà autumaticamente e sugestioni pertinente</seg>
       </tuv>
     </tu>
     <tu>
@@ -11230,6 +11254,22 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162055Z">
         <seg>Cronolugia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Completion</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174335Z">
+        <seg>&amp;Cumpiimentu di cronolugia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History &amp;Prediction</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174338Z">
+        <seg>&amp;Predizzione di cronolugia</seg>
       </tuv>
     </tu>
     <tu>
