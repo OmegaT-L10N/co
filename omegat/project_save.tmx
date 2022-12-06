@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174124Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174124Z">
+        <seg>&amp;Traduzzione autumatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Make the file filter settings project specific</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T131925Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T131925Z">
