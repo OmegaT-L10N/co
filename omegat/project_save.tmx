@@ -742,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go to Downloads</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184455Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184455Z">
+        <seg>&amp;Scaricamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="co">
@@ -2098,6 +2106,26 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 - Jean-Christophe Helary (rispunsevule di cumunità Twitter)
 - Kos Ivantsov (rispunsevule di a lucalizazione)
 - Concepción Martin (rispunsevule di cumunità Facebook)
+- Briac Pilpré (webmaestru)
+- Lucie Vecerova (rispunsevule di cumunità Facebook)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- Marco Cevoli (Telegram community manager)
+- Jean-Christophe Helary (Twitter community manager)
+- Kos Ivantsov (localisation manager)
+- Concepción Martin (Facebook community manager)
+- Hiroshi Miura (lead developer)
+- Briac Pilpré (webmaster)
+- Lucie Vecerova (Facebook community manager)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184852Z">
+        <seg>- Marco Cevoli (rispunsevule di cumunità Telegram)
+- Jean-Christophe Helary (rispunsevule di cumunità Twitter)
+- Kos Ivantsov (rispunsevule di a lucalizazione)
+- Concepción Martin (rispunsevule di cumunità Facebook)
+- Hiroshi Miura (sviluppatore principale)
 - Briac Pilpré (webmaestru)
 - Lucie Vecerova (rispunsevule di cumunità Facebook)</seg>
       </tuv>
@@ -6706,6 +6734,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
         <seg>Context Menu Priority:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu" creationdate="20170213T133756Z">
+        <seg>Priurità di u listinu cuntestuale :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Context menu priority:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184443Z">
         <seg>Priurità di u listinu cuntestuale :</seg>
       </tuv>
     </tu>
@@ -12476,6 +12512,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T171218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141555Z">
         <seg>In i cummenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In editor</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184436Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184436Z">
+        <seg>In l’editore</seg>
       </tuv>
     </tu>
     <tu>
