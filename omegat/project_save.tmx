@@ -2366,6 +2366,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;path&gt;
+	  The folder used to read or write OmegaT configuration files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171025Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171025Z">
+        <seg>--config-dir=&lt;chjassu&gt;
+	  U cartulare impiegatu per leghje o scrive i schedarii di cunfigurazione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-file=&lt;path&gt;
 		A Java .properties file from which to load default settings.</seg>
       </tuv>
@@ -2400,6 +2410,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	  Do not remember the last directory opened in the file picker.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134427Z">
+        <seg>--disable-location-save
+	  Ùn arricurdassi micca di l’ultimu cartulare apertu in u selettore di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+	  Do not remember the last folder opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T170907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T170907Z">
         <seg>--disable-location-save
 	  Ùn arricurdassi micca di l’ultimu cartulare apertu in u selettore di schedariu.</seg>
       </tuv>
@@ -2662,6 +2682,16 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T141904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T141904Z">
         <seg>--resource-bundle=&lt;path&gt;
 	  Un schedariu .properties Java à impiegà per u testu di l’interfaccia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+	  A Java .properties file to use for the interface text.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171040Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171040Z">
+        <seg>--resource-bundle=&lt;path&gt;
+	  Un schedariu .properties Java à impiegà per u testu di l’interfaccia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15278,6 +15308,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No option: Launch GUI.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T170838Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T170838Z">
+        <seg>Nisuna ozzione : Lancià l’interfaccia GUI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No options: Launch GUI</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133408Z">
@@ -18137,6 +18175,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T133504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133504Z">
         <seg>Solu u chjassu di prughjettu : Lancià l’interfaccia GUI è caricà u prughjettu indicatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T170847Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T170847Z">
+        <seg>Solu u chjassu di prughjettu : Lancià l’interfaccia GUI è caricà u prughjettu indicatu.</seg>
       </tuv>
     </tu>
     <tu>
