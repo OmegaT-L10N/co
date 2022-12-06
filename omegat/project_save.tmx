@@ -8767,6 +8767,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor Panel</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T173017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T173017Z">
+        <seg>Pannellu di l’editore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Either update to the latest JDK 1.6, or remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181024Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181024Z">
@@ -14353,6 +14361,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark Gl&amp;ossary Matches</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174021Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174021Z">
+        <seg>Marcà e cuncurdanze di gl&amp;ossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Glossary Matches</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T173430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T173430Z">
@@ -15720,6 +15736,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T154053Z" creationid="Patriccollu" creationdate="20170209T154053Z">
         <seg>Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes Panel</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T173007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T173007Z">
+        <seg>Pannellu di note</seg>
       </tuv>
     </tu>
     <tu>
@@ -17791,6 +17815,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre&amp;vious Note</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172952Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172952Z">
+        <seg>Nota pre&amp;cedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-built binaries, are available as Nightly Builds.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T173009Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T173009Z">
@@ -18607,6 +18639,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T181020Z">
         <seg>Attualizazione di u schedariu di scenarii « {0} »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Register I&amp;dentical Translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172926Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172926Z">
+        <seg>Arregistrà una traduzzione identica à l’&amp;origine</seg>
       </tuv>
     </tu>
     <tu>
