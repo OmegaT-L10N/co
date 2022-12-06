@@ -14065,6 +14065,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local External Searc&amp;hes...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175335Z">
+        <seg>Ricerche lucale &amp;esterne…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local External Searches</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T143630Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T143630Z">
@@ -18719,6 +18727,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T175524Z">
         <seg>Rim&amp;piazzà cù l’origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;pository Mapping...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175324Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175324Z">
+        <seg>Cartugra&amp;fia di u dipositu…</seg>
       </tuv>
     </tu>
     <tu>
@@ -24735,6 +24751,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T180404Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T180404Z">
         <seg>Pruvate torna un’altra volta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Trying with backup file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T181611Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T181611Z">
+        <seg>Si prova cù schedarii di salvaguardia</seg>
       </tuv>
     </tu>
     <tu>
