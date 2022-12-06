@@ -7405,8 +7405,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Current project configuration will be overridden by the remote project configuration.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T170308Z">
-        <seg>A cunfigurazione di u prughjettu attuale serà rimpiazzata da u cuntenutu di a cunfigurazione di u prughjettu alluntanatu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T181654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T170308Z">
+        <seg>A cunfigurazione di u prughjettu attuale serà rimpiazzata da a cunfigurazione di u prughjettu alluntanatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19027,6 +19027,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repositories</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T181701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T181701Z">
+        <seg>Dipositi alluntanati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remote repository network communication error: {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190727Z">
@@ -24839,8 +24847,8 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
       <tuv lang="en">
         <seg>URL</seg>
       </tuv>
-      <tuv lang="co">
-        <seg>URL</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T181716Z">
+        <seg>Indirizzu web</seg>
       </tuv>
     </tu>
     <tu>
