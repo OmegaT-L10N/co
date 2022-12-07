@@ -18333,6 +18333,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Installer</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221207T160849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221207T160849Z">
+        <seg>Stalladore di modulu d’estensione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184855Z">
