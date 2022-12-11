@@ -9043,6 +9043,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor Pane</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221211T113402Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221211T113402Z">
+        <seg>Pannellu di l’editore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor Panel</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T173017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T173017Z">
@@ -16382,6 +16390,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170209T154053Z" creationid="Patriccollu" creationdate="20170209T154053Z">
         <seg>Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes Pane</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221211T113356Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221211T113356Z">
+        <seg>Pannellu di note</seg>
       </tuv>
     </tu>
     <tu>
@@ -25417,6 +25433,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation is</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221211T113514Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221211T113514Z">
+        <seg>A traduzzione hè</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation is fuzzy</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181028T174214Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T174214Z">
@@ -28095,6 +28119,14 @@ di creà u so cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>fuzzy</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221211T113605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221211T113605Z">
+        <seg>dubbitosa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T164011Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T164011Z">
@@ -28349,6 +28381,22 @@ di creà u so cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174617Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T174617Z">
         <seg>più chè un spaziu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>no</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221211T113520Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221211T113411Z">
+        <seg>Nò</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>not fuzzy</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221211T113615Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221211T113615Z">
+        <seg>micca dubbitosa</seg>
       </tuv>
     </tu>
     <tu>
