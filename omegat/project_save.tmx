@@ -17251,9 +17251,9 @@ installed on your system.</seg>
 the name of your OS and/or the system property containing
 your home folder.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174032Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112324Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174032Z">
         <seg>OmegaT s’hè vistu nigatu l’accessu à a pruprietà sistema
-chì cuntene u nome di u vostru sistema d’operazione è/o
+chì cuntene u nome di u vostru sistema d’operazione è/o à
 quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
     </tu>
@@ -24596,6 +24596,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file is not a plugin archive.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T112629Z">
+        <seg>Stu schedariu ùn hè micca un archiviu di modulu d’estensione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T153559Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T152224Z">
@@ -24789,6 +24797,16 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T151155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T175733Z">
         <seg>St’azzione hà da scartà tutti i cambiamenti fatti fine avà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will reset all
+settings to their defaults.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T112418Z">
+        <seg>St’azzione hà da reinizià tutte e
+preferenze à e so predefinizioni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27835,6 +27853,16 @@ window to be able to launch it from any location.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You may therefore experience
+unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112508Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T112508Z">
+        <seg>Forse, ci serà un
+cumpurtamentu inaspettatu, ma currettu quantunque.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T150054Z">
@@ -27936,9 +27964,9 @@ di creà u so cartulare di cunfigurazione.</seg>
         <seg>Your operating system refused to let OmegaT
 create the configuration folder.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174051Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112611Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174051Z">
         <seg>U vostru sistema d’operazione hà nigatu à OmegaT
-di creà u so cartulare di cunfigurazione.</seg>
+di creà u cartulare di cunfigurazione.</seg>
       </tuv>
     </tu>
     <tu>
