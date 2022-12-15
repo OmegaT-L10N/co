@@ -4877,6 +4877,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Popu&amp;lated Segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T110704Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T110704Z">
+        <seg>Segmenti &amp;riempiuti autumaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-sync with Editor</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200510T105042Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T105042Z">
