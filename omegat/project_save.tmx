@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T110714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T110714Z">
+        <seg>Segmentu seguente cù &amp;xAUTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163552Z">
@@ -1130,6 +1138,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175952Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170412Z">
         <seg>Segmentu &amp;precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment with xAUTO</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T110720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T110720Z">
+        <seg>S&amp;egmentu precedente cù xAUTO</seg>
       </tuv>
     </tu>
     <tu>
@@ -15758,6 +15774,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T110727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T110727Z">
+        <seg>Segmentu seguente cù xEN&amp;FORCED</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>NB: the Java™ Resource Bundles filter already detects them.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200819T140726Z">
@@ -16430,6 +16454,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T134908Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T134908Z">
         <seg>Nutificazione (fissa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me Even If There Are No Search Results</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T110924Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T110924Z">
+        <seg>Infurmammi ancu s’ellu ùn ci hè alcunu risultatu di ricerca</seg>
       </tuv>
     </tu>
     <tu>
@@ -17769,6 +17801,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191937Z">
         <seg>Modu di rimpiazzamentu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment with xENFORCED</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T110732Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T110732Z">
+        <seg>Segmentu precedente c&amp;ù xENFORCED</seg>
       </tuv>
     </tu>
     <tu>
