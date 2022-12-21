@@ -16858,6 +16858,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT can interface to some machine translation programs or Internet services)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T151433Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T151433Z">
+        <seg>OmegaT pò interfacciassi cù certi prugrammi o servizii internet di traduzzione autumatica)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT classic theme</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184137Z">
@@ -23411,6 +23419,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T102548Z">
         <seg>Vole si dì chì l’utilizatori cum’è voi sò liberi di scaricallu è d’impegallu quasi senza ristrizzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means that users like you can download and use it with no restrictions.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T151541Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T151541Z">
+        <seg>Vole si dì chì l’utilizatori cum’è voi ponu scaricallu è impegallu senza ristrizzione.</seg>
       </tuv>
     </tu>
     <tu>
