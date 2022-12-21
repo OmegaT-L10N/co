@@ -13402,6 +13402,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is used for testing purposes.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T165947Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T165947Z">
+        <seg>Hà da esse impiegata solu in un scopu di prova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is used to mark your translations.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T181311Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181311Z">
@@ -17439,6 +17447,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172522Z">
         <seg>OmegaT {0} hè dispunibule avà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T170403Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T170110Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} richiede una versione Java {{site.data.versions.standard.java_version}} di l’ambiente d’esecuzione (JRE) per funziunà.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23923,6 +23939,14 @@ cartulare attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T144228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T144228Z">
         <seg>U schedariu « {0} » ùn hè micca accettatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The files are downloadable directly from &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T170058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T170058Z">
+        <seg>I schedarii ponu esse scaricati direttamente da &lt;a0&gt;https://omegat.org&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
