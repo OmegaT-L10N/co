@@ -20619,6 +20619,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running the script will require you to enter your &lt;c0&gt;sudo&lt;/c0&gt; password.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T230315Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T230315Z">
+        <seg>L’esecuzione di u scenariu richiederà di stampittà a vostra parolla d’intesa &lt;c0&gt;sudo&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Russian</seg>
       </tuv>
       <tuv lang="co">
@@ -24350,6 +24358,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162204Z">
         <seg>U scenariu "{0}" hè in corsu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The script checks for an existing installation of the same OmegaT version in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T230505Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T230505Z">
+        <seg>U scenariu verificheghja s’ellu ci hè un installazione esistente di a listessa versione d’OmegaT in &lt;c0&gt;/opt/omegat/&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
