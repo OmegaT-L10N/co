@@ -17507,6 +17507,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>On Linux</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223754Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223754Z">
+        <seg>Nant’à Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Windows</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223336Z">
@@ -22135,6 +22143,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some Linux distributions offer OmegaT in their package manager.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223906Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223906Z">
+        <seg>Certe distribuzioni Linux furniscenu OmegaT in u so ghjestiunariu di pacchettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T151407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180550Z">
@@ -24080,6 +24096,14 @@ in the quick launch area.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T165308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T165308Z">
         <seg>U prugramma d’installazione pò creà accurtatoghji per voi in u listinu « démarrer », nant’à u scagnu o in a barra di lanciu rapidu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The instructions given here apply to people who download the package from the &lt;a0&gt;https://omegat.org&lt;/a0&gt; site and install it manually.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T224536Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T224536Z">
+        <seg>L’istruzzioni scritte quì s’appiecanu à a ghjente chì</seg>
       </tuv>
     </tu>
     <tu>
