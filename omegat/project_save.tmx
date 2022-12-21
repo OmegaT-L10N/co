@@ -17459,6 +17459,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT {{site.data.versions.standard.name}} and later also support Java 11 Runtime Environment on any platforms.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T191125Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T190919Z">
+        <seg>OmegaT {{site.data.versions.standard.name}} è e versioni più recente accettanu l’ambiente d’esecuzione Java 11 nant’à qualsiasi piattaforma..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT {{site.data.versions.standard.name}} requires a Java {{site.data.versions.standard.java_version}} Runtime Environment (JRE) to run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T170403Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T170110Z">
