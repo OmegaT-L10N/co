@@ -8691,8 +8691,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Double click on the package you downloaded to unpack it.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T231222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T231222Z">
-        <seg>Fate un cliccu doppiu nant’à l’appiecazione chì vo avete scaricata.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T231329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T231222Z">
+        <seg>Fate un cliccu doppiu nant’à u pacchettu chì vo avete scaricatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24872,6 +24872,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141114Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141114Z">
         <seg>Sta cumanda serà lanciata dopu à « Creà i ducumenti tradutti ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This creates a folder called &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T231411Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T231411Z">
+        <seg>S’azzione hà da creà un cartulare chjamatu &lt;c0&gt;OmegaT&lt;/c0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
