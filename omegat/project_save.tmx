@@ -7937,6 +7937,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developer: OmegaT Nightly</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T165803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T165803Z">
+        <seg>Sviluppatore : OmegaT di notte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T103715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T103715Z">
@@ -22633,6 +22641,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard: OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T154643Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T154643Z">
+        <seg>Classica : OmegaT {{site.data.versions.standard.name}}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start OmegaT again, download the team project, close OmegaT
 5.</seg>
       </tuv>
@@ -24704,6 +24720,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T183015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T183015Z">
         <seg>Stu ducumentu hè a guida ufficiale di l’utilizatore d’OmegaT, l’attrezzu liberu di traduzzione assistita da l’urdinatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This edition is recommended for everyday use.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T154753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T154753Z">
+        <seg>St’edizione hè ricumandata per un impiegu d’ogni ghjornu.</seg>
       </tuv>
     </tu>
     <tu>
