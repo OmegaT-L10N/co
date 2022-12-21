@@ -17276,6 +17276,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT packages are available both in versions bundled with Java, and versions without it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T190621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T190621Z">
+        <seg>I pacchetti d’OmegaT sò dispunibule in versioni impacchittati cù Java, è d’altre senza Java.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T143213Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T143213Z">
