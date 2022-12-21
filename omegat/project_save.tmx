@@ -6553,6 +6553,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152747Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152747Z">
+        <seg>Cumpatibilità cù d’altre appiecazioni di memoria di traduzzione via i furmati d</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Completed and current translations saved as {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164311Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164311Z">
