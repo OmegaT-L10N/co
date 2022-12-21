@@ -8689,6 +8689,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double click on the package you downloaded to unpack it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T231222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T231222Z">
+        <seg>Fate un cliccu doppiu nant’à l’appiecazione chì vo avete scaricata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-check and try again.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T140344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T140344Z">
@@ -8715,8 +8723,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Double-click on the package you downloaded.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T224537Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223425Z">
-        <seg>Fate un cliccu doppiu nant’à l’appiecazione chì vo avete scaricata.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T231252Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223425Z">
+        <seg>Fate un cliccu doppiu nant’à u pacchettu chì vo avete scaricatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17543,6 +17551,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223336Z">
         <seg>Nant’à Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On macOS</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T231149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T231149Z">
+        <seg>Nant’à macOS</seg>
       </tuv>
     </tu>
     <tu>
