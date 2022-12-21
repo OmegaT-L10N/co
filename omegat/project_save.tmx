@@ -23583,6 +23583,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That folder contains all the files needed to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T225626Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T225626Z">
+        <seg>’Ssu cartulare cuntenerà tutti i schedarii necessarii per fà funziunà OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143708Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T103517Z">
