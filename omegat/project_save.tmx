@@ -18013,6 +18013,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Packages without Java rely on a Java {{site.data.versions.standard.java_version}} Runtime Environment installed systemwide.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T190914Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T190914Z">
+        <seg>I pacchetti senza Java dipendenu d’una versione Java {{site.data.versions.standard.java_version}} di l’ambiente d’esecuzione (JRE) installata nant’à u sistema sanu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page Not Found</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T184907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184907Z">
