@@ -15367,6 +15367,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152108Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152055Z">
+        <seg>Microsoft Office Word, Excel, PowerPoint (2007 o più recente)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Open XML</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T143320Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T143320Z">
@@ -17647,6 +17655,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T162226Z" creationid="Patriccollu" creationdate="20170210T150519Z">
         <seg>Ozzioni di u filtru OpenDocument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Format (native file format for LibreOffice, Apache OpenOffice)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152221Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152115Z">
+        <seg>OpenDocument Format (furmatu di schedariu nativu per LibreOffice è Apache OpenOffice)</seg>
       </tuv>
     </tu>
     <tu>
