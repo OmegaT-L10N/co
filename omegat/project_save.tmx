@@ -8697,6 +8697,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click on the package you downloaded.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223425Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223425Z">
+        <seg>Fate un doppiu cliccu nant’à l’appiecazione chì vo avete scaricata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doubled blanks</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T191629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T191629Z">
@@ -17495,6 +17503,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T142418Z">
         <seg>Eppuru, OmegaT vi prisenterà sta frasa di sta manera :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On Windows</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223336Z">
+        <seg>Nant’à Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -27957,6 +27973,14 @@ can then launch the Kaptain launch script with:</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can also change this later by editing &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223748Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223748Z">
+        <seg>Si pò dinù cambià què dopu mudifichendu &lt;c0&gt;OmegaT.l4J.ini&lt;/c0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can also launch it from
 the Spotlight search field.</seg>
       </tuv>
@@ -27971,6 +27995,14 @@ start menu, the desktop or the quick launch area to link it from there.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T165828Z">
         <seg>Pudete dinù fà sguillà manualmente u schedariu OmegaT.exe in u listinu « démarrer », nant’à u scagnu o in a barra di lanciu rapidu per creacci l’accurtatoghji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can choose the language used during the installation and the language used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223556Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223556Z">
+        <seg>Si pò sceglie a lingua impiegata durante l’installazione è quella impiegata da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
