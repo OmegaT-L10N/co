@@ -3471,6 +3471,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a translation memory application that works on Windows, macOS, Linux… It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T151105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T151105Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; hè un appiecazione di memoria di traduzzione chì funziuneghja nant’à Windows, macOS, Linux… Ghjè un attrezzu sviluppatu per i traduttori prufessiunali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is available in many different versions in order to suit a range of user requirements.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T115010Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T115010Z">
@@ -10708,6 +10716,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on macOS.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T150544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T150527Z">
+        <seg>Per l’installazioni nant’à macOS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T131840Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T131840Z">
@@ -16934,6 +16950,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T154939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T154939Z">
         <seg>L’installazione hè stata riisciuta nant’à tutte e piattaforme Windows (da a versione 98 fin’à oghje), OS X Macintosh è Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from 98 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T150610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T150610Z">
+        <seg>L’installazione hè stata riisciuta nant’à tutte e piattaforme Windows (da a versione 98 fin’à oghje), macOS è Linux.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28425,6 +28449,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T131039Z" creationid="Patriccollu" creationdate="20170213T131033Z">
         <seg>mALIGNa (Licenza MIT)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>macOS</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T150516Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T150516Z">
+        <seg>macOS</seg>
       </tuv>
     </tu>
     <tu>
