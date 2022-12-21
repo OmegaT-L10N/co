@@ -13060,6 +13060,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker that uses Hunspell dictionaries (same as in other software such as LibreOffice or Mozilla FireFox)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152658Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152658Z">
+        <seg>Cuntrullore integrale d’ortugrafia chì impiegheghja i dizziunarii Hunspell (listessu cù in altri prugrammi cum’è LibreOffice o Mozilla FireFox)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T171752Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T164200Z">
@@ -26021,6 +26029,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode support: can be used with various alphabets and scripts</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152405Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152405Z">
+        <seg>Accetteghja Unicode : adopru pussibule cù parechji santacroci è scenarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uninstalling failed</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T153526Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150909Z">
@@ -28915,6 +28931,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T152738Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T152738Z">
         <seg>« {0} » ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>…and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152303Z">
+        <seg>… è una trentina d’altri furmati di schedariu</seg>
       </tuv>
     </tu>
     <tu>
