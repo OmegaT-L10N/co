@@ -6555,8 +6555,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Compatible with other translation memory applications via exchange formats such as TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152747Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152747Z">
-        <seg>Cumpatibilità cù d’altre appiecazioni di memoria di traduzzione via i furmati d</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152747Z">
+        <seg>Cumpatibilità cù d’altre appiecazioni di memoria di traduzzione via i furmati di scambiu cum’è TMX, TTX, TXML, XLIFF, SDLXLIFF</seg>
       </tuv>
     </tu>
     <tu>
@@ -13104,6 +13104,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T114411Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T114411Z">
         <seg>Interfaccia cù Google Translate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to machine translation/neural machine translation software/Web services</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T153052Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153052Z">
+        <seg>Interfaccia cù prugrammi o servizii web di traduzzione autumatica o di traduzzione neurale autumatica</seg>
       </tuv>
     </tu>
     <tu>
