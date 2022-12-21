@@ -12475,6 +12475,14 @@ to use Java Web Start.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T153909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153500Z">
+        <seg>S’è vo site un sviluppatore chì cunnosce Java, fighjate a &lt;a0&gt;guida di cuntribuzione à OmegaT&lt;/a0&gt;, o u testu d’origine di u ducumentu in u &lt;a1&gt;codice di fonte&lt;/a1&gt; in /docs_devel per sapè cumu principià.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T181039Z">
