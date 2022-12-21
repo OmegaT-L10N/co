@@ -3585,6 +3585,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152019Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152019Z">
+        <seg>Si pò truvà una &lt;a0&gt;spegazione di i prugrammi liberi&lt;/a0&gt; cù più di detaglii nant’à u situ web di a Free Software Foundation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A note is just a comment regarding this set of source text and translation.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T173105Z">
@@ -27689,6 +27697,14 @@ can then launch the Kaptain launch script with:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T172502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T172502Z">
         <seg>Impiegate dighjà l’ultima versione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people and even modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T151720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T151720Z">
+        <seg>Site liberi dinù di cupiallu è distribuiscelu à d’altre persone è ancu mudificà OmegaT per ch’ellu rispondi à i vostri bisogni.</seg>
       </tuv>
     </tu>
     <tu>
