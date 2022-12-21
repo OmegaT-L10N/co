@@ -4385,6 +4385,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although you can run OmegaT directly from the available files, you can also run the &lt;c0&gt;linux-install.sh&lt;/c0&gt; script found there to have OmegaT installed in more appropriate locations.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T230134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T230134Z">
+        <seg>Bench’ella sia pussibule di lancià OmegaT direttamente da i schedarii dispunibule, si pò dinù lancià u scenariu &lt;c0&gt;linux-install.sh&lt;/c0&gt; trovu quallà per fà l’installazione d’OmegaT in d’altri lochi più apposti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T161904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T161904Z">
