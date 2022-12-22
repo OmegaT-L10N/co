@@ -21711,6 +21711,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preferences for details.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173200Z">
+        <seg>Lighjite e preferenze di &lt;l0/&gt; per sapene di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the user guide for instructions.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181218Z">
@@ -24515,6 +24523,22 @@ cartulare attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172943Z">
         <seg>U cartulare chì cuntene e fiure impiegate da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where the libraries used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172958Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172958Z">
+        <seg>U cartulare chì cuntene e bibliuteche impiegate da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where you can install external plugins.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173129Z">
+        <seg>U cartulare induve si pò installà i moduli d’estensione esterni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29397,6 +29421,14 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>lib/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172944Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172944Z">
+        <seg>lib/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>libraries.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172803Z">
@@ -29513,6 +29545,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171207Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171207Z">
         <seg>altre piattaforme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>plugins/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172959Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172959Z">
+        <seg>plugins/</seg>
       </tuv>
     </tu>
     <tu>
