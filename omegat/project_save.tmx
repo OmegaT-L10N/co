@@ -17436,6 +17436,14 @@ be launched.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT projects are &lt;s2&gt; &lt;e3&gt;not&lt;/e3&gt; &lt;/s2&gt; stored inside OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T151145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T151145Z">
+        <seg>I prughjetti OmegaT ùn sò &lt;s2&gt; &lt;e3&gt;micca&lt;/e3&gt; &lt;/s2&gt; piazzati dentru OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT ran out of memory and will close when you click OK.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221112T143213Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221112T143213Z">
@@ -24981,6 +24989,14 @@ Vi manca una</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T144517Z">
         <seg>Sò prutette, è cusì ùn si pò micca mudificà u so cuntenutu, ma si pò caccialle, scrivele dapervoi o movele ver di a frasa di destinazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are separate objects that have no physical connection to the OmegaT application itself.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T151541Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T151541Z">
+        <seg>Sò oggetti indipendenti chì ùn anu micca cunnessione fisica cù l’appiecazione OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
