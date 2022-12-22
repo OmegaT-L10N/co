@@ -3633,6 +3633,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A link to the support page.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172213Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172213Z">
+        <seg>Un liame versu a pagina d’assistenza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A more detailed &lt;a0&gt;explanation of free software&lt;/a0&gt; can be found on the Free Software Foundation website.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152019Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152019Z">
@@ -22319,6 +22327,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simple installation and running instructions.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172415Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172415Z">
+        <seg>Istruzzioni d’installazione simplice è d’esecuzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple search and replace script</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160257Z" creationid="Patriccollu" creationdate="20170209T143842Z">
@@ -24415,6 +24431,14 @@ cartulare attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation distribution license.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172042Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172042Z">
+        <seg>A licenza di distribuzione di a documentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T120701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T120315Z">
@@ -24527,6 +24551,14 @@ Chì t’aspettanu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T114551Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T114551Z">
         <seg>L’ambiente JRE pruvistu hè a versione 64-bit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The index to the multilingual user manual.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172144Z">
+        <seg>L’indice di u nanuale multilingue di l’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29011,6 +29043,14 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>doc-license.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172020Z">
+        <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>done ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224743Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T224743Z">
@@ -29227,12 +29267,28 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172046Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172046Z">
+        <seg>index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>init &lt;source language&gt; &lt;target language&gt;
 		Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T173137Z">
         <seg>init &lt;lingua d’origine&gt; &lt;lingua di destinazione&gt;
 		Creà un prughjettu minimu di squadra cù e lingue specificate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>join.html</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172145Z">
+        <seg>join.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -29377,6 +29433,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171207Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171207Z">
         <seg>altre piattaforme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>readme.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172214Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172214Z">
+        <seg>readme.txt</seg>
       </tuv>
     </tu>
     <tu>
