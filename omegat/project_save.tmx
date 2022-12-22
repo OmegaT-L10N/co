@@ -25138,6 +25138,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time a new segment is entered.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T232652Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T232652Z">
+        <seg>U testu in u schedariu hè rimpiazzatu ogni volta chì s’apre un segmentu novu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text in the file is replaced each time this function is called.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193539Z">
