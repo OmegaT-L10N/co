@@ -17731,6 +17731,22 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's distribution license.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171459Z">
+        <seg>A licenza di distribuzione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT's executable.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171554Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171554Z">
+        <seg>U schedariu d’esecuzione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT's main features are:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T183724Z">
@@ -17751,6 +17767,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171442Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171442Z">
         <seg>OmegaT-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT.jar</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171528Z">
+        <seg>OmegaT.jar</seg>
       </tuv>
     </tu>
     <tu>
@@ -24041,6 +24065,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The GPL version 3.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171527Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171507Z">
+        <seg>A versione 3 di GPL.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T165642Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T165642Z">
@@ -27293,6 +27325,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T174702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T174702Z">
         <seg>Impiegate un prugramma di decumpressione cum’è « untar » (o un altru simile, per indettu &lt;f0&gt;7-Zip&lt;/f0&gt; per Windows) per estrae u so cuntenutu in u cartulare « dictionary » di u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Used when launching OmegaT from the command line.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171632Z">
+        <seg>Impiegatu quandu si lancia OmegaT da a linea di cumanda.</seg>
       </tuv>
     </tu>
     <tu>
