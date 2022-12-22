@@ -10707,6 +10707,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow the installation instructions of the package you need.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T145939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T145939Z">
+        <seg>Seguitate l’istruzzioni d’installazione di u pacchettu desideratu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20161226T121534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20161226T121534Z">
@@ -12084,6 +12092,14 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T154421Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T154421Z">
         <seg>IBM Watson ùn hè micca dispunibule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IBM provides JREs for Linux PowerPC at &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T145644Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T145644Z">
+        <seg>IBM distribuisce l’ambienti d’esecuzione JRE per Linux PowerPC à l’indirizzu &lt;a0&gt;https://developer.ibm.com/languages/java/semeru-runtimes/downloads/&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
