@@ -8897,6 +8897,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Due to licensing considerations, the OmegaT team recommends the Java runtime Eclipse Temurin provided by the Eclipse Foundation's Adoptium Project, but any Java {{site.data.versions.standard.java_version}} compatible runtime environment should work.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T132157Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T132157Z">
+        <seg>Per ragioni di licenza, a squadra OmegaT ricumanda l’ambiente d’esecuzione Java Eclipse Temurin distribuitu da u Prughjettu Adoptium di a fundazione Eclipse, ma tuttu ambiente d’esecuzione cumpatibile cù a versione Java {{site.data.versions.standard.java_version}} duveria funziunà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="co">
@@ -17084,24 +17092,24 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT for Beginners tutorial (2014 edition)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131405Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131405Z">
-        <seg>Furmazione autonoma per i principianti d’OmegaT (edizione 2014, in inglese)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131522Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131405Z">
+        <seg>Furmazione autonoma à OmegaT per i principianti (edizione 2014, in inglese)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131001Z">
-        <seg>OmegaT per i principianti (2020, in giappunese)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131448Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131001Z">
+        <seg>OmegaT per i principianti CAT (2020, in giappunese)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130849Z">
-        <seg>Furmazione autonoma per i principianti d’OmegaT (edizione 2020, in inglese)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130849Z">
+        <seg>Furmazione autonoma à OmegaT per i principianti CAT (edizione 2020, in inglese)</seg>
       </tuv>
     </tu>
     <tu>
