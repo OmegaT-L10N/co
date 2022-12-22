@@ -10715,6 +10715,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow your system’s instructions to install OmegaT shortcuts in convenient places of your choosing.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T150148Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T150148Z">
+        <seg>Seguitate l’istruzzioni di u vostru sistema per installà l’accurtatoghji d’OmegaT in i lochi apposti di a vostra scelta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Font</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20161226T121534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20161226T121534Z">
@@ -25052,6 +25060,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This creates a folder with all the files necessary to run OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T150040Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T150040Z">
+        <seg>S’azzione hà da creà un cartulare cù tutti i schedarii necessarii per fà funziunà OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This creates a new folder named after the package you downloaded.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T225215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T225215Z">
@@ -26628,6 +26644,14 @@ file and the OmegaT application.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T163943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T161111Z">
         <seg>Spacchittate l’archiviu .zip d’OmegaT per ottene un cartulare chì cuntenerà un schedariu di ducumentazione è l’appiecazione OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpack the file that you downloaded.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T145956Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T145956Z">
+        <seg>Spacchittate u schedariu chì vo avete scaricatu.</seg>
       </tuv>
     </tu>
     <tu>
