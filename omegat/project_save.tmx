@@ -3016,6 +3016,22 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171149Z">
+        <seg>/Applications/OmegaT.app/Contents/Java/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171144Z">
+        <seg>/opt/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165112Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165112Z">
@@ -5613,6 +5629,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160657Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160657Z">
         <seg>Schedariu a&amp;ttuale di destinazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C:\Program Files\OmegaT\</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171140Z">
+        <seg>C:\Program Files\OmegaT\</seg>
       </tuv>
     </tu>
     <tu>
@@ -17723,6 +17747,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171442Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171442Z">
+        <seg>OmegaT-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified by the new version.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T150829Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T150829Z">
@@ -24682,6 +24714,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The recommended or default locations are the following:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171137Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171137Z">
+        <seg>I lochi ricumandati o predefiniti sò quelli :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The same spirit can be found within the OmegaT project.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T152655Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T152655Z">
@@ -29257,6 +29297,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T180139Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T180139Z">
         <seg>russia Velior nant’à a &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other platforms</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171207Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171207Z">
+        <seg>altre piattaforme</seg>
       </tuv>
     </tu>
     <tu>
