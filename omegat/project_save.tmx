@@ -17667,6 +17667,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT’s preferences are stored in the configuration folder and will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified by the new version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T150829Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T150829Z">
+        <seg>E preferenze d’OmegaT sò piazzate in u cartulare di cunfigurazione è ùn seranu &lt;s0&gt; &lt;e1&gt;micca&lt;/e1&gt; &lt;/s0&gt; mudificate da a versione nova.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>On Linux</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T223754Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T223754Z">
@@ -19553,6 +19561,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20181027T145026Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181027T145026Z">
         <seg>U prughjettu ùn serà micca mudificatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Projects that you have created in the past or are currently using will &lt;s0&gt; &lt;e1&gt;not&lt;/e1&gt; &lt;/s0&gt; be modified or deleted.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T151052Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T151052Z">
+        <seg>I prughjetti creati in u passatu o impiegati attualmente ùn seranu &lt;s0&gt; &lt;e1&gt;micca&lt;/e1&gt; &lt;/s0&gt; mudificati o squassati.</seg>
       </tuv>
     </tu>
     <tu>
