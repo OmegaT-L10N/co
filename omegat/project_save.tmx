@@ -4091,8 +4091,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>After the unpacking or installation is complete, you can delete the downloaded file as it is no longer needed.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T231125Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T231125Z">
-        <seg>Dopu chè a scumpressione o l’installazione sia compia, si pò squassà i schedarii scaricati perchè ùn seranu mai più richiesti.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143958Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T231125Z">
+        <seg>Dopu chè a scumpressione o l’installazione serà compia, si pò squassà u schedariu scaricatu perchè ùn serà mai più richiestu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17655,6 +17655,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T173340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T144359Z">
         <seg>Ogni sugestione di mudificazione o d’amendamentu d’OmegaT sottumessa da un utilizatore hè esaminata da a squadra di sviluppu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have done this, you can delete the downloaded file as it is no longer needed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T143855Z">
+        <seg>Quandu què hè compiu, si pò squassà i schedarii scaricati perchè ùn seranu mai più richiesti.</seg>
       </tuv>
     </tu>
     <tu>
