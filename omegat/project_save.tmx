@@ -6737,6 +6737,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Configuration Folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173413Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173413Z">
+        <seg>Cartulare di cunfigurazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="co">
@@ -21719,6 +21727,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; window for details.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173325Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173325Z">
+        <seg>Lighjite a finestra &lt;l0/&gt; per sapene di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the user guide for instructions.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181218Z">
@@ -24403,6 +24419,14 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173521Z">
+        <seg>U cartulare di cunfigurazione cuntene a maiò parte di l’ozzioni è di e preferenze d’OmegaT per l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The configuration folder will be used
 instead.</seg>
       </tuv>
@@ -24515,6 +24539,14 @@ cartulare attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T142356Z">
         <seg>U cartulare cuntenerà tutti i schedarii : &lt;c1&gt;index.html&lt;/c1&gt; (l’indice di u manuale di l’utilizatore) è &lt;c2&gt;OmegaT.app&lt;/c2&gt; (l’appiecazione).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The folder where distributed scripts are located.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173306Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173306Z">
+        <seg>U cartulare induve sò piazzati i scenarii distribuiti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24678,6 +24710,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172821Z">
         <seg>A lista di e bibliuteche impiegate da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The location of the default configuration folder varies by system (the &lt;e0&gt;~&lt;/e0&gt; character represents your home folder):</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173820Z">
+        <seg>U locu induve si trova u cartulare predefinitu di cunfigurazione dipende di u vostru sistema ( (u caratteru &lt;e0&gt;~&lt;/e0&gt; riprisenta u vostru cartulare d’accolta) :</seg>
       </tuv>
     </tu>
     <tu>
@@ -27313,6 +27353,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173601Z">
+        <seg>Impiegate &lt;l0/&gt;&lt;l1/&gt; per accedeci direttamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T170714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T170714Z">
@@ -29561,6 +29609,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172214Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172214Z">
         <seg>readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>scripts/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173201Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173201Z">
+        <seg>scripts/</seg>
       </tuv>
     </tu>
     <tu>
