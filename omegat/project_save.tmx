@@ -17669,8 +17669,8 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       <tuv lang="en">
         <seg>Once you have done this, you can delete the downloaded file as it is no longer needed.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T143855Z">
-        <seg>Quandu què hè compiu, si pò squassà i schedarii scaricati perchè ùn seranu mai più richiesti.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T144324Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T143855Z">
+        <seg>Quandu què hè compiu, si pò squassà u schedariu scaricatu perchè ùn serà mai più richiestu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25072,6 +25072,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200623T153559Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200623T152224Z">
         <seg>Sta manera di non-intervenzione hè chjamata da u cuurdinatore attuale di prughjettu una « anarchia delegata »</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This information applies to all systems that have a Java version compatible with Java {{site.data.versions.standard.java_version}} Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T144810Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T144810Z">
+        <seg>St’infurmazione s’appieca à tutti i sistemi chì anu una versione Java cumpatibile cù a versione {{site.data.versions.standard.java_version}} di l’ambiente d’esecuzione.</seg>
       </tuv>
     </tu>
     <tu>
