@@ -25660,6 +25660,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the login information for your team project repositories.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T234217Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T234217Z">
+        <seg>Stu schedariu cuntene l’infurmazione d’identificazione di cunnessione à i vostri dipositi di prughjettu in squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184705Z">
@@ -25800,6 +25808,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T145850Z">
         <seg>Vole si dì chì u codice di fonte di u prugramma hè dispunibule è chì a licenza d’OmegaT hè cuncepita per cuncede una libertà maiò à l’utilizatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized autotext parameters.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233935Z">
+        <seg>Stu schedariu di parametri cuntene i parametri persunalizati di testu autumaticu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29861,6 +29877,14 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>omegat.autotext</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233805Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233805Z">
+        <seg>omegat.autotext</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>omegat.kaptn</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165651Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165651Z">
@@ -29905,6 +29929,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172214Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172214Z">
         <seg>readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>repositories.properties</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233937Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233937Z">
+        <seg>repositories.properties</seg>
       </tuv>
     </tu>
     <tu>
