@@ -4361,6 +4361,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alongside an existing version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T153400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T153400Z">
+        <seg>Accantu à una versione esistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Also, consider testing &lt;a0&gt;nightly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T153426Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153426Z">
@@ -25405,6 +25413,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T151155Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T175733Z">
         <seg>St’azzione hà da scartà tutti i cambiamenti fatti fine avà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This will enable you to keep any number of versions side-by-side, which you may wish to do until you feel comfortable with the new version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T153806Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T153806Z">
+        <seg>Què vi permette di cunservà parechje versioni, l’una accantu à l’altra, ciò chì puderia esse desiratu u tempu d’ammaestrà a versione nova.</seg>
       </tuv>
     </tu>
     <tu>
