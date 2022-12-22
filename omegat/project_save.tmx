@@ -2518,6 +2518,14 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--config-dir=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T154300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T154247Z">
+        <seg>--config-dir=&lt;e0&gt;&lt;chjassu&gt;&lt;/e0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--config-dir=&lt;path&gt;
 	  The directory to read/write OmegaT configuration files from/to.</seg>
       </tuv>
@@ -2544,6 +2552,14 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171025Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171025Z">
         <seg>--config-dir=&lt;chjassu&gt;
 	  U cartulare impiegatu per leghje o scrive i schedarii di cunfigurazione d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;e0&gt;&lt;path&gt;&lt;/e0&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T154310Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T154302Z">
+        <seg>--config-file=&lt;e0&gt;&lt;chjassu&gt;&lt;/e0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4297,10 +4313,26 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All the parameters located in a Project Folder will apply to that project regardless of which version of OmegaT opens it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T154941Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T154941Z">
+        <seg>Tutti i parametri piazzati in u cartulare di prughjettu s’appiecheranu à stu prughjettu senza tene contu di a versione d’OmegaT chì l’apri.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All the parameters located in the Configuration Folder will be shared unless you specify a different configuration folder with the &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; option from the OmegaT options on the command line .</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T154244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T154244Z">
-        <seg>Tutti i parametri piazzati in u cartulare di cunfigurazione seranu scumparti fora s’è vo indicate un altru cartulare di cunfigurazione cù l’ozzione &lt;c0&gt;--config-dir=&lt;path&gt;&lt;/c0&gt; in l’ozzioni OmegaT pruviste nant’à a linea di cumanda.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T154443Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T154244Z">
+        <seg>Tutti i parametri piazzati in u cartulare di cunfigurazione seranu scumparti fora s’è vo indicate un altru cartulare di cunfigurazione cù l’ozzione &lt;c0&gt;--config-dir=&lt;chjassu&gt;&lt;/c0&gt; in l’ozzioni OmegaT pruviste nant’à a linea di cumanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the parameters located in the OmegaT configuration folder will be shared unless you specify a different configuration folder with the &lt;l0&gt;--config-dir=&lt;path&gt;&lt;/l0&gt; option on the command line.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T154427Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T154427Z">
+        <seg>Tutti i parametri piazzati in u cartulare di cunfigurazione seranu scumparti fora s’è vo indicate un altru cartulare di cunfigurazione cù l’ozzione &lt;l0&gt;--config-dir=&lt;chjassu&gt;&lt;/l0&gt; in l’ozzioni OmegaT pruviste nant’à a linea di cumanda.</seg>
       </tuv>
     </tu>
     <tu>
