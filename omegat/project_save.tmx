@@ -12497,6 +12497,14 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193322Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193322Z">
+        <seg>S’è e funzioni currispundente sò impiegate, stu cartulare pò cuntene fine à trè schedarii di testu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T133015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T133015Z">
@@ -29769,6 +29777,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172214Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172214Z">
         <seg>readme.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>script/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T190851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T190851Z">
+        <seg>script/</seg>
       </tuv>
     </tu>
     <tu>
