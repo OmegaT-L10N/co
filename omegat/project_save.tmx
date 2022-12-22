@@ -12332,6 +12332,14 @@ not be entered.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If OmegaT behaves erratically, include this file, or the relevant part thereof, to your report.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T190753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T190753Z">
+        <seg>S’è OmegaT si cumporte d’una manera strana, aghjunghjite u schedariu sanu, o solu a so parte pertinente, à u vostru raportu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T171458Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T171458Z">
