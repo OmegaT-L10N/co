@@ -24858,6 +24858,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T153259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T153259Z">
+        <seg>A versione « anziana » d’OmegaT serà rimpiazzata, ma e preferenze fatte da l’interfaccia OmegaT seranu cunservate in i cartulari di cunfigurazione (lighjite insù).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20211025T113006Z">
