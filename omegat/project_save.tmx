@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T130500Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130500Z">
+        <seg>&amp;Segmentu seguente da tm/auto/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Next Segment with xAUTO</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T110714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T110714Z">
@@ -1138,6 +1146,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175952Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170412Z">
         <seg>Segmentu &amp;precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Previous Segment from tm/auto/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T130542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130542Z">
+        <seg>Segmentu &amp;precedente da tm/auto/</seg>
       </tuv>
     </tu>
     <tu>
@@ -15918,6 +15934,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>N&amp;ext Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T130618Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130618Z">
+        <seg>S&amp;egmentu seguente da tm/enforce/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>N&amp;ext Segment with xENFORCED</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T110727Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T110727Z">
@@ -18025,6 +18049,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191937Z">
         <seg>Modu di rimpiazzamentu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P&amp;revious Segment from tm/enforce/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T130704Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130704Z">
+        <seg>Segmentu p&amp;recedente da tm/enforce/</seg>
       </tuv>
     </tu>
     <tu>
