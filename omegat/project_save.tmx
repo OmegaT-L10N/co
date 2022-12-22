@@ -15175,6 +15175,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233400Z">
+        <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Manfred Martin</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122053Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122053Z">
@@ -25804,6 +25812,22 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized file filters.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233645Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233645Z">
+        <seg>Stu schedariu di parametri cuntene i filtri persunalizati di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized user interface shortcuts.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233435Z">
+        <seg>Stu schedariu di parametri cuntene l’accurtatoghji persunalizati di l’interfaccia di l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115545Z" creationid="Patriccollu" creationdate="20170213T132227Z">
@@ -29471,6 +29495,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T142517Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T181446Z">
         <seg>I nomi di schedariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>filters.xml</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233437Z">
+        <seg>filters.xml</seg>
       </tuv>
     </tu>
     <tu>
