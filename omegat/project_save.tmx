@@ -7953,6 +7953,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default contents</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182449Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182449Z">
+        <seg>Cuntenutu predefinitu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Defaults to xml.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T140808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T140808Z">
@@ -25516,6 +25524,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file includes a number of important user preferences.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182801Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182801Z">
+        <seg>Stu schedariu cuntene assai preferenze impurtante di l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file is not a plugin archive.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T112629Z">
@@ -29609,6 +29625,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T165651Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T165651Z">
         <seg>omegat.kaptn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>omegat.prefs</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182452Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182452Z">
+        <seg>omegat.prefs</seg>
       </tuv>
     </tu>
     <tu>
