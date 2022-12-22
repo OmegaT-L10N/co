@@ -5459,8 +5459,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T102603Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T174339Z">
-        <seg>Da Marco Cevoli and Sergio Alasia (in talianu).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T174339Z">
+        <seg>Da Marco Cevoli and Sergio Alasia</seg>
       </tuv>
     </tu>
     <tu>
@@ -7035,6 +7035,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150954Z">
         <seg>Cupià i schedarii in u cartulare d’origine…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the folder to a suitable location (e.g. &lt;c3&gt;Applications&lt;/c3&gt;).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T143544Z">
+        <seg>Cupiate u cartulare in u locu appostu (p.i. &lt;c3&gt;Appiecazioni&lt;/c3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -9863,6 +9871,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Eventually, drag and drop &lt;c0&gt;OmegaT.app&lt;/c0&gt; onto the Dock to easily access it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143742Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T143742Z">
+        <seg>À a fine, sguillà è depone &lt;c0&gt;OmegaT.app&lt;/c0&gt; nant’à u Dock per un accessu più faciule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exact &amp;match</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170508T152721Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T152721Z">
@@ -12549,8 +12565,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T153909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153500Z">
-        <seg>S’è vo site un sviluppatore chì cunnosce Java, fighjate a &lt;a0&gt;guida di cuntribuzione à OmegaT&lt;/a0&gt;, o u testu d’origine di u ducumentu in u &lt;a1&gt;codice di fonte&lt;/a1&gt; in /docs_devel per sapè cumu principià.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143158Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153500Z">
+        <seg>S’è vo site un sviluppatore chì cunnosce Java, fighjate a &lt;a0&gt;manuale di cuntribuzione à OmegaT&lt;/a0&gt;, o u testu d’origine di u ducumentu in u &lt;a1&gt;codice di fonte&lt;/a1&gt; in /docs_devel per sapè cumu principià.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24169,8 +24185,8 @@ cartulare attuale serà impiegatu.</seg>
       <tuv lang="en">
         <seg>The folder contains two files: &lt;c1&gt;index.html&lt;/c1&gt; (the user guide index) and &lt;c2&gt;OmegaT.app&lt;/c2&gt; (the application).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T142613Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T142356Z">
-        <seg>U cartulare cuntenerà tutti i schedarii : &lt;c1&gt;index.html&lt;/c1&gt; (l’indice di a gui) è &lt;c2&gt;OmegaT.app&lt;/c2&gt; (l’appiecazione).</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T142356Z">
+        <seg>U cartulare cuntenerà tutti i schedarii : &lt;c1&gt;index.html&lt;/c1&gt; (l’indice di u manuale di l’utilizatore) è &lt;c2&gt;OmegaT.app&lt;/c2&gt; (l’appiecazione).</seg>
       </tuv>
     </tu>
     <tu>
