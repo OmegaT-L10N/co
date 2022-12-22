@@ -17995,6 +17995,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only this preference currently requires manual modification.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184621Z">
+        <seg>Attualmente, solu sta preferenza richiede una mudificazione manuale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Op&amp;en Recent...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155555Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155555Z">
@@ -25556,6 +25564,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file describes the overall OmegaT layout.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184705Z">
+        <seg>Stu schedariu discrive a dispusizione generale d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file includes a number of important user preferences.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182801Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182801Z">
@@ -25568,6 +25584,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T112629Z">
         <seg>Stu schedariu ùn hè micca un archiviu di modulu d’estensione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains a number of log files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184953Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184953Z">
+        <seg>Stu cartulare cuntene parechji ghjurnali di messaghji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25959,8 +25983,8 @@ preferenze à e so predefinizioni.</seg>
       <tuv lang="en">
         <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184349Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184349Z">
-        <seg>Per impedisce l’apertura autumatica di a finestra chì cuntene a lista di i schedarii d’origine quandu si caricheghja un prughjettu, circate &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; è rimpiazzate &lt;t1&gt;true&lt;/t1&gt; da &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184349Z">
+        <seg>Per impedisce l’apertura autumatica di a finestra chì cuntene a lista di i schedarii d’origine quandu si caricheghja un prughjettu, circate &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; è rimpiazzate &lt;t1&gt;true&lt;/t1&gt; da &lt;t2&gt;false&lt;/t2&gt; :</seg>
       </tuv>
     </tu>
     <tu>
@@ -29589,6 +29613,14 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>logs/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184705Z">
+        <seg>logs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>lucene-*.jar (Apache License 2.0)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143203Z">
@@ -29787,6 +29819,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191214T143141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T143141Z">
         <seg>trilead-ssh2-1.0.0-build220 (Licenza Trilead SSH)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>uiLayout.xml</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184623Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184623Z">
+        <seg>uiLayout.xml</seg>
       </tuv>
     </tu>
     <tu>
