@@ -18189,6 +18189,14 @@ L’altre cuntribuzioni sò detagliate in u schedariu readme.txt</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Over an existing version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T152636Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T152636Z">
+        <seg>Sopra una versione esistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Overwrite Mode</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191937Z">
@@ -25521,6 +25529,14 @@ preferenze à e so predefinizioni.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T102433Z">
         <seg>À st’ora, sti mecenii sò :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To do this, simply select the same installation folder as the existing installation when installing the new version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T153017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T153017Z">
+        <seg>Per fà què, selezziunate semplicemente u cartulare d’installazione attuale cum’è cartulare d’installazione di a versione nova.</seg>
       </tuv>
     </tu>
     <tu>
