@@ -25138,6 +25138,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The text in the file is replaced each time this function is called.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193539Z">
+        <seg>U testu in u schedariu hè rimpiazzatu ogni volta chè a funzione hè chjamata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The text size exceeds the maximum</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T181438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T181438Z">
@@ -25596,6 +25604,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;original text&lt;/e0&gt; from of the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193750Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193750Z">
+        <seg>Stu schedariu cuntene u &lt;e0&gt;testu d’origine&lt;/e0&gt; di u segmentu attuale quandu a preferenza &lt;l1/&gt; hè attivata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184705Z">
@@ -25616,6 +25632,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T112629Z">
         <seg>Stu schedariu ùn hè micca un archiviu di modulu d’estensione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This file stores the currently selected text when &lt;l0/&gt;&lt;l1/&gt; is used.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193457Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193457Z">
+        <seg>Stu schedariu cuntene u testu selezziunatu attualmente quandu &lt;l0/&gt;&lt;l1/&gt; hè impiegatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29805,6 +29829,14 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>selection.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193322Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193322Z">
+        <seg>selection.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>slf4j (MIT License)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T130956Z" creationid="Patriccollu" creationdate="20170213T130956Z">
@@ -29817,6 +29849,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T113136Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T113136Z">
         <seg>qualchì versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>source.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193539Z">
+        <seg>source.txt</seg>
       </tuv>
     </tu>
     <tu>
