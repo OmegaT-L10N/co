@@ -3659,8 +3659,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T172837Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T172742Z">
-        <seg>Una guida metodica apprupositu di l’utilitarii d’estrazzione è di fusione per un pre è post trattamentu di schedarii à traduce cù OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T142937Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T172742Z">
+        <seg>Un manuale metodicu apprupositu di l’utilitarii d’estrazzione è di fusione di testu da Rainbow per un pre è post trattamentu di schedarii à traduce cù OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4419,8 +4419,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T161904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T161904Z">
-        <seg>Una guida d’inguantata rapida, affissata à u lanciu di l’interfaccia d’OmegaT, vi presenta e so prucedure è funzioni principale.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T142803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T161904Z">
+        <seg>Un manuale d’inguantata rapida, affissata à u lanciu di l’interfaccia d’OmegaT, vi presenta e so prucedure è funzioni principale.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11510,8 +11510,8 @@ provided (omegat.kaptn).</seg>
       <tuv lang="en">
         <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T182145Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T174220Z">
-        <seg>Guida cumpleta a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143050Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T174220Z">
+        <seg>Guida cumpleta a OmegaT: tecniche, trucchi è consigli per i traduttori è u ghjestiunariu di prughjettu</seg>
       </tuv>
     </tu>
     <tu>
