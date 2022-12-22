@@ -25148,8 +25148,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The text in the file is replaced each time this function is called.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193539Z">
-        <seg>U testu in u schedariu hè rimpiazzatu ogni volta chè a funzione hè chjamata.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T232656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193539Z">
+        <seg>U testu in u schedariu hè rimpiazzatu ogni volta chì a funzione hè chjamata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25620,6 +25620,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This file contains the &lt;e0&gt;translated text&lt;/e0&gt; from the current segment when the &lt;l1/&gt; preference is enabled.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T232731Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T232731Z">
+        <seg>Stu schedariu cuntene u &lt;e0&gt;testu traduttu&lt;/e0&gt; di u segmentu attuale quandu a preferenza &lt;l1/&gt; hè attivata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This file describes the overall OmegaT layout.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184705Z">
@@ -25895,6 +25903,14 @@ preferenze à e so predefinizioni.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T121622Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T121622Z">
         <seg>Thomas Huriaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Those three files provide as a simple way to access some OmegaT content and process it with local programs such as shell scripts.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233016Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233016Z">
+        <seg>Sti trè schedarii furniscenu una manera simplice d’accede à certu cuntenutu d’OmegaT è di trattallu cù prugrammi lucali cum’è i scenarii shell.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29873,6 +29889,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T165410Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T165410Z">
         <seg>src (URL di e &amp;fiure)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>target.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T232700Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T232700Z">
+        <seg>target.txt</seg>
       </tuv>
     </tu>
     <tu>
