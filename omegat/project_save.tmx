@@ -2334,10 +2334,10 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	- use your file manager to copy files to the 'source' folder,
 	  and then use Project &gt; Reload to reload the project.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T171513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171513Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T183756Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T171513Z">
         <seg>- Sguillà è dipone schedarii nant’à stu pannellu,
 	- Impiegà Prughjettu &gt; Aghjunghje schedarii…
-	- Impiegà Prughjettu &gt; Schedarii di fonte… eppò Aghjunghje schedarii…
+	- Impiegà Prughjettu &gt; Schedarii d’origine… eppò Aghjunghje schedarii…
 	- Impiegà u vostru ghjestiunariu per cupià i schedarii ver di u
 	 cartulare « Source » eppò impiegà Prughjettu &gt; Ricaricà.</seg>
       </tuv>
@@ -25945,6 +25945,14 @@ preferenze à e so predefinizioni.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T163502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T162104Z">
         <seg>Pudete ottene OpenOffice.org o LibreOffice seguitendu u liame pruvistu in a parte « Prugrammi terzi » di a pagina « Risorse ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To prevent the Source Files list window from automatically opening when a project is loaded, find &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; and replace &lt;t1&gt;true&lt;/t1&gt; to &lt;t2&gt;false&lt;/t2&gt;:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184349Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184349Z">
+        <seg>Per impedisce l’apertura autumatica di a finestra chì cuntene a lista di i schedarii d’origine quandu si caricheghja un prughjettu, circate &lt;t0&gt;&lt;project_files_show_on_load&gt;&lt;/t0&gt; è rimpiazzate &lt;t1&gt;true&lt;/t1&gt; da &lt;t2&gt;false&lt;/t2&gt;:</seg>
       </tuv>
     </tu>
     <tu>
