@@ -4105,6 +4105,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional contents</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233031Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233031Z">
+        <seg>Cuntenutu cumplementariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Adiel Mittmann</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T122055Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T122055Z">
@@ -9327,6 +9335,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T173017Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T173017Z">
         <seg>Pannellu di l’editore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>EditorShortcuts.properties</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233033Z">
+        <seg>EditorShortcuts.properties</seg>
       </tuv>
     </tu>
     <tu>
@@ -21775,6 +21791,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix for details.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233344Z">
+        <seg>Lighjite l’annessu &lt;l0/&gt; per sapene di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; chapter for details.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171701Z">
@@ -25768,6 +25792,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T145850Z">
         <seg>Vole si dì chì u codice di fonte di u prugramma hè dispunibule è chì a licenza d’OmegaT hè cuncepita per cuncede una libertà maiò à l’utilizatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This parameter file contains customized editor shortcuts.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233133Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233133Z">
+        <seg>Stu schedariu di parametri cuntene l’accurtatoghji persunalizati di l’editore.</seg>
       </tuv>
     </tu>
     <tu>
