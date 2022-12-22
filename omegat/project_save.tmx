@@ -21823,6 +21823,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See the &lt;l0/&gt; preference for details.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T234915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T234915Z">
+        <seg>Lighjite e preferenze di &lt;l0/&gt; per sapene di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173200Z">
@@ -25712,6 +25720,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T184953Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T184953Z">
         <seg>Stu cartulare cuntene parechji ghjurnali di messaghji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder contains your spelling dictionaries.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T235006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T235006Z">
+        <seg>Stu cartulare cuntene i vostri dizziunarii d’ortugrafia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30025,6 +30041,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193539Z">
         <seg>source.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>spelling/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T234919Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T234919Z">
+        <seg>spelling/</seg>
       </tuv>
     </tu>
     <tu>
