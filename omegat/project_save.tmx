@@ -23913,6 +23913,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;c0&gt;plugins&lt;/c0&gt; and &lt;c1&gt;scripts&lt;/c1&gt; folders might be overwritten, so you may want to create a backup before upgrading.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T152535Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T152535Z">
+        <seg>I cartulari &lt;c0&gt;plugins&lt;/c0&gt; è &lt;c1&gt;scripts&lt;/c1&gt; puderianu esse rimpiazzati, dunque, hè ricumandatu di fà una salvaguardia nanzu di rinnovà.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;c3&gt;level1&lt;/c3&gt; and &lt;c4&gt;level2&lt;/c4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165638Z">
