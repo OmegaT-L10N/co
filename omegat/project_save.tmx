@@ -9155,6 +9155,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Each translated user manual comes in a different language folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172759Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172614Z">
+        <seg>Ogni manuale di l’utilizatore chì hè statu traduttu si trova in un cartulare di lingua specificu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ed&amp;it</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224839Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224718Z">
@@ -24503,6 +24511,14 @@ cartulare attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The folder where images used by OmegaT are stored.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172943Z">
+        <seg>U cartulare chì cuntene e fiure impiegate da OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following example shows Merriam Webster 10th dictionary "in action":</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T180618Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T180618Z">
@@ -24565,8 +24581,8 @@ Chì t’aspettanu</seg>
       <tuv lang="en">
         <seg>The index to the multilingual user manual.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172144Z">
-        <seg>L’indice di u nanuale multilingue di l’utilizatore.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172626Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172144Z">
+        <seg>L’indice di u manuale multilingue di l’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24630,6 +24646,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172521Z">
         <seg>A lista di i cuntribuenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of libraries used by OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172821Z">
+        <seg>A lista di e bibliuteche impiegate da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29307,6 +29331,14 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>images/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172821Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172821Z">
+        <seg>images/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>index.html</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172046Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172046Z">
@@ -29361,6 +29393,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T165459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T165459Z">
         <seg>lan&amp;g (attributu di lingua)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>libraries.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172803Z">
+        <seg>libraries.txt</seg>
       </tuv>
     </tu>
     <tu>
