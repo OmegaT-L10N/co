@@ -25812,6 +25812,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This parameter file contains customized external search parameters.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233731Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233731Z">
+        <seg>Stu schedariu di parametri cuntene i parametri persunalizati di ricerca esterna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This parameter file contains customized file filters.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233645Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233645Z">
@@ -29503,6 +29511,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233437Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233437Z">
         <seg>filters.xml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>finder.xml</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233647Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233647Z">
+        <seg>finder.xml</seg>
       </tuv>
     </tu>
     <tu>
