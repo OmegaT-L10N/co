@@ -24439,6 +24439,14 @@ cartulare attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The documentation folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172426Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172426Z">
+        <seg>U cartulare di documentazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The download will be faster, and the installation will require less space on your hard drive.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T120701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T120315Z">
@@ -24614,6 +24622,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171800Z">
         <seg>A lista di l’amendamenti è di e currezzioni di prublema.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The list of individual contributors.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172521Z">
+        <seg>A lista di i cuntribuenti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29043,10 +29059,26 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>contributors.txt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172427Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172427Z">
+        <seg>contributors.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>doc-license.txt</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172020Z">
         <seg>doc-license.txt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>docs/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172416Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172416Z">
+        <seg>docs/</seg>
       </tuv>
     </tu>
     <tu>
@@ -29071,6 +29103,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182803Z">
         <seg>co</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>en/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172523Z">
+        <seg>co/</seg>
       </tuv>
     </tu>
     <tu>
