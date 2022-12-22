@@ -17082,6 +17082,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial (2014 edition)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131405Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131405Z">
+        <seg>Furmazione autonoma per i principianti d’OmegaT (edizione 2014, in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131001Z">
@@ -17092,8 +17100,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T130849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130849Z">
-        <seg>Furmazione autonoma per i principianti d’OmegaT (edizione 2020)</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130849Z">
+        <seg>Furmazione autonoma per i principianti d’OmegaT (edizione 2020, in inglese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -17401,6 +17409,22 @@ installed on your system.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182831Z">
         <seg>Squadra OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131219Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131102Z">
+        <seg>OmegaT l’attrezzi CAT putenti (in inglese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT the CAT power tools(in Japanese)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131207Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131207Z">
+        <seg>OmegaT l’attrezzi CAT putenti (in giappunese)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28527,6 +28551,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T184032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T184032Z">
         <seg>bitext2tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131147Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131142Z">
+        <seg>da Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
