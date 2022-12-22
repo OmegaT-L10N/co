@@ -12618,6 +12618,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you do not use the default configuration folder, all modifications made in the &lt;l0&gt;preferences&lt;/l0&gt; will be stored in the specified configuration folder and will not appear when you resume work with the default configuration folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182442Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182442Z">
+        <seg>S’è vo ùn impiegate micca u cartulare predefinitu di cunfigurazione, tutte e mudificazioni fatte in e &lt;l0&gt;preferenze&lt;/l0&gt; seranu piazzate in u cartulare specificu di cunfigurazione è ùn si videranu micca quandu si ripiglierà u travagliu cù u cartulare predefinitu di cunfigurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T163430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T163430Z">
@@ -15827,6 +15835,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu" creationdate="20170209T143920Z">
         <seg>Segmenti mudificati :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modified preferences are stored in the configuration folder used by the project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182101Z">
+        <seg>E preferenze mudificate sò piazzate in u cartulare di cunfigurazione impiegatu da u prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21715,6 +21731,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T171701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T171701Z">
         <seg>Lighjite u capitulu &lt;l0/&gt; per sapene di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; how-to for details.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T181949Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T181949Z">
+        <seg>Lighjite u Cumu fà &lt;l0/&gt; per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
