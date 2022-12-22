@@ -8841,6 +8841,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Download the &lt;s0&gt; &lt;e1&gt;Cross-platform without JRE&lt;/e1&gt; &lt;/s0&gt; version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T145219Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T145219Z">
+        <seg>Scaricà a versione &lt;s0&gt; &lt;e1&gt;Multi-piattaforma senza JRE&lt;/e1&gt; &lt;/s0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Download the file - it should be a &lt;f0&gt;tarball&lt;/f0&gt; archive (extension &lt;e1&gt;tar.bz&lt;/e1&gt; or &lt;e2&gt;tar.bz2&lt;/e2&gt;).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T173519Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T173519Z">
