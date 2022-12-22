@@ -17082,6 +17082,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for CAT beginners (2020, in Japanese)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T131001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T131001Z">
+        <seg>OmegaT per i principianti (2020, in giappunese)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT for CAT beginners tutorial (2020 edition)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T130849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130849Z">
+        <seg>Furmazione autonoma per i principianti d’OmegaT (edizione 2020)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT for Mac OS X is available in both signed and unsigned versions; they are functionally identical, but the signed version is preferred as it is recognized by the system as being published by a known developer.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T152725Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T152725Z">
@@ -28511,6 +28527,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T184032Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T184032Z">
         <seg>bitext2tmx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>by Susan Welsh, Marc Prior and Hiroshi Miura</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T130903Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T130853Z">
+        <seg>da Susan Welsh, Marc Prior è Hiroshi Miura</seg>
       </tuv>
     </tu>
     <tu>
