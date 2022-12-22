@@ -27489,6 +27489,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to view the contents of the file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T190850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T190850Z">
+        <seg>Impiegate &lt;l0/&gt;&lt;l1/&gt; per affissà u cuntenutu di u schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Create Glossary Entry in the Edit menu to add new entries.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T170714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T170714Z">
