@@ -22623,6 +22623,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some preferences do not have an equivalent in the user interface.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182934Z">
+        <seg>Certe preferenze ùn anu micca equivalenza in l’interfaccia di l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some project folders seem to have been moved.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T170018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T165619Z">
@@ -25373,6 +25381,14 @@ Vi manca una</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T165551Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T165551Z">
         <seg>Sò piazzati in i cartulari di e versioni custruite chì currispondenu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They must be modified manually.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T183547Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T183547Z">
+        <seg>Devenu esse mudificate manualmente.</seg>
       </tuv>
     </tu>
     <tu>
