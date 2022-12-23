@@ -3617,6 +3617,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>@timestamp@</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164318Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164318Z">
+        <seg>@timestamp@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164230Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164230Z">
@@ -5525,6 +5533,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T105813Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T105813Z">
         <seg>Ma a prugrammazione ùn hè micca u solu travagliu chì deve esse fattu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Buttons are very few in OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164548Z">
+        <seg>Ci hè pochi buttoni in OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16007,6 +16023,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of the action takes place with the help of shortcuts associated to menu items.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164705Z">
+        <seg>A maiò parte di l’azzioni si face cù l’aiutu di l’accurtatoghji assuciati à l’elementi di listinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160109Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T185013Z">
@@ -17142,6 +17166,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220323T173150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220323T173150Z">
         <seg>OmegaT 4.3.1 - Guida di l’utilizatore</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT 5.8.0 - User Manual</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164305Z">
+        <seg>OmegaT 5.8.0 - Manuale di l’utilizatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -22391,6 +22423,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shift</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164728Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164728Z">
+        <seg>Maiusc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+F3</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T144134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T144134Z">
@@ -25632,6 +25672,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T225215Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T225215Z">
         <seg>S’azzione hà da creà un cartulare novu chjamatu secondu à u nome di u pacchettu scaricatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This document is the official user manual to OmegaT, the free Computer-Assisted Translation tool.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164408Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164408Z">
+        <seg>Stu ducumentu hè u manuale ufficiale di l’utilizatore d’OmegaT, l’attrezzu liberu di traduzzione assistita da l’urdinatore.</seg>
       </tuv>
     </tu>
     <tu>
