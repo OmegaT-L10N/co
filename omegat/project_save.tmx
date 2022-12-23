@@ -14173,6 +14173,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key identifier</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T165634Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T165634Z">
+        <seg>Identificatore di tastu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Key shortcut description reminder:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T165534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T165534Z">
@@ -14867,6 +14875,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T112222Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T112222Z">
         <seg>Linux cù JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux/Windows</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T165608Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T165608Z">
+        <seg>Linux/Windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -16019,6 +16035,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182101Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182101Z">
         <seg>E preferenze mudificate sò piazzate in u cartulare di cunfigurazione impiegatu da u prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modifier key identifiers</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T165605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T165605Z">
+        <seg>Identificatori di tastu di mudificatore</seg>
       </tuv>
     </tu>
     <tu>
