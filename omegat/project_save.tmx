@@ -15807,6 +15807,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu items that do not have a shortcut indicated next to them have no default shortcut assigned by default.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T172954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T172954Z">
+        <seg>L’elementi di i listini chì ùn anu micca d’accurtatoghju indicatu accant’à, ùn anu micca accurtatoghju predefinitu attribuitu à l’origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20161226T194945Z">
@@ -15817,8 +15825,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Menus are where you access most of OmegaT's functions.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T172524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T172524Z">
-        <seg>I listini sò u locu induve si pò accede à guasi tutte e funzioni d’OmegaT.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T172704Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T172524Z">
+        <seg>I listini sò u locu induve si pò accede à a maiò parte di e funzioni d’OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
