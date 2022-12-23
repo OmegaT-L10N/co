@@ -22583,6 +22583,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcuts are ubiquitous in this manual and you should be able very shortly to remember the few that are useful in the course of a standard translation day.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T172335Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T172335Z">
+        <seg>L’accurtatoghji sò onnipresenti in stu manuale è duveriate esse à capu prestu prestu d’arricurdavvi d’unipochi chì sò ghjuvevule per una sessione classica di traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show &amp;longer target terms first</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T170540Z">
