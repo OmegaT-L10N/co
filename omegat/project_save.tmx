@@ -3617,6 +3617,22 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A &lt;e0&gt;dialog&lt;/e0&gt; requires you to take action and close it before you can go back to translating.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164230Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164230Z">
+        <seg>Un &lt;e0&gt;dialogu&lt;/e0&gt; vi dumanda di fà un’azzione è di chjodelu nanzu di riturnà à traduce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A &lt;e0&gt;window&lt;/e0&gt; can be kept open next to the editor and lets you interact with both.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164027Z">
+        <seg>Una &lt;e0&gt;finestra&lt;/e0&gt; pò stà aperta accant’à l’editore è vi permette d’interagisce cù treminduie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T182445Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T182009Z">
@@ -28568,6 +28584,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T184339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T184339Z">
         <seg>Risorse Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and Dialogs</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163848Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T163848Z">
+        <seg>Finestre è dialoghi</seg>
       </tuv>
     </tu>
     <tu>
