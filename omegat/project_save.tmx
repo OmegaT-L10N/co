@@ -3455,6 +3455,46 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; or &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164820Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164803Z">
+        <seg>&lt;k0&gt;Ctrl&lt;/k0&gt; o &lt;k1&gt;Control&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; or &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164857Z">
+        <seg>&lt;k0&gt;alt / option&lt;/k0&gt; o &lt;k1&gt;⌥&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; or &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164912Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164832Z">
+        <seg>&lt;k0&gt;command&lt;/k0&gt; o &lt;k1&gt;⌘&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; or &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164922Z">
+        <seg>&lt;k0&gt;control&lt;/k0&gt; o &lt;k1&gt;⌃&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;k0&gt;shift&lt;/k0&gt; or &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164757Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164744Z">
+        <seg>&lt;k0&gt;maiusc&lt;/k0&gt; o &lt;k1&gt;⇧&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;name and path of the Java executable file&gt; -jar OmegaT.jar</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T191533Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T190008Z">
@@ -3621,6 +3661,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164318Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164318Z">
         <seg>@timestamp@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164851Z">
+        <seg>A</seg>
       </tuv>
     </tu>
     <tu>
@@ -4477,6 +4525,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T153426Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153426Z">
         <seg>Pensate dinù à pruvà e &lt;a0&gt;custruzzioni di notte&lt;/a0&gt; d’OmegaT chì ponu cuntene ancu più di prublemi novi è affascinanti !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164849Z">
+        <seg>Alt</seg>
       </tuv>
     </tu>
     <tu>
@@ -5637,6 +5693,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T104007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T104007Z">
         <seg>Da Yutaka Kachi (in giappunese).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>C</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164822Z">
+        <seg>C</seg>
       </tuv>
     </tu>
     <tu>
@@ -7499,6 +7563,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T172550Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T112917Z">
         <seg>Multi-piattaforma senza JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ctrl</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164921Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164921Z">
+        <seg>Ctrl</seg>
       </tuv>
     </tu>
     <tu>
@@ -21139,6 +21211,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T164731Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T164731Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;lide Comments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T144935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T144757Z">
@@ -21851,6 +21931,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233344Z">
         <seg>Lighjite l’annessu &lt;l0/&gt; per sapene di più.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the &lt;l0/&gt; appendix if you want to modify or add shortcuts.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T165034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221223T165034Z">
+        <seg>Lighjite l’annessu &lt;l0/&gt; s’è vo vulete mudificà o aghjunghje l’accurtatoghji.</seg>
       </tuv>
     </tu>
     <tu>
