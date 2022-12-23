@@ -4590,8 +4590,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing a new file event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151735Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu di novu schedariu :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163225Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151735Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evenimentu d schedariui novu :
 {0}</seg>
       </tuv>
     </tu>
@@ -10009,8 +10009,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Event: new file activated ({0})</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150147Z">
-        <seg>Evvenimentu : attivazione d’un novu schedariu ({0})</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163440Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150147Z">
+        <seg>Evenimentu : attivazione d’un schedariu novu ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -16264,8 +16264,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>New LanguageTool rule</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T152115Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T152115Z">
-        <seg>Nova regula di LanguageTool</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163315Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T152115Z">
+        <seg>Regula nova di LanguageTool</seg>
       </tuv>
     </tu>
     <tu>
@@ -23301,8 +23301,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Start a new paragraph &amp;on Word soft return</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182329Z">
-        <seg>Principià un novu paragrafu per i &amp;salti di linea Word</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163410Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182329Z">
+        <seg>Principià un paragrafu novu per i &amp;salti di linea Word</seg>
       </tuv>
     </tu>
     <tu>
@@ -23317,8 +23317,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Start a new paragraph on:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T170638Z">
-        <seg>Principià un novu paragrafu à ogni :</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163424Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T170638Z">
+        <seg>Principià un paragrafu novu à ogni :</seg>
       </tuv>
     </tu>
     <tu>
@@ -26861,8 +26861,8 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       <tuv lang="en">
         <seg>Type in new rule ID</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T152050Z">
-        <seg>Stampittate a nova identificazione di regula</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T152050Z">
+        <seg>Stampittate l’identificazione nova di regula</seg>
       </tuv>
     </tu>
     <tu>
@@ -28454,8 +28454,8 @@ of selecting, obtaining and installing it.</seg>
       <tuv lang="en">
         <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T151011Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T151011Z">
-        <seg>A scelta serà fatta da a squadra di sviluppu s’ella cunsidereghja chì ci serà un benefiziu per OmegaT, è dinù chì ci hè abbastanza risorse dispunibule per u sviluppu di a nova funzione.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T151011Z">
+        <seg>A scelta serà fatta da a squadra di sviluppu s’ella cunsidereghja chì ci serà un benefiziu per OmegaT, è dinù chì ci hè abbastanza risorse dispunibule per u sviluppu di a funzione nova.</seg>
       </tuv>
     </tu>
     <tu>
