@@ -4630,8 +4630,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing an entry activated event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151822Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu di nova entrata :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163204Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151822Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evenimentu d’entrata nova :
 {0}</seg>
       </tuv>
     </tu>
@@ -10001,8 +10001,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Event: new entry activated</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150212Z">
-        <seg>Evvenimentu : attivazione d’una nova entrata</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163128Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150212Z">
+        <seg>Evenimentu : attivazione d’una entrata nova</seg>
       </tuv>
     </tu>
     <tu>
