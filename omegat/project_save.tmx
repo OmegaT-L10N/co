@@ -2933,9 +2933,9 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--script=&lt;path&gt;
 	  A script file to be executed on project events.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141154Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T141154Z">
         <seg>--script=&lt;path&gt;
-	  Un schedariu di scenariu à eseguisce à l’accade d’evvenimenti di prughjettu.</seg>
+	  Un schedariu di scenariu à eseguisce à l’accade d’evenimenti di prughjettu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4580,8 +4580,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151853Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu di cambiamentu di grafia :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151853Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evenimentu di cambiamentu di grafia :
 {0}</seg>
       </tuv>
     </tu>
@@ -4600,8 +4600,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing a project change event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T150909Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu di cambiamentu di prughjettu :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T150909Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evenimentu di cambiamentu di prughjettu :
 {0}</seg>
       </tuv>
     </tu>
@@ -4610,8 +4610,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing an application shutdown event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151420Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu d’avviu di l’appiecazione :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151420Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evenimentu d’avviu di l’appiecazione :
 {0}</seg>
       </tuv>
     </tu>
@@ -4620,8 +4620,8 @@ U valore attuale hè {0} Mo ;
         <seg>An error occurred while processing an application startup event:
 {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151332Z">
-        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evvenimentu d’avviu di l’appiecazione :
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T151332Z">
+        <seg>Un sbagliu hè accadutu durante u trattamentu d’un evenimentu d’avviu di l’appiecazione :
 {0}</seg>
       </tuv>
     </tu>
@@ -9977,24 +9977,24 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Event: application shutdown</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
-        <seg>Evvenimentu : fermata di l’appiecazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150106Z">
+        <seg>Evenimentu : fermata di l’appiecazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Event: application startup</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150034Z">
-        <seg>Evvenimentu : avviu di l’appiecazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150034Z">
+        <seg>Evenimentu : avviu di l’appiecazione</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Event: font changed</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150237Z">
-        <seg>Evvenimentu : cambiamentu di grafia</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T150237Z">
+        <seg>Evenimentu : cambiamentu di grafia</seg>
       </tuv>
     </tu>
     <tu>
@@ -10017,8 +10017,8 @@ Screnu turchinu</seg>
       <tuv lang="en">
         <seg>Event: project change - "{0}"</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T173208Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145957Z">
-        <seg>Evvenimentu : cambiamentu di prughjettu - « {0} »</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T145957Z">
+        <seg>Evenimentu : cambiamentu di prughjettu - « {0} »</seg>
       </tuv>
     </tu>
     <tu>
@@ -10165,8 +10165,8 @@ Solu 404</seg>
       <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T172353Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T110423Z">
-        <seg>Esecuzione di u scenariu {0} (evvenimentu {1})</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163713Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T110423Z">
+        <seg>Esecuzione di u scenariu {0} (evenimentu {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -12106,8 +12106,8 @@ Simu d’inguernu</seg>
       <tuv lang="en">
         <seg>Howto - Creating a new file filter</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T171635Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140141Z">
-        <seg>Cumu fà (in inglese) - Creazione d’un novu filtru di schedariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163523Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200626T140141Z">
+        <seg>Cumu fà (in inglese) - Creazione d’un filtru novu di schedariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12684,8 +12684,8 @@ Explorer), change the settings so that file extensions are displayed.</seg>
       <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T163430Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T163430Z">
-        <seg>S’è, da bona regula, ùn lighjite micca l’istruzzioni, è chì vi scuprite un novu prugramma clicchendu dapertuttu, è aspettendu ch’accade qualcosa chì s’assumiglia à l’effettu ricercatu, tandu OmegaT ùn hè micca fattu per voi.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163617Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T163430Z">
+        <seg>S’è, da bona regula, ùn lighjite micca l’istruzzioni, è chì vi scuprite un prugramma novu clicchendu dapertuttu, è aspettendu ch’accade qualcosa chì s’assumiglia à l’effettu ricercatu, tandu OmegaT ùn hè micca fattu per voi.</seg>
       </tuv>
     </tu>
     <tu>
