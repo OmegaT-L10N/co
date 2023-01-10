@@ -7131,6 +7131,22 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contribution Guide</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T143228Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T143228Z">
+        <seg>Manuale di cuntribuzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contribution Guide source text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T143322Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T143322Z">
+        <seg>Testu di fonte di u manuale di cuntribuzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributions to OmegaT</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120220Z">
@@ -24481,6 +24497,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Contribution Guide source text in the OmegaT repository.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T143359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T143359Z">
+        <seg>U testu di fonte di u manuale di cuntribuzione in u dipositu d’OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Eclipse Foundation provides OpenJDK Runtime Environments JREs for many systems at &lt;a0&gt;https://adoptium.net/temurin&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T145536Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T145536Z">
@@ -24565,6 +24589,14 @@ attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185317Z">
         <seg>U filtru FTL Mozilla hà cagiunatu un eccezzione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT Contribution Guide.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T143255Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T143255Z">
+        <seg>U manuale di cuntribuzione à OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24735,6 +24767,14 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T162920Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T162920Z">
         <seg>L’appiecazione funziuneghja nant’à a vostra mascina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The best way for developers to have a smooth experience when proposing such changes is to follow the guidelines defined on the &lt;a0&gt;Contributing to OmegaT page&lt;/a0&gt;, which is part of the larger &lt;a1&gt;Documentation for developers&lt;/a1&gt; OmegaT offers.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T153131Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T153131Z">
+        <seg>A manera a più sicura per i sviluppatori di vede i so cambiamenti pigliati in contu hè di seguità l’istruzzioni scritte nant’à a &lt;a0&gt;pagina di cuntribuzione à OmegaT&lt;/a0&gt; chì fà parte di a bella &lt;a1&gt;documentazione per i sviluppatori&lt;/a1&gt; ufferta da OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
