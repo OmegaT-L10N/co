@@ -17530,6 +17530,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not collect any user information and does not transmit any information without the explicit consent of the user.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T160534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T160534Z">
+        <seg>OmegaT ùn culletteghja alcuna infurmazione nant’à l’utilizatore è ùn trasmette alcuna infurmazione senza l’accunsentu esplicitu di l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171254Z">
@@ -19665,6 +19673,14 @@ squadra di tipu 4.x.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191214T151517Z">
         <seg>I precedente cuntribuenti includenu :
 (in ordine alfabeticu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T155822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T155822Z">
+        <seg>Pulitica di cunfidenzialità</seg>
       </tuv>
     </tu>
     <tu>
@@ -25749,6 +25765,14 @@ cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These 4 items are a good summary but you can also read the &lt;a0&gt;whole license&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T155815Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T155815Z">
+        <seg>Sti quattru punti sò un bellu riassuntu ma pudete dinù leghje a &lt;a0&gt;licenza sana&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files record various internal state and program event messages generated while OmegaT is running.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T190509Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T190509Z">
@@ -30435,6 +30459,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T155347Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T155347Z">
         <seg>a libertà di cambià u prugramma per ch’ellu s’adatteghji à i vostri bisogni,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the freedom to share the changes you make.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T155641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T155641Z">
+        <seg>a libertà di distribuisce i cambiamenti chì vo avete fatti.</seg>
       </tuv>
     </tu>
     <tu>
