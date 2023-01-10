@@ -25586,6 +25586,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The translatable data (ie.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T161624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T161624Z">
+        <seg>U dati à traduce (i.e.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated file language entered is invalid!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T171512Z">
@@ -30499,6 +30507,14 @@ di creà u cartulare di cunfigurazione.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134102Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T133933Z">
         <seg>team init &lt;lingua d’origine&gt; &lt;lingua di destinazione&gt;
 	  Attrezzu di prughjettu di squadra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the files you are translating) are accessed to display the translatable contents to the user.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T161758Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T161758Z">
+        <seg>i schedarii chì vo traducite) sò accessi per affissà à l’utilizatori u cuntenutu à traduce. </seg>
       </tuv>
     </tu>
     <tu>
