@@ -12834,6 +12834,14 @@ Explorer), change the settings so that file extensions are displayed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you find through your analysis that OmegaT communicates with an online service that you have not set, that would be a bug and we would ask you to report it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T161544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T161544Z">
+        <seg>S’è vo scuprite chì OmegaT cumminicheghja cù un serviziu in linea chì vo ùn avete micca definitu, seria un prublema è vi dumandemu di faccilu sapè.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163617Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T163430Z">
