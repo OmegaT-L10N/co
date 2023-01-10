@@ -25588,8 +25588,16 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The translatable data (ie.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T161624Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T161624Z">
-        <seg>U dati à traduce (i.e.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T161803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T161624Z">
+        <seg>I dati à traduce (i.e.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated data is stored in a file called project_save.tmx located in the omegat/ folder of any translation project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T162002Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T162002Z">
+        <seg>I dati tradutti sò piazzati in un schedariu chjamatu project_save.tmx chì si trova in u cartulare omegat/ d’ogni prughjettu di traduzzione.</seg>
       </tuv>
     </tu>
     <tu>
