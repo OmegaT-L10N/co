@@ -5337,6 +5337,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Basically, that means that you have:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T155103Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T155103Z">
+        <seg>In fatti, vole si dì chì vo avete :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Beautify</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200419T161901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T161901Z">
@@ -14837,6 +14845,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T153740Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T153740Z">
+        <seg>Licenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Licensing information
 =====================</seg>
       </tuv>
@@ -17699,6 +17715,14 @@ published by the Free Software Foundation, either version 3 of the License, or
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163759Z">
         <seg>OmegaT hè dispunibule sottu à i termini di a Licenza Publica Generale GNU tale chì publicata da a Free Software Foundation : sia a versione 3 di a licenza, sia (s’è voi preferite) una versione più recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is distributed under the GPL v3 license agreement.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T153933Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T153933Z">
+        <seg>OmegaT hè distribuitu sottu à u cuntrattu di licenza GPL v3.</seg>
       </tuv>
     </tu>
     <tu>
