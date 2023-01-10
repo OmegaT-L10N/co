@@ -17594,6 +17594,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not store your information online (this is not a "cloud-based" product).</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T162413Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T162413Z">
+        <seg>OmegaT ùn piazza micca in linea a vostra infurmazione (ùn hè micca un pruduttu « basatu nant’à u nivulu »).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT encrypts sensitive passwords and API keys with a master password.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T221305Z">
@@ -24459,6 +24467,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T112154Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T112154Z">
         <seg>Grazia à u travagliu di traduttori numerosi, l’interfaccia utilizatore è i testi d’aiutu d’OmegaT sò stati tradutti in parechje lingue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That file is compliant with the TMX specification, which is a standard used by most tools of the same category.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T162245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T162245Z">
+        <seg>Stu schedariu hè cunformu à a specificazione TMX chì hè una norma impiegata da a maiò parte di l’attrezzi di a listessa categuria.</seg>
       </tuv>
     </tu>
     <tu>
