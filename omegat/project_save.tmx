@@ -8849,6 +8849,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation for developers</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T141350Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T141350Z">
+        <seg>Documentazione per i sviluppatori</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T103529Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T103529Z">
@@ -13252,6 +13260,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Bidi Control C&amp;haracter</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T141232Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T141232Z">
+        <seg>Framette un caratteru di cuntrollu di &amp;bidirezziunalità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Match or Selection Into Translation</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224309Z" creationid="Patriccollu" creationdate="20170213T142022Z">
@@ -15403,6 +15419,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224248Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190220Z">
         <seg>Marcà i segmenti riempiuti &amp;autumaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T141301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T141301Z">
+        <seg>Marcà i &amp;caratteri di cuntrollu di bidirezziunalità</seg>
       </tuv>
     </tu>
     <tu>
