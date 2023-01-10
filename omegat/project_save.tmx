@@ -3977,6 +3977,22 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to machine translation services</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T160912Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T160912Z">
+        <seg>Accessu à i servizii di traduzzione autumatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access to team projects</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T160930Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T160930Z">
+        <seg>Accessu à i prughjetti di squadra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223913Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153940Z">
@@ -17454,6 +17470,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T110503Z">
         <seg>OmegaT pussede dinù liste di diffusione è sistemi di cura chì sò accolti ind’è Sourceforge :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T161259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T161259Z">
+        <seg>OmegaT cuntrolleghja autumaticamente a dispunibilità di e versioni nove nant’à u so servitore di sviluppu senza trasmette alcuna infurmazione di l’utilizatori, è l’utilizatore pò ricusallu in i parametri di e preferenze.</seg>
       </tuv>
     </tu>
     <tu>
