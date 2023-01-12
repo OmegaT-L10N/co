@@ -3329,8 +3329,16 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>&lt;g0&gt;Back in History&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;P&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230112T120726Z">
-        <seg>&lt;g0&gt;Back in History&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;P&lt;/k4&gt;&lt;/k1&gt;</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120746Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230112T120726Z">
+        <seg>&lt;g0&gt;Nanzu in a crunologia&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;P&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;g0&gt;Forward in History&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120817Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230112T120808Z">
+        <seg>&lt;g0&gt;Dopu in a crunologia&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;N&lt;/k4&gt;&lt;/k1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11256,6 +11264,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu" creationdate="20170210T150022Z">
         <seg>Furmatu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forward in History</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120802Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230112T120802Z">
+        <seg>Dopu in a crunologia</seg>
       </tuv>
     </tu>
     <tu>
