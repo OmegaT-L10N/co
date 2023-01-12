@@ -328,8 +328,8 @@
       <tuv lang="en">
         <seg>&amp;Back in History</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180008Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170635Z">
-        <seg>Nan&amp;zu in crunologia</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120623Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170635Z">
+        <seg>Nan&amp;zu in a crunologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,8 +696,8 @@
       <tuv lang="en">
         <seg>&amp;Forward in History</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180003Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170626Z">
-        <seg>&amp;Dopu in crunologia</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120626Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T170626Z">
+        <seg>&amp;Dopu in a crunologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -3327,6 +3327,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Back in History&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;P&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120726Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230112T120726Z">
+        <seg>&lt;g0&gt;Back in History&lt;/g0&gt; &lt;k1&gt;&lt;k2&gt;C&lt;/k2&gt;&lt;k3&gt;S&lt;/k3&gt;&lt;k4&gt;P&lt;/k4&gt;&lt;/k1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T185929Z">
@@ -5257,6 +5265,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T175149Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T175035Z">
         <seg>Navi&amp;gà…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Back in History</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120657Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230112T120657Z">
+        <seg>Nanzu in a crunologia</seg>
       </tuv>
     </tu>
     <tu>
@@ -17364,7 +17380,7 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20170209T164720Z" creationid="Patriccollu" creationdate="20170209T164720Z">
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230112T120636Z" creationid="Patriccollu" creationdate="20170209T164720Z">
         <seg>OmegaT</seg>
       </tuv>
     </tu>
