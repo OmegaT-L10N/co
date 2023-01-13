@@ -15689,8 +15689,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Mark Gl&amp;ossary Matches</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174021Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174021Z">
-        <seg>Marcà e cuncurdanze di gl&amp;ossariu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174021Z">
+        <seg>Marcà e cuncurdanze di glossa&amp;riu</seg>
       </tuv>
     </tu>
     <tu>
@@ -15731,6 +15731,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T162815Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T162815Z">
         <seg>&amp;Marcà tutti i segmenti micca unichi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all repeated segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115428Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T115428Z">
+        <seg>Marcà tutti i segmenti ripetiti</seg>
       </tuv>
     </tu>
     <tu>
