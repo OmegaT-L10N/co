@@ -8545,6 +8545,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114932Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114932Z">
+        <seg>Affissà l’&amp;infurmazioni di mudificazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114014Z">
@@ -30187,6 +30195,22 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>for &amp;All Segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115052Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T115052Z">
+        <seg>Per &amp;tutti i segmenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>for Current &amp;Segment</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115020Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T115020Z">
+        <seg>Per u segmentu &amp;attuale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>fuzzy</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221211T113605Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221211T113605Z">
@@ -31190,6 +31214,16 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T141540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T141540Z">
         <seg>Tabulazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">MW_VIEW_MENU_MODIFICATION_INFO_NONE</prop>
+      <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115009Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T115009Z">
+        <seg>&amp;Nisuna</seg>
       </tuv>
     </tu>
     <tu>
