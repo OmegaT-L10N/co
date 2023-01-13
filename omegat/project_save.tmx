@@ -12136,6 +12136,22 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T113814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T113814Z">
+        <seg>Mette in evidenza i segmenti &amp;tradutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T113831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T113831Z">
+        <seg>Mette in evidenza i &amp;segmenti micca tradutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight Pattern...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T145147Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T145147Z">
