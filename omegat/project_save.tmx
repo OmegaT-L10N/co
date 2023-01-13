@@ -8513,6 +8513,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y Whitespace</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114044Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114044Z">
+        <seg>Affissà i spazii &amp;bianchi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T153549Z">
@@ -8529,10 +8537,34 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;Bidi Control Characters</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114148Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114148Z">
+        <seg>Affissà i &amp;caratteri di cuntrollu Bidi (bidirezziunalità)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Non-Breakable Spaces</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114014Z">
+        <seg>Affissà i spa&amp;zii micca spezzevule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224129Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T190524Z">
         <seg>Ùn affissà &amp;nunda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T113854Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T113854Z">
+        <seg>Affissà e delimitazioni di &amp;paragrafu</seg>
       </tuv>
     </tu>
     <tu>
@@ -12156,6 +12188,22 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T145147Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T145147Z">
         <seg>Marca di sopralineamentu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Repeated Se&amp;gments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T113950Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T113950Z">
+        <seg>Mette in evidenza i segmenti &amp;micca unichi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments &amp;with Notes</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T113959Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T113959Z">
+        <seg>Mette in evidenza i segmenti cù &amp;note</seg>
       </tuv>
     </tu>
     <tu>
