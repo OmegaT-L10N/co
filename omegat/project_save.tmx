@@ -15623,6 +15623,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Language Checker Issues</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114715Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114715Z">
+        <seg>Mette in evidenza i penseri di u cuntrullore &amp;linguisticu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark &amp;Non-Breakable Spaces</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161631Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161631Z">
@@ -28245,6 +28253,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T190850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T190850Z">
         <seg>Impiegate &lt;l0/&gt;&lt;l1/&gt; per affissà u cuntenutu di u schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Aggressive &amp;Font Fallback</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114902Z">
+        <seg>Impiegu intensivu di e gra&amp;fie di ripiegu</seg>
       </tuv>
     </tu>
     <tu>
