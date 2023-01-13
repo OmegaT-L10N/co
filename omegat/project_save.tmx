@@ -12168,6 +12168,14 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Highlight &amp;Auto-Populated Segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114157Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114157Z">
+        <seg>Mette in evidenza i segmenti riempiuti &amp;autumaticamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Highlight &amp;Translated Segments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T113814Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T113814Z">
