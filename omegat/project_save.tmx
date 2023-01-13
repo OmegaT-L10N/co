@@ -5303,8 +5303,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Background</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T211356Z">
-        <seg>Fondu</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115528Z">
+        <seg>Sfondulu</seg>
       </tuv>
     </tu>
     <tu>
@@ -21009,6 +21009,22 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115455Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T115455Z">
+        <seg>Segmenti ripetiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated segments background</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115549Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T115519Z">
+        <seg>Sfondulu di i segmenti ripetiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185939Z">
@@ -22377,8 +22393,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Segment marker background</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T132233Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T132233Z">
-        <seg>Fondu di u marcatore di segmenti</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T115538Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T132233Z">
+        <seg>Sfondulu di u marcatore di segmenti</seg>
       </tuv>
     </tu>
     <tu>
