@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"../../../docbook-xml-4.5/docbookx.dtd"
+[<!ENTITY % manualvariables SYSTEM "manualvariables.mod"> %manualvariables;]>
+<book lang="en" id="book.user.manual">
+  <bookinfo>
+    <title id="book.user.manual.title">OmegaT &vernb; - User Manual</title>
+    <pubdate>@timestamp@</pubdate>
+	<!-- TODO automate date insertion -->
+    <abstract>
+      <para>This document is the official user manual to OmegaT, the free
+      Computer-Assisted Translation tool.</para>
+    </abstract>
+  </bookinfo>
+
+  <xi:include href="Introduction.xml"
+              xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="OmegaT5_HowTo.xml"
+              xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="OmegaT5_EditorsPanes.xml"
+              xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="OmegaT5_Menus.xml"
+              xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="OmegaT5_WindowsAndDialogs.xml"
+              xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="OmegaT5_ProjectFolder.xml"
+              xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="OmegaT5_Preferences.xml"
+              xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="OmegaT5_Appendices.xml"
+	         xmlns:xi="http://www.w3.org/2001/XInclude"/>
+	           
+</book>
