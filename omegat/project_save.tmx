@@ -25698,6 +25698,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The specified folder is not an OmegaT project, or the project file is broken, or there is no valid backup.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230116T002359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230116T002359Z">
+        <seg>U cartulare specificatu ùn hè micca un prughjettu OmegaT, o u schedariu di prughjettu hè dannighjatu, o ùn ci hè alcuna salvaguardia accettevule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6 team project.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T004056Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T004056Z">
