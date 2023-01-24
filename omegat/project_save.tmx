@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not insert the source text</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T123525Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T123525Z">
+        <seg>Ùn framette micca u testu d’origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T121610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T121610Z">
