@@ -504,8 +504,8 @@
       <tuv lang="en">
         <seg>&amp;Do not insert the source text</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T123525Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T123525Z">
-        <seg>Ùn framette micca u testu d’origine</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T124220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T123525Z">
+        <seg>Ùn framette micca u testu d’&amp;origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -21053,6 +21053,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T174918Z">
         <seg>Torna à apre u prughjettu ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repeated</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T124407Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T124407Z">
+        <seg>Ripetitu</seg>
       </tuv>
     </tu>
     <tu>
