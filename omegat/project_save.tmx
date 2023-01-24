@@ -5101,6 +5101,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Attempt to replace fuzzy match &amp;numbers</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T123539Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T123539Z">
+        <seg>Pruvà di rimpiazzà i &amp;numeri in e currispundenze simile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Attribute:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162927Z">
