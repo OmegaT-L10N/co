@@ -16111,6 +16111,22 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121135Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121135Z">
+        <seg>Microsoft Office Open XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Office Open XML (legacy filter)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121118Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121118Z">
+        <seg>Microsoft Office Open XML (filtru anzianu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Office Word, Excel, PowerPoint (2007 or later)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152108Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152055Z">
@@ -16211,6 +16227,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172743Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T142325Z">
         <seg>Assente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing attribute '{0}' in &lt;{1}&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121255Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121255Z">
+        <seg>Attributu assente « {0} » in &lt;{1}&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21033,6 +21057,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repeated segments: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121037Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121037Z">
+        <seg>Segmenti ripetiti : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Repetitions from other files:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185939Z">
@@ -21639,6 +21671,22 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T172300Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T172300Z">
         <seg>Cambià a cassa di e &amp;lettere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL XLIFF</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121200Z">
+        <seg>XLIFF SDL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SDL project</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121151Z">
+        <seg>Prughjettu SDL</seg>
       </tuv>
     </tu>
     <tu>
@@ -23855,6 +23903,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221223T163424Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T170638Z">
         <seg>Principià un paragrafu novu à ogni :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new segment on:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121622Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121622Z">
+        <seg>Principià un segmentu novu à ogni :</seg>
       </tuv>
     </tu>
     <tu>
@@ -29512,6 +29568,22 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170210T150030Z" creationid="Patriccollu" creationdate="20170210T150030Z">
         <seg>XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF (legacy filter)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121059Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121059Z">
+        <seg>XLIFF (filtru anzianu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 2</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121202Z">
+        <seg>XLIFF 2</seg>
       </tuv>
     </tu>
     <tu>
