@@ -14205,6 +14205,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Resource Bundles</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230131T190909Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230131T190909Z">
+        <seg>Ballotti di risorse Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T121051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T121051Z">
@@ -21731,6 +21739,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL project (beta)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230131T190851Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230131T190851Z">
+        <seg>Prughjettu SDL (beta)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SQLJet (GPL License)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20170213T130533Z" creationid="Patriccollu" creationdate="20170213T130526Z">
@@ -21751,6 +21767,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T184648Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T184648Z">
         <seg>SVG o Adobe Illustrator Export</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SVG / Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230131T191306Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230131T191306Z">
+        <seg>Espurtazione à u furmatu SVG d’Adobe Illustrator</seg>
       </tuv>
     </tu>
     <tu>
