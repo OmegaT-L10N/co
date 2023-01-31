@@ -24929,6 +24929,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML parser threw an exception during file processing:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230131T191808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230131T191808Z">
+        <seg>L’analizatore di sintassa HTML hà cagiunatu un eccezzione durante u trattamentu di u schedariu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML user manual for OmegaT standard version.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T165642Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T165642Z">
