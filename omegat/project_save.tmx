@@ -720,8 +720,8 @@
       <tuv lang="en">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T142326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153453Z">
-        <seg>I &amp;glossarii</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T145532Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153453Z">
+        <seg>&amp;Glossarii</seg>
       </tuv>
     </tu>
     <tu>
@@ -31576,6 +31576,16 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T130159Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T130159Z">
         <seg>Squassata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Bundle.properties</prop>
+      <prop type="id">SW_SEARCH_IN_GLOSSARIES</prop>
+      <tuv lang="en">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T145554Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230208T145554Z">
+        <seg>I &amp;glossarii</seg>
       </tuv>
     </tu>
     <tu>
