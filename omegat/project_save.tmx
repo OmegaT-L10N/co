@@ -13109,8 +13109,8 @@ to use Java Web Start.</seg>
       <tuv lang="en">
         <seg>If you're a programmer, and you happen to know Java, please check the &lt;a0&gt;OmegaT contribution guide&lt;/a0&gt;, or its document source text in the &lt;a1&gt;source code&lt;/a1&gt; under /docs_devel for information on how to get started.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T143836Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153500Z">
-        <seg>S’è vo site un sviluppatore chì cunnosce Java, fighjate a &lt;a0&gt;manuale di cuntribuzione à OmegaT&lt;/a0&gt;, o u testu d’origine di u ducumentu in u &lt;a1&gt;codice d’origine&lt;/a1&gt; in /docs_devel per sapè cumu principià.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T144029Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153500Z">
+        <seg>S’è vo site un sviluppatore chì cunnosce Java, fighjate a &lt;a0&gt;manuale di cuntribuzione à OmegaT&lt;/a0&gt;, o u testu d’origine di u ducumentu in u &lt;a1&gt;codice di fonte&lt;/a1&gt; in /docs_devel per sapè cumu principià.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23577,8 +23577,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source code packages are not required by users and are intended for developers only.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T143653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T165124Z">
-        <seg>I pacchetti cuntenendu u codice d’origine ùn sò micca richiesti per l’adopru di u prugramma è sò fatti solu per i sviluppatori.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T143934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T165124Z">
+        <seg>I pacchetti cuntenendu u codice di fonte ùn sò micca richiesti per l’adopru di u prugramma è sò fatti solu per i sviluppatori.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23659,6 +23659,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174858Z">
         <seg>Lingua di i schedarii d’origine :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files loaded but skipping files(s) by filter error(s)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T144656Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230208T144656Z">
+        <seg>I schedarii d’origine sò stati caricati ma certi sò stati tralasciati per via di sbagliu di filtru</seg>
       </tuv>
     </tu>
     <tu>
@@ -26638,8 +26646,8 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       <tuv lang="en">
         <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T143849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T145850Z">
-        <seg>Vole si dì chì u codice d’origine di u prugramma hè dispunibule è chì a licenza d’OmegaT hè cuncepita per cuncede una libertà maiò à l’utilizatori.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T144058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T145850Z">
+        <seg>Vole si dì chì u codice di fonte di u prugramma hè dispunibule è chì a licenza d’OmegaT hè cuncepita per cuncede una libertà maiò à l’utilizatori.</seg>
       </tuv>
     </tu>
     <tu>
