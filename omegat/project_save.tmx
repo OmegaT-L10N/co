@@ -14026,6 +14026,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is stored in the TMX file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T145141Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230208T145141Z">
+        <seg>Hè piazzata in u schedariu TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200603T162354Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200603T162354Z">
@@ -15539,6 +15547,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T110941Z" creationid="Patriccollu" creationdate="20170213T134755Z">
         <seg>Ozzioni di traduzzione autumatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Machine Translations</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T144947Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230208T144947Z">
+        <seg>&amp;Traduzzioni autumatiche</seg>
       </tuv>
     </tu>
     <tu>
