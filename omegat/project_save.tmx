@@ -1608,8 +1608,8 @@
       <tuv lang="en">
         <seg>&amp;Target Files</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153627Z">
-        <seg>Schedarii di &amp;destinazione</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T150453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153627Z">
+        <seg>Schedarii di destina&amp;zione</seg>
       </tuv>
     </tu>
     <tu>
@@ -24301,8 +24301,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>T&amp;Ms</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T142346Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153520Z">
-        <seg>E M&amp;dT</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T150543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153520Z">
+        <seg>&amp;MdT</seg>
       </tuv>
     </tu>
     <tu>
