@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T143001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230208T143001Z">
+        <seg>Affissà i &amp;rimpiazzamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Show in Editor context menu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190720T224528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224528Z">
