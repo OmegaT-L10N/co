@@ -12200,6 +12200,14 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230215T122116Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230215T122116Z">
+        <seg>Piattà l’&amp;etichette di principiu è di fine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T174355Z">
@@ -12212,6 +12220,14 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T141749Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141749Z">
         <seg>Piattà l’&amp;ozzioni esperte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hide Tags</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230215T122229Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230215T122229Z">
+        <seg>Piattà l’etichette</seg>
       </tuv>
     </tu>
     <tu>
@@ -17604,8 +17620,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T145221Z" creationid="Patriccollu" creationdate="20170209T164720Z">
-        <seg>OmegaTlo</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230215T122055Z" creationid="Patriccollu" creationdate="20170209T164720Z">
+        <seg>OmegaT</seg>
       </tuv>
     </tu>
     <tu>
