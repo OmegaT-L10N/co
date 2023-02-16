@@ -20985,6 +20985,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230216T120420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230216T120420Z">
+        <seg>Caccià i cummenti HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove HTML comments in translated document</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T170515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T170515Z">
