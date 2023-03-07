@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User Manual...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230307T192238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230307T192238Z">
+        <seg>&amp;Manuale di l’utilizatore…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T180531Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172648Z">
@@ -10011,6 +10019,14 @@ Screnu turchinu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154149Z">
         <seg>Sbagliu di caricamentu di u modulu d’estensione da a classa « {0} » : {1} : {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading : {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230307T192322Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230307T192322Z">
+        <seg>Sbagliu di caricamentu : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -22594,6 +22610,14 @@ The scope of a search is by default the project and can be set to be any files l
         <seg>See the user guide for instructions.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181218Z">
+        <seg>Lighjite l’istruzzioni in u manuale di l’utilizatore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See the user manual for instructions.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230307T192336Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230307T192336Z">
         <seg>Lighjite l’istruzzioni in u manuale di l’utilizatore.</seg>
       </tuv>
     </tu>
