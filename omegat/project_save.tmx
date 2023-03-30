@@ -17906,6 +17906,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT does not have access to the remote repository: verify your connection or your credentials.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T135221Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T135221Z">
+        <seg>OmegaT ùn pò micca accede à u dipositu alluntanatu ; verificate a vostra cunnessione o e vostre infurmazioni d’identificazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions for this folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171254Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171254Z">
@@ -25129,6 +25137,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML parser encountered an error during file processing:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T135002Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T135002Z">
+        <seg>L’analizatore di sintassa HTML hà scuntratu un sbagliu durante u trattamentu di u schedariu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The HTML parser threw an exception during file processing:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230131T191808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230131T191808Z">
@@ -25221,6 +25237,14 @@ attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185244Z">
         <seg>U filtru DTD Mozilla hà cagiunatu un eccezzione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla FTL filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T134941Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T134941Z">
+        <seg>U filtru FTL Mozilla hà scuntratu un sbagliu :</seg>
       </tuv>
     </tu>
     <tu>
