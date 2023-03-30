@@ -12248,6 +12248,14 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hide &amp;Options</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T134646Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T134646Z">
+        <seg>Piattà l’&amp;ozzioni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide &amp;leading and trailing tags</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230215T122116Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230215T122116Z">
@@ -25145,6 +25153,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Java Resource Bundles filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T134847Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T134847Z">
+        <seg>U filtru Ballotti di risorse Java hà scuntratu un sbagliu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T121637Z">
@@ -25169,6 +25185,14 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Moodle PHP filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T134858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T134858Z">
+        <seg>U filtru PHP Moodle hà scuntratu un sbagliu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Moodle PHP filter threw an exception:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T185205Z">
@@ -25181,6 +25205,14 @@ attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200521T155255Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T155255Z">
         <seg>L’URL di u servitore Moses ùn hè micca definita.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Mozilla DTD filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T134920Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T134920Z">
+        <seg>U filtru DTD Mozilla hà scuntratu un sbagliu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -25261,6 +25293,14 @@ attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T104720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T104720Z">
         <seg>U prughjettu OmegaT puderia gode d’un sustene più forte di benevulenti in quasi tutti i duminii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The PO filter encountered an error:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T134746Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T134746Z">
+        <seg>U filtru PO hà scuntratu un sbagliu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -29840,6 +29880,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230124T121059Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230124T121059Z">
         <seg>XLIFF (filtru anzianu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF 1</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T134753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T134753Z">
+        <seg>XLIFF 1</seg>
       </tuv>
     </tu>
     <tu>
