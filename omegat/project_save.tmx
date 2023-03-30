@@ -17104,8 +17104,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No predefined credentials passed.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134152Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134152Z">
-        <seg>Nisuna iinfurmazione d’identificazione predefinita ùn hè stata trasmessa.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T135307Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134152Z">
+        <seg>Nisuna infurmazione d’identificazione predefinita ùn hè stata trasmessa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25974,6 +25974,14 @@ in /lib/licenses/Licenses.txt.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T115226Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T115226Z">
         <seg>U prughjettu hè viotu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230330T135247Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230330T135247Z">
+        <seg>U prughjettu si trova in modu « fora di linea ».</seg>
       </tuv>
     </tu>
     <tu>
