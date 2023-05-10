@@ -10443,6 +10443,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing "project_save.tmx":</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T110232Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T110232Z">
+        <seg>Sbagliu durante l’analisa di sintassa di « project_save.tmx » :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while parsing:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172907Z">
@@ -10939,6 +10947,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T173846Z">
         <seg>Sbagliu fatale à a linea {0}, culonna {1} durante l’analisa di sintassa :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error while parsing "project_save.tmx" file(line {0}, column {1}):</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T110456Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T110456Z">
+        <seg>Sbagliu fatale durante l’analisa di sintassa di u schedariu « project_save.tmx » (linea {0}, culonna {1}) :</seg>
       </tuv>
     </tu>
     <tu>
