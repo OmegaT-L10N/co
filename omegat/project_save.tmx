@@ -10723,6 +10723,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Facebook</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T103849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T103849Z">
+        <seg>Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Facebook group</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T144518Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T144518Z">
@@ -12692,6 +12700,14 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T114004Z">
         <seg>Sbagliu d’entrata/esciuta :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IRC</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T103903Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T103903Z">
+        <seg>IRC</seg>
       </tuv>
     </tu>
     <tu>
@@ -15175,6 +15191,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LinkedIn</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T103858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T103858Z">
+        <seg>LinkedIn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Links (&amp;URL)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T140931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T140931Z">
@@ -15959,6 +15983,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mastodon</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T103855Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T103855Z">
+        <seg>Mastodon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match Statistics</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T185756Z">
@@ -16131,6 +16163,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T173801Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T173801Z">
         <seg>Segmenti chì currispondenu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matrix</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T103905Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T103905Z">
+        <seg>Matrix</seg>
       </tuv>
     </tu>
     <tu>
@@ -20753,6 +20793,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reddit</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T103901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T103901Z">
+        <seg>Reddit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reference T&amp;Ms</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T144804Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230208T144804Z">
@@ -24819,6 +24867,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T103854Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T103854Z">
+        <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Template for segments without date</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T162957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T162957Z">
@@ -28041,6 +28097,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T170307Z">
         <seg>Impussibule di cunvertisce u prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to create a backup file of {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T104146Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T104146Z">
+        <seg>Impussibule di creà un schedariu di salvaguardia di {0}</seg>
       </tuv>
     </tu>
     <tu>
