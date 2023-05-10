@@ -9919,10 +9919,26 @@ hè u codice di a lingua è YY hè quellu di u rughjone o di u paese (ozzionale)
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the password for {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111219Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111219Z">
+        <seg>Stampittate a parolla d’intesa per {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enter the segment number:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T142435Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T174847Z">
         <seg>Stampittate u numeru di segmentu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter the username for {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111206Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111206Z">
+        <seg>Stampittate u nome d’utilizatore per {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -12108,6 +12124,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184900Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184724Z">
         <seg>U tipu MIME ricevutu {0} hè inaspettatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got unexpected input.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111423Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111423Z">
+        <seg>A stampittera ricevuta hè imprevista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28273,6 +28297,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to get result</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111144Z">
+        <seg>Impussibule d’ottene u risultatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to initialize read of XML file!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T113651Z">
@@ -30060,6 +30092,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T133346Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T133346Z">
         <seg>Autenticazione fiasca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong password for {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111234Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111234Z">
+        <seg>Parolla d’intesa falsa per {0}</seg>
       </tuv>
     </tu>
     <tu>
