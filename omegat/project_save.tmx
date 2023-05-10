@@ -5129,6 +5129,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ask again...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111547Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111547Z">
+        <seg>Dumandà torna…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Assign &amp;shortcut</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T144014Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T144014Z">
@@ -6009,6 +6017,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T115147Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115147Z">
         <seg>Ùn si pò truvà u schedariu d’esecuzione GPG nant’à variabile $PATH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get correct answer.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111645Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111645Z">
+        <seg>Ùn si pò micca ottene a risposta curretta.</seg>
       </tuv>
     </tu>
     <tu>
