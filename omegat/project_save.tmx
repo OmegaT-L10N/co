@@ -15691,10 +15691,26 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MT engine error happened</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111125Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111125Z">
+        <seg>Sbagliu accadutu in u mutore MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MT engine error({0}) {1}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220323T172741Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220323T172741Z">
         <seg>Mutore MT sbagliu({0}) {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>MT({0}) report error {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T110858Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T110841Z">
+        <seg>MT({0}) sbagliu di raportu {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -28525,6 +28541,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193234Z">
         <seg>Unicu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown language code {0} specified</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T110834Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T110834Z">
+        <seg>U codice di lingua specificatu {0} hè scunnisciutu</seg>
       </tuv>
     </tu>
     <tu>
