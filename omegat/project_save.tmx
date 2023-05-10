@@ -2748,6 +2748,18 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--mode=console-align
+	  --alignDir=&lt;path&gt;
+	    The folder containing the translated files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T104753Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T104753Z">
+        <seg>--mode=console-align
+	  --alignDir=&lt;chjassu&gt;
+	    U cartulare chì cuntene i schedarii tradutti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--mode=console-createpseudotranslatetmx
 	  --pseudotranslatetmx=&lt;path&gt;
 	    The output pseudotranslated TMX file.</seg>
@@ -2768,6 +2780,20 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--mode=console-pseudotranslatetmx
 	  --pseudotranslatetmx=&lt;chjassu&gt;
 	    U schedariu TMX resultendu chì cuntene a pseudo traduzzione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=console-stats
+	  --output-file=[stats-output-file]
+	    Prints to the specified file, or to standard output
+	    if no file is given or the option is not used.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T104954Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T104954Z">
+        <seg>--mode=console-stats
+	  --output-file=[schedariu d’esciuta per e statistiche]
+	    Stampa ver di u schedariu indicatu, o ver di l’esciuta
+	    classica s’ellu ùn ci hè schedariu o s’è l’ozzione hè assente.</seg>
       </tuv>
     </tu>
     <tu>
