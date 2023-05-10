@@ -10871,6 +10871,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project by a file access problem.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T105748Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T105748Z">
+        <seg>Impussibule di caricà u prughjettu per via d’un prublema d’accessu à u schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project due to file corruption.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T105312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T105312Z">
@@ -19561,6 +19569,14 @@ in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T173257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T173257Z">
         <seg>Lista di filmetti nant’à OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please check you have permissions, or you can access files if there are files in cloud storage.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T110034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T110034Z">
+        <seg>Verificate chì vo avete i permessi richiesti o chì vo pudete accede à i schedarii s’elli si trovanu in u nivulu.</seg>
       </tuv>
     </tu>
     <tu>
