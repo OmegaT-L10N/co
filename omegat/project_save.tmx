@@ -25349,6 +25349,16 @@ attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The @language@ version of OmegaT has been translated by:
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T114245Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114245Z">
+        <seg>A versione @language@ d’OmegaT hè stata tradutta da :
+@TRANSLATION_NOTICE@</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Britannica Concise Encyclopedia</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T175610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T175610Z">
