@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restore OmegaT Window</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T160003Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T160003Z">
+        <seg>Risturà a &amp;finestra OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Root</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T153431Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T153431Z">
@@ -16357,6 +16365,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T165502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T165502Z">
         <seg>E currispundenze venenu da a vostra traduzzione attuale o da i schedarii TMX chì sò piazzati in u cartulare  /tm/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches come from your current translation or the reference files placed in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T160438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T160438Z">
+        <seg>E currispundenze venenu da a vostra traduzzione attuale o da i schedarii di referenza chì sò piazzati in u cartulare  /tm/.</seg>
       </tuv>
     </tu>
     <tu>
