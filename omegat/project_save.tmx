@@ -9307,6 +9307,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Double-click characters, or select them and press the Insert key, to add them to the custom table.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T160751Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T160751Z">
+        <seg>Fate un cliccu doppiu nant’à i caratteri, o selezziunateli è appughjate nant’à u tastu d’inserzione per aghjunghjeli à a tavula persunalizata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Double-click on the OmegaT application.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200528T112828Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112828Z">
@@ -10041,6 +10049,14 @@ hè u codice di a lingua è YY hè quellu di u rughjone o di u paese (ozzionale)
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T005258Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T005258Z">
         <seg>Stampittate u nome d’utilizatore è a parolla d’intesa per {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your master password</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T160836Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T160836Z">
+        <seg>Stampittate a vostra parolla d’intesa principale</seg>
       </tuv>
     </tu>
     <tu>
