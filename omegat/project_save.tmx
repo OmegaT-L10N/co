@@ -17820,6 +17820,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When the Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T160513Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T160513Z">
+        <seg>Infurmammi quandu u segmentu pussede currispundenze simile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify even When No Result found on Dictionary Search</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183238Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183238Z">
