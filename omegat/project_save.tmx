@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Redo</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T114702Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114702Z">
+        <seg>&amp;Rifà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Redo Last Action</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T175049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T154602Z">
@@ -1658,6 +1666,14 @@
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T161545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T161325Z">
         <seg>SOLU LETTERE &amp;MAIUSCULE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T114701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114701Z">
+        <seg>&amp;Disfà</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,6 +2524,22 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T184105Z">
         <seg>- l’impiegu di parechji schedarii TMX accettevule cum’è referenza di traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T114641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114641Z">
+        <seg>- verificà chì u so furmatu hè accettatu da OmegaT :
+	  s’è e preferenze lucale di filtru sò attivate
+	  impiegà Prughjettu &gt; Pruprietà… &gt; Filtri di schedariu lucali…,
+	  osinnò impiegà Ozzioni &gt; Filtri glubali di schedariu…;
+	- apre i schedarii cù a so appiecazione d’origine è verificà ch’elli ùn sò micca vioti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4031,6 +4063,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111654Z">
         <seg>Interrompe…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if tags are invalid.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T114545Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114545Z">
+        <seg>Abort : esce cù un sbagliu s’è l’etichette sò inaccettevule.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13778,6 +13818,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183620Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183620Z">
         <seg>Framette a currispundenza o selezzione in a traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Missing &amp;Tags</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T132632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T132632Z">
+        <seg>Framette l’etichette chì mancanu</seg>
       </tuv>
     </tu>
     <tu>
