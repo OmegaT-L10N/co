@@ -5869,8 +5869,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>By Marco Cevoli and Sergio Alasia.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T143140Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T174339Z">
-        <seg>Da Marco Cevoli and Sergio Alasia</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230517T102907Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T174339Z">
+        <seg>Da Marco Cevoli è Sergio Alasia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17526,8 +17526,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Non-breaking space</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20170209T151828Z" creationid="Patriccollu" creationdate="20170209T151828Z">
-        <seg>Spaziu unspezzevule</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230517T102633Z" creationid="Patriccollu" creationdate="20170209T151828Z">
+        <seg>Spaziu nonspezzevule</seg>
       </tuv>
     </tu>
     <tu>
@@ -21712,6 +21712,14 @@ Solu ste parolle</seg>
         <seg>Replace spaces with non-breakable spaces where appropriate in French</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T152015Z">
+        <seg>Rimpiazzà i spazii cù spazii micca spezzevule quand’ellu hè necessariu in Francese</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace spaces with non-breakable spaces where appropriate in French.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230517T102643Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230517T102643Z">
         <seg>Rimpiazzà i spazii cù spazii micca spezzevule quand’ellu hè necessariu in Francese</seg>
       </tuv>
     </tu>
