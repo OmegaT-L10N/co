@@ -11013,9 +11013,25 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load the project because the specified source folder contains a symbolic or hard link that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230530T174903Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230530T174903Z">
+        <seg>Impussibule di caricà u prughjettu perchè u cartulare d’origine specificatu cuntene un liame simbolicu o fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to load the project by a file access problem.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T105748Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T105748Z">
+        <seg>Impussibule di caricà u prughjettu per via d’un prublema d’accessu à u schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the project due to a file access issue.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230530T173401Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230530T173401Z">
         <seg>Impussibule di caricà u prughjettu per via d’un prublema d’accessu à u schedariu.</seg>
       </tuv>
     </tu>
@@ -11025,6 +11041,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T105312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T105312Z">
         <seg>Impussibule di caricà u prughjettu per via d’una deteriurazione di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load the specified project!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230530T173334Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230530T173334Z">
+        <seg>Impussibule di caricà u prughjettu specificatu !</seg>
       </tuv>
     </tu>
     <tu>
@@ -11040,6 +11064,14 @@ Solu 404</seg>
         <seg>Failed to load translation memory {0} for project!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T165601Z">
+        <seg>Impussibule di caricà a memoria di traduzzione {0} per u prughjettu !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for the project!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230530T173323Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230530T173323Z">
         <seg>Impussibule di caricà a memoria di traduzzione {0} per u prughjettu !</seg>
       </tuv>
     </tu>
@@ -15965,6 +15997,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233400Z">
         <seg>MainMenuShortcuts.properties</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure you have the correct permissions or that you can access the files if they are stored in the cloud.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230530T173515Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230530T173515Z">
+        <seg>Assicuratevi chì vo avete i permessi richiesti o chì vo pudete accede à i schedarii s’elli sò piazzati in u nivulu.</seg>
       </tuv>
     </tu>
     <tu>
