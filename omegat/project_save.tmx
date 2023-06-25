@@ -3705,6 +3705,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T205908Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T205846Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Ultima versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200619T120110Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T120039Z">
@@ -4727,6 +4735,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T153426Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T153426Z">
         <seg>Pensate dinù à pruvà e &lt;a0&gt;custruzzioni di notte&lt;/a0&gt; d’OmegaT chì ponu cuntene ancu più di prublemi novi è affascinanti !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also, consider testing &lt;a0&gt;weekly builds&lt;/a0&gt; of OmegaT that may contain even more new and fascinating bugs!</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T205946Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T205946Z">
+        <seg>Pensate dinù à pruvà e &lt;a0&gt;custruzzioni settimanale&lt;/a0&gt; d’OmegaT chì ponu cuntene ancu più di prublemi novi è affascinanti !</seg>
       </tuv>
     </tu>
     <tu>
@@ -8511,6 +8527,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T165803Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T165803Z">
         <seg>Sviluppatore : OmegaT di notte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developer: OmegaT Weekly</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T210016Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T210016Z">
+        <seg>Sviluppatore : OmegaT settimanale</seg>
       </tuv>
     </tu>
     <tu>
@@ -29892,6 +29916,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T175602Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T175602Z">
         <seg>Webster's Revised Unabridged Dictionary (1913)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Weekly Builds</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T205808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T205808Z">
+        <seg>Custruzzioni settimanale</seg>
       </tuv>
     </tu>
     <tu>
