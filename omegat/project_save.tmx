@@ -5563,6 +5563,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Based on your choices, we recommend you use:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T205714Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T205714Z">
+        <seg>Secondu à a vostra scelta, vi ricumandemu d’impiegà :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Basically, that means that you have:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T155103Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T155103Z">
@@ -8199,6 +8207,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162411Z">
         <seg>A squadra attuale hè :
 (in ordine alfabeticu)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Currently, we offer only a Standard version.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T205616Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T205616Z">
+        <seg>Oghje, ci hè solu una versione classica.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18404,6 +18420,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has been successfully installed on Windows (all versions from Windows 8 onwards), macOS and Linux.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T205739Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T205739Z">
+        <seg>L’installazione hè stata riisciuta nant’à tutte e piattaforme Windows (da a versione 8 fin’à oghje), macOS è Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has chosen option 'Yes' automatically.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T150622Z">
@@ -25463,6 +25487,14 @@ current folder will be used instead.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T143827Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T143827Z">
         <seg>Per rimpiazzalu, u cartulare
 attuale serà impiegatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will have usually been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T205705Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T205705Z">
+        <seg>A versione « Classica » d’OmegaT hè pruvista cù una documentazione sana (omancu in inglese) è hè stata pruvata è verificata per caccià i penseri.</seg>
       </tuv>
     </tu>
     <tu>
