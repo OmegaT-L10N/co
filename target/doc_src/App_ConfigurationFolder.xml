@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="configuration.folder">
+  <title id="configuration.folder.title">Cartulare di cunfigurazione</title>
+  <para>U cartulare di cunfigurazione cuntene a maiò parte di l’ozzioni è di e preferenze d’OmegaT per l’utilizatore.</para>
+  
+  <para>Impiegate <link linkend="menus.options" endterm="menus.options.title"/><link linkend="menus.options.access.configuration.folder" endterm="menus.options.access.configuration.folder.title"/> per accedeci direttamente.</para>
+
+  <section id="configuration.folder.location">
+    <title id="configuration.folder.location.title">Lucalizazione</title>	
+	<para>U locu induve si trova u cartulare predefinitu di cunfigurazione dipende di u vostru sistema ( (u caratteru <emphasis>~</emphasis> riprisenta u vostru cartulare d’accolta) :<variablelist>
+	  <varlistentry><term>Linux</term><listitem><para><filename>~/.omegat</filename></para></listitem></varlistentry>
+	  <varlistentry><term>macOS</term><listitem><para><filename>~/Library/Preferences/OmegaT</filename></para></listitem></varlistentry>
+	  <varlistentry><term>Windows</term><listitem><para><filename>~\AppData\Roaming\OmegaT</filename></para></listitem></varlistentry>
+	</variablelist></para>
+
+	<note>
+	  <para>Si pò indicà un cartulare di cunfigurazione sfarente di quelle predefinitu quandu si lancia OmegaT da a linea di cumanda. Lighjite u Cumu fà <link endterm="launch.with.command.line.title" linkend="launch.with.command.line"/> per sapene di più.</para>
+
+	  <para>E preferenze mudificate sò piazzate in u cartulare di cunfigurazione impiegatu da u prughjettu. S’è vo ùn impiegate micca u cartulare predefinitu di cunfigurazione, tutte e mudificazioni fatte in e <link linkend="chapter.dialogs.preferences">preferenze</link> seranu piazzate in u cartulare specificu di cunfigurazione è ùn si videranu micca quandu si ripiglierà u travagliu cù u cartulare predefinitu di cunfigurazione.</para>
+	</note>
+  </section>
+  
+  <section id="configuration.folder.default.contents">
+    <title id="configuration.folder.default.contents.title">Cuntenutu predefinitu</title>
+	<variablelist>
+	  <varlistentry id="configuration.folder.default.contents.omegat.prefs">
+		<term id="configuration.folder.default.contents.omegat.prefs.title">omegat.prefs</term>
+		<listitem>
+		  <para>Stu schedariu cuntene assai preferenze impurtante di l’utilizatore.</para>
+
+		  <para>Certe preferenze ùn anu micca equivalenza in l’interfaccia di l’utilizatore. Devenu esse mudificate manualmente.</para>
+		  
+		  <example id="no.source.file.display">
+			<title id="no.source.file.display.title">Ùn affissà micca autumaticamente a lista di i schedarii d’origine</title>
+			<para>Per impedisce l’apertura autumatica di a finestra chì cuntene a lista di i schedarii d’origine quandu si caricheghja un prughjettu, circate <token>&lt;project_files_show_on_load&gt;</token> è rimpiazzate <token>true</token> da <token>false</token> :</para>
+
+			<para><programlisting>&lt;project_files_show_on_load&gt;<token>false</token>&lt;/project_files_show_on_load&gt;</programlisting></para>
+		  </example>
+		  
+		  <note>
+			<para>Attualmente, solu sta preferenza richiede una mudificazione manuale.</para>
+		  </note>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry id="configuration.folder.default.contents.uilayout">
+		<term id="configuration.folder.default.contents.uilayout.title">uiLayout.xml</term>
+		<listitem>
+		  <para>Stu schedariu discrive a dispusizione generale d’OmegaT.</para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry id="configuration.folder.default.contents.logs">
+		<term id="configuration.folder.default.contents.logs.title">logs/</term>
+		<listitem>
+		  <para>Stu cartulare cuntene parechji ghjurnali di messaghji. U più recente hè <filename>OmegaT.log</filename>.</para>
+
+		  <para>Sti schedarii arregistreghjanu parechji stati interni è messaghji d’evenimentu di u prugramma durante l’esecuzione d’OmegaT. S’è OmegaT si cumporte d’una manera strana, aghjunghjite u schedariu sanu, o solu a so parte pertinente, à u vostru raportu.</para>
+
+		  <para>Impiegate <link linkend="menus.help" endterm="menus.help.title"/><link linkend="menus.help.log" endterm="menus.help.log.title"/> per affissà u cuntenutu di u schedariu.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry id="configuration.folder.default.contents.script">
+		<term id="configuration.folder.default.contents.script.title">script/</term>
+		<listitem>
+		  <para>S’è e funzioni currispundente sò impiegate, stu cartulare pò cuntene fine à trè schedarii di testu :</para>
+
+		  <variablelist>
+			<varlistentry id="configuration.folder.default.contents.script.selection">
+			  <term id="configuration.folder.default.contents.script.selection.title">selection.txt</term>
+			  <listitem>
+				<para>Stu schedariu cuntene u testu selezziunatu attualmente quandu <link linkend="menus.edit" endterm="menus.edit.title"/><link linkend="menus.edit.export.selection" endterm="menus.edit.export.selection.title"/> hè impiegatu. U testu in u schedariu hè rimpiazzatu ogni volta chì a funzione hè chjamata.</para>
+			  </listitem>
+			</varlistentry>
+		  
+			<varlistentry id="configuration.folder.default.contents.script.source">
+			  <term id="configuration.folder.default.contents.script.source.title">source.txt</term>
+			  <listitem>
+				<para>Stu schedariu cuntene u <emphasis>testu d’origine</emphasis> di u segmentu attuale quandu a preferenza <link linkend="dialogs.preferences.editor.export.the.segment.to.text.files" endterm="dialogs.preferences.editor.export.the.segment.to.text.files.title"/> hè attivata. U testu in u schedariu hè rimpiazzatu ogni volta chì s’apre un segmentu novu.</para>
+			  </listitem>
+			</varlistentry>
+
+			<varlistentry id="configuration.folder.default.contents.script.target">
+			  <term id="configuration.folder.default.contents.script.target.title">target.txt</term>
+			  <listitem>
+				<para>Stu schedariu cuntene u <emphasis>testu traduttu</emphasis> di u segmentu attuale quandu a preferenza <link linkend="dialogs.preferences.editor.export.the.segment.to.text.files" endterm="dialogs.preferences.editor.export.the.segment.to.text.files.title"/> hè attivata. U testu in u schedariu hè rimpiazzatu ogni volta chì s’apre un segmentu novu.</para>
+			  </listitem>
+			</varlistentry>
+		  </variablelist>
+
+		  <para>Sti trè schedarii furniscenu una manera simplice d’accede à certu cuntenutu d’OmegaT è di trattallu cù prugrammi lucali cum’è i scenarii shell.</para>
+		</listitem>
+	  </varlistentry>
+	</variablelist>
+  </section>
+  
+  <section id="configuration.folder.extra.contents">
+    <title id="configuration.folder.extra.contents.title">Cuntenutu cumplementariu</title>
+
+	<variablelist>
+	  <varlistentry id="configuration.folder.extra.contents.editorshortcuts">
+		<term id="configuration.folder.extra.contents.editorshortcuts.title">EditorShortcuts.properties</term>
+		<listitem>
+		  <para>Stu schedariu di parametri cuntene l’accurtatoghji persunalizati di l’editore. Lighjite l’annessu <link linkend="app.shortcuts.customization" endterm="app.shortcuts.customization.title"/> per sapene di più.</para>
+		</listitem>
+	  </varlistentry>
+	
+	  <varlistentry id="configuration.folder.extra.contents.maninmenushortcut">
+		<term id="configuration.folder.extra.contents.maninmenushortcut.title">MainMenuShortcuts.properties</term>
+		<listitem>
+		  <para>Stu schedariu di parametri cuntene l’accurtatoghji persunalizati di l’interfaccia di l’utilizatore. Lighjite l’annessu <link linkend="app.shortcuts.customization" endterm="app.shortcuts.customization.title"/> per sapene di più.</para>
+		</listitem>
+	  </varlistentry>
+	
+	  <varlistentry id="configuration.folder.extra.contents.filters">
+		<term id="configuration.folder.extra.contents.filters.title">filters.xml</term>
+		<listitem>
+		  <para>Stu schedariu di parametri cuntene i filtri persunalizati di schedariu. Lighjite e preferenze di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
+		</listitem>
+	  </varlistentry>
+
+	  <varlistentry id="configuration.folder.extra.contents.finder">
+		<term id="configuration.folder.extra.contents.finder.title">finder.xml</term>
+		<listitem>
+		  <para>Stu schedariu di parametri cuntene i parametri persunalizati di ricerca esterna. Lighjite e preferenze di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
+		</listitem>
+	</varlistentry>
+	
+	<varlistentry id="configuration.folder.extra.contents.omegat.autotext">
+	  <term id="configuration.folder.extra.contents.omegat.autotext.title">omegat.autotext</term>
+	  <listitem>
+		<para>Stu schedariu di parametri cuntene i parametri persunalizati di testu autumaticu. Lighjite e preferenze di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="configuration.folder.extra.contents.repositories">
+	  <term id="configuration.folder.extra.contents.repositories.title">repositories.properties</term>
+	  <listitem>
+		<para>Stu schedariu cuntene l’infurmazione d’identificazione di cunnessione à i vostri dipositi di prughjettu in squadra.<warning><para>U cuntenutu di u schedariu ùn hè micca cifratu.</para></warning>Lighjite u Cumu fà <link linkend="how.to.setup.team.project" endterm="how.to.setup.team.project.title"/> per sapene di più.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="configuration.folder.extra.contents.segmentation">
+	  <term id="configuration.folder.extra.contents.segmentation.title">segmentation.conf</term>
+	  <listitem>
+		<para>Stu schedariu di parametri cuntene i parametri persunalizati di segmentazione. Lighjite e preferenze di <link linkend="dialogs.preferences.segmentation.setup" endterm="dialogs.preferences.segmentation.setup.title"/> per sapene di più.</para>
+	  </listitem>
+	</varlistentry>
+	
+	<varlistentry id="configuration.folder.extra.contents.plugin">
+	  <term id="configuration.folder.extra.contents.plugin.title">plugins/</term>
+	  <listitem>
+		<para>This folder provides the standard location for manually installed OmegaT extension plugins. Lighjite e preferenze di <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> per sapene di più.</para>
+		<para>It is also possible to install plugins in the application <link linkend="application.folder.plugins" endterm="application.folder.plugins.title"/> folder.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="configuration.folder.extra.contents.spelling">
+	  <term id="configuration.folder.extra.contents.spelling.title">spelling/</term>
+	  <listitem>
+		<para>Stu cartulare cuntene i vostri dizziunarii d’ortugrafia. Lighjite e preferenze di <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per sapene di più.</para>
+	  </listitem>
+	</varlistentry>
+	</variablelist>
+  </section>
+</section>

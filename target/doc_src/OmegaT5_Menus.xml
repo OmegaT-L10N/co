@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<chapter id="chapter.menus">
+  <title id="chapter.menus.title">Listini</title>
+
+  	<para>OmegaT pare una cria infelice, s’ellu ùn hè micca goffu, à a ghjente avvezza à l’interfaccie cù buttoni. Ci hè pochi buttoni in OmegaT. A maiò parte di l’azzioni si face cù l’aiutu di l’accurtatoghji assuciati à l’elementi di listinu.</para>
+
+	<para>L’accurtatoghji sò onnipresenti in stu manuale è duveriate esse à capu prestu prestu d’arricurdavvi d’unipochi chì sò ghjuvevule per una sessione classica di traduzzione.</para>
+
+	<para>I listini sò u locu induve si pò accede à a maiò parte di e funzioni d’OmegaT. Guasi tutti l’elementi di i listini sò assuciati à un accurtatoghju di tastera.</para>
+
+	<para>L’elementi di i listini chì ùn anu micca d’accurtatoghju indicatu accant’à, ùn anu micca accurtatoghju predefinitu attribuitu à l’origine. Lighjite l’annessu <link linkend="app.shortcuts.customization" endterm="app.shortcuts.customization.title"/> s’è vo vulete mudificà o aghjunghje l’accurtatoghji.</para>
+
+  <note><para>Ramentu di a discrizzione di l’accurtatoghju di tastu :<table id="menus.shortcut.description">
+      <title id="menus.shortcut.description.title">Identificatori di tastu di mudificatore</title>
+
+      <tgroup cols="3">
+        <thead>
+          <row>
+            <entry>Linux/Windows</entry>
+            <entry>Identificatore di tastu</entry>
+            <entry>macOS</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          <row>
+            <entry><keycap>Maiusc</keycap></entry>
+            <entry><keycap>S</keycap></entry>
+            <entry><keycap>maiusc</keycap> o <keycap>⇧</keycap></entry>
+          </row>
+
+          <row>
+            <entry><keycap>Ctrl</keycap> o <keycap>Control</keycap></entry>
+            <entry><keycap>C</keycap></entry>
+            <entry><keycap>command</keycap> o <keycap>⌘</keycap></entry>
+          </row>
+
+          <row>
+            <entry><keycap>Alt</keycap></entry>
+            <entry><keycap>A</keycap></entry>
+            <entry><keycap>alt / option</keycap> o <keycap>⌥</keycap></entry>
+          </row>
+
+          <row>
+            <entry/>
+            <entry><keycap>Ctrl</keycap></entry>
+            <entry><keycap>control</keycap> o <keycap>⌃</keycap></entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table></para>
+  </note>
+
+  <xi:include href="Menus_Project.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+  
+  <xi:include href="Menus_Edit.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="Menus_GoTo.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="Menus_View.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="Menus_Tools.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="Menus_Options.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+  <xi:include href="Menus_Help.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+
+</chapter>

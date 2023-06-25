@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
 <section id="menus.help">
-  <title>Aiutu</title>
+  <title id="menus.help.title"><guimenu>Aiutu</guimenu></title>
+
+  <para>This menu gives you access to information that will help you make the
+  best of OmegaT.</para>
 
   <variablelist>
-    <varlistentry>
-      <term>&amp;Manuale di l’utilizatore</term>
-
+    <varlistentry id="menus.help.user.manual">
+      <term id="menus.help.user.manual.title"><guimenuitem>User
+      Manual...</guimenuitem> <keycombo><keycap>F1</keycap></keycombo></term>
       <listitem>
         <para>Apre stu manuale in u navigatore predefinitu</para>
-      </listitem>
+    </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Apprupositu…</term>
-
+    <varlistentry id="menus.help.about">
+      <term id="menus.help.about.title"><guimenuitem>Apprupositu…</guimenuitem></term>
       <listitem>
         <para>Affisseghja di i diritti di copia, infurmazioni di meritu è di licenza.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Ultimi cambiamenti…</term>
-
+    <varlistentry id="menus.help.last.changes">
+      <term id="menus.help.last.changes.title"><guimenuitem>Ultimi cambiamenti…</guimenuitem></term>
       <listitem>
-        <para>Affisseghja di a lista di e nove funzioni, amendamenti è currezzioni di penseri per ogni nova versione.</para>
+        <para>Displays the list of new functionality, enhancements and bug fixes
+        for each new release.</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Ghjurnale…</term>
-
+    <varlistentry id="menus.help.log">
+      <term id="menus.help.log.title"><guimenuitem>Ghjurnale…</guimenuitem></term>
       <listitem>
-        <para>Affisseghja di u ghjurnale di messaghji attuale. U titulu di u dialogu indicheghja u schedariu impiegatu avà (secondu à quantu instanze d’OmegaT funziuneghjanu à u listessu tempu).</para>
+        <para>Affisseghja di u ghjurnale di messaghji attuale. The title of the dialog reflects the file currently in use (which depends on the number of concurrently running OmegaT instances).</para>
       </listitem>
     </varlistentry>
 
-    <varlistentry>
-      <term>Circà i rinnovi…</term>
-
+    <varlistentry id="menus.help.check.for.updates">
+      <term id="menus.help.check.for.updates.title"><guimenuitem>Circà i rinnovi…</guimenuitem></term>
       <listitem>
-        <para>Cuntrolleghja s’è una versione più recente d’OmegaT seria dispunibule.</para>
+        <para>Checks to see if a newer version of OmegaT is available.</para>
       </listitem>
     </varlistentry>
   </variablelist>

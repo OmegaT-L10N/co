@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "../../../docbook-xml-4.5/docbookx.dtd">
+<section id="application.folder">
+  <title id="application.folder.title">Cartulare d’appiecazione</title>
+
+  <para>U cartulare d’appiecazione cuntene l’appiecazione <filename>OmegaT.jar</filename> è parechji altri schedarii impurtante.</para>
+
+  <note>
+	<para>U locu induve si trova u cartulare d’appiecazione dipende di a vostra piattaforma è di a manera d’installà OmegaT. I lochi ricumandati o predefiniti sò quelli :</para>
+
+	<variablelist>
+	  <varlistentry>
+		<term>Windows</term>
+		<listitem>
+		  <para><filename>C:\Program Files\OmegaT\</filename></para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term>Linux</term>
+		<listitem>
+		  <para><filename>/opt/omegat/</filename></para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term>macOS</term>
+		<listitem>
+		  <para><filename>/Applications/OmegaT.app/Contents/Java/</filename></para>
+		</listitem>
+	  </varlistentry>
+	  
+	  <varlistentry>
+		<term>altre piattaforme</term>
+		<listitem>
+		  <para><filename>/opt/omegat/</filename></para>
+		</listitem>
+	  </varlistentry>
+	</variablelist>
+  </note>
+  
+  <variablelist>
+	<varlistentry id="application.folder.omegat.license">
+	  <term id="application.folder.omegat.license.title">OmegaT-license.txt</term>
+	  <listitem>
+		<para>A licenza di distribuzione d’OmegaT. A versione 3 di GPL.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.omegat.jar">
+	  <term id="application.folder.omegat.jar.title">OmegaT.jar</term>
+	  <listitem>
+		<para>U schedariu d’esecuzione d’OmegaT. Impiegatu quandu si lancia OmegaT da a linea di cumanda. Lighjite u capitulu <link linkend="launch.with.command.line" endterm="launch.with.command.line.title"/> per sapene di più.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.changes">
+	  <term id="application.folder.changes.title">changes.txt</term>
+	  <listitem>
+		<para>A lista di l’amendamenti è di e currezzioni di prublema. Cuntrollatela per cunnosce l’evoluzione d’OmegaT.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.doc.license">
+	  <term id="application.folder.doc.license.title">doc-license.txt</term>
+	  <listitem>
+		<para>A licenza di distribuzione di a documentazione. A versione 3 di GPL.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.index.html">
+	  <term id="application.folder.index.html.title">index.html</term>
+	  <listitem>
+		<para>L’indice di u manuale multilingue di l’utilizatore.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.join.html">
+	  <term id="application.folder.join.html.title">join.html</term>
+	  <listitem>
+		<para>Un liame versu a pagina d’assistenza.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.readme.txt">
+	  <term id="application.folder.readme.txt.title">readme.txt</term>
+	  <listitem>
+		<para>Istruzzioni d’installazione simplice è d’esecuzione.</para>
+	  </listitem>
+	</varlistentry>
+
+
+	<varlistentry id="application.folder.docs">
+	  <term id="application.folder.docs.title">docs/</term>
+	  <listitem>
+		<para>U cartulare di documentazione.<variablelist>
+		  <varlistentry id="application.folder.docs.contributors">
+			<term id="application.folder.docs.contributors.title">contributors.txt</term>
+			<listitem>
+			  <para>A lista di i cuntribuenti.</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry id="application.folder.docs.en">
+			<term id="application.folder.docs.en.title">co/</term>
+			<listitem>
+			  <para>Ogni manuale di l’utilizatore chì hè statu traduttu si trova in un cartulare di lingua specificu.</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry id="application.folder.docs.index.html">
+			<term id="application.folder.docs.index.html.title">index.html</term>
+			<listitem>
+			  <para>L’indice di u manuale multilingue di l’utilizatore.</para>
+			</listitem>
+		  </varlistentry>
+
+		  <varlistentry id="application.folder.docs.librairies.txt">
+			<term id="application.folder.docs.librairies.txt.title">libraries.txt</term>
+			<listitem>
+			  <para>A lista di e bibliuteche impiegate da OmegaT.</para>
+			</listitem>
+		  </varlistentry>
+		</variablelist>
+		</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.images">
+	  <term id="application.folder.images.title">images/</term>
+	  <listitem>
+		<para>U cartulare chì cuntene e fiure impiegate da OmegaT.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.lib">
+	  <term id="application.folder.lib.title">lib/</term>
+	  <listitem>
+		<para>U cartulare chì cuntene e bibliuteche impiegate da OmegaT.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.plugins">
+	  <term id="application.folder.plugins.title">plugins/</term>
+	  <listitem>
+		<para>U cartulare induve si pò installà i moduli d’estensione esterni. The prefered location for plugin manual installs is the <link linkend="configuration.folder.extra.contents.plugin" endterm="configuration.folder.extra.contents.plugin.title"/> folder located in the <link linkend="configuration.folder">configuration</link> folder. See the <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> preferences for details.</para>
+	  </listitem>
+	</varlistentry>
+
+	<varlistentry id="application.folder.scripts">
+	  <term id="application.folder.scripts.title">scripts/</term>
+	  <listitem>
+		<para>U cartulare induve sò piazzati i scenarii distribuiti. Lighjite a finestra <link linkend="windows.scripts" endterm="windows.scripts.title"/> per sapene di più.</para>
+	  </listitem>
+	</varlistentry>
+  </variablelist>
+</section>
