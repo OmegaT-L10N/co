@@ -29245,6 +29245,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T135321Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T135010Z">
+        <seg>In u listinu &lt;g0&gt;Prughjettu&lt;/g0&gt;, seleziunate &lt;g1&gt;Novu…&lt;/g1&gt; per creà un prughjettu novu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173601Z">
