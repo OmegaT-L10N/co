@@ -3593,6 +3593,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 11 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T124612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T124612Z">
+        <seg>&lt;i1&gt;OmegaT pò esse installatu nant’à tuttu sistema d’operazione ch’impiega omancu a versione 11 di l’ambiente d’esecuzione Java.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;k0&gt;Ctrl+N&lt;/k0&gt; or &lt;k1&gt;Enter&lt;/k1&gt; or &lt;k2&gt;Tab&lt;/k2&gt;</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T144308Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T144255Z">
@@ -7555,8 +7563,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Copy error to clipboard</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230307T192211Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230307T192211Z">
-        <seg>Sbagliu di copia versu u preme’papei</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T124733Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230307T192211Z">
+        <seg>Cupià u sbagliu versu u preme’papei</seg>
       </tuv>
     </tu>
     <tu>
@@ -18304,6 +18312,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155957Z">
         <seg>Oghje, OmegaT richiesta a versione 1.8 di u JRE o un’altra più recente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT currently requires version 11 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T124625Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T124625Z">
+        <seg>Oghje, OmegaT richiesta a versione 11 di u JRE o un’altra più recente.</seg>
       </tuv>
     </tu>
     <tu>
