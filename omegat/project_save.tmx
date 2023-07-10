@@ -14398,6 +14398,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It comes with a thorough introduction to OmegaT.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T130409Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T130409Z">
+        <seg>Stu manuale cuntene una intruduzzione sana à OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It does not translate for you!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T110410Z">
@@ -27773,6 +27781,14 @@ preferenze à e so predefinizioni.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T165600Z">
         <seg>Per fighjà a lista di i schedarii di u prughjettu, apre u dialogu &lt;s2&gt;Schedarii di Prughjettu&lt;/s2&gt;, appughjendu nant’à &lt;s3&gt;&lt;s4&gt;Ctrl+L&lt;/s4&gt;&lt;/s3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To start using OmegaT with minimal settings, do this:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T134942Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T134942Z">
+        <seg>Per impiegà OmegaT cù preferenze simplificate, fate cusì :</seg>
       </tuv>
     </tu>
     <tu>
