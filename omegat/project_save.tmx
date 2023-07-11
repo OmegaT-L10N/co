@@ -12778,6 +12778,14 @@ Simu d’inguernu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hit &lt;k0&gt;Enter&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T113634Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T113634Z">
+        <seg>Appughjate nant’à &lt;k0&gt;Entre&lt;/k0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T130329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T130329Z">
@@ -28479,6 +28487,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type the translation of the first segment.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T113548Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T113548Z">
+        <seg>Stampittate a traduzzione di u primu segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Types:
 Exact searches match the whole search string.</seg>
       </tuv>
@@ -32215,6 +32231,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T111616Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T111525Z">
         <seg>→ OmegaT hà da creà un cartulare chì cuntenerà i vostri schedarii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will register that segment into the project translation memory and will move the cursor to the next segment.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T113817Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T113817Z">
+        <seg>→ OmegaT hà da arregistrà stu segmentu in a memoria di traduzzione di u prughjettu è hà da dispiazzà u cursore versu u segmentu prossimu.</seg>
       </tuv>
     </tu>
     <tu>
