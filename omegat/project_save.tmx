@@ -14564,6 +14564,14 @@ d’utilizatore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It now displays them segment per segment for you to translate them.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T113528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T113528Z">
+        <seg>Sti schedarii sò affissati, un segmentu dopu à l’altru, per esse tradutti da voi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was not possible to create the script folder
 inside the configuration folder.</seg>
       </tuv>
