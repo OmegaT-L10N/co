@@ -29333,6 +29333,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;g1&gt;&gt; Project&lt;/g1&gt; &lt;g2&gt;&gt; Access Project Contents&lt;/g2&gt; to access the files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T124459Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T124253Z">
+        <seg>In u listinu &lt;g1&gt;&gt; Prughjettu&lt;/g1&gt;, selezziunate &lt;g2&gt;Accessu à u cuntenutu di u prughjettu&lt;/g2&gt; per accede à i schedarii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access it directly.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173601Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173601Z">
