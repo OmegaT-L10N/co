@@ -18631,6 +18631,15 @@ translation leveraging into updated projects.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free computer-assisted translation (CAT) solution for professional translators.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T125001Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T125001Z">
+        <seg>OmegaT hè una suluzione libera di traduzzione assistita da l’urdinatore (TAO in
+francese è CAT in inglese) per i traduttori prufessiunali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free open-source translation memory application for professional translators written in Java.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200621T145314Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200419T184831Z">
