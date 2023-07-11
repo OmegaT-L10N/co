@@ -6205,8 +6205,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Change the language codes to reflect your source and target languages.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T111049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T111049Z">
-        <seg>Cambia</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T111454Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T111049Z">
+        <seg>Cambiate i codici di lingua per indicà a lingua d’origine è quella di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29255,8 +29255,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Use &lt;g0&gt;&gt; Project&lt;/g0&gt; &lt;g1&gt;&gt; New...&lt;/g1&gt; to create a new project.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T135321Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T135010Z">
-        <seg>In u listinu &lt;g0&gt;Prughjettu&lt;/g0&gt;, seleziunate &lt;g1&gt;Novu…&lt;/g1&gt; per creà un prughjettu novu.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T111237Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T135010Z">
+        <seg>In u listinu &lt;g0&gt;Prughjettu&lt;/g0&gt;, selezziunate &lt;g1&gt;Novu…&lt;/g1&gt; per creà un prughjettu novu.</seg>
       </tuv>
     </tu>
     <tu>
