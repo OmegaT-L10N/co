@@ -14566,6 +14566,14 @@ scenariu in u cartulare di cunfigurazione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will also create an empty translation memory that it will fill in the background, one segment at as time as you type your translation.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T112427Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T112427Z">
+        <seg>Una memoria di traduzzione serà creata viota dinù chì serà riempiuta, in tacca di sfondulu, un segmentu dopu à l’altru, durante a vostra traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will install the correct environment for your computer and the application
 itself on the first run.</seg>
       </tuv>
