@@ -8795,6 +8795,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dismiss the window.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T112955Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T112955Z">
+        <seg>Chjudite a finestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displa&amp;y Whitespace</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T114044Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T114044Z">
@@ -32183,6 +32191,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165338Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165338Z">
         <seg>← Precedente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>→ OmegaT will copy the selected files into the project that you created in the previous step.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T113255Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T112957Z">
+        <seg>→ OmegaT hà da cupià i schedarii selezziunati in u prughjettu creatu durante a tappa precedente.</seg>
       </tuv>
     </tu>
     <tu>
