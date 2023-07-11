@@ -11798,6 +11798,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Freedoms</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T124720Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T124720Z">
+        <seg>Libertà d’usu è di mudificazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T171937Z">
@@ -13553,6 +13561,14 @@ to use Java Web Start.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T160007Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T182244Z">
         <seg>S’è vo avete impiegatu u scenariu linux-install.sh, duveriate pudè lancià OmegaT cusì :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to know more, read the user manual.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T124528Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T124528Z">
+        <seg>Per sapene di più, fighjate u manuale di l’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
