@@ -6203,6 +6203,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change the language codes to reflect your source and target languages.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T111049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T111049Z">
+        <seg>Cambia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change to "needs-review-translation" instead of "translated"</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162852Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20201010T165348Z">
