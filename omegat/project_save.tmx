@@ -26308,10 +26308,26 @@ cartulare attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to redistribute copies so you can help others.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230712T165542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230712T165542Z">
+        <seg>A libertà di ridistribuisce copie per aiutà d’altre persone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230712T165244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230712T165244Z">
-        <seg>A libertà di lancià OmegaT quand’ella vi pare, per tutti i vostri bisogni.</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230712T165425Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230712T165244Z">
+        <seg>A libertà di lancià OmegaT cum’ella vi pare, per tutti i vostri bisogni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The freedom to study how OmegaT works, and change it so it does your computing as you wish.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230712T165420Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230712T165420Z">
+        <seg>A libertà di studià cumu funziuneghja OmegaT è di mudificallu cum’ella vi pare.</seg>
       </tuv>
     </tu>
     <tu>
