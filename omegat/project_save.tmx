@@ -23106,6 +23106,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;g1&gt;&gt; Help&lt;/g1&gt; &lt;g2&gt;&gt; About&lt;/g2&gt;.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T125438Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T125438Z">
+        <seg>Fighjate &lt;g1&gt;&gt; Aiutu&lt;/g1&gt; &lt;g2&gt;&gt; Apprupositu&lt;/g2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1&gt;File Filters&lt;/l1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T163456Z">
@@ -26300,6 +26308,14 @@ cartulare attuale serà impiegatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The freedom to run OmegaT as you wish, for any purpose.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230712T165244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230712T165244Z">
+        <seg>A libertà di lancià OmegaT quand’ella vi pare, per tutti i vostri bisogni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The glossary files folder does not exist!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T171035Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T171035Z">
@@ -26367,6 +26383,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200418T193843Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200418T193843Z">
         <seg>U codice di lingua duveria esse in u furmatu xx-YY, xxx-YY, xx_YY o xxx_YY, induve xx
 o xxx hè u codice di lingua è YY hè quellu (ozzionale) di u rughjone o di u paese.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The license grants you the following freedoms:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T125507Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T125507Z">
+        <seg>A licenza vi cuncede quelle libertà :</seg>
       </tuv>
     </tu>
     <tu>
