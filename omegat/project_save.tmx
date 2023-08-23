@@ -24042,6 +24042,18 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped some source file(s)
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T112324Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T112324Z">
+        <seg>Qualchì schedariu d’origine hè statu ignuratu
+perchè u cartulare d’origine specificatu cuntene un liame simbolicu o
+fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped some source file(s) because of access permission error in the source folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T112038Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T111904Z">
