@@ -10719,8 +10719,8 @@ Solu 404</seg>
       <tuv lang="en">
         <seg>Excluding old version of '{0}' ({1}), keeping {2}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T113105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T113105Z">
-        <seg>Esclusione di a versione vechja di « {0} » ({1}) è cunservazione di {2}</seg>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T113543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T113105Z">
+        <seg>Esclusione di a versione vechja ({1}) di « {0} » è cunservazione di {2}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26404,6 +26404,14 @@ cartulare attuale serà impiegatu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T142613Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T142613Z">
         <seg>St’ozzioni ùn s’appiecanu micca in casu di cumpatibilità cù OmegaT 2.6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following plugins won't be loaded because newer versions are installed, consider deleting them: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T125544Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T125544Z">
+        <seg>Sti moduli d’estensione ùn seranu micca caricati perchè versioni più recente sò installate, pensate à squassalle : {0}</seg>
       </tuv>
     </tu>
     <tu>
