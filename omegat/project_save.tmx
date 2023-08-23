@@ -10717,6 +10717,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Excluding old version of '{0}' ({1}), keeping {2}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T113105Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T113105Z">
+        <seg>Esclusione di a versione vechja di « {0} » ({1}) è cunservazione di {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exclusion Patterns</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T131447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T131447Z">
@@ -11021,10 +11029,26 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T112450Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T112450Z">
+        <seg>Impussibule di rimandà i schedarii d’origine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to commit target files!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163116Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191336Z">
         <seg>Impussibule di rimandà i schedarii di destinazione !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T112454Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T112454Z">
+        <seg>Impussibule di rimandà i schedarii di destinazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11057,6 +11081,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T162615Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162615Z">
         <seg>Impussibule di creà i schedarii tradutti !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create the translated files.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T112440Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T112440Z">
+        <seg>Impussibule di creà i schedarii tradutti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14739,6 +14771,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125332Z">
         <seg>Ambiente Java</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T112510Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T112510Z">
+        <seg>JSON</seg>
       </tuv>
     </tu>
     <tu>
@@ -30761,6 +30801,14 @@ Pagina scapa</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T141156Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T141156Z">
         <seg>Ozzioni di u filtru XLIFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T112458Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T112458Z">
+        <seg>XML</seg>
       </tuv>
     </tu>
     <tu>
