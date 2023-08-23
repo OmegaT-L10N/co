@@ -20020,6 +20020,14 @@ in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check a file: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T111647Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T111647Z">
+        <seg>Ci vole à verificà un schedariu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please check a link: {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T111453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T111453Z">
@@ -24030,6 +24038,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T164232Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T164232Z">
         <seg>Ignurà u testu chì currisponde à una espressione regulare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped some source file(s) because of access permission error in the source folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T111904Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T111904Z">
+        <seg>Qualchì schedariu d’origine hè statu ignuratu per via d’un sbagliu di per</seg>
       </tuv>
     </tu>
     <tu>
