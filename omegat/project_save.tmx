@@ -28886,6 +28886,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to get exclusive lock for autosave.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T130018Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T130018Z">
+        <seg>Impussibule d’ottene u marchjone esclusivu per l’arregistramentu autumaticu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to get result</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111144Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111144Z">
