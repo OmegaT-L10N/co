@@ -29,27 +29,21 @@
 	  fastest possible by giving you access to your translation ressources in
 	  the most reliable way possible.</para>
 
-	  <para>OmegaT is distributed under the terms of the <emphasis>GNU General
-	  Public License, version 3.0</emphasis>. The license grants you the
-	  following freedoms:
-	  
-	  <itemizedlist id="freedoms.list">
+	  <para>OmegaT is distributed under the terms of the <emphasis>GNU General Public License, version 3.0</emphasis>. A licenza vi cuncede quelle libertà :<itemizedlist id="freedoms.list">
 		<listitem>
-		  <para>The freedom to run OmegaT as you wish, for any purpose.</para>
+		  <para>A libertà di lancià OmegaT cum’ella vi pare, per tutti i vostri bisogni.</para>
 		</listitem>
 
 		<listitem>
-		  <para>The freedom to study how OmegaT works, and change it so it does
-		  your computing as you wish.</para>
+		  <para>A libertà di studià cumu funziuneghja OmegaT è di mudificallu cum’ella vi pare.</para>
 		</listitem>
 
 		<listitem>
-		  <para>The freedom to redistribute copies so you can help others.</para>
+		  <para>A libertà di ridistribuisce copie per aiutà d’altre persone.</para>
 		</listitem>
 
 		<listitem>
-		  <para>The freedom to distribute copies of your modified versions to
-		  others.</para>
+		  <para>A libertà di distribuisce e copie di e vostre versioni mudificate à d’altre persone.</para>
 		</listitem>
 	  </itemizedlist>
 	  </para>

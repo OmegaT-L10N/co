@@ -47,7 +47,7 @@
 		</itemizedlist>
 
         <para>Allows you to activate or deactivate fuzzy matching for glossary
-        maches.</para>
+        matches.</para>
 
 		<para>Lighjite e preferenze di <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per sapene di più.</para>
       </listitem>
@@ -63,7 +63,7 @@
 		</itemizedlist>
 
         <para>Allows you to activate or deactivate fuzzy matching for dictionary
-        maches.</para>
+        matches.</para>
 
 		<para>Lighjite e preferenze di <link linkend="dialogs.preferences.dictionary" endterm="dialogs.preferences.dictionary.title"/> per sapene di più.</para>
       </listitem>
