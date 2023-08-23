@@ -11109,6 +11109,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to decrypt for SSH key {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T130507Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T130507Z">
+        <seg>Fiascu per dicifrà a chjave SSH {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to download Mediawiki page</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160133Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160133Z">
@@ -13938,6 +13946,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T160859Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T160859Z">
         <seg>A parolla d’intesa hè falsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Incorrect password for {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T130410Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T130410Z">
+        <seg>Parolla d’intesa incurretta per {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24926,6 +24942,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       </tuv>
       <tuv lang="co">
         <seg>Statistiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Statistics Output Formats</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T130542Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T130542Z">
+        <seg>Furmati d’esciuta di e statistichi</seg>
       </tuv>
     </tu>
     <tu>
