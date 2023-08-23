@@ -20020,6 +20020,14 @@ in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check a link: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T111453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T111453Z">
+        <seg>Ci vole à verificà un liame : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please check you have permissions, or you can access files if there are files in cloud storage.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T110034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T110034Z">
