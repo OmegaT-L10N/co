@@ -23978,6 +23978,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Similar versions of '{0}' are present ({1} and {2}), keeping the latter</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T113455Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T113455Z">
+        <seg>E versioni simile ({1} and {2}) di « {0} » sò presente, cunservazione di l’ultima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simple installation and running instructions.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T172415Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T172415Z">
