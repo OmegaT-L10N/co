@@ -11934,6 +11934,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T105939Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T105939Z">
+        <seg>Vai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T184216Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T184216Z">
@@ -20952,6 +20960,14 @@ squadra di tipu 4.x.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T105958Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T105958Z">
+        <seg>Schedarii di u prughjettu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project folder</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210505T182645Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210505T182645Z">
@@ -23478,6 +23494,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181800Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181800Z">
         <seg>Selezziunà a currispundenza n° 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T105931Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T105931Z">
+        <seg>Selezziunà u prughjettu</seg>
       </tuv>
     </tu>
     <tu>
