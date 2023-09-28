@@ -11221,6 +11221,16 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to load translation memory: {0}
+Some attributes have invalid values.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230928T175113Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230928T175113Z">
+        <seg>Impussibule di caricà a memoria di traduzzione : {0}
+Certi attributi anu valori inaccettevule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to update project properties</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200507T191804Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200507T191804Z">
@@ -15805,6 +15815,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T155419Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T155419Z">
         <seg>Caricate un prughjettu per cunfigurà e regule per e lingue di stu prughjettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Load project source files: {0} ms</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230928T175249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230928T175249Z">
+        <seg>Caricà i schedarii d’origine di u prughjettu : {0} ms</seg>
       </tuv>
     </tu>
     <tu>
@@ -29646,6 +29664,14 @@ U valore attuale hè {0} Mo ;
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T163055Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T162758Z">
         <seg>Impiegate Attrezzi &gt; Verificà i penseri… per currege i sbaglii d’etichetta è pruvate torna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a TMX validator to find and fix them.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230928T175205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230928T175205Z">
+        <seg>Impiegate un cunvalidatore TMX per truvalli è curregeli.</seg>
       </tuv>
     </tu>
     <tu>
