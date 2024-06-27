@@ -4083,6 +4083,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Abort restart, because launcher or java executable is not found.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150609Z" creationid="Patrick" creationdate="20240627T150528Z">
+        <seg>Interrompe u rilanciu perchè u lanciadore o u schedariu d’esecuzione java ùn si trova micca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abort...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111654Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111654Z">
@@ -23768,6 +23776,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T140303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T140303Z">
         <seg>Selezziunà un filtru è fà un cliccu nant’à Mudificà… o nant’à Ozzioni… per persunalizallu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a plugin file (*.jar) or a zip archive (*.zip) that contains a plugin jar file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150647Z" creationid="Patrick" creationdate="20240627T150647Z">
+        <seg>Selezziunà un schedariu di modulu d’estensione (*.jar, *.zip)</seg>
       </tuv>
     </tu>
     <tu>
