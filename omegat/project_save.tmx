@@ -4163,6 +4163,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Configuration Folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T191024Z" creationid="Patriccollu" creationdate="20240627T191024Z">
+        <seg>Accede à u cartulare di cunfigurazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Scripts Folder</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T224918Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T162652Z">
@@ -4747,10 +4755,18 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate or deactivate fuzzy matching for dictionary matches.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T190844Z" creationid="Patriccollu" creationdate="20240627T190844Z">
+        <seg>St’ozzione vi permette d’attivà o disattivà a currispundenza simile oer e currispundenze di dizziunariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows you to activate or deactivate fuzzy matching for glossary matches.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T190741Z" creationid="Patriccollu" creationdate="20240627T190741Z">
-        <seg>St’ozzione vi permette d’attivà o disattivà </seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T190814Z" creationid="Patriccollu" creationdate="20240627T190741Z">
+        <seg>St’ozzione vi permette d’attivà o disattivà a currispundenza simile oer e currispundenze di glossariu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10007,6 +10023,14 @@ project_save.tmx ùn hè micca statu inviatu nant’à u servitore è u statu di
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Editor...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T190953Z" creationid="Patriccollu" creationdate="20240627T190953Z">
+        <seg>Editore…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EditorShortcuts.properties</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T233033Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T233033Z">
@@ -12362,6 +12386,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global File Filters...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T190904Z" creationid="Patriccollu" creationdate="20240627T190904Z">
+        <seg>Filtri glubali di schedariu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global Post-processing Commands</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134358Z">
@@ -12374,6 +12406,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T145822Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T145822Z">
         <seg>Regule glubale di segmentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Global Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T190945Z" creationid="Patriccollu" creationdate="20240627T190945Z">
+        <seg>Regule glubale di segmentazione…</seg>
       </tuv>
     </tu>
     <tu>
@@ -19910,6 +19950,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20240627T184422Z" creationid="Patriccollu" creationdate="20240627T184422Z">
         <seg>Apre u &lt;l0/&gt; dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; preferences.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T190930Z" creationid="Patriccollu" creationdate="20240627T190915Z">
+        <seg>Apre e &lt;l0/&gt; preferenze.</seg>
       </tuv>
     </tu>
     <tu>
