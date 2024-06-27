@@ -14194,6 +14194,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized LanguageTool Hunspell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T154943Z" creationid="Patriccollu" creationdate="20240627T154204Z">
+        <seg>U cuntrullore d’ortugrafia LanguageTool Hunspell hè statu iniziatu per a lingua « {0} » dizziunariu {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialized en-ja team project.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190721T173920Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190721T173920Z">
