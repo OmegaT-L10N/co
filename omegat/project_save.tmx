@@ -4189,8 +4189,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T223913Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153940Z">
-        <seg>Azzioni è preferenze</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T181150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153940Z">
+        <seg>Azzioni è parametri</seg>
       </tuv>
     </tu>
     <tu>
@@ -23196,8 +23196,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Save changes to filter settings?</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180440Z">
-        <seg>Arregistrà i cambiamenti di preferenze di filtru ?</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T181312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T180440Z">
+        <seg>Arregistrà i cambiamenti di i parametri di filtru ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24312,8 +24312,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Settings for tags originating from non-OmegaT TMX files:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T175540Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T161741Z">
-        <seg>Parametri per l’etichette venute da schedarii TMX micca creati da OmegaT :</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T181134Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T161741Z">
+        <seg>Parametri per l’etichette ghjunghjendu da schedarii TMX micca creati da OmegaT :</seg>
       </tuv>
     </tu>
     <tu>
@@ -28357,9 +28357,9 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
         <seg>This will reset all
 settings to their defaults.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112418Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T112418Z">
-        <seg>St’azzione hà da reinizià tutte e
-preferenze à e so predefinizioni.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T181223Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221215T112418Z">
+        <seg>St’azzione hà da reinizià tutti i
+parametri à e so predefinizioni.</seg>
       </tuv>
     </tu>
     <tu>
