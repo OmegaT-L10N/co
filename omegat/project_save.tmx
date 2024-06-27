@@ -8557,8 +8557,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Detect a wrong character encoding or wrong character in specified encoding when output to translation file.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patrick" changedate="20240627T150057Z" creationid="Patrick" creationdate="20240627T150057Z">
-        <seg>Scuperta d’una cudificazione gattiva di caratteru o d’un caratteru falsu in a cudificazione specificata</seg>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150211Z" creationid="Patrick" creationdate="20240627T150057Z">
+        <seg>Scuperta d’una cudificazione gattiva di caratteru o d’un caratteru falsu in a cudificazione specificata à l’esciuta versu u schedariu di traduzzione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20222,6 +20222,14 @@ in ./tm, ./glossary è ./dictionary secondu à i vostri bisogni,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please check your project configuration and translations.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150302Z" creationid="Patrick" creationdate="20240627T150302Z">
+        <seg>Ci vole à cuntrollà a vostra cunfigurazione di prughjettu è e traduzzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please check your repository has correct commits and files.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T163011Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T163011Z">
@@ -24456,6 +24464,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175218Z">
         <seg>Classificà da u testu &amp;sanu, micca da l’accurtatoghju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by Source Term Length</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150403Z" creationid="Patrick" creationdate="20240627T150403Z">
+        <seg>Classificà da a dimensione di u termine d’origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -30064,6 +30080,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181322Z">
         <seg>Nome d’utilizatore o chjave d’API :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150320Z" creationid="Patrick" creationdate="20240627T150320Z">
+        <seg>Nome d’utilizatore :</seg>
       </tuv>
     </tu>
     <tu>
