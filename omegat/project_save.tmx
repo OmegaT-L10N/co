@@ -6075,6 +6075,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't read spelling dictionary: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155354Z" creationid="Patriccollu" creationdate="20240627T155354Z">
+        <seg>Ùn si pò micca leghje u dizziunariu ortugraficu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cancel</seg>
       </tuv>
       <tuv lang="co">
@@ -25156,6 +25164,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T180546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T180546Z">
         <seg>Dizziunarii d’ortugrafia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary appears to be empty: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155545Z" creationid="Patriccollu" creationdate="20240627T155545Z">
+        <seg>U dizziunariu ortugraficu pare viotu : {0}</seg>
       </tuv>
     </tu>
     <tu>
