@@ -103,7 +103,7 @@
         <para>If checked, segments that have been auto-populated are
         highlighted in various colours.</para>
 
-		<para>Lighjite e preferenze di <link linkend="dialogs.preferences.editor.save.auto-populated.status" endterm="dialogs.preferences.editor.save.auto-populated.status.title"/> per sapene di più.</para>
+		<para>Lighjite i parametri di <link linkend="dialogs.preferences.editor.save.auto-populated.status" endterm="dialogs.preferences.editor.save.auto-populated.status.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
@@ -122,7 +122,7 @@
       <term id="menus.view.mark.language.checker.title"><guimenuitem>Mark
       Language Checker Issues</guimenuitem></term>
       <listitem>
-        <para>Underlines parts of the target where LanguageTool has found errors. Lighjite e preferenze di <link linkend="dialog.preferences.languagetool.plugin" endterm="dialog.preferences.languagetool.plugin.title"/> per sapene di più.</para>
+        <para>Underlines parts of the target where LanguageTool has found errors. Lighjite i parametri di <link linkend="dialog.preferences.languagetool.plugin" endterm="dialog.preferences.languagetool.plugin.title"/> per sapene di più.</para>
 	  </listitem>
     </varlistentry>
 	
@@ -153,7 +153,7 @@
 		and it can be set to <guimenuitem>All segments</guimenuitem> or to
 		<guimenuitem>None</guimenuitem>.</para>
 
-		<para>You can modify the displayed information. Lighjite e preferenze di <link linkend="dialog.preferences.view.use.custom.templates.for.modification.info" endterm="dialog.preferences.view.use.custom.templates.for.modification.info.title"/> per sapene di più.</para>
+		<para>You can modify the displayed information. Lighjite i parametri di <link linkend="dialog.preferences.view.use.custom.templates.for.modification.info" endterm="dialog.preferences.view.use.custom.templates.for.modification.info.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 	

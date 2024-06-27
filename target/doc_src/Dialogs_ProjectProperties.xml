@@ -219,7 +219,7 @@
 			<para>For security reasons, local post-processing commands are
 			disabled by default.</para>
 
-			<para>Lighjite e preferenze di <link linkend="dialogs.preferences.saving.and.output.also.allow.per.project.external.commands" endterm="dialogs.preferences.saving.and.output.also.allow.per.project.external.commands.title"/> per sapene di più.</para>
+			<para>Lighjite i parametri di <link linkend="dialogs.preferences.saving.and.output.also.allow.per.project.external.commands" endterm="dialogs.preferences.saving.and.output.also.allow.per.project.external.commands.title"/> per sapene di più.</para>
 		  </warning>
 
 		  <para>OmegaT can automatically run commands after the target files
@@ -307,7 +307,7 @@
 		  <para>To delete project specific external searches, click on the
 		  <guibutton>Remove</guibutton> button or remove that file.</para>
 		  
-		  <para>Lighjite e preferenze di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
+		  <para>Lighjite i parametri di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
 
 		  <note>
 			<para>For security purposes, local project-based external searches

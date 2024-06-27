@@ -8,7 +8,7 @@
   
   <variablelist>
     <varlistentry id="menus.options.preferences">
-      <term id="menus.options.preferences.title"><guimenuitem>Preferenze…</guimenuitem></term>
+      <term id="menus.options.preferences.title"><guimenuitem>Parametri…</guimenuitem></term>
       <listitem>
         <para>Opens the <link linkend="chapter.dialogs.preferences" endterm="chapter.dialogs.preferences.title"/> dialog.</para>
 
@@ -49,7 +49,7 @@
         <para>Allows you to activate or deactivate fuzzy matching for glossary
         matches.</para>
 
-		<para>Lighjite e preferenze di <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per sapene di più.</para>
+		<para>Lighjite i parametri di <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
@@ -65,14 +65,14 @@
         <para>Allows you to activate or deactivate fuzzy matching for dictionary
         matches.</para>
 
-		<para>Lighjite e preferenze di <link linkend="dialogs.preferences.dictionary" endterm="dialogs.preferences.dictionary.title"/> per sapene di più.</para>
+		<para>Lighjite i parametri di <link linkend="dialogs.preferences.dictionary" endterm="dialogs.preferences.dictionary.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry id="menus.options.autocompletion">
       <term id="menus.options.autocompletion.title"><guisubmenu>Empiimentu autumaticu </guisubmenu></term>
       <listitem>
-		<para>Select the various options to activate or deactivate them. Lighjite e preferenze di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
+		<para>Select the various options to activate or deactivate them. Lighjite i parametri di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
 	  </listitem>
     </varlistentry>
 

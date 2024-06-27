@@ -754,7 +754,7 @@ Dossier de configuration
       </listitem>
     </itemizedlist>
   
-    <para>You can change how matches are displayed or sorted. Lighjite e preferenze di <link endterm="dialog.preferences.tm.matches.title" linkend="dialog.preferences.tm.matches"/> per sapene di più.</para>
+    <para>You can change how matches are displayed or sorted. Lighjite i parametri di <link endterm="dialog.preferences.tm.matches.title" linkend="dialog.preferences.tm.matches"/> per sapene di più.</para>
 
     <para>Use <link linkend="menus.edit" endterm="menus.edit.title"/><link endterm="menus.edit.replace.with.match.or.selection.title" linkend="menus.edit.replace.with.match.or.selection"/> to replace the
     translation field with the match, or <link linkend="menus.edit" endterm="menus.edit.title"/><link endterm="menus.edit.insert.match.or.selection.title" linkend="menus.edit.insert.match.or.selection"/> to insert it at the cursor
@@ -805,7 +805,7 @@ Folder = <token>Dossier</token></programlisting>
 	glossaries. Select one to insert it at the current
 	cursor position in the segment.</para>
 
-    <para>You can use the glossary preferences to fine-tune how the glossaries are displayed. Lighjite e preferenze di <link endterm="dialogs.preferences.glossary.title" linkend="dialogs.preferences.glossary"/> per sapene di più.</para>
+    <para>You can use the glossary preferences to fine-tune how the glossaries are displayed. Lighjite i parametri di <link endterm="dialogs.preferences.glossary.title" linkend="dialogs.preferences.glossary"/> per sapene di più.</para>
 
     <para>Modifications to any glossary file in the glossary folder are
     immediately recognized by OmegaT and displayed in the glossaries pane.</para>
@@ -862,7 +862,7 @@ Folder = <token>Dossier</token></programlisting>
     service response</literal> suggests that there may be a communication
     problem between your system and the provider's server.</para>
 
-	<para>Lighjite e preferenze di <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> per sapene di più.</para>
+	<para>Lighjite i parametri di <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> per sapene di più.</para>
   </section>
 
   <section id="panes.multipletranslations">

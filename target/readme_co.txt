@@ -66,7 +66,7 @@ S’è, durante l’installazione, avete creatu un accurtatoghju nant’à u sca
 
 U prugramma d’installazione pò creà accurtatoghji per voi in u listinu « démarrer », nant’à u scagnu o in a barra di lanciu rapidu. Pudete dinù fà sguillà manualmente u schedariu OmegaT.exe in u listinu « démarrer », nant’à u scagnu o in a barra di lanciu rapidu per creacci l’accurtatoghji.
 
-S’ellu vi hè pussibule di fighjà u schedariu OmegaT ma micca OmegaT.exe in u vostru ghjestiunariu di schedariu (Espluratore WIndows), mudificate e preferenze per chì l’estensioni sianu affissate.
+S’ellu vi hè pussibule di fighjà u schedariu OmegaT ma micca OmegaT.exe in u vostru ghjestiunariu di schedariu (Espluratore WIndows), mudificate i parametri per chì l’estensioni sianu affissate.
 
 
 

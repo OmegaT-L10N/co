@@ -5,7 +5,7 @@
 %manualvariables;
 ]>
 <chapter id="chapter.dialogs.preferences">
-  <title id="chapter.dialogs.preferences.title"><guilabel>Preferenze</guilabel></title>
+  <title id="chapter.dialogs.preferences.title"><guilabel>Parametri</guilabel></title>
 
   <para>Use <link endterm="menus.options.title" linkend="menus.options"/><link endterm="menus.options.preferences.title" linkend="menus.options.preferences"/> to access this dialog (the
   <literal>OmegaT</literal> menu on macOS).</para>

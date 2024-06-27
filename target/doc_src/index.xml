@@ -889,7 +889,7 @@
 
 	  <para>File filters have a list of file extensions that are associated to them. If the format you want to translate is structurally close to an already supported format, just add its file extension to the supported format extension list, or change the file extension to one that is accepted by the file filter that you want to use. Lighjite u capitulu <link linkend="file.filters" endterm="file.filters.title"/> per sapene di più.</para>
 		
-	  <para>You can also use OmegaT's custom tag function to register format specific strings and have OmegaT handle them as if they were normal tags. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags" endterm="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags.title"/> per sapene di più.</para>
+	  <para>You can also use OmegaT's custom tag function to register format specific strings and have OmegaT handle them as if they were normal tags. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags" endterm="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags.title"/> per sapene di più.</para>
 	</section>
 	
 	<section>
@@ -1392,7 +1392,7 @@ arbitrary language code, and the 4th the current translation to French.</para>
   <section id="update.and.delete.omegat">
 	<title id="update.and.delete.omegat.title">Rinnovà</title>
 
-	<para>OmegaT can tell you when a new version is available. Lighjite e preferenze di <link endterm="dialogs.preferences.updates.title" linkend="dialogs.preferences.updates"/> per sapene di più.</para>
+	<para>OmegaT can tell you when a new version is available. Lighjite i parametri di <link endterm="dialogs.preferences.updates.title" linkend="dialogs.preferences.updates"/> per sapene di più.</para>
 
 	<para>The changes between your version and the current version are
 	documented in the development site’s <ulink url="https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt">changes.txt</ulink>
@@ -1436,7 +1436,7 @@ arbitrary language code, and the 4th the current translation to French.</para>
 		<term id="update.and.delete.omegat.over.existing.package.title">Sopra una versione esistente</term>
 
 		<listitem>
-		  <para>Per fà què, selezziunate semplicemente u cartulare d’installazione attuale cum’è cartulare d’installazione di a versione nova. A versione « anziana » d’OmegaT serà rimpiazzata, ma e preferenze fatte da l’interfaccia OmegaT seranu cunservate in i cartulari di cunfigurazione (lighjite insù).</para>
+		  <para>Per fà què, selezziunate semplicemente u cartulare d’installazione attuale cum’è cartulare d’installazione di a versione nova. A versione « anziana » d’OmegaT serà rimpiazzata, ma i parametri scelti da l’interfaccia OmegaT seranu cunservati in i cartulari di cunfigurazione (lighjite insù).</para>
 		</listitem>
 	  </varlistentry>
 	  
@@ -3427,7 +3427,7 @@ Dossier de configuration
       </listitem>
     </itemizedlist>
   
-    <para>You can change how matches are displayed or sorted. Lighjite e preferenze di <link endterm="dialog.preferences.tm.matches.title" linkend="dialog.preferences.tm.matches"/> per sapene di più.</para>
+    <para>You can change how matches are displayed or sorted. Lighjite i parametri di <link endterm="dialog.preferences.tm.matches.title" linkend="dialog.preferences.tm.matches"/> per sapene di più.</para>
 
     <para>Use <link linkend="menus.edit" endterm="menus.edit.title"/><link endterm="menus.edit.replace.with.match.or.selection.title" linkend="menus.edit.replace.with.match.or.selection"/> to replace the
     translation field with the match, or <link linkend="menus.edit" endterm="menus.edit.title"/><link endterm="menus.edit.insert.match.or.selection.title" linkend="menus.edit.insert.match.or.selection"/> to insert it at the cursor
@@ -3478,7 +3478,7 @@ Folder = <token>Dossier</token></programlisting>
 	glossaries. Selecting one will insert it in the segment at the current
 	cursor position.</para>
 
-    <para>You can use the glossary preferences to fine-tune how the glossaries are displayed. Lighjite e preferenze di <link endterm="dialogs.preferences.glossary.title" linkend="dialogs.preferences.glossary"/> per sapene di più.</para>
+    <para>You can use the glossary preferences to fine-tune how the glossaries are displayed. Lighjite i parametri di <link endterm="dialogs.preferences.glossary.title" linkend="dialogs.preferences.glossary"/> per sapene di più.</para>
 
     <para>Modifications to any glossary file in the glossary folder are
     immediately recognized by OmegaT and displayed in the glossary pane.</para>
@@ -3536,7 +3536,7 @@ Folder = <token>Dossier</token></programlisting>
     service response</literal> suggests that there may be a communication
     problem between your system and the provider's server.</para>
 
-	<para>Lighjite e preferenze di <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> per sapene di più.</para>
+	<para>Lighjite i parametri di <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> per sapene di più.</para>
   </section>
 
   <section id="panes.multipletranslations">
@@ -3895,7 +3895,7 @@ Folder = <token>Dossier</token></programlisting>
 	  <keycombo><keycap>C</keycap><keycap>S</keycap></keycombo></term>
       <listitem>
         <para>Saves the project translation memory (<link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>).</para>
-		<para>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT. Lighjite e preferenze di <link linkend="dialog.preferences.saving.and.output.interval" endterm="dialog.preferences.saving.and.output.interval.title"/> per sapene di più.</para>
+		<para>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT. Lighjite i parametri di <link linkend="dialog.preferences.saving.and.output.interval" endterm="dialog.preferences.saving.and.output.interval.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
@@ -3948,7 +3948,7 @@ Folder = <token>Dossier</token></programlisting>
       <listitem>
         <para>Creates the target files based on your translation. The created
         target files are located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/> folder.</para>
-		<note><para>You can block target file creation if tag issues are found. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues" endterm="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues.title"/> per sapene di più.</para></note>
+		<note><para>You can block target file creation if tag issues are found. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues" endterm="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues.title"/> per sapene di più.</para></note>
       </listitem>
     </varlistentry>
 
@@ -4805,7 +4805,7 @@ Folder = <token>Dossier</token></programlisting>
         <para>If checked, segments that have been auto-populated are marked in
         various colors.</para>
 
-		<para>Lighjite e preferenze di <link linkend="dialogs.preferences.editor.save.auto-populated.status" endterm="dialogs.preferences.editor.save.auto-populated.status.title"/> per sapene di più.</para>
+		<para>Lighjite i parametri di <link linkend="dialogs.preferences.editor.save.auto-populated.status" endterm="dialogs.preferences.editor.save.auto-populated.status.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
@@ -4823,7 +4823,7 @@ Folder = <token>Dossier</token></programlisting>
     <varlistentry id="menus.view.mark.language.checker">
       <term id="menus.view.mark.language.checker.title"><guimenuitem>Cuntrullore linguisticu</guimenuitem></term>
       <listitem>
-        <para>Underlines parts of the target where LanguageTool has found errors. Lighjite e preferenze di <link linkend="dialog.preferences.languagetool.plugin" endterm="dialog.preferences.languagetool.plugin.title"/> per sapene di più.</para>
+        <para>Underlines parts of the target where LanguageTool has found errors. Lighjite i parametri di <link linkend="dialog.preferences.languagetool.plugin" endterm="dialog.preferences.languagetool.plugin.title"/> per sapene di più.</para>
 	  </listitem>
     </varlistentry>
 	
@@ -4854,7 +4854,7 @@ Folder = <token>Dossier</token></programlisting>
 		and it can be set to <guimenuitem>All segments</guimenuitem> or to
 		<guimenuitem>None</guimenuitem>.</para>
 
-		<para>You can modify the displayed information. Lighjite e preferenze di <link linkend="dialog.preferences.view.use.custom.templates.for.modification.info" endterm="dialog.preferences.view.use.custom.templates.for.modification.info.title"/> per sapene di più.</para>
+		<para>You can modify the displayed information. Lighjite i parametri di <link linkend="dialog.preferences.view.use.custom.templates.for.modification.info" endterm="dialog.preferences.view.use.custom.templates.for.modification.info.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 	
@@ -5009,7 +5009,7 @@ Folder = <token>Dossier</token></programlisting>
 			</listitem>
 
 			<listitem>
-			  <para>Custom tags and flagged text: as for OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.count.protected.text.and.custom.tags.in.statistics" endterm="dialogs.preferences.tag.processing.count.protected.text.and.custom.tags.in.statistics.title"/> per sapene di più.</para>
+			  <para>Custom tags and flagged text: as for OmegaT tags, they are not counted by default in the statistics, but you can have OmegaT count them as words. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.count.protected.text.and.custom.tags.in.statistics" endterm="dialogs.preferences.tag.processing.count.protected.text.and.custom.tags.in.statistics.title"/> per sapene di più.</para>
 			</listitem>
 		  </itemizedlist>
 		</note>
@@ -5105,7 +5105,7 @@ Folder = <token>Dossier</token></programlisting>
   
   <variablelist>
     <varlistentry id="menus.options.preferences">
-      <term id="menus.options.preferences.title"><guimenuitem>Preferenze…</guimenuitem></term>
+      <term id="menus.options.preferences.title"><guimenuitem>Parametri…</guimenuitem></term>
       <listitem>
         <para>Opens the <link linkend="chapter.dialogs.preferences" endterm="chapter.dialogs.preferences.title"/> dialog.</para>
 
@@ -5146,7 +5146,7 @@ Folder = <token>Dossier</token></programlisting>
         <para>Allows you to activate/deactivate fuzzy matching for glossary
         maches.</para>
 
-		<para>Lighjite e preferenze di <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per sapene di più.</para>
+		<para>Lighjite i parametri di <link linkend="dialogs.preferences.glossary" endterm="dialogs.preferences.glossary.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
@@ -5162,14 +5162,14 @@ Folder = <token>Dossier</token></programlisting>
         <para>Allows you to activate/deactivate fuzzy matching for dictionary
         maches.</para>
 
-		<para>Lighjite e preferenze di <link linkend="dialogs.preferences.dictionary" endterm="dialogs.preferences.dictionary.title"/> per sapene di più.</para>
+		<para>Lighjite i parametri di <link linkend="dialogs.preferences.dictionary" endterm="dialogs.preferences.dictionary.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
     <varlistentry id="menus.options.autocompletion">
       <term id="menus.options.autocompletion.title"><guisubmenu>Empiimentu autumaticu </guisubmenu></term>
       <listitem>
-		<para>Select the various options to activate/deactivate them. Lighjite e preferenze di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
+		<para>Select the various options to activate/deactivate them. Lighjite i parametri di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
 	  </listitem>
     </varlistentry>
 
@@ -5470,7 +5470,7 @@ Folder = <token>Dossier</token></programlisting>
 			<para>For security reasons, local post-processing commands are
 			disabled by default.</para>
 
-			<para>Lighjite e preferenze di <link linkend="dialogs.preferences.saving.and.output.also.allow.per.project.external.commands" endterm="dialogs.preferences.saving.and.output.also.allow.per.project.external.commands.title"/> per sapene di più.</para>
+			<para>Lighjite i parametri di <link linkend="dialogs.preferences.saving.and.output.also.allow.per.project.external.commands" endterm="dialogs.preferences.saving.and.output.also.allow.per.project.external.commands.title"/> per sapene di più.</para>
 		  </warning>
 
 		  <para>OmegaT can automatically run commands after the target files
@@ -5558,7 +5558,7 @@ Folder = <token>Dossier</token></programlisting>
 		  <para>To delete project specific external searches, click on
 		  <guibutton>Remove</guibutton> or remove that file.</para>
 		  
-		  <para>Lighjite e preferenze di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
+		  <para>Lighjite i parametri di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
 
 		  <note>
 			<para>For security purposes, local project-based external searches
@@ -6819,7 +6819,7 @@ Folder = <token>Dossier</token></programlisting>
       <varlistentry>
         <term>Filtri…</term>
         <listitem>
-          <para>Clicking this button lets you edit the file filters that apply to this project. Lighjite e preferenze di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
+          <para>Clicking this button lets you edit the file filters that apply to this project. Lighjite i parametri di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
 
           <warning>
             <para>If you modify the file filters, you will be asked if you want
@@ -8132,7 +8132,7 @@ for (i in 0 ..&lt; files.size())
 </chapter>
 
   <chapter id="chapter.dialogs.preferences">
-  <title id="chapter.dialogs.preferences.title"><guilabel>Preferenze</guilabel></title>
+  <title id="chapter.dialogs.preferences.title"><guilabel>Parametri</guilabel></title>
 
   <para>Use <link endterm="menus.options.title" linkend="menus.options"/><link endterm="menus.options.preferences.title" linkend="menus.options.preferences"/> to access this dialog (the
   <literal>OmegaT</literal> menu on macOS).</para>
@@ -10317,7 +10317,7 @@ ${filePath}&gt;</programlisting></para>
 	  <varlistentry id="file.filters.po">
 		<term id="file.filters.po.title">PO files</term>
 		<listitem>
-			<para>The filter checks printf variables ('%s', etc.) by default. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.programming.variables" endterm="dialogs.preferences.tag.processing.programming.variables.title"/> per sapene di più.</para>
+			<para>The filter checks printf variables ('%s', etc.) by default. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.programming.variables" endterm="dialogs.preferences.tag.processing.programming.variables.title"/> per sapene di più.</para>
 
 			<variablelist>
 			  <varlistentry>
@@ -10402,7 +10402,7 @@ ${filePath}&gt;</programlisting></para>
 	  <varlistentry id="file.filter.java.bundle">
 		<term id="file.filter.java.bundle.title">Java Resource bundle</term>
 		<listitem>
-			<para>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.programming.variables" endterm="dialogs.preferences.tag.processing.programming.variables.title"/> per sapene di più.</para>
+			<para>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.programming.variables" endterm="dialogs.preferences.tag.processing.programming.variables.title"/> per sapene di più.</para>
 
 			<variablelist>
 			  <varlistentry>
@@ -10703,7 +10703,7 @@ ${filePath}&gt;</programlisting></para>
     <varlistentry>
       <term>Custom tags</term>
       <listitem>
-        <para>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags" endterm="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags.title"/> per sapene di più.</para>
+        <para>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags" endterm="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags.title"/> per sapene di più.</para>
 
 		<para>Use the <code>|</code> (OR) character to separate individual
         tag definitions.</para>
@@ -13595,7 +13595,7 @@ ${filePath}&gt;</programlisting></para>
 
           <tbody>
             <row>
-              <entry>Preferenze</entry>
+              <entry>Parametri</entry>
               <entry>optionsPreferencesMenuItem</entry>
             </row>
 
@@ -14036,7 +14036,7 @@ ${filePath}&gt;</programlisting></para>
 
   <section id="configuration.folder">
   <title id="configuration.folder.title">Cartulare di cunfigurazione</title>
-  <para>U cartulare di cunfigurazione cuntene a maiò parte di l’ozzioni è di e preferenze d’OmegaT per l’utilizatore.</para>
+  <para>U cartulare di cunfigurazione cuntene a maiò parte di l’ozzioni è di i parametri d’OmegaT per l’utilizatore.</para>
   
   <para>Impiegate <link linkend="menus.options" endterm="menus.options.title"/><link linkend="menus.options.access.configuration.folder" endterm="menus.options.access.configuration.folder.title"/> per accedeci direttamente.</para>
 
@@ -14063,7 +14063,7 @@ ${filePath}&gt;</programlisting></para>
 		<listitem>
 		  <para>Stu schedariu cuntene assai preferenze impurtante di l’utilizatore.</para>
 
-		  <para>Certe preferenze ùn anu micca equivalenza in l’interfaccia di l’utilizatore. Devenu esse mudificate manualmente.</para>
+		  <para>Certi parametri ùn anu micca equivalenza in l’interfaccia di l’utilizatore. Devenu esse mudificate manualmente.</para>
 		  
 		  <example id="no.source.file.display">
 			<title id="no.source.file.display.title">Ùn affissà micca autumaticamente a lista di i schedarii d’origine</title>
@@ -14151,21 +14151,21 @@ ${filePath}&gt;</programlisting></para>
 	  <varlistentry id="configuration.folder.extra.contents.filters">
 		<term id="configuration.folder.extra.contents.filters.title">filters.xml</term>
 		<listitem>
-		  <para>Stu schedariu di parametri cuntene i filtri persunalizati di schedariu. Lighjite e preferenze di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
+		  <para>Stu schedariu di parametri cuntene i filtri persunalizati di schedariu. Lighjite i parametri di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
 		</listitem>
 	  </varlistentry>
 
 	  <varlistentry id="configuration.folder.extra.contents.finder">
 		<term id="configuration.folder.extra.contents.finder.title">finder.xml</term>
 		<listitem>
-		  <para>Stu schedariu di parametri cuntene i parametri persunalizati di ricerca esterna. Lighjite e preferenze di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
+		  <para>Stu schedariu di parametri cuntene i parametri persunalizati di ricerca esterna. Lighjite i parametri di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
 		</listitem>
 	</varlistentry>
 	
 	<varlistentry id="configuration.folder.extra.contents.omegat.autotext">
 	  <term id="configuration.folder.extra.contents.omegat.autotext.title">omegat.autotext</term>
 	  <listitem>
-		<para>Stu schedariu di parametri cuntene i parametri persunalizati di testu autumaticu. Lighjite e preferenze di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
+		<para>Stu schedariu di parametri cuntene i parametri persunalizati di testu autumaticu. Lighjite i parametri di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 
@@ -14179,21 +14179,21 @@ ${filePath}&gt;</programlisting></para>
 	<varlistentry id="configuration.folder.extra.contents.segmentation">
 	  <term id="configuration.folder.extra.contents.segmentation.title">segmentation.conf</term>
 	  <listitem>
-		<para>Stu schedariu di parametri cuntene i parametri persunalizati di segmentazione. Lighjite e preferenze di <link linkend="dialogs.preferences.segmentation.setup" endterm="dialogs.preferences.segmentation.setup.title"/> per sapene di più.</para>
+		<para>Stu schedariu di parametri cuntene i parametri persunalizati di segmentazione. Lighjite i parametri di <link linkend="dialogs.preferences.segmentation.setup" endterm="dialogs.preferences.segmentation.setup.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 	
 	<varlistentry id="configuration.folder.extra.contents.plugin">
 	  <term id="configuration.folder.extra.contents.plugin.title">plugins/</term>
 	  <listitem>
-		<para>Stu cartulare furnisce un locu alternativu per i moduli d’estensione d’OmegaT installati manualmente. Lighjite e preferenze di <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> per sapene di più.</para>
+		<para>Stu cartulare furnisce un locu alternativu per i moduli d’estensione d’OmegaT installati manualmente. Lighjite i parametri di <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 
 	<varlistentry id="configuration.folder.extra.contents.spelling">
 	  <term id="configuration.folder.extra.contents.spelling.title">spelling/</term>
 	  <listitem>
-		<para>Stu cartulare cuntene i vostri dizziunarii d’ortugrafia. Lighjite e preferenze di <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per sapene di più.</para>
+		<para>Stu cartulare cuntene i vostri dizziunarii d’ortugrafia. Lighjite i parametri di <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 	</variablelist>
@@ -14343,7 +14343,7 @@ ${filePath}&gt;</programlisting></para>
 	<varlistentry id="application.folder.plugins">
 	  <term id="application.folder.plugins.title">plugins/</term>
 	  <listitem>
-		<para>U cartulare induve si pò installà i moduli d’estensione esterni. Lighjite e preferenze di <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> per sapene di più.</para>
+		<para>U cartulare induve si pò installà i moduli d’estensione esterni. Lighjite i parametri di <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 
