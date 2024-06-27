@@ -15933,16 +15933,16 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Local File &amp;Filters...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T155823Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155823Z">
-        <seg>&amp;Filtri di schedariu lucali…</seg>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T143241Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T155823Z">
+        <seg>&amp;Filtri lucali di schedariu…</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Local File Filters</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T140009Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T140009Z">
-        <seg>Filtri di schedariu lucali</seg>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T143252Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T140009Z">
+        <seg>Filtri lucali di schedariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -22098,8 +22098,8 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Replace matches when inserting source text</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T142202Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T142202Z">
-        <seg>Rimpiazzà e currispundenze à l’inserzione di u &amp;testu d'origine</seg>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T143106Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T142202Z">
+        <seg>Rimpiazzà e currispundenze à l’inserzione di u &amp;testu d’origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -29782,8 +29782,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Use local file fil&amp;ter settings</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182357Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182357Z">
-        <seg>&amp;Impiegà e preferenze di i filtri di schedariu lucali</seg>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T143327Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182357Z">
+        <seg>&amp;Impiegà i parametri di i filtri lucali di schedariu</seg>
       </tuv>
     </tu>
     <tu>
