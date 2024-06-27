@@ -13072,8 +13072,8 @@ Simu d’inguernu</seg>
       <tuv lang="en">
         <seg>Hit &lt;k0&gt;F1&lt;/k0&gt; or access the &lt;g1&gt;&gt; Help&lt;/g1&gt; menu to open the user manual.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T130329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T130329Z">
-        <seg>Appughjate nant’à u tastu &lt;k0&gt;F1&lt;/k0&gt; o accidite à u listinu d’&lt;g1&gt;&gt; Aiutu&lt;/g1&gt; per apre u manuale di l’utilizatore.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T181921Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T130329Z">
+        <seg>Appughjate nant’à u tastu &lt;k0&gt;F1&lt;/k0&gt; o accidite à u listinu d’&lt;g1&gt;Aiutu&lt;/g1&gt; per apre u manuale di l’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16991,8 +16991,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Matches for that memory will eventually appear in the &lt;g0&gt;Fuzzy Matches&lt;/g0&gt; pane.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T112707Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T112707Z">
-        <seg>E currispundenze per sta memoria seranu affissate in fine di contu nant’à u pannellu &lt;g0&gt;Currispundenze similes&lt;/g0&gt;.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T182010Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T112707Z">
+        <seg>E currispundenze per sta memoria seranu affissate in fine di contu nant’à u pannellu &lt;g0&gt;Currispundenze simile&lt;/g0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28600,8 +28600,8 @@ parametri à e so predefinizioni.</seg>
       <tuv lang="en">
         <seg>To start using OmegaT with minimal settings, do this:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230710T134942Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T134942Z">
-        <seg>Per impiegà OmegaT cù preferenze simplificate, fate cusì :</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T181709Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230710T134942Z">
+        <seg>Per impiegà OmegaT cù parametri simplificati, fate cusì :</seg>
       </tuv>
     </tu>
     <tu>
