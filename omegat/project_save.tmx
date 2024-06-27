@@ -5521,8 +5521,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Backed up preferences to {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T162829Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172112Z">
-        <seg>Preferenze arregistrate in {0}</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T175345Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T172112Z">
+        <seg>Preferenze arregistrati in {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9159,8 +9159,8 @@ Versione nova : {2}</seg>
       <tuv lang="en">
         <seg>Displays the translation of the current segment provided by the machine translation services selected in Preferences &gt; Machine Translation if those services are available.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171340Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T171151Z">
-        <seg>Affisseghja a traduzzione di u segmentu attuale pruvisty da i servizii di traduzzione autumatica, chì voi avete selezziunati in Preferenze &gt; Traduzzione autumatica, s’è quelli serviziii sò dispunibule.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T175504Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T171151Z">
+        <seg>Affisseghja a traduzzione di u segmentu attuale pruvista da i servizii di traduzzione autumatica, chì voi avete selezziunati in Preferenze &gt; Traduzzione autumatica, s’è quelli serviziii sò dispunibule.</seg>
       </tuv>
     </tu>
     <tu>
