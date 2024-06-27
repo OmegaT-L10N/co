@@ -14378,10 +14378,26 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Install the {0} {1} plugin?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153240Z" creationid="Patriccollu" creationdate="20240627T153240Z">
+        <seg>Installà u modulu d’estensione {0} {1} ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installation Type</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200526T125025Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T125025Z">
         <seg>Tipu d’installazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installed</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153407Z" creationid="Patriccollu" creationdate="20240627T153407Z">
+        <seg>Installatu</seg>
       </tuv>
     </tu>
     <tu>
@@ -20644,10 +20660,26 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin Name</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153359Z" creationid="Patriccollu" creationdate="20240627T153359Z">
+        <seg>Nome di u modulu d’estensione :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin installation failed.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221207T161329Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221207T161329Z">
-        <seg>Fiascu di l’installazione di u modulu d’estensione.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221207T161329Z">
+        <seg>Fiascu à l’installazione di u modulu d’estensione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin installation successful.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153316Z" creationid="Patriccollu" creationdate="20240627T153316Z">
+        <seg>Installazione riesciuta di u modulu d’estensione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21768,6 +21800,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reinstall the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153216Z" creationid="Patriccollu" creationdate="20240627T153216Z">
+        <seg>Installà torna u modulu d’estensione {0} ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Release details</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T120951Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T120951Z">
@@ -22502,6 +22542,14 @@ Solu ste parolle</seg>
       </tuv>
       <tuv lang="co" changeid="Patrick" changedate="20240627T143457Z">
         <seg>Rilancià</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restart OmegaT to activate it.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153338Z" creationid="Patriccollu" creationdate="20240627T153338Z">
+        <seg>Rilancià OmegaT per attivallu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30412,6 +30460,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       </tuv>
       <tuv lang="co" changeid="LF Aligner 4.05" changedate="20140827T133535Z">
         <seg>Versione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version {1} is already installed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153142Z" creationid="Patriccollu" creationdate="20240627T153142Z">
+        <seg>A versione {1} hè dighjà installata.</seg>
       </tuv>
     </tu>
     <tu>
