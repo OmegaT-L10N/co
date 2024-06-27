@@ -17798,8 +17798,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140550Z">
-        <seg>Nisunu schedariu d’esecuzione GPG ùn hè statu trovu ; definiscelu in e preferenze Git di a sezzione « Committing », o ancu in gpg.program di a cunfigurazione git</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153741Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140550Z">
+        <seg>Ùn si trova alcunu schedariu d’esecuzione GPG ; definiscelu in e preferenze Git di a sezzione « Committing », o ancu in u prugramma gpg. di a cunfigurazione git</seg>
       </tuv>
     </tu>
     <tu>
@@ -24010,6 +24010,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T135653Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T135653Z">
         <seg>Selezziunate a vostra versione, quella originale o quella alluntanata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153413Z" creationid="Patriccollu" creationdate="20240627T153413Z">
+        <seg>Selezziunatu</seg>
       </tuv>
     </tu>
     <tu>
