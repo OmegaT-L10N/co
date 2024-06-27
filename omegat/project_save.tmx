@@ -5155,6 +5155,14 @@ U schedariu TMX ùn serà micca caricatu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apply to all repositories on host {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152538Z" creationid="Patriccollu" creationdate="20240627T152538Z">
+        <seg>Appiecà à tutti i dipositi nant’à l’ospite {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Are you sure you want to remove the {0} segmentation rules set?</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T152905Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T152828Z">
@@ -6142,6 +6150,14 @@ Hè ora di beie »</seg>
         <seg>Cannot get correct answer.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230510T111645Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230510T111645Z">
+        <seg>Ùn si pò micca ottene a risposta curretta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot get the correct answer.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152453Z" creationid="Patriccollu" creationdate="20240627T152453Z">
         <seg>Ùn si pò micca ottene a risposta curretta.</seg>
       </tuv>
     </tu>
@@ -10225,6 +10241,14 @@ hè u codice di a lingua è YY hè quellu di u rughjone o di u paese (ozzionale)
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T005258Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T005258Z">
         <seg>Stampittate u nome d’utilizatore è a parolla d’intesa per {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enter your credentials for {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152321Z" creationid="Patriccollu" creationdate="20240627T152321Z">
+        <seg>Stampittate e vostre infurmazioni d’identificazione per {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30160,6 +30184,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T181344Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T181322Z">
         <seg>Nome d’utilizatore o chjave d’API :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or password has extra space character(s)</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152425Z" creationid="Patriccollu" creationdate="20240627T152425Z">
+        <seg>U nome d’utilizatore o a parolla d’intesa cuntene qualchì caratteru di spaziu addiziunale</seg>
       </tuv>
     </tu>
     <tu>
