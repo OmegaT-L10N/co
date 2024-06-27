@@ -8323,6 +8323,16 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Current version: {1}
+New version: {2}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153121Z" creationid="Patriccollu" creationdate="20240627T153054Z">
+        <seg>Versione attuale : {1}
+Versione nova : {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Currently, we offer only a Standard version.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230625T205616Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230625T205616Z">
@@ -14332,6 +14342,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T154441Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T154441Z">
         <seg>Installazione d’OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Install Plugin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152956Z" creationid="Patriccollu" creationdate="20240627T152956Z">
+        <seg>Installà u modulu d’estensione</seg>
       </tuv>
     </tu>
     <tu>
@@ -25208,6 +25226,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Statistics output formats</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152936Z" creationid="Patriccollu" creationdate="20240627T152936Z">
+        <seg>Furmati d’esciuta di e statistiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Stemming, no tags and no numbers</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200518T153456Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200518T153456Z">
@@ -29671,6 +29697,22 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T150205Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T150205Z">
         <seg>Rinnovà</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade Plugin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153023Z" creationid="Patriccollu" creationdate="20240627T153023Z">
+        <seg>Mette à livellu u modulu d’estensione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrade the {0} plugin?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153051Z" creationid="Patriccollu" creationdate="20240627T153051Z">
+        <seg>Mette à livellu u modulu d’estensione {0} ?</seg>
       </tuv>
     </tu>
     <tu>
