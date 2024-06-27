@@ -7299,6 +7299,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console pseudo-translate mode</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T151914Z" creationid="Patriccollu" creationdate="20240627T151914Z">
+        <seg>Modu di traduzzione à a cunsola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console translation mode</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20240627T151313Z" creationid="Patrick" creationdate="20240627T150948Z">
@@ -9351,6 +9359,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200604T172120Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T172120Z">
         <seg>A so documentazione hè menu detagliata, soprattuttu l’infurmazioni nant’à e nove funzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Does specified directory exist?</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T151838Z" creationid="Patriccollu" creationdate="20240627T151838Z">
+        <seg>Esisterà u cartulare specificatu ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -12492,6 +12508,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T160844Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T160844Z">
         <seg>Google Translate v2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Got directory/file open error.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T151743Z" creationid="Patriccollu" creationdate="20240627T151743Z">
+        <seg>Sbagliu accadutu à l’apertura di schedariu o di cartulare.</seg>
       </tuv>
     </tu>
     <tu>
