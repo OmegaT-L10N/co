@@ -2542,10 +2542,10 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230516T114641Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114641Z">
+      <tuv lang="co" changeid="Patrick" changedate="20240627T143400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114641Z">
         <seg>- verificà chì u so furmatu hè accettatu da OmegaT :
 	  s’è e preferenze lucale di filtru sò attivate
-	  impiegà Prughjettu &gt; Pruprietà… &gt; Filtri di schedariu lucali…,
+	  impiegà Prughjettu &gt; Pruprietà… &gt; Filtri lucali di schedariu…,
 	  osinnò impiegà Ozzioni &gt; Filtri glubali di schedariu…;
 	- apre i schedarii cù a so appiecazione d’origine è verificà ch’elli ùn sò micca vioti.</seg>
       </tuv>
@@ -22322,7 +22322,7 @@ Solu ste parolle</seg>
       <tuv lang="en">
         <seg>Restart</seg>
       </tuv>
-      <tuv lang="co" changeid="phenry" changedate="20150420T184821Z">
+      <tuv lang="co" changeid="Patrick" changedate="20240627T143457Z">
         <seg>Rilancià</seg>
       </tuv>
     </tu>
