@@ -276,7 +276,7 @@
 
   <para>OmegaT displays fuzzy matches in the <link linkend="panes.fuzzy.matches" endterm="panes.fuzzy.matches.title"/> pane. By default, those matches are limited to the source and target languages defined in the <link linkend="dialogs.project.properties" endterm="dialogs.project.properties.title"/> dialog.</para>
 
-  <para>You can add matches in languages that are not the target language. Lighjite i parametri di <link linkend="dialog.preferences.tm.matches.other.languages" endterm="dialog.preferences.tm.matches.other.languages.title"/> per sapene di più.</para>
+  <para>You can add matches in languages that are not the target language. Lighjite e preferenze di <link linkend="dialog.preferences.tm.matches.other.languages" endterm="dialog.preferences.tm.matches.other.languages.title"/> per sapene di più.</para>
 
   <para>If you have a TMX that corresponds to your source document and contains its translation to a different language, you can also display that
   language <emphasis>right below</emphasis> the source segment for use as an

@@ -234,7 +234,7 @@
       <varlistentry>
         <term>Filtri…</term>
         <listitem>
-          <para>Clicking this button lets you edit the file filters that apply to this project. Lighjite i parametri di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
+          <para>Clicking this button lets you edit the file filters that apply to this project. Lighjite e preferenze di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
 
           <warning>
             <para>If you modify the file filters, you will be asked if you want

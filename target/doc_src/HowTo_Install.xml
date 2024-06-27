@@ -107,7 +107,7 @@
   <section id="update.and.delete.omegat">
 	<title id="update.and.delete.omegat.title">Rinnovà</title>
 
-	<para>OmegaT can tell you when a new version is available. Lighjite i parametri di <link endterm="dialogs.preferences.updates.title" linkend="dialogs.preferences.updates"/> per sapene di più.</para>
+	<para>OmegaT can tell you when a new version is available. Lighjite e preferenze di <link endterm="dialogs.preferences.updates.title" linkend="dialogs.preferences.updates"/> per sapene di più.</para>
 
 	<para>The changes between your version and the current version are
 	documented in the development site’s <ulink url="https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt">changes.txt</ulink>

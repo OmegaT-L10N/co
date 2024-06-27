@@ -72,7 +72,7 @@
     <varlistentry>
       <term>Custom tags</term>
       <listitem>
-        <para>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags" endterm="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags.title"/> per sapene di più.</para>
+        <para>Custom tags are tags defined with regular expressions that are handled exactly like native OmegaT tags. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags" endterm="dialogs.preferences.tag.processing.regular.expressions.for.custom.tags.title"/> per sapene di più.</para>
 
 		<para>Use the <code>|</code> (OR) character to separate individual
         tag definitions.</para>

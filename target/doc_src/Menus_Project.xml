@@ -91,7 +91,7 @@
       <listitem>
         <para>Saves the project translation memory (<link linkend="project.folder.project.save.tmx" endterm="project.folder.project.save.tmx.title"/>) and synchronizes team
         projects.</para>
-		<para>OmegaT automatically saves translations every three minutes as well as when you close the project or quit the program. Lighjite i parametri di <link linkend="dialog.preferences.saving.and.output.interval" endterm="dialog.preferences.saving.and.output.interval.title"/> per sapene di più.</para>
+		<para>OmegaT automatically saves translations every three minutes as well as when you close the project or quit the program. Lighjite e preferenze di <link linkend="dialog.preferences.saving.and.output.interval" endterm="dialog.preferences.saving.and.output.interval.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
@@ -144,7 +144,7 @@
       <listitem>
         <para>Creates the target files based on your translation. The created
         target files are located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/> folder.</para>
-		<note><para>You can prevent the creation of target files if tag issues are found. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues" endterm="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues.title"/> per sapene di più.</para></note>
+		<note><para>You can prevent the creation of target files if tag issues are found. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues" endterm="dialogs.preferences.tag.processing.do.not.allow.creating.translated.documents.with.tag.issues.title"/> per sapene di più.</para></note>
 		<para>Every time you create translated files, OmegaT saves the project
 		(see the <link linkend="menus.project.save" endterm="menus.project.save.title"/> menu item above) and creates
 		reference memories that include the translated segments of the current
@@ -328,8 +328,7 @@
         you really want to quit if you have not yet saved the project.</para>
 
 		<note>
-		  <para>In macOS, this menu item is found under the
-		  <guimenu>OmegaT</guimenu> menu.</para>
+		  <para>Cù macOS, st’elementu di listinu si trova in u listinu <guimenu>OmegaT</guimenu>.</para>
 		</note>
       </listitem>
     </varlistentry>

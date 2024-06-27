@@ -4,7 +4,7 @@
   <title id="configuration.folder.title">Cartulare di cunfigurazione</title>
   <para>U cartulare di cunfigurazione cuntene a maiò parte di l’ozzioni è di i parametri d’OmegaT per l’utilizatore.</para>
   
-  <para>Impiegate <link linkend="menus.options" endterm="menus.options.title"/><link linkend="menus.options.access.configuration.folder" endterm="menus.options.access.configuration.folder.title"/> per accedeci direttamente.</para>
+  <para>Impiegà <link linkend="menus.options" endterm="menus.options.title"/><link linkend="menus.options.access.configuration.folder" endterm="menus.options.access.configuration.folder.title"/> per accedeci direttamente.</para>
 
   <section id="configuration.folder.location">
     <title id="configuration.folder.location.title">Lucalizazione</title>	
@@ -58,7 +58,7 @@
 
 		  <para>Sti schedarii arregistreghjanu parechji stati interni è messaghji d’evenimentu di u prugramma durante l’esecuzione d’OmegaT. S’è OmegaT si cumporte d’una manera strana, aghjunghjite u schedariu sanu, o solu a so parte pertinente, à u vostru raportu.</para>
 
-		  <para>Impiegate <link linkend="menus.help" endterm="menus.help.title"/><link linkend="menus.help.log" endterm="menus.help.log.title"/> per affissà u cuntenutu di u schedariu.</para>
+		  <para>Impiegà <link linkend="menus.help" endterm="menus.help.title"/><link linkend="menus.help.log" endterm="menus.help.log.title"/> per affissà u cuntenutu di u schedariu.</para>
 		</listitem>
 	  </varlistentry>
 
@@ -117,21 +117,21 @@
 	  <varlistentry id="configuration.folder.extra.contents.filters">
 		<term id="configuration.folder.extra.contents.filters.title">filters.xml</term>
 		<listitem>
-		  <para>Stu schedariu di parametri cuntene i filtri persunalizati di schedariu. Lighjite i parametri di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
+		  <para>Stu schedariu di parametri cuntene i filtri persunalizati di schedariu. Lighjite e preferenze di <link linkend="dialogs.preferences.file.filters" endterm="dialogs.preferences.file.filters.title"/> per sapene di più.</para>
 		</listitem>
 	  </varlistentry>
 
 	  <varlistentry id="configuration.folder.extra.contents.finder">
 		<term id="configuration.folder.extra.contents.finder.title">finder.xml</term>
 		<listitem>
-		  <para>Stu schedariu di parametri cuntene i parametri persunalizati di ricerca esterna. Lighjite i parametri di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
+		  <para>Stu schedariu di parametri cuntene i parametri persunalizati di ricerca esterna. Lighjite e preferenze di <link linkend="dialogs.preferences.external.searches" endterm="dialogs.preferences.external.searches.title"/> per sapene di più.</para>
 		</listitem>
 	</varlistentry>
 	
 	<varlistentry id="configuration.folder.extra.contents.omegat.autotext">
 	  <term id="configuration.folder.extra.contents.omegat.autotext.title">omegat.autotext</term>
 	  <listitem>
-		<para>Stu schedariu di parametri cuntene i parametri persunalizati di testu autumaticu. Lighjite i parametri di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
+		<para>Stu schedariu di parametri cuntene i parametri persunalizati di testu autumaticu. Lighjite e preferenze di <link linkend="dialog.preferences.auto.completion" endterm="dialog.preferences.auto.completion.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 
@@ -145,22 +145,22 @@
 	<varlistentry id="configuration.folder.extra.contents.segmentation">
 	  <term id="configuration.folder.extra.contents.segmentation.title">segmentation.conf</term>
 	  <listitem>
-		<para>Stu schedariu di parametri cuntene i parametri persunalizati di segmentazione. Lighjite i parametri di <link linkend="dialogs.preferences.segmentation.setup" endterm="dialogs.preferences.segmentation.setup.title"/> per sapene di più.</para>
+		<para>Stu schedariu di parametri cuntene i parametri persunalizati di segmentazione. Lighjite e preferenze di <link linkend="dialogs.preferences.segmentation.setup" endterm="dialogs.preferences.segmentation.setup.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 	
 	<varlistentry id="configuration.folder.extra.contents.plugin">
 	  <term id="configuration.folder.extra.contents.plugin.title">plugins/</term>
 	  <listitem>
-		<para>This folder provides the standard location for manually installed OmegaT extension plugins. Lighjite i parametri di <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> per sapene di più.</para>
-		<para>It is also possible to install plugins in the application <link linkend="application.folder.plugins" endterm="application.folder.plugins.title"/> folder.</para>
+		<para>Stu cartulare furnisce u locu classicu per i moduli d’estensione d’OmegaT installati manualmente. Lighjite e preferenze di <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> per sapene di più.</para>
+		<para>Hè pussibule dinù d’installà i moduli d’estensione in u cartulare <link linkend="application.folder.plugins" endterm="application.folder.plugins.title"/> d’appiecazione.</para>
 	  </listitem>
 	</varlistentry>
 
 	<varlistentry id="configuration.folder.extra.contents.spelling">
 	  <term id="configuration.folder.extra.contents.spelling.title">spelling/</term>
 	  <listitem>
-		<para>Stu cartulare cuntene i vostri dizziunarii d’ortugrafia. Lighjite i parametri di <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per sapene di più.</para>
+		<para>Stu cartulare cuntene i vostri dizziunarii d’ortugrafia. Lighjite e preferenze di <link linkend="dialog.preferences.spellchecker" endterm="dialog.preferences.spellchecker.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 	</variablelist>

@@ -143,7 +143,7 @@
 	<varlistentry id="application.folder.plugins">
 	  <term id="application.folder.plugins.title">plugins/</term>
 	  <listitem>
-		<para>U cartulare induve si pò installà i moduli d’estensione esterni. The prefered location for plugin manual installs is the <link linkend="configuration.folder.extra.contents.plugin" endterm="configuration.folder.extra.contents.plugin.title"/> folder located in the <link linkend="configuration.folder">configuration</link> folder. See the <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> preferences for details.</para>
+		<para>U cartulare induve si pò installà i moduli d’estensione esterni. U locu preferitu per l’installazioni manuale di modulu d’estensione hè u <link linkend="configuration.folder.extra.contents.plugin" endterm="configuration.folder.extra.contents.plugin.title"/> cartulare piazzatu in u cartulare di <link linkend="configuration.folder">cunfigurazione</link>. Lighjite e preferenze di <link linkend="dialogs.preferences.plugins" endterm="dialogs.preferences.plugins.title"/> per sapene di più.</para>
 	  </listitem>
 	</varlistentry>
 

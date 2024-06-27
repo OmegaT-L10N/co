@@ -669,7 +669,7 @@
 	  <varlistentry id="file.filters.po">
 		<term id="file.filters.po.title">PO files</term>
 		<listitem>
-			<para>The filter checks printf variables ('%s', etc.) by default. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.programming.variables" endterm="dialogs.preferences.tag.processing.programming.variables.title"/> per sapene di più.</para>
+			<para>The filter checks printf variables ('%s', etc.) by default. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.programming.variables" endterm="dialogs.preferences.tag.processing.programming.variables.title"/> per sapene di più.</para>
 
 			<variablelist>
 			  <varlistentry>
@@ -754,7 +754,7 @@
 	  <varlistentry id="file.filter.java.bundle">
 		<term id="file.filter.java.bundle.title">Java Resource bundle</term>
 		<listitem>
-			<para>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default. Lighjite i parametri di <link linkend="dialogs.preferences.tag.processing.programming.variables" endterm="dialogs.preferences.tag.processing.programming.variables.title"/> per sapene di più.</para>
+			<para>The filter checks Java MessageFormat patterns (e.g. \{0\}) by default. Lighjite e preferenze di <link linkend="dialogs.preferences.tag.processing.programming.variables" endterm="dialogs.preferences.tag.processing.programming.variables.title"/> per sapene di più.</para>
 
 			<variablelist>
 			  <varlistentry>

@@ -52,13 +52,11 @@
       </varlistentry>
 
       <varlistentry id="dialogs.preferences.general.access.configuration.folder">
-        <term id="dialogs.preferences.general.access.configuration.folder.title"><option>Access
-        Configuration Folder</option></term>
+        <term id="dialogs.preferences.general.access.configuration.folder.title"><option>Accede à u cartulare di cunfigurazione</option></term>
 		<listitem>
-          <para>Opens the local folder where OmegaT configuration files are
-          stored.</para>
+          <para>Apre u cartulare lucale induve i schedarii di cunfigurazione d’OmegaT sò piazzati.</para>
 		  <note>
-			<para>The location depends on the operating system and launch options. Lighjite l’annessu <link linkend="configuration.folder" endterm="configuration.folder.title"/> per sapene di più.</para>
+			<para>U locu dipende di u sistema operatoriu è di l’ozzioni di lanciu. Lighjite l’annessu <link linkend="configuration.folder" endterm="configuration.folder.title"/> per sapene di più.</para>
 		  </note>
 		</listitem>
       </varlistentry>

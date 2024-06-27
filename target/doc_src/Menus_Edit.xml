@@ -115,8 +115,7 @@
 		preference is disabled, use this action once to fetch the
 		translation, and a second time to insert it.</para>
 		
-		<para>No action is taken if no machine translation service has been
-		activated in the <link linkend="menus.options" endterm="menus.options.title"/><link linkend="menus.options.mt" endterm="menus.options.mt.title"/> menu. See the <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> preferences for details.</para>
+		<para>No action is taken if no machine translation service has been activated in the <link linkend="menus.options" endterm="menus.options.title"/><link linkend="menus.options.mt" endterm="menus.options.mt.title"/> menu. Lighjite e preferenze di <link linkend="dialogs.preferences.mt" endterm="dialogs.preferences.mt.title"/> per sapene di più.</para>
       </listitem>
     </varlistentry>
 
