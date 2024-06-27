@@ -7291,6 +7291,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console translation mode</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150948Z" creationid="Patrick" creationdate="20240627T150948Z">
+        <seg>Modu di traduzzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console-align mode:
 	--alignDir=&lt;path&gt;
 		A directory containing the translated files.</seg>
@@ -23782,8 +23790,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Select a plugin file (*.jar) or a zip archive (*.zip) that contains a plugin jar file.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patrick" changedate="20240627T150647Z" creationid="Patrick" creationdate="20240627T150647Z">
-        <seg>Selezziunà un schedariu di modulu d’estensione (*.jar, *.zip)</seg>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150823Z" creationid="Patrick" creationdate="20240627T150647Z">
+        <seg>Selezziunà un schedariu di modulu d’estensione (*.jar) o un archiviu (*.zip) chì cuntene un schedariu jar di modulu d’estensione.</seg>
       </tuv>
     </tu>
     <tu>
