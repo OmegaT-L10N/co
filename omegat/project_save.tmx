@@ -10427,6 +10427,22 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error loading hunspell: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155024Z" creationid="Patriccollu" creationdate="20240627T155024Z">
+        <seg>Sbagliu di caricamentu di hunspell : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error loading jmyspell: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155153Z" creationid="Patriccollu" creationdate="20240627T155153Z">
+        <seg>Sbagliu di caricamentu di jmyspell : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error loading plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182104Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182104Z">
@@ -14190,6 +14206,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T134151Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134151Z">
         <seg>Inizià un prughjettu minimu di squadra cù e lingue indicate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Initialized JMySpell spell checker for language '{0}' dictionary {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155044Z" creationid="Patriccollu" creationdate="20240627T155044Z">
+        <seg>U cuntrullore d’ortugrafia JMySpell hè statu iniziatu per a lingua « {0} » dizziunariu {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -25132,6 +25156,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200624T180546Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200624T180546Z">
         <seg>Dizziunarii d’ortugrafia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionary exists but is not a file: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155257Z" creationid="Patriccollu" creationdate="20240627T155257Z">
+        <seg>U dizziunariu ortugraficu esiste ma ùn hè micca un schedariu : {0}</seg>
       </tuv>
     </tu>
     <tu>
