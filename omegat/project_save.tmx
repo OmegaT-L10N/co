@@ -7291,6 +7291,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console project stats mode</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T151337Z" creationid="Patriccollu" creationdate="20240627T151337Z">
+        <seg>Modu di e statistiche di u prughjettu à a cunsola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console translation mode</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20240627T151313Z" creationid="Patrick" creationdate="20240627T150948Z">
@@ -24830,6 +24838,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specified UNKNOWN file type for statistics.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T151508Z" creationid="Patriccollu" creationdate="20240627T151508Z">
+        <seg>Tipu di schedariu SCUNNISCIUTU specificatu per e statistiche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify a mnemonic with "&amp;": "F&amp;oobar" to use O</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190720T224428Z">
@@ -31598,6 +31614,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T174632Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T174632Z">
         <seg>\s{2,}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>aborted."</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T151606Z" creationid="Patriccollu" creationdate="20240627T151606Z">
+        <seg>interrottu."</seg>
       </tuv>
     </tu>
     <tu>
