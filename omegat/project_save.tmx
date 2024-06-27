@@ -24214,6 +24214,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select the various options to activate or deactivate them.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T230441Z" creationid="Patriccollu" creationdate="20240627T230441Z">
+        <seg>Selezziunà l’ozzioni varie per attivalle o disattivalle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143634Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200526T133544Z">
