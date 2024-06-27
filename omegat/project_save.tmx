@@ -10419,6 +10419,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error load dictionary from '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T160323Z" creationid="Patriccollu" creationdate="20240627T160323Z">
+        <seg>Sbagliu di caricamentu di u dizziunariu da « {0} » : {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error load plugin from class '{0}': {1}: {2}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200511T154149Z">
@@ -10503,6 +10511,14 @@ Screnu turchinu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134244Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134244Z">
         <seg>Sbagliu di riacquistu di {0} cum’è schedariu di prughjettu alluntanatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving ignore words"</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T160447Z" creationid="Patriccollu" creationdate="20240627T160447Z">
+        <seg>Sbagliu à l’arregistramentu di e parolle ignurate"</seg>
       </tuv>
     </tu>
     <tu>
