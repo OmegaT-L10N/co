@@ -8387,6 +8387,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dark theme:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T145319Z" creationid="Patrick" creationdate="20240627T145319Z">
+        <seg>Tema scuru :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DeepL</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T173831Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T173831Z">
@@ -15735,6 +15743,14 @@ itself on the first run.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T163447Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T163447Z">
         <seg>Infurmazione di licenza
 =======================</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Light theme:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T145307Z" creationid="Patrick" creationdate="20240627T145307Z">
+        <seg>Tema chjaru :</seg>
       </tuv>
     </tu>
     <tu>
@@ -24196,6 +24212,18 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipped one or more source files
+because the specified source folder contains a symbolic or hard link
+that points back to itself or one of its subfolders.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T145526Z" creationid="Patrick" creationdate="20240627T145526Z">
+        <seg>Qualchì schedariu d’origine hè statu ignuratu
+perchè u cartulare d’origine specificatu cuntene un liame simbolicu o
+fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipped some source file(s)
 because the specified source folder contains a symbolic or hard link
 that points back to itself or one of its subfolders.</seg>
@@ -25200,6 +25228,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T162210Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T162210Z">
         <seg>Trasferimentu à a versione integrata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sync with OS colour preference</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T145353Z" creationid="Patrick" creationdate="20240627T145353Z">
+        <seg>Sincrunizà cù a preferenza di culore di u sistema</seg>
       </tuv>
     </tu>
     <tu>
