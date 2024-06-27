@@ -2542,9 +2542,9 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patrick" changedate="20240627T143400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114641Z">
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180004Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114641Z">
         <seg>- verificà chì u so furmatu hè accettatu da OmegaT :
-	  s’è e preferenze lucale di filtru sò attivate
+	  s’è e preferenze lucali di filtru sò attivate
 	  impiegà Prughjettu &gt; Pruprietà… &gt; Filtri lucali di schedariu…,
 	  osinnò impiegà Ozzioni &gt; Filtri glubali di schedariu…;
 	- apre i schedarii cù a so appiecazione d’origine è verificà ch’elli ùn sò micca vioti.</seg>
@@ -2679,9 +2679,9 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135253Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134927Z">
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T175946Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134927Z">
         <seg>--config-file=&lt;chjassu&gt;
-	  Un schedariu .properties Java da duve si caricheranu e preferenze predefinite.</seg>
+	  Un schedariu .properties Java da duve si caricheranu e preferenze predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4637,8 +4637,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210927T161100Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
-        <seg>Tutte e preferenze prutette da a parolla d’intesa principale seranu rimesse d’origine.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180136Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
+        <seg>Tutti e preferenze prutetti da a parolla d’intesa principale seranu rimessi d’origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13470,10 +13470,10 @@ not be entered.)</seg>
 that location will be used and all settings will be reset to
 their default values.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T174359Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174359Z">
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174359Z">
         <seg>S’è un accessu à stu locu
-preferitu hè accettatu à l’avvene, stu locu serà impiegatu è tutte
-e preferenze seranu reiniziate à i so valori predefiniti.</seg>
+preferitu hè accettatu à l’avvene, stu locu serà impiegatu è tutti
+e preferenze seranu reiniziati à i so valori predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
