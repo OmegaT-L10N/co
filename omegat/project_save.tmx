@@ -30292,8 +30292,16 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the local file filter preferences.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T230807Z" creationid="Patriccollu" creationdate="20240627T230615Z">
-        <seg>Impiegà  &lt;l0/&gt;&lt;l1/&gt; per accede à e preferenze di i filtri lucali di schedariu.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T231005Z" creationid="Patriccollu" creationdate="20240627T230615Z">
+        <seg>Impiegà &lt;l0/&gt;&lt;l1/&gt; per accede à e preferenze di i filtri lucali di schedariu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;l0/&gt;&lt;l1/&gt; to access the local segmentation rules preferences.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T231000Z" creationid="Patriccollu" creationdate="20240627T231000Z">
+        <seg>Impiegà &lt;l0/&gt;&lt;l1/&gt; per accede à e preferenze di e regule lucale di segmentazione.</seg>
       </tuv>
     </tu>
     <tu>
