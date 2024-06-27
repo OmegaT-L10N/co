@@ -6189,8 +6189,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T103206Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T103206Z">
-        <seg>Certe funzioni di prugramma sò state cummissiunate da cumandatarii cummerciali chì tandu ne anu fattu dunazione à a cumunità.</seg>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T143957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T103206Z">
+        <seg>Certe funzioni di prugramma sò state cummissiunate quantunque da spunsurizatori cummerciali chì tandu ne anu fattu dunazione à a cumunità.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18414,6 +18414,14 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Contribution Guide</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T144152Z" creationid="Patrick" creationdate="20240627T144152Z">
+        <seg>Manuale di cuntribuzione à OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Default</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184027Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184027Z">
@@ -28034,8 +28042,8 @@ preferenze à e so predefinizioni.</seg>
       <tuv lang="en">
         <seg>To date, these sponsors are:</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T102433Z">
-        <seg>À st’ora, sti mecenii sò :</seg>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T144015Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T102433Z">
+        <seg>À st’ora, sti spunsurizatori sò :</seg>
       </tuv>
     </tu>
     <tu>
@@ -31786,6 +31794,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200515T121051Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200515T121051Z">
         <seg>https://omegat.org/support</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://omegat.readthedocs.io/en/latest/</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T144157Z" creationid="Patrick" creationdate="20240627T144157Z">
+        <seg>https://omegat.readthedocs.io/en/latest/</seg>
       </tuv>
     </tu>
     <tu>
