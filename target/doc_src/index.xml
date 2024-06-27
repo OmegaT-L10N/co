@@ -5236,7 +5236,7 @@ Folder = <token>Dossier</token></programlisting>
     <varlistentry id="menus.help.about">
       <term id="menus.help.about.title"><guimenuitem>Apprupositu…</guimenuitem></term>
       <listitem>
-        <para>Affisseghja di i diritti di copia, infurmazioni di meritu è di licenza.</para>
+        <para>Affisseghja di i diritti d’autore, infurmazioni di meritu è di licenza.</para>
       </listitem>
     </varlistentry>
 
@@ -8335,7 +8335,7 @@ for (i in 0 ..&lt; files.size())
       </varlistentry>
 
       <varlistentry id="dialogs.preferences.glossary.replace.glossary.hits.when.inserting.source.text">
-        <term id="dialogs.preferences.glossary.replace.glossary.hits.when.inserting.source.text.title"><option>Rimpiazzà e currispundenze à l’inserzione di u &amp;testu d'origine</option></term>
+        <term id="dialogs.preferences.glossary.replace.glossary.hits.when.inserting.source.text.title"><option>Rimpiazzà e currispundenze à l’inserzione di u &amp;testu d’origine</option></term>
         <listitem>
           <para>When you use</para>
 		  

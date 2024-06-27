@@ -277,7 +277,10 @@
 			<listitem>
 			  <para>The current source file is located in the <link linkend="project.folder.source" endterm="project.folder.source.title"/> folder.</para>
 
-			  <para>Opens the file in the associated application.</para>
+              <para>Opens the file in the associated application if the file exists.
+               If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by
+               OS standard file manager such as finder or file explorer, instead of opening the file.
+              </para>
 			</listitem>
 		  </varlistentry>
 
@@ -286,7 +289,10 @@
 			<listitem>
 			  <para>The current target file is located in the <link linkend="project.folder.target" endterm="project.folder.target.title"/> folder.</para>
 
-			  <para>Opens the file in the associated application if the file exists.</para>
+			  <para>Opens the file in the associated application if the file exists.
+                If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by
+                OS standard file manager such as finder or file explorer, instead of opening the file.
+              </para>
 			</listitem>
 		  </varlistentry>
 
@@ -295,7 +301,10 @@
 			<listitem>
 			  <para>The writable glossary is located in the <link linkend="project.folder.glossary" endterm="project.folder.glossary.title"/> folder.</para>
 
-			  <para>Opens the file in the associated application if the file exists.</para>
+			  <para>Opens the file in the associated application if the file exists.
+              If you press down ALT key during selecting the menu item, opens a folder enclosing the file, by
+              OS standard file manager such as finder or file explorer, instead of opening the file.
+              </para>
 			</listitem>
 		  </varlistentry>
 		</variablelist>

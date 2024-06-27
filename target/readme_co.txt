@@ -174,3 +174,7 @@ E dumande d’amendamentu (in inglese) nant’à u situ SourceForge :
 I raporti di penseru (in inglese) nant’à u situ SourceForge :
 
   https://sourceforge.net/p/omegat/bugs/
+
+Manuale di cuntribuzione à OmegaT
+
+  https://omegat.readthedocs.io/en/latest/
