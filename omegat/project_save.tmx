@@ -17676,6 +17676,22 @@ as the Applications folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Negotiated LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155816Z" creationid="Patriccollu" creationdate="20240627T155816Z">
+        <seg>Lingua d’origine LanguageTool neguziata : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Negotiated LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155829Z" creationid="Patriccollu" creationdate="20240627T155829Z">
+        <seg>Lingua di destinazione LanguageTool neguziata : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Neural machine translation</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T171152Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200524T163058Z">
@@ -24082,6 +24098,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200521T160959Z">
         <seg>Mutore selezziunatu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool source language: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155606Z" creationid="Patriccollu" creationdate="20240627T155606Z">
+        <seg>Lingua d’origine LanguageTool selezziunata : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selected LanguageTool target language: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155733Z" creationid="Patriccollu" creationdate="20240627T155733Z">
+        <seg>Lingua di destinazione LanguageTool selezziunata : {0}</seg>
       </tuv>
     </tu>
     <tu>
