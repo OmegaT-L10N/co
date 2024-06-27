@@ -13599,6 +13599,14 @@ stu cambimentu di locu.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If several translation engines are selected, you can also use &lt;k0&gt;&lt;k1&gt;C&lt;/k1&gt;&lt;k2&gt;M&lt;/k2&gt;&lt;/k0&gt; to switch between them and insert the last one selected.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T190700Z" creationid="Patriccollu" creationdate="20240627T190700Z">
+        <seg>0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the applicable functions are used, this folder can contain up to three text files:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T193322Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T193322Z">
