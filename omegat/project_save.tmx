@@ -4739,6 +4739,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows you to activate or deactivate enabled and properly configured machine translation engines.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T185055Z" creationid="Patriccollu" creationdate="20240627T185055Z">
+        <seg>St’ozzione vi permette d’attivà o disattivà i mutori di traduzzione autumatica dispunibule è cunfigurati currettamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alongside an existing version</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T153400Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T153400Z">
