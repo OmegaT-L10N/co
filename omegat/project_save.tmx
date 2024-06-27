@@ -2542,9 +2542,9 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	  otherwise use Options &gt; Global File Filters...;
 	- open them in their original application and verify that they are not empty.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180004Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114641Z">
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230516T114641Z">
         <seg>- verificà chì u so furmatu hè accettatu da OmegaT :
-	  s’è e preferenze lucali di filtru sò attivate
+	  s’è i parametri lucali di filtru sò attivate
 	  impiegà Prughjettu &gt; Pruprietà… &gt; Filtri lucali di schedariu…,
 	  osinnò impiegà Ozzioni &gt; Filtri glubali di schedariu…;
 	- apre i schedarii cù a so appiecazione d’origine è verificà ch’elli ùn sò micca vioti.</seg>
@@ -2611,11 +2611,11 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
 	  Source- or target-language tokenizer to use (overrides project
 	  settings).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134509Z">
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134509Z">
         <seg>--ITokenizer=&lt;nome di classa&gt;
 	--ITokenizerTarget=&lt;nome di classa&gt;
 	  Lemmatizatore d’analisa di lingua - d’origine o di destinazione -
-	  à impiegà (rimpiazzeghja e preferenze di prughjettu).</seg>
+	  à impiegà (rimpiazzeghja i parametri di prughjettu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2679,9 +2679,9 @@ impiegà OmegaT 3.6 per mudificallu cum’è un prughjettu di squadra.)</seg>
         <seg>--config-file=&lt;path&gt;
 	  A Java .properties file from which to load default settings.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T175946Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134927Z">
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T134927Z">
         <seg>--config-file=&lt;chjassu&gt;
-	  Un schedariu .properties Java da duve si caricheranu e preferenze predefiniti.</seg>
+	  Un schedariu .properties Java da duve si caricheranu i parametri predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4637,8 +4637,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>All preferences protected by the master password will be reset.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180136Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
-        <seg>Tutti e preferenze prutetti da a parolla d’intesa principale seranu rimessi d’origine.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181028T172509Z">
+        <seg>Tutti i parametri prutetti da a parolla d’intesa principale seranu rimessi d’origine.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13470,10 +13470,10 @@ not be entered.)</seg>
 that location will be used and all settings will be reset to
 their default values.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180034Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174359Z">
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174359Z">
         <seg>S’è un accessu à stu locu
 preferitu hè accettatu à l’avvene, stu locu serà impiegatu è tutti
-e preferenze seranu reiniziati à i so valori predefiniti.</seg>
+i parametri seranu reiniziati à i so valori predefiniti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13738,8 +13738,8 @@ stu cambimentu di locu.</seg>
         <seg>If you can see the file OmegaT but not OmegaT.exe in your File Manager (Windows
 Explorer), change the settings so that file extensions are displayed.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200529T113331Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112637Z">
-        <seg>S’ellu vi hè pussibule di fighjà u schedariu OmegaT ma micca OmegaT.exe in u vostru ghjestiunariu di schedariu (Espluratore WIndows), mudificate e preferenze per chì l’estensioni sianu affissate.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200528T112637Z">
+        <seg>S’ellu vi hè pussibule di fighjà u schedariu OmegaT ma micca OmegaT.exe in u vostru ghjestiunariu di schedariu (Espluratore WIndows), mudificate i parametri per chì l’estensioni sianu affissate.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17894,8 +17894,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>No GPG executable found; set it in the Git preferences in section "Committing", or define it in the git config gpg.program</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T153741Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140550Z">
-        <seg>Ùn si trova alcunu schedariu d’esecuzione GPG ; definiscelu in e preferenze Git di a sezzione « Committing », o ancu in u prugramma gpg. di a cunfigurazione git</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T140550Z">
+        <seg>Ùn si trova alcunu schedariu d’esecuzione GPG ; definiscelu in i parametri Git di a sezzione « Committing », o ancu in u prugramma gpg. di a cunfigurazione git</seg>
       </tuv>
     </tu>
     <tu>
@@ -18322,8 +18322,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: The Source File Encoding setting only affects HHC and HHK files with no encoding declaration.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T145724Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T145607Z">
-        <seg>Nota : e preferenze di cudificazione di i schedarii d’origine s’appiecanu solu à i schedarii HHC è HHK senza dichjarazione di cudificazione.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T145607Z">
+        <seg>Nota : i parametri di cudificazione di i schedarii d’origine s’appiecanu solu à i schedarii HHC è HHK senza dichjarazione di cudificazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18338,8 +18338,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>Note: The Source file encoding setting only affects HTML files with no encoding declaration.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182436Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182436Z">
-        <seg>Nota : e preferenze di cudificazione di i schedarii d’origine s’appiecanu solu à i schedarii HTML senza dichjarazione di cudificazione.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182436Z">
+        <seg>Nota : i parametri di cudificazione di i schedarii d’origine s’appiecanu solu à i schedarii HTML senza dichjarazione di cudificazione.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18770,8 +18770,8 @@ as the Applications folder.</seg>
       <tuv lang="en">
         <seg>OmegaT automatically checks the availability of newer versions on its development server without transmitting any user information, and the user can easily opt out in the Preferences settings.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230110T161259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T161259Z">
-        <seg>OmegaT cuntrolleghja autumaticamente a dispunibilità di e versioni nove nant’à u so servitore di sviluppu senza trasmette alcuna infurmazione di l’utilizatori, è l’utilizatore pò ricusallu in i parametri di e preferenze.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180426Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230110T161259Z">
+        <seg>OmegaT cuntrolleghja autumaticamente a dispunibilità di e versioni nove nant’à u so servitore di sviluppu senza trasmette alcuna infurmazione di l’utilizatori, è l’utilizatore pò ricusallu in e definizioni di i parametri.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20194,8 +20194,8 @@ In nebbia pagna</seg>
       <tuv lang="en">
         <seg>Parse error encountered reading preferences file!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171925Z">
-        <seg>Sbagliu durante l’analisa di u schedariu di e preferenze !</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171925Z">
+        <seg>Sbagliu durante l’analisa di u schedariu di i parametri !</seg>
       </tuv>
     </tu>
     <tu>
@@ -20982,8 +20982,8 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="en">
         <seg>Preferences system save operation failed!</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171753Z">
-        <seg>Fiascu à l’arregistramentu di e preferenze di u sistema !</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T171753Z">
+        <seg>Fiascu à l’arregistramentu di i parametri di u sistema !</seg>
       </tuv>
     </tu>
     <tu>
@@ -23720,16 +23720,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T234915Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T234915Z">
-        <seg>Lighjite e preferenze di &lt;l0/&gt; per sapene di più.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T234915Z">
+        <seg>Lighjite i parametri di &lt;l0/&gt; per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173200Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173200Z">
-        <seg>Lighjite e preferenze di &lt;l0/&gt; per sapene di più.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173200Z">
+        <seg>Lighjite i parametri di &lt;l0/&gt; per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24720,8 +24720,8 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       <tuv lang="en">
         <seg>Some preferences do not have an equivalent in the user interface.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T182934Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182934Z">
-        <seg>Certe preferenze ùn anu micca equivalenza in l’interfaccia di l’utilizatore.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T182934Z">
+        <seg>Certi parametri ùn anu micca equivalenza in l’interfaccia di l’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26774,8 +26774,8 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
       <tuv lang="en">
         <seg>The configuration folder stores the majority of the OmegaT options and preferences for the user.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T173521Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173521Z">
-        <seg>U cartulare di cunfigurazione cuntene a maiò parte di l’ozzioni è di e preferenze d’OmegaT per l’utilizatore.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173521Z">
+        <seg>U cartulare di cunfigurazione cuntene a maiò parte di l’ozzioni è di i parametri d’OmegaT per l’utilizatore.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27629,8 +27629,8 @@ in /lib/licenses/Licenses.txt.</seg>
       <tuv lang="en">
         <seg>The “old” version of OmegaT will be overwritten, but settings made from the OmegaT interface will be retained in the various configurations folders (see above).</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T153259Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T153259Z">
-        <seg>A versione « anziana » d’OmegaT serà rimpiazzata, ma e preferenze fatte da l’interfaccia OmegaT seranu cunservate in i cartulari di cunfigurazione (lighjite insù).</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T153259Z">
+        <seg>A versione « anziana » d’OmegaT serà rimpiazzata, ma i parametri fatti da l’interfaccia OmegaT seranu cunservati in i cartulari di cunfigurazione (lighjite insù).</seg>
       </tuv>
     </tu>
     <tu>
@@ -28406,8 +28406,8 @@ preferenze à e so predefinizioni.</seg>
       <tuv lang="en">
         <seg>Tick or untick the appropriate boxes to change these settings.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T181818Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T181818Z">
-        <seg>Attivate o nò a casella apposta per cambià ste preferenze.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T181818Z">
+        <seg>Attivate o nò a casella apposta per cambià sti parametri.</seg>
       </tuv>
     </tu>
     <tu>
