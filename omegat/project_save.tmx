@@ -12232,6 +12232,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Git: Ignore credentials query: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152652Z" creationid="Patriccollu" creationdate="20240627T152652Z">
+        <seg>Git ; Ignurà a richiesta d’infurmazioni d’identificazione : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Global</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170211T172156Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170211T172156Z">
@@ -27943,6 +27951,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T144058Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200621T145850Z">
         <seg>Vole si dì chì u codice di fonte di u prugramma hè dispunibule è chì a licenza d’OmegaT hè cuncepita per cuncede una libertà maiò à l’utilizatori.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option sets the project data saving interval, which also applies to team data synchronization.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152913Z" creationid="Patriccollu" creationdate="20240627T152913Z">
+        <seg>St’ozzione definisce l’intervallu d’arregistramentu di i dati di u prughjettu, ciò chì s’appiecheghja dinù à a sincrunizazione di i dati di a squadra.</seg>
       </tuv>
     </tu>
     <tu>
