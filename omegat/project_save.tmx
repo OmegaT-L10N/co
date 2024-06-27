@@ -14834,6 +14834,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is also possible to install plugins in the application &lt;l0/&gt; folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T184020Z" creationid="Patriccollu" creationdate="20240627T184020Z">
+        <seg>Hè pussibule dinù d’installà i moduli d’estensione in u cartulare &lt;l0/&gt; d’appiecazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is distributed under the terms of the &lt;e0&gt;GNU General Public License, version 3.0&lt;/e0&gt;.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230711T125354Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230711T125354Z">
@@ -23720,16 +23728,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preference for details.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T234915Z">
-        <seg>Lighjite i parametri di &lt;l0/&gt; per sapene di più.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T183302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T234915Z">
+        <seg>Lighjite e preferenze di &lt;l0/&gt; per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>See the &lt;l0/&gt; preferences for details.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T180358Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173200Z">
-        <seg>Lighjite i parametri di &lt;l0/&gt; per sapene di più.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T183302Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T173200Z">
+        <seg>Lighjite e preferenze di &lt;l0/&gt; per sapene di più.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28097,6 +28105,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T234854Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T234854Z">
         <seg>Stu cartulare furnisce un locu alternativu per i moduli d’estensione d’OmegaT installati manualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder provides the standard location for manually installed OmegaT extension plugins.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T183424Z" creationid="Patriccollu" creationdate="20240627T183424Z">
+        <seg>Stu cartulare furnisce u locu classicu per i moduli d’estensione d’OmegaT installati manualmente.</seg>
       </tuv>
     </tu>
     <tu>
