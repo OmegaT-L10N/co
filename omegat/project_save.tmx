@@ -10895,6 +10895,14 @@ Solu 404</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Executing command: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T160116Z" creationid="Patriccollu" creationdate="20240627T160116Z">
+        <seg>Esecuzione di a cumanda : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing external command...</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T110352Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T174032Z">
@@ -16057,6 +16065,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230928T175249Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230928T175249Z">
         <seg>Caricà i schedarii d’origine di u prughjettu : {0} ms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loaded dictionary from '{0}': {1} ms</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T160222Z" creationid="Patriccollu" creationdate="20240627T160222Z">
+        <seg>Dizziunariu caricatu da « {0} » : {1} ms</seg>
       </tuv>
     </tu>
     <tu>
@@ -25038,6 +25054,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T160024Z" creationid="Patriccollu" creationdate="20240627T160024Z">
+        <seg>Lemmatizatore d’origine : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source/translation length (characters)</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T174649Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T174649Z">
@@ -25950,6 +25974,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T181553Z">
         <seg>Termine traduttu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target tokenizer: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T160036Z" creationid="Patriccollu" creationdate="20240627T160036Z">
+        <seg>Lemmatizatore di destinazione : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -32732,6 +32764,14 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
       <tuv lang="co">
         <seg>scunnisciutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>using segmentation rules from {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T155950Z" creationid="Patriccollu" creationdate="20240627T155950Z">
+        <seg>impieghendu e regule di segmentazione da {0}</seg>
       </tuv>
     </tu>
     <tu>
