@@ -7275,6 +7275,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Console alignment mode</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152102Z" creationid="Patriccollu" creationdate="20240627T152102Z">
+        <seg>Modu d’aliniamentu à a cunsola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Console mode names and their options:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T135804Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T135804Z">
@@ -7301,8 +7309,8 @@ Hè ora di beie »</seg>
       <tuv lang="en">
         <seg>Console pseudo-translate mode</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T151914Z" creationid="Patriccollu" creationdate="20240627T151914Z">
-        <seg>Modu di traduzzione à a cunsola</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152024Z" creationid="Patriccollu" creationdate="20240627T151914Z">
+        <seg>Modu di pseudo traduzzione à a cunsola</seg>
       </tuv>
     </tu>
     <tu>
@@ -17782,6 +17790,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T145023Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T190944Z">
         <seg>Nisuna cunnessione dispunibule, u prughjettu si trova in modu « fora di linea ».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No console found.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T152134Z" creationid="Patriccollu" creationdate="20240627T152134Z">
+        <seg>Ùn si trova alcuna cunsola.</seg>
       </tuv>
     </tu>
     <tu>
