@@ -14018,6 +14018,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In macOS, this menu item is found under the &lt;g0&gt;OmegaT&lt;/g0&gt; menu.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T184843Z" creationid="Patriccollu" creationdate="20240627T184843Z">
+        <seg>Cù macOS, st’elementu di listinu si trova in u listinu &lt;g0&gt;OmegaT&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200509T171213Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200509T141549Z">
@@ -19874,6 +19882,14 @@ quella chì cuntene u vostru cartulare di basa.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opens the &lt;l0/&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T184422Z" creationid="Patriccollu" creationdate="20240627T184422Z">
+        <seg>Apre u &lt;l0/&gt; dialogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens this manual in the default browser.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200625T092830Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200625T092830Z">
@@ -20998,8 +21014,8 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
       <tuv lang="en">
         <seg>Preferences...</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240627T175540Z">
-        <seg>Parametri…</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T184352Z">
+        <seg>Preferenze…</seg>
       </tuv>
     </tu>
     <tu>
