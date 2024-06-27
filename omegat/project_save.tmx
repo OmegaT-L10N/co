@@ -28221,6 +28221,14 @@ scaricherà torna u cuntenutu di u prughjettu da u servitore.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This menu gives quick access to a few frequently used preferences.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240627T184346Z" creationid="Patriccollu" creationdate="20240627T184346Z">
+        <seg>Stu listinu dà un accessu prestu à certe preferenze impiegate aspessu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option sets the project data saving interval, which also applies to team data synchronization.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20240627T152913Z" creationid="Patriccollu" creationdate="20240627T152913Z">
