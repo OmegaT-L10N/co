@@ -21266,6 +21266,14 @@ squadra di tipu 4.x.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T144318Z" creationid="Patrick" creationdate="20240627T144309Z">
+        <seg>L’indirizzu web pruvistu hè inaccettevule.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Provider</seg>
       </tuv>
       <tuv lang="co">
@@ -28832,6 +28840,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UI Style</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T145252Z" creationid="Patrick" creationdate="20240627T145252Z">
+        <seg>Stilu d’interfaccia grafica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>UI Style:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T110610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T110610Z">
@@ -28852,6 +28868,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T181716Z">
         <seg>Indirizzu web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T144335Z" creationid="Patrick" creationdate="20240627T144335Z">
+        <seg>Sbagliu d’indirizzu web</seg>
       </tuv>
     </tu>
     <tu>
