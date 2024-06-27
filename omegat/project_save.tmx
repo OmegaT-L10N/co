@@ -6619,6 +6619,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check the permissions of {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T145712Z" creationid="Patrick" creationdate="20240627T145712Z">
+        <seg>Verificate i permessi di {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check the tag issues again.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T134536Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T134536Z">
@@ -8543,6 +8551,14 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165147Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165147Z">
         <seg>Detaglii micca dispunibule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detect a wrong character encoding or wrong character in specified encoding when output to translation file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T150057Z" creationid="Patrick" creationdate="20240627T150057Z">
+        <seg>Scuperta d’una cudificazione gattiva di caratteru o d’un caratteru falsu in a cudificazione specificata</seg>
       </tuv>
     </tu>
     <tu>
@@ -14436,6 +14452,14 @@ double-click on that shortcut.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20191125T184621Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20191125T184621Z">
         <seg>Furmatu di schedariu inaccettevule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid link: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T145622Z" creationid="Patrick" creationdate="20240627T145622Z">
+        <seg>Liame inaccettevule : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24220,6 +24244,14 @@ that points back to itself or one of its subfolders.</seg>
         <seg>Qualchì schedariu d’origine hè statu ignuratu
 perchè u cartulare d’origine specificatu cuntene un liame simbolicu o
 fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipped one or more source files due to an access permission error in the source folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patrick" changedate="20240627T145649Z" creationid="Patrick" creationdate="20240627T145649Z">
+        <seg>Qualchì schedariu d’origine hè statu ignuratu per via d’un sbagliu di permessu d’accessu in u cartulare d’origine.</seg>
       </tuv>
     </tu>
     <tu>
