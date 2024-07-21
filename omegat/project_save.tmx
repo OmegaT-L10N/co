@@ -4827,6 +4827,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternative translation highlight</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T141322Z" creationid="Patriccollu" creationdate="20240721T141322Z">
+        <seg>Sopralineà a traduzzione alternativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200819T143701Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200619T115823Z">
@@ -13050,6 +13058,14 @@ Simu d’inguernu</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230113T113959Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230113T113959Z">
         <seg>Mette in evidenza i segmenti cù &amp;note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Highlight Segments with Alternative Translation</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T140835Z" creationid="Patriccollu" creationdate="20240721T140835Z">
+        <seg>Mette in evidenza i segmenti cù una traduzzione alternativa</seg>
       </tuv>
     </tu>
     <tu>
