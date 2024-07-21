@@ -4605,16 +4605,16 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Aligner highlight</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184317Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184317Z">
-        <seg>Sopralineà l’aliniamentu</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T141902Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184317Z">
+        <seg>Messa in evidenza di l’aliniamentu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Aligner table row highlight</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184328Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184328Z">
-        <seg>Sopralineà una linea di u tavulone d’aliniamentu</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T141936Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184328Z">
+        <seg>Messa in evidenza di l’aliniamentu di linea di tavulone</seg>
       </tuv>
     </tu>
     <tu>
