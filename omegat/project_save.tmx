@@ -7987,8 +7987,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Creating translated files: {0}</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164404Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164404Z">
-        <seg>Creazione di i schedarii tradutti: {0}</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T142403Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T164404Z">
+        <seg>Creazione di i schedarii tradutti : {0}</seg>
       </tuv>
     </tu>
     <tu>
