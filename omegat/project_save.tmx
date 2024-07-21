@@ -7575,8 +7575,8 @@ s’ellu ci hè d’altre cose à fà dopu à a cunversione.</seg>
       <tuv lang="en">
         <seg>Contributions to the code are documented in /docs/contributors.txt.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200416T162840Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162840Z">
-        <seg>E cuntribuzioni à u codice sò ducumentate in /docs/contributors.txt.</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T135712Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200416T162840Z">
+        <seg>E cuntribuzioni à u codice sò documentate in /docs/contributors.txt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25072,8 +25072,8 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       <tuv lang="en">
         <seg>Source file loading complete</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183956Z">
-        <seg>Caricamentu compiu di schedariu d’origine</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T135551Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T183956Z">
+        <seg>Scaricamentu compiu di i schedarii d’origine</seg>
       </tuv>
     </tu>
     <tu>
@@ -26880,6 +26880,14 @@ Pruvate di currege u sbagliu è ricaricate u prughjettu.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221222T150345Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221222T150345Z">
         <seg>I cambiamenti trà a vostra versione è a versione attuale sò ducumentati in u schedariu &lt;a0&gt;changes.txt&lt;/a0&gt; di u situ di sviluppu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes between your version and the current version are documented in the development site’s &lt;u0&gt;changes.txt&lt;/u0&gt; file.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T135807Z" creationid="Patriccollu" creationdate="20240721T135807Z">
+        <seg>[dubbitosu]I cambiamenti trà a vostra versione è a versione attuale sò ducumentati in u schedariu &lt;a0&gt;changes.txt&lt;/a0&gt; di u situ di sviluppu.</seg>
       </tuv>
     </tu>
     <tu>
