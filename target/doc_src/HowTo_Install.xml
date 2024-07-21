@@ -109,9 +109,7 @@
 
 	<para>OmegaT can tell you when a new version is available. Lighjite e preferenze di <link endterm="dialogs.preferences.updates.title" linkend="dialogs.preferences.updates"/> per sapene di più.</para>
 
-	<para>The changes between your version and the current version are
-	documented in the development site’s <ulink url="https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt">changes.txt</ulink>
-	file.</para>
+	<para>I cambiamenti trà a vostra versione è a versione attuale sò ducumentati in u schedariu <ulink url="https://sourceforge.net/p/omegat/code/ci/master/tree/release/changes.txt">changes.txt</ulink> nant’à u situ di sviluppu.</para>
 
 	<note>
 	  <para>S’è vo vulete installà una versione nova, tinite à mente ciò chì seguita :</para>

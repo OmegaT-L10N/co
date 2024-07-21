@@ -132,7 +132,7 @@ A squadra attuale hè :
 - Philippe Tourigny (rispunsevule di a documentazione)
 - Lucie Vecerova (rispunsevule di cumunità Facebook)
 
-E cuntribuzioni à u codice sò ducumentate in /docs/contributors.txt.
+E cuntribuzioni à u codice sò documentate in /docs/contributors.txt.
 
 I precedente cuntribuenti includenu :
 (in ordine alfabeticu)
