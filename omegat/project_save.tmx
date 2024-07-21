@@ -33368,6 +33368,16 @@ di creà u cartulare di cunfigurazione.</seg>
     </tu>
 <!-- Alternative translations -->
     <tu>
+      <prop type="file">5.8/Bundle.properties</prop>
+      <prop type="id">MW_VIEW_MENU_MODIFICATION_INFO_NONE</prop>
+      <tuv lang="en">
+        <seg>&amp;None</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T141344Z" creationid="Patriccollu" creationdate="20240721T141344Z">
+        <seg>&amp;Nisuna</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_EDIT</prop>
       <tuv lang="en">
