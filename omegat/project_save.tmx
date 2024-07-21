@@ -4829,8 +4829,8 @@ U valore attuale hè {0} Mo ;
       <tuv lang="en">
         <seg>Alternative translation highlight</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20240721T141322Z" creationid="Patriccollu" creationdate="20240721T141322Z">
-        <seg>Sopralineà a traduzzione alternativa</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T141952Z" creationid="Patriccollu" creationdate="20240721T141322Z">
+        <seg>Messa in evidenza di e traduzzioni alternative</seg>
       </tuv>
     </tu>
     <tu>
@@ -16583,8 +16583,8 @@ itself on the first run.</seg>
       <tuv lang="en">
         <seg>Machine translate highlight</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T184334Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184334Z">
-        <seg>Sopralineà a traduzzione autumatica</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240721T141944Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T184334Z">
+        <seg>Messa in evidenza di e traduzzioni autumatiche</seg>
       </tuv>
     </tu>
     <tu>
