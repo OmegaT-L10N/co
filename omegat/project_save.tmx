@@ -23354,6 +23354,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save thread interrupted: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240817T191720Z" creationid="Patriccollu" creationdate="20240817T191602Z">
+        <seg>L’arregistramentu di u filu d’esecuzione s’hè interrottu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving and Output</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T205804Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190406T205804Z">
