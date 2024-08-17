@@ -12690,6 +12690,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Got error during autosaving: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240817T191456Z" creationid="Patriccollu" creationdate="20240817T191456Z">
+        <seg>Sbagliu accadutu durante l’arregistramentu autumaticu : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Got unexpected HTTP response {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T184850Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T184604Z">
@@ -16441,6 +16449,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co">
         <seg>Lucalizazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lock trying timeout during autosave</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20240817T191341Z" creationid="Patriccollu" creationdate="20240817T191249Z">
+        <seg>Cumportu d’attesa pruvendu d’ammarchjunà durante l’arregistramentu autumaticu</seg>
       </tuv>
     </tu>
     <tu>
