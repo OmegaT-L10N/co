@@ -33626,6 +33626,16 @@ di creà u cartulare di cunfigurazione.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">6.0/Bundle.properties</prop>
+      <prop type="id">MW_VIEW_MENU_MODIFICATION_INFO</prop>
+      <tuv lang="en">
+        <seg>Display &amp;Modification Info</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183641Z" creationid="Patriccollu" creationdate="20250830T183641Z">
+        <seg>Affissà l’&amp;infurmazioni di mudificazionea</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">Bundle.properties</prop>
       <prop type="id">ALIGNER_MENU_EDIT</prop>
       <tuv lang="en">
