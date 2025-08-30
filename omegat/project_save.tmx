@@ -6283,6 +6283,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change Writable Glossary</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173014Z" creationid="Patriccollu" creationdate="20250830T173014Z">
+        <seg>Cambià u glossariu scrivibile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change date</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T165453Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T165453Z">
@@ -29822,6 +29830,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncaught exception in thread [{0}]</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173343Z" creationid="Patriccollu" creationdate="20250830T173343Z">
+        <seg>Eccezzione micca intercettata in u filu d’esecuzione [{0}]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uncheck the box to disable it.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T140534Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T140534Z">
@@ -32144,6 +32160,14 @@ create the configuration folder.</seg>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221215T112611Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T174051Z">
         <seg>U vostru sistema d’operazione hà nigatu à OmegaT
 di creà u cartulare di cunfigurazione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your operating system refused to let OmegaT create the application data folder.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173126Z" creationid="Patriccollu" creationdate="20250830T173126Z">
+        <seg>U vostru sistema d’operazione hà nigatu à OmegaT di creà u cartulare di dati di l’appiecazione.</seg>
       </tuv>
     </tu>
     <tu>
