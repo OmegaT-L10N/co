@@ -4203,6 +4203,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activate segment with single click.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T172711Z" creationid="Patriccollu" creationdate="20250830T172711Z">
+        <seg>Attivà u segmentu cù un cliccu unicu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T172628Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T132032Z">
@@ -10659,6 +10667,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error when loading project {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T172542Z" creationid="Patriccollu" creationdate="20250830T172542Z">
+        <seg>Sbagliu à u caricamentu di u prughjettu {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while autosaving: {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T130128Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T130128Z">
@@ -11379,6 +11395,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230928T175525Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230928T175525Z">
         <seg>Impussibule d’esemplificà u filtru : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load last changes file</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T172648Z" creationid="Patriccollu" creationdate="20250830T172648Z">
+        <seg>Fiascu per caricà u schedariu di l’ultimi cambiamenti</seg>
       </tuv>
     </tu>
     <tu>
@@ -30788,6 +30812,14 @@ induve si pò circà in l’archivii senza sottuscrizzione :</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20170212T141941Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T141941Z">
         <seg>Validà e vostre etichette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Validating TMX file {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T172607Z" creationid="Patriccollu" creationdate="20250830T172607Z">
+        <seg>Cunvalidazione di u schedariu TMX {0}</seg>
       </tuv>
     </tu>
     <tu>
