@@ -29982,6 +29982,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unexpected caret location detected</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T182455Z" creationid="Patriccollu" creationdate="20250830T182455Z">
+        <seg>Si scopre una pusizione inaspettata di a barra d’inserzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unexpected char {0} ({1})!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115332Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200510T114040Z">
