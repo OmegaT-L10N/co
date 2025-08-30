@@ -10763,6 +10763,30 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error when loading the learned_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184625Z" creationid="Patriccollu" creationdate="20250830T184625Z">
+        <seg>Sbagliu à u caricamentu di u schedariu learned_list.txt : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when writing the ignore_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184641Z" creationid="Patriccollu" creationdate="20250830T184641Z">
+        <seg>Sbagliu à a scrittura di u schedariu ignore_list.txt : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error when writing the learned_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184654Z" creationid="Patriccollu" creationdate="20250830T184654Z">
+        <seg>Sbagliu à a scrittura di u schedariu learned_list.txt : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while autosaving: {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T130128Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T130128Z">
@@ -22208,6 +22232,14 @@ Solu ste parolle</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reference TM</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184816Z" creationid="Patriccollu" creationdate="20250830T184816Z">
+        <seg>E MdT di referenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>References:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z">
@@ -25418,6 +25450,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T182416Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T182416Z">
         <seg>Mudellu di nome di schedariu d’origine :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source files</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184828Z" creationid="Patriccollu" creationdate="20250830T184828Z">
+        <seg>Schedarii d’origine</seg>
       </tuv>
     </tu>
     <tu>
