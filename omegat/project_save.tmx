@@ -25088,16 +25088,16 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       <tuv lang="en">
         <seg>Sort &amp;alphabetically</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175111Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175111Z">
-        <seg>Classificà da l’&amp;ordine alfabeticu</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183133Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175111Z">
+        <seg>Ordinà da l’&amp;ordine alfabeticu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Sort by &amp;full text, not shortcut</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T175524Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175218Z">
-        <seg>Classificà da u testu &amp;sanu, micca da l’accurtatoghju</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183142Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T175218Z">
+        <seg>Ordinà da u testu &amp;sanu, micca da l’accurtatoghju</seg>
       </tuv>
     </tu>
     <tu>
@@ -25112,8 +25112,8 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       <tuv lang="en">
         <seg>Sort by Source Term Length when two or more terms start with the same characters</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20250830T182636Z" creationid="Patriccollu" creationdate="20250830T182636Z">
-        <seg>Classificà da a dimensione di u termine d’origine</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183410Z" creationid="Patriccollu" creationdate="20250830T182636Z">
+        <seg>Ordinà da a dimensione di u termine d’origine quandu duie termini, o più, principianu cù u listessu caratteru</seg>
       </tuv>
     </tu>
     <tu>
@@ -25128,8 +25128,8 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       <tuv lang="en">
         <seg>Sort by len&amp;gth</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200522T174935Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174935Z">
-        <seg>Classificà da a di&amp;mensione</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183121Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T174935Z">
+        <seg>Ordinà da a di&amp;mensione</seg>
       </tuv>
     </tu>
     <tu>
@@ -25160,8 +25160,8 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       <tuv lang="en">
         <seg>Sort tar&amp;get terms alphabetically</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200626T100708Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T173014Z">
-        <seg>Classificà alfa&amp;beticamente i termini di destinazione</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183047Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200522T173014Z">
+        <seg>Ordinà alfa&amp;beticamente i termini di destinazione</seg>
       </tuv>
     </tu>
     <tu>
