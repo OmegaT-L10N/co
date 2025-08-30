@@ -4195,6 +4195,14 @@ U valore attuale hè {0} Mo ;
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to {0} is forbidden.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T174800Z" creationid="Patriccollu" creationdate="20250830T174800Z">
+        <seg>L’accessu à {0} hè difesu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Actions &amp; Settings</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20240627T181150Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T153940Z">
@@ -5395,6 +5403,14 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20150516T172859Z">
         <seg>Autenticazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Authentication error when trying to access {0}.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T181227Z" creationid="Patriccollu" creationdate="20250830T181227Z">
+        <seg>Sbagliu d’au</seg>
       </tuv>
     </tu>
     <tu>
@@ -11379,6 +11395,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T160218Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221113T160218Z">
         <seg>Impussibule di cupià i schedarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create .repositories subdirectory for team project: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T174642Z" creationid="Patriccollu" creationdate="20250830T174642Z">
+        <seg>Impussibule di creà u sottucartulare .repositories per u prughjettu di squadra : {0}</seg>
       </tuv>
     </tu>
     <tu>
