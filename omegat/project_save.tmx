@@ -5409,8 +5409,8 @@ andamentu inaspettatu, ma currettu quantunque.</seg>
       <tuv lang="en">
         <seg>Authentication error when trying to access {0}.</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu" changedate="20250830T181227Z" creationid="Patriccollu" creationdate="20250830T181227Z">
-        <seg>Sbagliu d’au</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T181326Z" creationid="Patriccollu" creationdate="20250830T181227Z">
+        <seg>Sbagliu d’autenticazione pruvendu d’accede à {0}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12234,6 +12234,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From MT memory</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T181541Z" creationid="Patriccollu" creationdate="20250830T181541Z">
+        <seg>Da a memoria MT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From auto memory</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20171203T161257Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171203T161257Z">
@@ -12926,6 +12934,14 @@ provided (omegat.kaptn).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190406T174220Z" creationid="Patriccollu" creationdate="20170209T153543Z">
         <seg>HTMLParser 1.6 da Somik Raha, Derrick Oswald è d’altri (Licenza LGPL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTTP connection {1} responded with code: {2}.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T181448Z" creationid="Patriccollu" creationdate="20250830T181448Z">
+        <seg>A cunnessione HTTP {1} hà rispostu cù u codice : {2}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18192,6 +18208,14 @@ as the Applications folder.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20240627T152134Z" creationid="Patriccollu" creationdate="20240627T152134Z">
         <seg>Ùn si trova alcuna cunsola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No content found at {0}.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T181403Z" creationid="Patriccollu" creationdate="20250830T181403Z">
+        <seg>Ùn si trova alcunu cuntenutu à {0}.</seg>
       </tuv>
     </tu>
     <tu>
