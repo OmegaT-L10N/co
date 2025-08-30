@@ -6307,6 +6307,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184325Z" creationid="Patriccollu" creationdate="20250830T184325Z">
+        <seg>Categuria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
       </tuv>
       <tuv lang="co" changeid="Patrick" changedate="20240627T143957Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T103206Z">
@@ -10747,6 +10755,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error when loading the ignore_list.txt file: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184605Z" creationid="Patriccollu" creationdate="20250830T184605Z">
+        <seg>Sbagliu à u caricamentu di u schedariu ignore_list.txt : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while autosaving: {0}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230823T130128Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230823T130128Z">
@@ -11363,6 +11379,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T144518Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T144518Z">
         <seg>Gruppu Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to access the spelling dictionary {0} with a reason {1}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184520Z" creationid="Patriccollu" creationdate="20250830T184520Z">
+        <seg>Fiascu per accede à u dizziunariu ortugraficu {0} cù a ragione {1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -21132,6 +21156,14 @@ apprupositu di i cambiamenti di sta versione è tutte e precedente.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugin is successfully installed.</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184405Z" creationid="Patriccollu" creationdate="20250830T184405Z">
+        <seg>U modulu d’estensione hè installatu currettamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Plugin successfully loaded from class '{0}'</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200511T161808Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200506T184855Z">
@@ -24814,6 +24846,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show bundled plugins</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184313Z" creationid="Patriccollu" creationdate="20250830T184313Z">
+        <seg>Affissà i moduli d’estensione impacchittati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show matches assembled from multiple segments</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20250830T172955Z" creationid="Patriccollu" creationdate="20250830T172955Z">
@@ -25846,6 +25886,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu" changedate="20240627T152936Z" creationid="Patriccollu" creationdate="20240627T152936Z">
         <seg>Furmati d’esciuta di e statistiche</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184319Z" creationid="Patriccollu" creationdate="20250830T184319Z">
+        <seg>Statu</seg>
       </tuv>
     </tu>
     <tu>
