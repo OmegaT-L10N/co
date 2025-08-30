@@ -10907,6 +10907,14 @@ Screnu turchinu</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception when validating tags on leave</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173455Z" creationid="Patriccollu" creationdate="20250830T173455Z">
+        <seg>Eccezzione durante a cunvalidazione d’etichette à l’esce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exception while editing options:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T171100Z">
@@ -21624,6 +21632,14 @@ squadra di tipu 4.x.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T140612Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190718T140612Z">
         <seg>Fine di u caricamentu di u prughjettu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project loading error: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173617Z" creationid="Patriccollu" creationdate="20250830T173617Z">
+        <seg>Sbagliu à u caricamentu di u prughjettu : {0}</seg>
       </tuv>
     </tu>
     <tu>
