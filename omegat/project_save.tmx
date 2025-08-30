@@ -25110,6 +25110,14 @@ fisicu chì punta versu ellu stessu o versu unu di i so sottucartulari. </seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sort by Source Term Length when two or more terms start with the same characters</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T182636Z" creationid="Patriccollu" creationdate="20250830T182636Z">
+        <seg>Classificà da a dimensione di u termine d’origine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sort by Target Term Length</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221206T183057Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221206T183057Z">
