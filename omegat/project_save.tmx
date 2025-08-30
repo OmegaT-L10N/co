@@ -1072,8 +1072,8 @@
       <tuv lang="en">
         <seg>&amp;None</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221114T163610Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163552Z">
-        <seg>&amp;Nisunu</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183707Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221114T163552Z">
+        <seg>&amp;Nisuna</seg>
       </tuv>
     </tu>
     <tu>
@@ -5659,6 +5659,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Base plugin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183943Z" creationid="Patriccollu" creationdate="20250830T183943Z">
+        <seg>Modulu d’estensione di basa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Based on your choices, we recommand you use:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200604T113125Z">
@@ -5927,6 +5935,14 @@ Hè ora di beie »</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200525T144303Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200525T144041Z">
         <seg>I prublemi, e dumande di nove funzioni, è i penseri di documentazione sò accolti ind’è Sourceforge da sti sistemi di cura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bundled</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183838Z" creationid="Patriccollu" creationdate="20250830T183838Z">
+        <seg>Impacchittatu</seg>
       </tuv>
     </tu>
     <tu>
@@ -11275,6 +11291,14 @@ Solu 404</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20220201T115700Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20220201T115700Z">
         <seg>U prugramma esternu hè fiascatu ({1}) : {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ExternalFinder: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183811Z" creationid="Patriccollu" creationdate="20250830T183805Z">
+        <seg>ExternalFinder : {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -24758,6 +24782,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show plugin details</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183828Z" creationid="Patriccollu" creationdate="20250830T183828Z">
+        <seg>Affissà i detaglii di u modulu d’estensione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Signed/Unsigned</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T144126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T144126Z">
@@ -29774,6 +29806,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Udate available</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183913Z" creationid="Patriccollu" creationdate="20250830T183913Z">
+        <seg>Nova versione dispunibule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to build new TMX file!</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221113T164543Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20181024T184344Z">
@@ -30018,6 +30058,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221221T152405Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221221T152405Z">
         <seg>Accetteghja Unicode : adopru pussibule cù parechji santacroci è scenarii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uninstalled</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T183933Z" creationid="Patriccollu" creationdate="20250830T183933Z">
+        <seg>Uninstallatu</seg>
       </tuv>
     </tu>
     <tu>
