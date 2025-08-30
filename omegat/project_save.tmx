@@ -14914,6 +14914,14 @@ double-click on that shortcut.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Internal match</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184945Z" creationid="Patriccollu" creationdate="20250830T184945Z">
+        <seg>Currispundenza interna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Introduction to OmegaT (2.5.0).</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200530T103730Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200530T103730Z">
@@ -17489,6 +17497,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221115T142301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221115T142301Z">
         <seg>&amp;Fusione di e definizioni alternative per u listessu termine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Merged segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T185019Z" creationid="Patriccollu" creationdate="20250830T185019Z">
+        <seg>Segmenti uniti</seg>
       </tuv>
     </tu>
     <tu>
