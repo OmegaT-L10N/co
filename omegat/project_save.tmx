@@ -12706,6 +12706,14 @@ provided (omegat.kaptn).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary plugin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184111Z" creationid="Patriccollu" creationdate="20250830T184111Z">
+        <seg>Modulu d’estensione di glossariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary source</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T155339Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T155339Z">
@@ -15699,6 +15707,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184244Z" creationid="Patriccollu" creationdate="20250830T184244Z">
+        <seg>Lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language Checker</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T133859Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20171202T192153Z">
@@ -16749,6 +16765,14 @@ itself on the first run.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translation connector</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184238Z" creationid="Patriccollu" creationdate="20250830T184238Z">
+        <seg>Cunnettore di traduzzione autumatica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translations</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20230208T144947Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20230208T144947Z">
@@ -17041,6 +17065,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210503T154943Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210503T154943Z">
         <seg>Marcà e parolle scunnisciute</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Marker plugin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184105Z" creationid="Patriccollu" creationdate="20250830T184105Z">
+        <seg>Modulu d’estensione di marcatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -17529,6 +17561,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu" creationdate="20170209T154118Z">
         <seg>Minuti :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Misc plugin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184056Z" creationid="Patriccollu" creationdate="20250830T184056Z">
+        <seg>Modulu d’estensione diversu</seg>
       </tuv>
     </tu>
     <tu>
@@ -28043,6 +28083,14 @@ in /lib/licenses/Licenses.txt.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Theme plugin</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184046Z" creationid="Patriccollu" creationdate="20250830T184046Z">
+        <seg>Modulu d’estensione di tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Theme:</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20210619T183326Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20210619T183326Z">
@@ -29070,6 +29118,14 @@ linux-install.sh script, and execute the script with ./linux-install.sh.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T144845Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T144845Z">
         <seg>Invertisce a selezzione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tokenizer</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184119Z" creationid="Patriccollu" creationdate="20250830T184119Z">
+        <seg>Lemmatizatore</seg>
       </tuv>
     </tu>
     <tu>
@@ -30194,6 +30250,14 @@ E ricerche esatte currispondenu à a catena sana di ricerca.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20201221T115312Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170212T193234Z">
         <seg>Unicu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T184250Z" creationid="Patriccollu" creationdate="20250830T184250Z">
+        <seg>Scunnisciutu</seg>
       </tuv>
     </tu>
     <tu>
