@@ -24622,6 +24622,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show matches assembled from multiple segments</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T172955Z" creationid="Patriccollu" creationdate="20250830T172955Z">
+        <seg>Affissà e currispundenze adunite da parechji segmenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Signed/Unsigned</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200618T144126Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200618T144126Z">
@@ -31217,6 +31225,14 @@ of selecting, obtaining and installing it.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200513T142301Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200513T142301Z">
         <seg>S’ellu ùn hè micca, ID serà impiegatu cum’è sustitutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using paragraph segmentation:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T172750Z" creationid="Patriccollu" creationdate="20250830T172750Z">
+        <seg>Quandu s’impiega a segmentazione di paragrafu :</seg>
       </tuv>
     </tu>
     <tu>
