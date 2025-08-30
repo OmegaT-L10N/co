@@ -8445,6 +8445,14 @@ Versione nova : {2}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom Spelling Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173821Z" creationid="Patriccollu" creationdate="20250830T173821Z">
+        <seg>Cartulare persunalizatu di i schedarii di dizziunariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom branch</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20221002T163502Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20221002T163502Z">
@@ -8457,6 +8465,14 @@ Versione nova : {2}</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200523T182752Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200523T182752Z">
         <seg>URL di u servitore persunalizatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom spell checking dictionaries location:</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173714Z" creationid="Patriccollu" creationdate="20250830T173714Z">
+        <seg>Lucalizazione persunalizata di i dizziunarii di cuntrollu ortugraficu :</seg>
       </tuv>
     </tu>
     <tu>
@@ -8839,8 +8855,8 @@ Versione nova : {2}</seg>
       <tuv lang="en">
         <seg>Dictionary Files Folder</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190718T165049Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160519Z">
-        <seg>Cartulare di schedarii di dizziunariu</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173849Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20170508T160519Z">
+        <seg>Cartulare di i schedarii di dizziunariu</seg>
       </tuv>
     </tu>
     <tu>
@@ -15743,6 +15759,14 @@ itself on the first run.</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200520T161554Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200520T161527Z">
         <seg>Servitore LanguageTool piantatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool server: {0}</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T173930Z" creationid="Patriccollu" creationdate="20250830T173930Z">
+        <seg>Servitore LanguageTool : {0}</seg>
       </tuv>
     </tu>
     <tu>
