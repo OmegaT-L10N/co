@@ -5763,6 +5763,14 @@ Hè ora di beie »</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break</seg>
+      </tuv>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T161604Z" creationid="Patriccollu" creationdate="20250830T161604Z">
+        <seg>Segmentazione</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20200514T172006Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20200514T172006Z">
@@ -9223,8 +9231,8 @@ Versione nova : {2}</seg>
       <tuv lang="en">
         <seg>Distance</seg>
       </tuv>
-      <tuv lang="co" changeid="Patriccollu di Santa Maria è Sichè" changedate="20190719T111901Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190719T111901Z">
-        <seg>Distenza</seg>
+      <tuv lang="co" changeid="Patriccollu" changedate="20250830T161629Z" creationid="Patriccollu di Santa Maria è Sichè" creationdate="20190719T111901Z">
+        <seg>Distanza</seg>
       </tuv>
     </tu>
     <tu>
