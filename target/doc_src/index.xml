@@ -2728,7 +2728,7 @@ config-dir=&quot;path/to/new/configdir&quot;</programlisting>
     </varlistentry>
 
     <varlistentry>
-      <term>Source files</term>
+      <term>Schedarii d’origine</term>
 
       <listitem>
         <warning>
@@ -10572,7 +10572,7 @@ ${filePath}&gt;</programlisting></para>
 		<colspec align="left" colnum="5"/>
 		<thead>
           <row>
-			<entry>Category</entry>
+			<entry>Categuria</entry>
 			<entry>Intention</entry>
 			<entry align="center">Before</entry>
 			<entry align="center">After</entry>
